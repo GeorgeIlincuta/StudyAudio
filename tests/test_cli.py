@@ -138,3 +138,24 @@ def test_second_build_reuses_the_cache(tmp_path, stub_engine, capsys):
 
     assert stub_engine.calls == []
     assert "0 new" in capsys.readouterr().out
+
+
+@pytest.mark.parametrize(
+    ("name", "expected"),
+    [("phase1_guide_de.txt", "Leitfaden"), ("story_grundlagen_phase1_de.txt", "Geschichte"),
+     ("Story_X_en.txt", "Geschichte"), ("my_story_de.txt", "Leitfaden")],
+)
+def test_guide_genre_from_the_file_name(name, expected):
+    from pathlib import Path
+
+    assert cli.guide_genre(Path(name)) == expected
+
+
+def test_build_writes_the_genre(tmp_path):
+    guide = tmp_path / "guide.mp3"
+    run(write(tmp_path, "guide_de.txt", GUIDE_DE), tmp_path, "-o", str(guide))
+    assert ID3(guide)["TCON"].text == ["Leitfaden"]
+
+    story = tmp_path / "story.mp3"
+    run(write(tmp_path, "story_labor_de.txt", GUIDE_DE), tmp_path, "-o", str(story))
+    assert ID3(story)["TCON"].text == ["Geschichte"]

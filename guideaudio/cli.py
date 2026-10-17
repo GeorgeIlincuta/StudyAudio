@@ -95,6 +95,15 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
+GUIDE_GENRE = "Leitfaden"
+STORY_GENRE = "Geschichte"
+
+
+def guide_genre(path: Path) -> str:
+    """The player's file type, written as the ID3 genre: "story_..." inputs are stories, everything else a guide."""
+    return STORY_GENRE if Path(path).name.lower().startswith("story_") else GUIDE_GENRE
+
+
 def detect_language(path: Path) -> str | None:
     """"guide_en.txt" -> "en", "guide_de.txt" -> "de", anything else -> None."""
     suffix = Path(path).stem.lower().rsplit("_", 1)[-1]
@@ -172,6 +181,7 @@ def main(argv: list[str] | None = None) -> int:
     timeline = text_timeline(blocks, language, voice, TextPauseConfig())
     marks = text_marks(blocks)
     lines = text_lines(blocks)
+    genre = guide_genre(args.input)
 
     # A preview gets its own default name, so it never replaces the full track.
     default_name = f"{args.input.stem}_preview.mp3" if args.limit is not None else f"{args.input.stem}.mp3"
@@ -184,7 +194,7 @@ def main(argv: list[str] | None = None) -> int:
         engine_id, sample_rate = engine_identity()
         try:
             chapters_written, lines_written = retag_file(
-                output, title, timeline, marks, lines, args.cache_dir, engine_id, sample_rate, language
+                output, title, timeline, marks, lines, args.cache_dir, engine_id, sample_rate, language, genre
             )
         except RetagError as error:
             print(f"retag failed: {error}", file=sys.stderr)
@@ -192,7 +202,7 @@ def main(argv: list[str] | None = None) -> int:
         except (OSError, wave.Error) as error:
             print(f"retag failed: {error} — nothing changed", file=sys.stderr)
             return 1
-        print(f"retagged {output}: title {title!r}, {chapters_written} chapters, {lines_written} text lines")
+        print(f"retagged {output}: title {title!r}, genre {genre}, {chapters_written} chapters, {lines_written} text lines")
         return 0
 
     engine = build_engine()
@@ -243,11 +253,11 @@ def main(argv: list[str] | None = None) -> int:
     try:
         starts, total = item_starts(timeline, args.cache_dir, engine.engine_id, engine.sample_rate)
         chapters = [Chapter(marks[i], starts[i]) for i in sorted(marks)]
-        write_tags(output, title, chapters, total, engine.sample_rate, language, line_positions(starts, lines))
+        write_tags(output, title, chapters, total, engine.sample_rate, language, line_positions(starts, lines), genre=genre)
     except (OSError, wave.Error) as error:
         print(f"track written, but adding the title and chapters failed: {error}", file=sys.stderr)
         return 1
-    print(f"  title {title!r}, {len(chapters)} chapters, {len(lines)} text lines")
+    print(f"  title {title!r}, genre {genre}, {len(chapters)} chapters, {len(lines)} text lines")
 
     size_mb = output.stat().st_size / 1_000_000
     print(f"done: {output} ({size_mb:.1f} MB)")

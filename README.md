@@ -51,6 +51,9 @@ highlighted: one ID3 `SYLT` frame (UTF-16, `deu` or `eng`, millisecond timestamp
 spoken sentence — the sentence as written, a leading line break on the first sentence of each paragraph, and
 `# Title — Subtitle` for headings (at the same time as their `CHAP`).
 
+Each build also writes the genre (`TCON`): `Leitfaden`, or `Geschichte` for an input named `story_*.txt`. The
+Hörplayer picks the file's icon from it. `--retag` writes it too.
+
 To add or refresh the title, chapters and text of an existing MP3 without re-synthesizing (the audio stays
 byte-for-byte the same; it refuses and changes nothing if a clip is missing from the cache or the text no longer
 matches the audio):

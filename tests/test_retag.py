@@ -26,6 +26,7 @@ def built(tmp_path, monkeypatch, fake_engine):
     assert cli.main([str(guide), "-o", str(out), "--cache-dir", str(cache)]) == 0
     tags = ID3(out)
     tags.delall("SYLT")
+    tags.delall("TCON")
     tags.save(out, v2_version=3)
     return guide, out, cache
 
@@ -98,3 +99,14 @@ def test_engine_identity_is_the_paced_id_without_loading_the_model(monkeypatch):
     engine_id, rate = cli.engine_identity()
     assert engine_id.startswith("supertonic-3+pace")
     assert rate > 0
+
+
+def test_retag_adds_the_genre_and_keeps_the_audio(built):
+    guide, out, cache = built
+    before = audio_digest(out)
+    assert ID3(out).getall("TCON") == []
+
+    assert retag(guide, out, cache) == 0
+
+    assert ID3(out)["TCON"].text == ["Leitfaden"]
+    assert audio_digest(out) == before
