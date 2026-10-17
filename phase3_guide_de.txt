@@ -1,0 +1,1069 @@
+Das diagnostische Labor: Biochemie, Mikrobiologie, Immunologie, Genetik und Labormathematik.
+
+# Hinweise zum Leitfaden — Using this guide
+
+Dies ist der dritte Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Der erste Leitfaden hat die Grundlagen gelegt: Atome, Bindungen, das Mol, Konzentrationen, die Zelle und die Verdünnung. Der zweite Leitfaden hat darauf aufgebaut, mit Säuren und Basen, organischer Chemie, den Organsystemen und der Laborphysik. Dieser dritte Leitfaden ist der praktischste. Er handelt davon, was in einem diagnostischen Labor wirklich passiert.
+
+Der Leitfaden hat fünf Teile. Teil eins ist die klinische Chemie und Biochemie: Enzyme, Stoffwechsel, Bluteiweiße, Lipide, Hormone und die Methoden in den großen Analysegeräten. Teil zwei ist die Mikrobiologie: Bakterien, Viren, Pilze und Parasiten, wie man sie anzüchtet und bestimmt, und wie man sauber und sicher arbeitet. Teil drei behandelt die Immunologie und die Blutgruppen, bis hin zur Kreuzprobe vor einer Transfusion. Teil vier ist die Genetik, von Mendel bis zur P C R. Teil fünf ist die Labormathematik: Kalibrationskurven und die Statistik hinter Qualitätskontrolle und Referenzbereichen.
+
+Wie bisher gibt es keine Formeln und keine Symbole, denn dies ist ein Hörtext. Jede Zahl wird vollständig ausgesprochen, und jede Formel wird in Worten beschrieben.
+
+Jedes Kapitel erklärt eine Idee. Dann zeigt es, warum sie im Labor wichtig ist. Am Ende steht eine kurze Zusammenfassung, die mit den Worten »Kurz gesagt« beginnt. Wenn du nur wenige Minuten Zeit hast, eignen sich die Zusammenfassungen gut zur Wiederholung.
+
+Dieser Leitfaden setzt die ersten beiden voraus. Begriffe wie Enzym, Protein, Photometrie, Plasma und Serum kommen ständig vor. Wenn dir einer davon unklar ist, hör dir das passende Kapitel der früheren Leitfäden noch einmal an.
+
+Wir beginnen mit den Arbeitern der Zelle, die gleichzeitig zu den am häufigsten gemessenen Stoffen im ganzen Labor gehören: den Enzymen.
+
+# Teil eins: Biochemie — Part one: Biochemistry
+
+Die klinische Chemie ist in den meisten Krankenhauslaboren die größte Abteilung. Jeden Tag misst sie tausende Werte aus Blut und Urin: Enzyme, Glucose, Proteine, Fette, Elektrolyte, Hormone und vieles mehr. Der größte Teil dieser Arbeit läuft auf großen automatischen Analysegeräten. Aber die Geräte können nur das, was die Chemie erlaubt. Um ein Ergebnis zu verstehen und um zu bemerken, wenn ein Ergebnis falsch ist, musst du die Chemie dahinter verstehen.
+
+Wir gehen Schritt für Schritt vor. Zuerst kommen die Enzyme: wie sie arbeiten, wie schnell sie arbeiten, und warum wir Leber- und Muskelenzyme messen. Dann der Stoffwechsel, mit der Glykolyse, dem Citratzyklus und dem Blutzucker. Dann die Proteine des Blutes. Dann Lipide und Lipoproteine. Dann die Hormone und die Immunoassays, mit denen man sie misst. Und zum Schluss die drei großen Methoden in den Analysegeräten: Photometrie, Elektrophorese und Chromatographie.
+
+# Was Enzyme sind — What enzymes are
+
+Ein Enzym ist ein Protein, das eine chemische Reaktion beschleunigt, ohne dabei verbraucht zu werden. In der Chemie nennt man einen solchen Helfer einen Katalysator. Enzyme sind die Katalysatoren des Lebens. Fast jede Reaktion in deinem Körper, von der Verdauung des Brotes bis zum Kopieren der D N A, wird von einem Enzym gesteuert.
+
+Warum brauchen Reaktionen Hilfe? Die meisten Reaktionen müssen erst einen Berg überwinden, bevor sie ablaufen können. Diesen Berg nennt man die Aktivierungsenergie. Stell dir vor, du schiebst einen schweren Wagen über eine Schwelle. Ohne Hilfe haben nur wenige Moleküle genug Energie für diese Schwelle, also läuft die Reaktion sehr langsam. Ein Enzym macht die Schwelle niedriger. Dann kommen viel mehr Moleküle darüber, und die Reaktion läuft millionenfach schneller. Das Enzym verändert nicht, wo die Reaktion am Ende ankommt. Es verändert nur, wie schnell sie dort ankommt.
+
+Den Stoff, an dem ein Enzym arbeitet, nennt man sein Substrat. Das Enzym hat auf seiner Oberfläche eine kleine Tasche, das aktive Zentrum. Das Substrat passt in diese Tasche, ähnlich wie ein Schlüssel in ein Schloss. Man spricht deshalb vom Schlüssel-Schloss-Prinzip. In der Tasche wird das Substrat so verformt, dass es leicht reagiert. Dann verlässt das Produkt die Tasche, und das Enzym ist frei für das nächste Substratmolekül. Ein einziges Enzymmolekül schafft tausende Substratmoleküle pro Sekunde.
+
+Weil die Tasche eine genaue Form hat, sind die meisten Enzyme sehr spezifisch. Sie arbeiten nur an einem Substrat oder an einer kleinen Gruppe ähnlicher Stoffe. Genau diese Spezifität macht Enzyme im Labor zu so nützlichen Werkzeugen.
+
+Viele Enzyme brauchen ein kleines Hilfsmolekül, um zu arbeiten. Diese Helfer heißen Coenzyme. Ein wichtiges Coenzym ist N A D, das Wasserstoff und Elektronen von einer Reaktion zur nächsten trägt. Seine beladene Form heißt N A D H. Merk dir diesen Namen, denn N A D H kommt in diesem Leitfaden noch mehrmals vor.
+
+Enzyme sind Proteine und daher empfindlich. Jedes Enzym hat eine ideale Temperatur und einen idealen pH-Wert. Im menschlichen Körper liegt die ideale Temperatur bei etwa siebenunddreißig Grad Celsius. Wird es zu heiß, entfaltet sich das Protein, die Tasche verliert ihre Form, und das Enzym hört für immer auf zu arbeiten. Man nennt das Denaturierung. Auch starke Säuren, Basen und Schwermetalle können Enzyme zerstören.
+
+Die Namen von Enzymen enden meistens auf »ase«. Der erste Teil des Namens nennt oft das Substrat oder die Aufgabe. Die Lipase spaltet Lipide. Die Amylase spaltet Stärke. Eine Dehydrogenase entfernt Wasserstoff. Eine Transferase überträgt eine chemische Gruppe von einem Molekül auf ein anderes.
+
+Warum ist das im Labor wichtig? Enzyme spielen im Labor zwei verschiedene Rollen. Erstens sind sie Messgrößen beim Patienten: Wenn Zellen geschädigt werden, gelangen ihre Enzyme ins Blut, und wir messen sie. Zweitens sind sie Werkzeuge: Viele Tests verwenden gereinigte Enzyme als Reagenzien, zum Beispiel für die Messung von Glucose oder Cholesterin. In beiden Fällen muss die Probe sorgfältig behandelt werden. Hitze, lange Lagerung oder wiederholtes Einfrieren und Auftauen können Enzyme schädigen, und dann ist das Ergebnis falsch niedrig.
+
+Kurz gesagt: Enzyme sind Biokatalysatoren aus Protein, die Reaktionen beschleunigen, indem sie die Aktivierungsenergie senken. Jedes Enzym hat ein aktives Zentrum, in das ein bestimmtes Substrat passt. Temperatur und pH-Wert müssen stimmen, sonst verliert das Enzym seine Form und hört auf zu arbeiten.
+
+# Die Enzymkinetik — Enzyme kinetics
+
+Die Kinetik ist die Lehre von der Reaktionsgeschwindigkeit. Die Enzymkinetik stellt eine einfache Frage: Wie schnell arbeitet ein Enzym, und wovon hängt diese Geschwindigkeit ab?
+
+Stell dir eine kleine Postfiliale mit einem einzigen Schalter vor. Die Person am Schalter ist das Enzym, die Kunden sind die Substratmoleküle. Wenn nur alle paar Minuten ein Kunde kommt, wartet die Person meistens. Kommen mehr Kunden, werden pro Stunde mehr Menschen bedient. Bei niedrigen Substratkonzentrationen steigt die Reaktionsgeschwindigkeit also mit der Menge an Substrat.
+
+Aber auch am Schalter gibt es eine Grenze. Wenn ständig eine Schlange da ist, hilft es nichts, noch mehr Kunden zu schicken. Der Schalter arbeitet bereits so schnell wie möglich. Das Enzym ist jetzt gesättigt, und die Reaktion hat ihre maximale Geschwindigkeit erreicht. Diese Höchstgeschwindigkeit nennt man V max, kurz für maximale Geschwindigkeit.
+
+Wenn du die Geschwindigkeit gegen die Substratkonzentration aufträgst, erhältst du eine Kurve, die zuerst steil ansteigt und dann abflacht, bis sie sich dem Maximum nähert. Diese Kurve ist nach zwei Forschern benannt, Leonor Michaelis und Maud Menten. Sie heißt Michaelis-Menten-Kurve.
+
+Auf dieser Kurve gibt es eine nützliche Zahl. Es ist die Substratkonzentration, bei der das Enzym genau mit der Hälfte seiner Höchstgeschwindigkeit arbeitet. Diese Zahl heißt Michaelis-Konstante, geschrieben K m. Ein kleiner K m-Wert bedeutet, dass das Enzym sein Substrat leicht bindet, schon bei niedrigen Konzentrationen. Ein großer K m-Wert bedeutet, dass das Enzym viel Substrat braucht, bevor es richtig in Gang kommt.
+
+Nun der wichtigste Punkt für das Labor. Wenn das Substrat in großem Überschuss vorliegt, ist das Enzym gesättigt. Dann hängt die Geschwindigkeit nicht mehr vom Substrat ab, sondern nur noch davon, wie viel Enzym vorhanden ist. Doppelt so viel Enzym ergibt doppelte Geschwindigkeit. Zurück in der Postfiliale: Wenn immer eine lange Schlange da ist, bedienen zwei Schalter doppelt so viele Kunden wie einer.
+
+Die Geschwindigkeit hängt außerdem von Temperatur und pH-Wert ab, wie wir gesehen haben. Und sie hängt von Hemmstoffen ab, den Inhibitoren. Ein Inhibitor ist ein Stoff, der ein Enzym bremst. Manche Inhibitoren konkurrieren mit dem Substrat um die Tasche. Das nennt man kompetitive Hemmung. Andere binden an einer anderen Stelle und verändern die Form des Enzyms. Viele Medikamente wirken als Enzymhemmer. Und manche Stoffe in einer Probe, zum Beispiel bestimmte Gerinnungshemmer, können Enzyme hemmen und einen Test stören.
+
+Warum ist das im Labor wichtig? Wenn wir die Aktivität eines Enzyms im Serum messen, soll das Ergebnis zeigen, wie viel Enzym vorhanden ist. Deshalb enthält das Testreagenz das Substrat in großem Überschuss. Dann ist das Enzym gesättigt, und die Reaktionsgeschwindigkeit ist direkt proportional zur Enzymmenge. Aus diesem Grund laufen Enzymtests bei einer festen Temperatur, meist siebenunddreißig Grad Celsius, und bei einem festen pH-Wert. Ändert man eines davon, ändert sich auch das Ergebnis.
+
+Kurz gesagt: Bei wenig Substrat arbeitet ein Enzym schneller, wenn mehr Substrat dazukommt. Bei viel Substrat ist es gesättigt und arbeitet mit Höchstgeschwindigkeit. In Labortests liegt das Substrat im Überschuss vor, daher zeigt die gemessene Geschwindigkeit die Menge an Enzym.
+
+# Die Enzymaktivität messen — Measuring enzyme activity
+
+Enzyme kommen im Blut nur in winzigen Mengen vor. Sie zu wiegen wäre fast unmöglich. Deshalb messen wir nicht, wie viel Enzymprotein da ist, sondern was das Enzym tut. Wir messen seine Aktivität.
+
+Aktivität bedeutet: Wie viel Substrat setzt das Enzym pro Minute um? Die klassische Einheit heißt einfach Unit. Eine Unit ist die Enzymmenge, die unter festgelegten Bedingungen ein Mikromol Substrat pro Minute umsetzt. Enzymwerte werden in Units pro Liter Serum angegeben. Die offizielle S I-Einheit ist das Katal, also ein Mol pro Sekunde. Im Laboralltag siehst du aber meistens Units pro Liter.
+
+Wie sehen wir die Reaktion? Die meisten Enzymtests nutzen die Photometrie, die du aus dem zweiten Leitfaden kennst. Hier ist das Coenzym N A D H sehr praktisch. N A D H absorbiert ultraviolettes Licht mit einer Wellenlänge von dreihundertvierzig Nanometern. Sein Partner ohne Wasserstoff, N A D, tut das nicht. Wenn eine Reaktion also N A D H verbraucht, sinkt die Extinktion bei dreihundertvierzig Nanometern. Wenn eine Reaktion N A D H bildet, steigt sie.
+
+Oft verwendet das Enzym, das wir messen wollen, selbst kein N A D H. Dann enthält der Test ein zweites Enzym, das sogenannte Indikatorenzym, das es verwendet. Die erste Reaktion bildet ein Produkt. Die zweite Reaktion verbraucht dieses Produkt und gleichzeitig N A D H. Die beiden Reaktionen greifen ineinander wie zwei Zahnräder. Man nennt das einen gekoppelten enzymatischen Test, oder einen optischen Test nach Warburg.
+
+Die Messung ist kinetisch. Das bedeutet, das Gerät liest nicht nur einmal am Ende ab. Es misst die Extinktion immer wieder, zum Beispiel alle paar Sekunden über zwei oder drei Minuten. Dann berechnet es, wie schnell sich die Extinktion pro Minute ändert. Mit einem bekannten Faktor wird diese Änderung pro Minute in Units pro Liter umgerechnet.
+
+Eine kinetische Messung braucht eine gerade Linie. Solange das Substrat im Überschuss vorliegt, fällt die Extinktion gleichmäßig. Enthält eine Probe aber riesige Mengen Enzym, ist das Substrat sehr schnell verbraucht. Die Linie flacht ab, und das Gerät würde ein falsch niedriges Ergebnis berechnen. Moderne Geräte prüfen das. Sie markieren das Ergebnis als Substraterschöpfung, und die Probe wird verdünnt und neu gemessen.
+
+Warum ist das im Labor wichtig? Enzymergebnisse hängen stark von der Methode ab. In Europa folgen die meisten Labore den Referenzmethoden der Internationalen Föderation für Klinische Chemie, gemessen bei siebenunddreißig Grad Celsius. Trotzdem können sich die Referenzbereiche zwischen Laboren und Geräten unterscheiden. Vergleiche ein Enzymergebnis deshalb immer mit dem Referenzbereich auf demselben Befund. Und achte auf Hämolyse: Rote Blutkörperchen enthalten manche Enzyme in großen Mengen, sodass eine hämolytische Probe falsch hohe Werte zeigen kann.
+
+Kurz gesagt: Wir messen Enzyme über ihre Aktivität, in Units pro Liter. Viele Tests verfolgen die Änderung von N A D H bei dreihundertvierzig Nanometern, oft über eine gekoppelte Reaktion. Das Gerät misst die Änderung pro Minute, und sehr hohe Werte müssen verdünnt und wiederholt werden.
+
+# Die Leberenzyme — Liver enzymes
+
+Die Leber ist eine große chemische Fabrik. Ihre Zellen, die Hepatozyten, sind voller Enzyme. Werden Leberzellen geschädigt, gelangen ihre Enzyme ins Blut. Wenn wir sie messen, erkennt das Labor, dass die Leber Probleme hat, oft lange bevor sich der Patient krank fühlt.
+
+Die beiden klassischen Leberenzyme sind die Transaminasen. Eine Transaminase überträgt eine Aminogruppe von einem Molekül auf ein anderes. Das gehört zum Auf- und Abbau der Aminosäuren. Die erste ist die Alanin-Aminotransferase, kurz A L T. Die zweite ist die Aspartat-Aminotransferase, kurz A S T. In Deutschland liest du auf vielen Befunden noch die älteren Namen: G P T für die A L T und G O T für die A S T.
+
+Die A L T kommt vor allem in der Leber vor, und sie sitzt im Zytoplasma, also in der Flüssigkeit im Inneren der Zelle. Schon eine leichte Schädigung der Zellmembran lässt die A L T austreten. Dadurch ist die A L T ziemlich leberspezifisch. Die A S T kommt ebenfalls in der Leber vor, aber auch im Herzmuskel, in der Skelettmuskulatur und in den roten Blutkörperchen. Ein Teil der A S T sitzt in den Mitochondrien, also tiefer in der Zelle. Eine erhöhte A S T allein ist daher weniger spezifisch. Sie kann aus der Leber, dem Herzen oder einem Muskel stammen.
+
+Typische Obergrenzen für die A L T liegen bei etwa fünfunddreißig Units pro Liter für Frauen und etwa fünfzig Units pro Liter für Männer, aber das unterscheidet sich zwischen Laboren. Bei einer Virushepatitis können die Transaminasen auf mehr als das Zehnfache der Obergrenze steigen. Bei einer Fettleber oder bei längerem Alkoholkonsum sind sie oft nur leicht erhöht.
+
+Das Verhältnis der beiden kann einen Hinweis geben. Bei den meisten Lebererkrankungen ist die A L T höher als die A S T. Ist die A S T deutlich höher als die A L T, denken Ärzte an einen Alkoholschaden, an eine fortgeschrittene Vernarbung der Leber oder an eine Quelle außerhalb der Leber, zum Beispiel einen Muskel. Dieses Verhältnis heißt in Deutschland De-Ritis-Quotient.
+
+Zwei weitere Enzyme ergänzen das Leberprofil. Die alkalische Phosphatase, kurz A P, steigt, wenn der Gallenfluss blockiert ist, zum Beispiel durch einen Gallenstein. Sie stammt auch aus dem Knochen, daher ist sie bei Kindern im Wachstum natürlicherweise hoch. Die Gamma-Glutamyltransferase, kurz Gamma G T, steigt ebenfalls bei einem Gallenstau. Sie reagiert sehr empfindlich auf Alkohol und auf manche Medikamente.
+
+Warum ist das im Labor wichtig? Die A L T wird mit einem gekoppelten Test gemessen. Die A L T überträgt eine Aminogruppe von Alanin auf ein Partnermolekül und bildet dabei Pyruvat. Das Indikatorenzym Laktatdehydrogenase wandelt das Pyruvat in Laktat um und verbraucht dabei N A D H. Das Gerät verfolgt die sinkende Extinktion bei dreihundertvierzig Nanometern. Denk daran, dass rote Blutkörperchen A S T enthalten. Eine hämolytische Probe kann die A S T falsch erhöhen, und das Labor muss die Hämolyse auf dem Befund vermerken.
+
+Kurz gesagt: Eine Leberschädigung setzt Enzyme ins Blut frei. Die A L T, früher G P T, ist ziemlich leberspezifisch, während die A S T, früher G O T, auch aus Herz und Muskel stammt. Alkalische Phosphatase und Gamma G T weisen auf einen gestörten Gallenfluss hin.
+
+# Muskelenzyme und Herzenzyme — Muscle and heart enzymes
+
+Muskelzellen brauchen sehr schnell sehr viel Energie. Sie speichern einen Energievorrat in einem Molekül namens Kreatinphosphat. Das Enzym, das Energie zwischen Kreatinphosphat und A T P hin- und herschiebt, ist die Kreatinkinase, kurz C K. Werden Muskelzellen geschädigt, strömt die C K ins Blut.
+
+Die C K besteht aus zwei Teilen, und es gibt zwei Arten dieser Teile: M für Muskel und B für Gehirn, nach dem englischen Wort für Gehirn. Daraus ergeben sich drei Kombinationen. C K M M ist die typische Form der Skelettmuskulatur. C K M B kommt in größeren Mengen im Herzmuskel vor. C K B B findet man im Gehirn. Diese drei Formen nennt man Isoenzyme: Enzyme mit derselben Aufgabe, aber leicht unterschiedlichem Aufbau.
+
+Was lässt die C K steigen? Jede Muskelschädigung. Ein hartes Training, ein Marathon oder ein Sturz können die C K stark erhöhen. Ebenso eine Spritze in den Muskel, eine Operation oder Krampfanfälle. Bestimmte Medikamente, vor allem die Cholesterinsenker aus der Gruppe der Statine, können den Muskel schädigen und die C K erhöhen. Ein schwerer Muskelzerfall, die Rhabdomyolyse, kann die C K auf viele tausend Units pro Liter treiben. Dann sind die Nieren in Gefahr, denn das Muskelprotein Myoglobin kann sie verstopfen.
+
+Viele Jahre lang waren die C K und vor allem die C K M B die wichtigsten Labormarker für einen Herzinfarkt. Nach einem Infarkt beginnt die C K nach etwa vier bis sechs Stunden zu steigen, erreicht nach etwa einem Tag ihren Gipfel und normalisiert sich nach zwei bis drei Tagen. Heute ist der wichtigste Marker für einen Herzmuskelschaden ein Protein namens kardiales Troponin. Troponin ist spezifischer für das Herz und bleibt länger erhöht. Es ist kein Enzym und wird mit einem Immunoassay gemessen, den du später in diesem Teil kennenlernst. Die C K wird aber weiterhin häufig gemessen, vor allem bei Muskelproblemen.
+
+Ein weiteres Enzym, das du oft siehst, ist die Laktatdehydrogenase, kurz L D H. Sie kommt in fast jeder Zelle des Körpers vor. Eine erhöhte L D H sagt also nur, dass irgendwo Zellen geschädigt wurden. Sie ist nützlich zur Verlaufskontrolle mancher Krebserkrankungen, bei Hämolyse und bei manchen Blutkrankheiten. Weil rote Blutkörperchen voller L D H sind, erhöht eine Hämolyse im Röhrchen die L D H falsch, sogar noch stärker als die A S T.
+
+Warum ist das im Labor wichtig? Stell dir einen jungen Mann vor, dessen C K fünfzigmal über der Obergrenze liegt, während sein Troponin normal ist. Die Ärztin wird nach Sport oder einem Sturz fragen, bevor sie an das Herz denkt. Das Labor hilft, indem es schnell und richtig misst und alles vermerkt, was das Ergebnis stören könnte, zum Beispiel eine hämolytische Probe. Bei extrem hohen Werten rufen viele Labore direkt auf der Station an, denn eine Rhabdomyolyse kann die Nieren innerhalb von Stunden schädigen.
+
+Kurz gesagt: Die Kreatinkinase ist das Enzym der Muskelenergie und steigt bei jeder Muskelschädigung. Ihre Herzform, die C K M B, war früher der wichtigste Infarktmarker, doch das kardiale Troponin hat diese Rolle übernommen. Die L D H kommt in fast allen Zellen vor und reagiert sehr empfindlich auf Hämolyse.
+
+# Der Stoffwechsel — Metabolism overview
+
+Der Stoffwechsel, auch Metabolismus genannt, ist die Gesamtheit aller chemischen Reaktionen im Körper. Er hat zwei Richtungen. Der Abbau heißt Katabolismus: Große Moleküle aus der Nahrung werden in kleine zerlegt, und dabei wird Energie frei. Der Aufbau heißt Anabolismus: Kleine Moleküle werden zu großen zusammengesetzt, etwa zu Proteinen oder Glykogen, und das kostet Energie.
+
+Die Energiewährung der Zelle ist ein Molekül namens A T P, Adenosintriphosphat. A T P trägt drei Phosphatgruppen hintereinander. Wird die letzte Phosphatgruppe abgespalten, wird Energie frei, und die Zelle nutzt sie für ihre Arbeit: um Muskeln zu bewegen, um Ionen durch Membranen zu pumpen oder um neue Moleküle zu bauen. Stell dir A T P als geladenen Akku vor. Der Abbau der Nahrung lädt den Akku auf. Die Arbeit entlädt ihn wieder.
+
+Der Körper gewinnt Energie aus drei Brennstoffen: Kohlenhydraten, Fetten und Proteinen. Alle drei werden in kleine Bausteine zerlegt. Aus Kohlenhydraten wird Glucose. Aus Fetten werden Fettsäuren und Glycerin. Aus Proteinen werden Aminosäuren. Danach münden diese Bausteine in einige gemeinsame Stoffwechselwege, wie Straßen, die alle zum selben Hauptbahnhof führen.
+
+Dieser Hauptbahnhof ist ein kleines Molekül namens Acetyl-Coenzym A, meist kurz Acetyl-C o A. Glucose wird über die Glykolyse in Acetyl-C o A umgewandelt. Fettsäuren werden in viele Stücke Acetyl-C o A zerschnitten. Auch viele Aminosäuren können daraus werden. Von dort geht das Acetyl-C o A in den Citratzyklus, und der Citratzyklus beliefert die Atmungskette, wo das meiste A T P entsteht. Die Glykolyse und den Citratzyklus lernst du in den nächsten beiden Kapiteln kennen.
+
+Der Stoffwechsel wird durch Hormone streng gesteuert. Nach einer Mahlzeit sagt Insulin den Zellen, dass sie Glucose aufnehmen und Energie als Glykogen und Fett speichern sollen. Zwischen den Mahlzeiten sorgen Glukagon und andere Hormone dafür, dass die Leber Glucose abgibt und das Fettgewebe Fettsäuren freisetzt. Das meiste davon geschieht, ohne dass du es merkst. Das Labor sieht es, wenn die Steuerung versagt.
+
+Viele Laborwerte sind einfach Momentaufnahmen des Stoffwechsels. Glucose zeigt die Seite der Kohlenhydrate. Triglyceride und Cholesterin zeigen die Seite der Fette. Harnstoff und Kreatinin zeigen die Abfallprodukte aus Eiweiß und Muskel. Laktat zeigt, wenn Zellen ohne genug Sauerstoff arbeiten müssen. Ketonkörper zeigen, wenn der Körper Fett verbrennt, weil er Glucose nicht nutzen kann, zum Beispiel bei einem entgleisten Diabetes.
+
+Warum ist das im Labor wichtig? Wenn du einen Stoffwechselwert betrachtest, frag dich: Was hat der Patient kurz vor der Blutabnahme getan? Eine Mahlzeit erhöht Glucose und Triglyceride. Langes Fasten erhöht die Ketonkörper. Schwere körperliche Arbeit erhöht Laktat und C K. Deshalb muss der Patient für viele Tests nüchtern sein, und deshalb sind der Zeitpunkt der Blutabnahme und der letzten Mahlzeit wichtige Informationen für das Labor.
+
+Kurz gesagt: Der Stoffwechsel baut Brennstoffe ab, um A T P zu gewinnen, und baut mit dieser Energie neue Moleküle auf. Kohlenhydrate, Fette und Proteine treffen sich beim Acetyl-C o A. Viele Laborwerte, von der Glucose bis zum Laktat, sind Momentaufnahmen dieses Stoffwechsels.
+
+# Die Glykolyse — Glycolysis
+
+Glykolyse bedeutet »Zuckerspaltung«. Sie ist der erste Schritt beim Abbau der Glucose und findet im Zytoplasma fast jeder Körperzelle statt.
+
+Glucose ist ein Zucker mit sechs Kohlenstoffatomen. In der Glykolyse wandelt die Zelle ein Molekül Glucose Schritt für Schritt in zwei Moleküle Pyruvat um. Jedes Pyruvat hat drei Kohlenstoffatome. Der ganze Weg hat zehn Schritte, und jeder Schritt hat sein eigenes Enzym. Du musst nicht jeden Schritt kennen. Aber die wichtigsten Punkte solltest du wissen.
+
+Zuerst investiert die Zelle Energie. Sie verwendet zwei A T P, um Phosphatgruppen an den Zucker zu hängen. Dadurch wird die Glucose in der Zelle festgehalten und für die Spaltung vorbereitet. Den allerersten Schritt, der eine Phosphatgruppe an die Glucose hängt, erledigt ein Enzym namens Hexokinase. Merk dir dieses Enzym, denn das Labor nutzt es zur Glucosemessung.
+
+Dann spaltet sich der Zucker mit sechs Kohlenstoffatomen in zwei Hälften mit je drei Kohlenstoffatomen. Diese Hälften werden weiter verarbeitet, und jetzt gewinnt die Zelle Energie zurück. Insgesamt bildet sie vier A T P. Da sie zwei investiert hat, beträgt der Nettogewinn zwei A T P pro Glucose. Außerdem belädt die Zelle zwei Moleküle N A D mit Wasserstoff, sodass zwei N A D H entstehen.
+
+Die Glykolyse braucht keinen Sauerstoff. Das macht sie im Notfall sehr nützlich. Wenn ein Muskel so hart arbeitet, dass der Sauerstoff knapp wird, läuft die Glykolyse schnell weiter. Damit sie weiterlaufen kann, muss die Zelle aber ihr N A D wieder freimachen. Also wandelt sie Pyruvat in Laktat um, und das N A D H gibt dabei seinen Wasserstoff ab. Deshalb sammelt sich Laktat in hart arbeitenden Muskeln an, und deshalb steigt das Laktat im Blut schwerkranker Patienten, deren Gewebe zu wenig Sauerstoff bekommt.
+
+Ist genug Sauerstoff vorhanden, nimmt das Pyruvat einen anderen Weg. Es gelangt in die Mitochondrien und wird in Acetyl-C o A umgewandelt. Dann speist es den Citratzyklus, der viel mehr Energie liefert.
+
+Manche Zellen sind allein auf die Glykolyse angewiesen. Das klassische Beispiel sind die roten Blutkörperchen. Sie haben keine Mitochondrien und können den Citratzyklus deshalb nicht nutzen. Sie leben ganz von der Glykolyse, und das tun sie auch noch im Röhrchen, nachdem das Blut abgenommen wurde.
+
+Warum ist das im Labor wichtig? Weil die Blutzellen im Röhrchen weiter Glucose verbrauchen, sinkt der Glucosewert in einer unbehandelten Probe bei Raumtemperatur um etwa fünf bis sieben Prozent pro Stunde. Eine Probe, die einen halben Tag auf dem Tisch steht, kann einen falsch niedrigen Blutzucker zeigen. Um das zu verhindern, enthalten spezielle Glucoseröhrchen Natriumfluorid, das ein Enzym der Glykolyse hemmt. Oft enthalten sie zusätzlich Citrat, das die Probe ansäuert und die Glykolyse noch schneller stoppt. Die andere Möglichkeit ist, das Plasma durch Zentrifugieren schnell von den Zellen zu trennen.
+
+Kurz gesagt: Die Glykolyse spaltet eine Glucose ohne Sauerstoff in zwei Pyruvat, mit einem Nettogewinn von zwei A T P. Ohne Sauerstoff wird Pyruvat zu Laktat. Rote Blutkörperchen leben von der Glykolyse, deshalb sinkt die Glucose in der Probe, wenn das Röhrchen die Glykolyse nicht stoppt.
+
+# Der Citratzyklus — The citric acid cycle
+
+Der Citratzyklus ist die zentrale Drehscheibe des Energiestoffwechsels. Er heißt auch Zitronensäurezyklus oder Krebs-Zyklus, nach Hans Krebs, der ihn beschrieben hat. Er läuft in den Mitochondrien ab, den Kraftwerken der Zelle.
+
+Der Brennstoff für den Zyklus ist Acetyl-C o A, das kleine Stück mit zwei Kohlenstoffatomen, das aus Glucose, Fetten und Aminosäuren stammt. Am Anfang des Zyklus verbindet sich Acetyl-C o A mit einem Molekül aus vier Kohlenstoffatomen, dem Oxalacetat. Zusammen bilden sie Citrat, das sechs Kohlenstoffatome hat. Das Citrat gibt dem Zyklus seinen Namen.
+
+Dann durchläuft der Zyklus acht Schritte. Dabei werden zwei Kohlenstoffatome abgespalten und als Kohlendioxid freigesetzt. Das ist das Kohlendioxid, das du ausatmest. Am Ende des Zyklus ist das Oxalacetat wieder da, bereit für das nächste Acetyl-C o A. Der Zyklus ist also wie eine Rundfähre: An einer Haltestelle steigen neue Fahrgäste zu, an einer anderen steigen sie aus, und dann kehrt die Fähre leer zum Start zurück.
+
+Was liefert der Zyklus? Erstaunlich wenig A T P direkt, nämlich nur ein energiereiches Molekül pro Runde. Sein eigentliches Produkt ist Wasserstoff, der auf Transportmoleküle geladen wird. Jede Runde belädt drei N A D H und ein F A D H zwei. F A D ist ein weiterer Wasserstoffträger, ähnlich wie N A D.
+
+Diese beladenen Träger liefern ihren Wasserstoff an die Atmungskette. Die Atmungskette ist eine Reihe von Proteinkomplexen in der inneren Membran der Mitochondrien. Hier wandern die Elektronen Schritt für Schritt von einem Komplex zum nächsten, wie Wasser, das über eine Reihe kleiner Wasserfälle hinabfließt. Die frei werdende Energie wird genutzt, um viel A T P zu bilden. Am Ende der Kette verbinden sich die Elektronen und der Wasserstoff mit Sauerstoff zu Wasser. Deshalb müssen wir Sauerstoff atmen.
+
+Zusammen liefern Glykolyse, Citratzyklus und Atmungskette etwa dreißig bis zweiunddreißig A T P aus einem Molekül Glucose. Die Glykolyse allein, ohne Sauerstoff, liefert nur zwei. Das zeigt, wie wichtig Sauerstoff für die Energiegewinnung ist.
+
+Der Zyklus dient nicht nur der Verbrennung. Er ist auch eine Kreuzung für den Aufbau. Seine Zwischenprodukte werden für den Bau von Aminosäuren verwendet, und aus überschüssigem Acetyl-C o A kann der Körper Fett herstellen. Deshalb kann zu viel Zucker als Fett gespeichert werden.
+
+Warum ist das im Labor wichtig? Den Citratzyklus selbst kann das Labor nicht sehen. Aber es sieht, was passiert, wenn der Energiestoffwechsel entgleist. Ein steigendes Laktat bei einem Patienten im Schock zeigt der Ärztin, dass das Gewebe zu wenig Sauerstoff bekommt und nur noch Glykolyse betreibt. Ketonkörper in Blut oder Urin zeigen, dass der Körper Fett verbrennt, weil zu wenig Insulin da ist, um Glucose zu nutzen. Beides lässt sich im Notfalllabor und mit Blutgasanalysegeräten schnell messen.
+
+Kurz gesagt: Der Citratzyklus in den Mitochondrien verbrennt Acetyl-C o A zu Kohlendioxid und belädt Wasserstoffträger. Die Atmungskette nutzt diesen Wasserstoff und Sauerstoff, um den größten Teil des A T P zu bilden. Fehlt Sauerstoff oder Insulin, sieht das Labor Laktat oder Ketonkörper steigen.
+
+# Der Blutzucker — Blood glucose
+
+Glucose ist der wichtigste Zucker im Blut. Das Gehirn ist fast vollständig auf sie angewiesen, deshalb hält der Körper den Blutzucker in einem engen Bereich. Bei einem nüchternen, gesunden Erwachsenen liegt er normalerweise bei etwa siebzig bis neunundneunzig Milligramm pro Deziliter.
+
+In Deutschland werden für Glucose zwei Einheiten verwendet, und du musst beide kennen. Milligramm pro Deziliter ist in vielen Kliniken üblich. Millimol pro Liter ist die S I-Einheit. Um Milligramm pro Deziliter in Millimol pro Liter umzurechnen, teilst du durch achtzehn. Zum Beispiel: Neunzig Milligramm pro Deziliter geteilt durch achtzehn ergibt fünf Millimol pro Liter.
+
+Zwei Hormone aus der Bauchspeicheldrüse halten die Glucose im Gleichgewicht. Insulin senkt sie. Nach einer Mahlzeit sagt Insulin den Muskel- und Fettzellen, dass sie Glucose aufnehmen sollen, und der Leber, dass sie Glykogen speichern soll. Glukagon erhöht sie. Zwischen den Mahlzeiten veranlasst Glukagon die Leber, Glykogen abzubauen und neue Glucose herzustellen. Auch Stresshormone wie Adrenalin und Cortisol erhöhen den Blutzucker.
+
+Versagt diese Regulation, spricht man von Diabetes mellitus. Beim Typ-eins-Diabetes hat das Immunsystem die Zellen zerstört, die Insulin bilden. Beim Typ-zwei-Diabetes reagieren die Körperzellen schlecht auf Insulin, und mit der Zeit wird zu wenig Insulin gebildet. In beiden Fällen steigt die Glucose. Ein Nüchternblutzucker von hundertsechsundzwanzig Milligramm pro Deziliter oder mehr, an zwei verschiedenen Tagen gemessen, spricht für einen Diabetes.
+
+Der Blutzucker ist nur eine Momentaufnahme. Er ändert sich nach jeder Mahlzeit. Für einen längeren Blick misst das Labor das H b A eins c. Glucose im Blut lagert sich langsam an das Hämoglobin der roten Blutkörperchen an. Je höher die Glucose, desto mehr Hämoglobin trägt einen Zucker. Da rote Blutkörperchen etwa hundertzwanzig Tage leben, zeigt das H b A eins c den durchschnittlichen Blutzucker der letzten zwei bis drei Monate. Man nennt es deshalb auch das Blutzuckergedächtnis. Ein Wert von sechs komma fünf Prozent oder mehr spricht für einen Diabetes. Viele Labore geben es auch in Millimol pro Mol an, und dort liegt dieselbe Grenze bei achtundvierzig.
+
+Wie wird Glucose gemessen? Eine verbreitete Methode nutzt die Hexokinase, die du aus der Glykolyse kennst. Die Hexokinase hängt eine Phosphatgruppe an die Glucose. Ein zweites Enzym entfernt von diesem Produkt Wasserstoff und lädt ihn auf einen Träger namens N A D P, sodass N A D P H entsteht. Wie N A D H absorbiert es Licht bei dreihundertvierzig Nanometern. Die Extinktion steigt also proportional zur Glucose. Eine andere verbreitete Methode nutzt das Enzym Glucoseoxidase. Blutzuckermessgeräte auf der Station verwenden kleine Teststreifen mit Enzymen und einer Elektrode.
+
+Warum ist das im Labor wichtig? Die größte Gefahr für ein Glucoseergebnis entsteht vor der Analyse, also in der Präanalytik. Wie du aus dem letzten Kapitel weißt, verbrauchen die Zellen im Röhrchen weiter Glucose. Glucose sollte deshalb in einem Röhrchen mit Fluorid und Citrat abgenommen werden, oder die Probe muss bald zentrifugiert werden. Außerdem zeigt eine Probe aus einem Arm, in den gerade eine Glucoseinfusion läuft, einen falsch hohen Wert. Wenn ein Glucosewert nicht zum Patienten passt, denk zuerst an die Probe.
+
+Kurz gesagt: Der Nüchternblutzucker liegt normalerweise bei etwa siebzig bis neunundneunzig Milligramm pro Deziliter, also ungefähr vier bis fünfeinhalb Millimol pro Liter. Insulin senkt ihn, Glukagon erhöht ihn. Das H b A eins c zeigt den Durchschnitt der letzten zwei bis drei Monate, und das richtige Röhrchen schützt die Glucose vor dem Abbau.
+
+# Die Plasmaproteine — Blood proteins
+
+Plasma enthält etwa siebzig Gramm Eiweiß pro Liter. Der Normalbereich des Gesamteiweißes liegt ungefähr bei sechsundsechzig bis dreiundachtzig Gramm pro Liter. Diese Proteine sind nicht alle gleich. Man teilt sie in zwei Hauptgruppen ein: das Albumin und die Globuline.
+
+Albumin ist die größte einzelne Gruppe, etwa sechzig Prozent des Gesamteiweißes. Sein Normalbereich liegt bei etwa fünfunddreißig bis zweiundfünfzig Gramm pro Liter. Es wird ausschließlich in der Leber gebildet. Albumin hat zwei Hauptaufgaben.
+
+Die erste Aufgabe ist, Wasser in den Blutgefäßen zu halten. Proteine sind groß und verlassen die Gefäße nicht leicht. Sie ziehen Wasser durch Osmose an. Diesen Sog nennt man den kolloidosmotischen oder onkotischen Druck. Ist das Albumin sehr niedrig, tritt Wasser aus den Gefäßen ins Gewebe aus, und die Beine oder der Bauch schwellen an. Diese Schwellung nennt man Ödem.
+
+Die zweite Aufgabe ist der Transport. Albumin ist wie ein Bus mit vielen Sitzplätzen. Es trägt Stoffe, die sich schlecht in Wasser lösen: Bilirubin, Fettsäuren, manche Hormone, viele Medikamente und etwa die Hälfte des Calciums im Blut.
+
+Albumin sinkt, wenn die Leber nicht genug davon bilden kann, wie bei einer schweren Leberzirrhose. Es sinkt, wenn es verloren geht, etwa über geschädigte Nieren oder bei großflächigen Verbrennungen. Es sinkt bei Mangelernährung. Und es sinkt bei Entzündungen, weil die Leber dann andere Proteine bevorzugt.
+
+Die Globuline sind eine gemischte Gruppe vieler verschiedener Proteine. Manche sind Transportproteine, zum Beispiel das Transferrin, das Eisen trägt. Manche sind Gerinnungsfaktoren. Manche sind Akute-Phase-Proteine, die bei Entzündungen steigen. Das bekannteste Akute-Phase-Protein ist das C-reaktive Protein, kurz C R P. Bei einer bakteriellen Infektion kann es innerhalb von ein bis zwei Tagen auf das Hundertfache steigen. Und eine große Gruppe der Globuline sind die Immunglobuline, also die Antikörper. Sie lernst du im Teil über Immunologie kennen.
+
+Die meisten dieser Proteine werden in der Leber gebildet. Die Immunglobuline sind die große Ausnahme. Sie stammen von den Plasmazellen, den Antikörperfabriken des Immunsystems.
+
+Warum ist das im Labor wichtig? Weil Albumin Calcium trägt, lässt ein niedriges Albumin das Gesamtcalcium falsch niedrig erscheinen, obwohl das aktive, freie Calcium normal ist. Das Labor kann das korrigieren oder das freie Calcium direkt messen. Achte auch darauf, dass ein zu lange angelegter Stauschlauch das Blut eindickt. Proteine und an Proteine gebundene Stoffe erscheinen dann falsch hoch. Eine saubere Blutabnahme schützt diese Ergebnisse.
+
+Kurz gesagt: Plasma enthält etwa siebzig Gramm Eiweiß pro Liter. Albumin aus der Leber hält Wasser in den Gefäßen und transportiert viele Stoffe. Zu den Globulinen gehören Transportproteine, Akute-Phase-Proteine wie das C R P und die Antikörper.
+
+# Lipide und Lipoproteine — Lipids and lipoproteins
+
+Lipide sind Fette und fettähnliche Stoffe. Sie lösen sich nicht in Wasser. Das ist ein Problem, denn Blut besteht größtenteils aus Wasser. Denk an Öl in der Suppe: Es schwimmt in Tropfen oben. Der Körper löst dieses Problem, indem er die Lipide in kleine Transportteilchen verpackt, die Lipoproteine.
+
+Ein Lipoprotein ist wie ein Paket. Innen liegen die wasserscheuen Fette: Triglyceride und Cholesterinester. Außen ist eine dünne Hülle aus wasserliebenden Molekülen: Phospholipide, freies Cholesterin und besondere Proteine, die Apolipoproteine. Die Apolipoproteine wirken wie Adressaufkleber. Sie sagen den Zellen, welche Art von Paket angekommen ist.
+
+Es gibt vier Haupttypen von Lipoproteinen. Man ordnet sie nach ihrer Dichte. Fett ist leicht, Protein ist schwer. Je mehr Fett ein Teilchen trägt, desto geringer ist also seine Dichte.
+
+Die Chylomikronen sind die größten und leichtesten. Sie entstehen nach einer Mahlzeit im Darm und bringen das Nahrungsfett ins Blut. Nach einer fettreichen Mahlzeit lassen sie das Plasma milchig aussehen.
+
+Das V L D L, das Lipoprotein sehr niedriger Dichte, wird in der Leber gebildet. Es bringt Triglyceride von der Leber zu den Geweben. Während es seine Triglyceride abgibt, schrumpft es und wird dichter, und am Ende wird daraus L D L.
+
+Das L D L, das Lipoprotein niedriger Dichte, ist reich an Cholesterin. Es liefert Cholesterin an die Zellen. Ist zu viel L D L vorhanden, lagert sich Cholesterin in den Wänden der Arterien ab. Das führt zur Atherosklerose, der Arterienverkalkung, die Herzinfarkte und Schlaganfälle verursacht. Deshalb nennt man das L D L oft das schlechte Cholesterin.
+
+Das H D L, das Lipoprotein hoher Dichte, ist das kleinste und dichteste. Es sammelt überschüssiges Cholesterin aus den Geweben ein und bringt es zurück zur Leber. Deshalb nennt man das H D L oft das gute Cholesterin.
+
+Cholesterin selbst ist nicht schlecht. Es ist ein wichtiger Bestandteil jeder Zellmembran, und der Körper stellt daraus Gallensäuren, Vitamin D und die Steroidhormone her. Probleme entstehen erst, wenn zu viel davon in den falschen Paketen unterwegs ist.
+
+Warum ist das im Labor wichtig? Die Lipoproteine erklären ein häufiges Laborproblem: die Lipämie. Nach einer fettreichen Mahlzeit ist das Plasma durch Chylomikronen und V L D L trüb. Trübes Plasma streut das Licht und stört viele photometrische Tests. Lipämische Proben werden vom Gerät markiert. Manchmal klärt man sie durch Zentrifugation bei sehr hoher Drehzahl, bevor der Test wiederholt wird. Das ist ein Grund, warum Fettwerte und viele andere Tests am besten morgens nach einer Nacht ohne Essen abgenommen werden.
+
+Kurz gesagt: Lipide werden im Blut als Lipoproteine transportiert, als Pakete mit Fett innen und Protein außen. Chylomikronen und V L D L tragen Triglyceride. Das L D L bringt Cholesterin zu den Geweben, und das H D L bringt es zurück zur Leber.
+
+# Cholesterin und Triglyceride — Cholesterol and triglycerides
+
+Das Standard-Lipidprofil umfasst vier Werte: Gesamtcholesterin, H D L-Cholesterin, L D L-Cholesterin und Triglyceride. Ärzte verwenden es, um das Risiko für Herzinfarkt und Schlaganfall abzuschätzen und um eine Behandlung mit Cholesterinsenkern zu überwachen.
+
+Das Gesamtcholesterin sollte möglichst unter etwa zweihundert Milligramm pro Deziliter liegen, das sind etwa fünf komma zwei Millimol pro Liter. Aber das Gesamtcholesterin allein sagt wenig. Ein Mensch mit viel gutem H D L kann einen hohen Gesamtwert haben und trotzdem ein niedriges Risiko. Die Anteile sind also wichtiger als die Summe.
+
+Für das L D L-Cholesterin gibt es keinen einzelnen Normalwert. Der Zielwert hängt vom Risiko des Patienten ab. Für einen gesunden jungen Menschen kann ein L D L unter hundertsechzehn Milligramm pro Deziliter in Ordnung sein. Ein Patient, der schon einen Herzinfarkt hatte, sollte unter fünfundfünfzig liegen. H D L schützt, hier ist also höher besser. Werte unter etwa vierzig Milligramm pro Deziliter bei Männern und unter etwa fünfzig bei Frauen gelten als niedrig.
+
+Die Triglyceride sollten in einer Nüchternprobe unter etwa hundertfünfzig Milligramm pro Deziliter liegen. Sie steigen stark nach einer Mahlzeit sowie bei Alkoholkonsum, Übergewicht und schlecht eingestelltem Diabetes. Sehr hohe Triglyceride, über etwa tausend, können eine Entzündung der Bauchspeicheldrüse auslösen.
+
+Wie werden diese Werte gemessen? Cholesterin wird mit einer Kette von Enzymen bestimmt. Zuerst löst ein Enzym das Cholesterin aus seinen Estern. Dann wandelt die Cholesterinoxidase es um und bildet dabei Wasserstoffperoxid. Zum Schluss nutzt das Enzym Peroxidase das Wasserstoffperoxid, um einen roten Farbstoff zu bilden. Je mehr Cholesterin, desto mehr Farbe, und das Photometer misst sie. Triglyceride werden ähnlich gemessen. Ein Enzym spaltet sie in Glycerin und Fettsäuren, und das Glycerin wird über mehrere Schritte in einen Farbstoff umgewandelt.
+
+Das L D L wird oft nicht direkt gemessen, sondern berechnet. Die klassische Methode ist die Friedewald-Formel. In Worten: L D L-Cholesterin gleich Gesamtcholesterin, minus H D L-Cholesterin, minus Triglyceride geteilt durch fünf. Alle Werte sind in Milligramm pro Deziliter. Ein Beispiel: Das Gesamtcholesterin beträgt zweihundertzwanzig. Das H D L beträgt fünfzig. Die Triglyceride betragen hundertfünfzig. Hundertfünfzig geteilt durch fünf ergibt dreißig. Zweihundertzwanzig minus fünfzig minus dreißig ergibt hundertvierzig. Das L D L-Cholesterin liegt also bei etwa hundertvierzig Milligramm pro Deziliter.
+
+Warum ist das im Labor wichtig? Die Friedewald-Formel funktioniert nur, wenn die Probe nüchtern ist und die Triglyceride nicht zu hoch sind. Über etwa vierhundert Milligramm pro Deziliter ist das Ergebnis falsch. Dann muss das Labor das L D L direkt messen oder vermerken, dass es nicht berechnet werden kann. Viele Labore verwenden inzwischen ohnehin direkte Methoden oder neuere Formeln. Prüfe immer, welche Methode dein Labor verwendet und ob der Patient nüchtern war.
+
+Kurz gesagt: Das Lipidprofil zeigt Gesamt-, H D L- und L D L-Cholesterin sowie die Triglyceride. Sie werden mit Enzymketten gemessen, die in einem Farbstoff enden. Das L D L kann berechnet werden, aber nur in einer Nüchternprobe mit Triglyceriden unter etwa vierhundert.
+
+# Die Hormone — Hormones
+
+Hormone sind chemische Botenstoffe. Drüsen geben sie ins Blut ab, und das Blut bringt sie zu weit entfernten Zielzellen. Eine Zielzelle reagiert nur, wenn sie den passenden Rezeptor hat, also das richtige Schloss für diesen Schlüssel. Hormone steuern Wachstum, Stoffwechsel, Wasserhaushalt, Fortpflanzung und die Reaktion auf Stress.
+
+Chemisch teilt man Hormone in drei Gruppen ein. Die erste Gruppe sind die Peptid- und Proteinhormone. Sie sind Ketten aus Aminosäuren. Beispiele sind Insulin, das Wachstumshormon und das Thyreoidea-stimulierende Hormon, kurz T S H. Sie lösen sich gut in Wasser, schwimmen frei im Blut und binden an Rezeptoren auf der Außenseite der Zelle.
+
+Die zweite Gruppe sind die Steroidhormone. Sie werden aus Cholesterin hergestellt. Beispiele sind Cortisol, Aldosteron, Testosteron, Östradiol und Progesteron. Steroide sind fettlöslich. Im Blut fahren sie meist auf Trägerproteinen mit. Sie gelangen leicht durch die Zellmembran und binden an Rezeptoren im Inneren der Zelle, oft im Zellkern, wo sie Gene an- oder abschalten.
+
+Die dritte Gruppe leitet sich von einzelnen Aminosäuren ab. Adrenalin stammt von der Aminosäure Tyrosin. Auch die Schilddrüsenhormone stammen von Tyrosin, mit angehängtem Jod. Das wichtigste im Blut ist das Thyroxin, kurz T vier.
+
+Hormone werden durch Rückkopplung gesteuert, ähnlich wie ein Thermostat im Haus. Die Schilddrüse zeigt das am besten. Ein Hirnbereich namens Hypothalamus gibt der Hirnanhangsdrüse ein Signal. Die Hirnanhangsdrüse schüttet T S H aus. T S H sagt der Schilddrüse, dass sie Thyroxin bilden soll. Ist genug Thyroxin im Blut, bremst es den Hypothalamus und die Hirnanhangsdrüse, und es wird weniger T S H ausgeschüttet. Bei einer Schilddrüsenunterfunktion sinkt das Thyroxin, und das T S H steigt, weil die Hirnanhangsdrüse stärker antreibt. Bei einer Überfunktion ist das Thyroxin hoch und das T S H sehr niedrig.
+
+Deshalb ist das T S H der erste Test der Schilddrüsenfunktion. Es reagiert sehr empfindlich auf kleine Veränderungen. Ein normales T S H liegt je nach Labor ungefähr bei null komma vier bis vier Milli-Units pro Liter.
+
+Viele Hormone folgen außerdem einem Tagesrhythmus. Cortisol ist am frühen Morgen am höchsten und um Mitternacht am niedrigsten. Andere ändern sich mit dem Menstruationszyklus, mit dem Alter oder unter Stress.
+
+Warum ist das im Labor wichtig? Hormone sind nur in winzigen Mengen vorhanden, oft nur ein Millionstel der Glucosekonzentration. Einfache Farbreaktionen sind dafür viel zu unempfindlich. Deshalb misst man Hormone mit Immunoassays, dem Thema des nächsten Kapitels. Auch der Zeitpunkt der Blutabnahme ist wichtig. Ein Cortisolwert ist nur sinnvoll, wenn das Labor weiß, wann abgenommen wurde. Bei weiblichen Sexualhormonen sollte der Zyklustag auf dem Anforderungsschein stehen.
+
+Kurz gesagt: Hormone sind Botenstoffe aus Peptiden, aus Steroiden auf Cholesterinbasis oder aus einzelnen Aminosäuren. Sie werden durch Rückkopplung gesteuert, wie T S H und Thyroxin zeigen. Ihre winzigen Konzentrationen erfordern sehr empfindliche Methoden, und der Zeitpunkt der Abnahme ist wichtig.
+
+# Die Immunoassays — Immunoassays
+
+Ein Immunoassay ist ein Test, der Antikörper als Werkzeug nutzt. Antikörper sind Proteine des Immunsystems, die ein bestimmtes Ziel sehr fest und sehr selektiv binden. Das Labor nutzt diese Fähigkeit, um eine einzige Molekülart unter tausenden anderen zu finden, selbst in winzigen Mengen. Hormone, Tumormarker, Troponin, Vitamine, Medikamentenspiegel und Infektionsmarker werden so gemessen.
+
+Es gibt ein Problem. Wenn ein Antikörper sein Ziel bindet, passiert nichts Sichtbares. Deshalb trägt der Antikörper eine Markierung, ein Signal, das man messen kann. In älteren Tests war die Markierung radioaktiv. Heute ist es meist ein Enzym, das eine Farbe bildet, oder ein Molekül, das Licht abgibt. Licht, das bei einer chemischen Reaktion entsteht, nennt man Chemilumineszenz. Viele große Geräte nutzen die Elektrochemilumineszenz. Dabei startet ein elektrischer Impuls an einer Elektrode die Lichtreaktion.
+
+Es gibt zwei Grundformen.
+
+Die erste ist der Sandwich-Assay. Man verwendet ihn für große Moleküle, an denen zwei Antikörper Platz haben. Der erste Antikörper ist an eine feste Oberfläche gebunden, zum Beispiel an ein winziges Magnetkügelchen. Er fängt das Zielmolekül aus der Probe. Dann bindet ein zweiter, markierter Antikörper an eine andere Stelle des Zielmoleküls. Jetzt sitzt das Zielmolekül zwischen zwei Antikörpern, wie der Belag in einem Sandwich. Ungebundenes Material wird weggewaschen, und das Signal wird gemessen. Je mehr Zielmolekül in der Probe ist, desto mehr Sandwiches entstehen und desto stärker ist das Signal. T S H, Troponin und das Schwangerschaftshormon h C G werden so gemessen.
+
+Die zweite ist der kompetitive Assay. Man verwendet ihn für kleine Moleküle wie Cortisol, Thyroxin oder Medikamentenspiegel, die für zwei Antikörper zu klein sind. Hier wird die Probe mit einer bekannten Menge markierter Zielmoleküle gemischt. Die Zielmoleküle des Patienten und die markierten Zielmoleküle konkurrieren um eine begrenzte Zahl von Bindungsstellen. Stell dir einen Bus mit wenigen Sitzplätzen und zwei Gruppen von Fahrgästen vor. Hat der Patient viel Zielmolekül, belegt es die meisten Plätze, und nur wenige markierte Moleküle steigen ein. Bei einem kompetitiven Assay ergibt eine hohe Konzentration also ein niedriges Signal. Der Zusammenhang ist umgekehrt.
+
+Wenn der Antikörper an ein Enzym gekoppelt ist und der Test auf einer Kunststoffplatte läuft, nennt man ihn E L I S A, einen enzymgekoppelten Immunadsorptionstest. E L I S A-Platten mit sechsundneunzig kleinen Vertiefungen werden noch häufig verwendet, besonders in der Infektionsserologie.
+
+Warum ist das im Labor wichtig? Immunoassays haben ihre eigenen typischen Fehler. Biotin, ein Vitamin, das manche Menschen in hohen Dosen für Haare und Nägel einnehmen, kann Tests stören, die Biotin in ihrem Aufbau verwenden. Die Ergebnisse können dann in beide Richtungen falsch sein. Manche Patienten haben Antikörper gegen tierische Proteine, die ein Sandwich auch ohne Zielmolekül überbrücken können. Und bei extrem hohen Konzentrationen kann ein Sandwich-Assay ein falsch niedriges Ergebnis zeigen. Das nennt man den Hook-Effekt, und die Lösung ist, die Probe zu verdünnen und neu zu messen.
+
+Kurz gesagt: Immunoassays nutzen markierte Antikörper, um winzige Stoffmengen zu messen. Sandwich-Assays sind für große Moleküle, und das Signal steigt mit der Konzentration. Kompetitive Assays sind für kleine Moleküle, und das Signal sinkt, wenn die Konzentration steigt.
+
+# Photometrie im Analysegerät — Photometry in analysers
+
+Das Lambert-Beer-Gesetz kennst du aus dem zweiten Leitfaden. In Worten: Die Extinktion ist gleich dem Extinktionskoeffizienten, mal der Konzentration, mal der Schichtdicke. Bei fester Wellenlänge und fester Küvette ist die Extinktion proportional zur Konzentration. Die meisten Tests der klinischen Chemie beruhen auf dieser einfachen Idee. Sehen wir uns nun an, wie ein Analysegerät sie nutzt.
+
+Ein modernes Analysegerät hat einen Ring kleiner Küvetten in einem warmen Wasserbad oder einem beheizten Block bei siebenunddreißig Grad Celsius. Eine Probennadel nimmt wenige Mikroliter Serum auf, und Reagenznadeln geben die Reagenzien dazu. Ein kleiner Rührer mischt alles. Dann läuft ein Lichtstrahl durch jede Küvette, während sich der Ring dreht, und ein Detektor misst die Extinktion bei ausgewählten Wellenlängen, viele Male pro Minute.
+
+Es gibt zwei grundlegende Messweisen. Die erste ist die Endpunktmethode. Man lässt die Reaktion vollständig ablaufen und liest die Extinktion am Ende ab. Die gesamte Änderung der Extinktion zeigt, wie viel Substanz vorhanden war. Gesamteiweiß, Albumin und viele Substrattests funktionieren so.
+
+Die zweite ist die kinetische Methode. Hier verfolgt das Gerät die Geschwindigkeit der Änderung, also die Extinktionsänderung pro Minute, wie du es bei den Enzymen gesehen hast. Alle Enzymaktivitäten werden so gemessen, und auch manche Substrate.
+
+Jeder Test braucht einen Leerwert. Ein Leerwert enthält alles außer der zu messenden Substanz, oder er wird vor dem Start der Reaktion abgelesen. Er zieht die Eigenfarbe des Reagenzes und der Probe ab. Patientenproben können nämlich eine eigene Farbe haben: rot durch Hämolyse, gelb durch Bilirubin, oder milchig trüb durch Lipide. Man nennt das die Serumindizes. Viele Geräte messen sie automatisch bei mehreren Wellenlängen und markieren Proben, die falsche Ergebnisse liefern könnten.
+
+Die Geräte messen außerdem bei zwei Wellenlängen gleichzeitig. Die Hauptwellenlänge ist die, bei der das farbige Produkt stark absorbiert. Die Nebenwellenlänge ist die, bei der es wenig absorbiert. Die Differenz der beiden Messwerte entfernt einen großen Teil des Hintergrundrauschens, etwa durch kleine Bläschen oder Trübungen. Man nennt das bichromatische Messung.
+
+Eine verwandte Methode ist die Turbidimetrie. Manche Tests bilden keine Farbe, sondern eine feine Trübung, zum Beispiel wenn Antikörper ein Protein binden und kleine Komplexe bilden. Das Gerät misst, wie viel Licht die Trübung abschwächt. So misst man das C R P und viele andere spezifische Proteine. Misst man stattdessen das zur Seite gestreute Licht, heißt die Methode Nephelometrie.
+
+Warum ist das im Labor wichtig? Jeder photometrische Test hat einen Messbereich. Oberhalb davon ist die Linie nicht mehr gerade, und das Ergebnis ist unzuverlässig. Das Gerät markiert dann das Ergebnis, verdünnt die Probe automatisch oder fordert dich auf, sie zu verdünnen, und misst erneut. Wenn du nach einer Verdünnung ein Ergebnis von Hand berechnest, vergiss nicht, mit dem Verdünnungsfaktor zu multiplizieren. Ein vergessener Faktor zehn ist ein klassischer und gefährlicher Fehler.
+
+Kurz gesagt: Analysegeräte wenden das Lambert-Beer-Gesetz in beheizten Küvetten bei festen Wellenlängen an. Endpunktmethoden lesen die Endfarbe ab, kinetische Methoden die Änderungsgeschwindigkeit. Leerwerte, Serumindizes und eine zweite Wellenlänge schützen vor falschen Ergebnissen, und hohe Werte müssen verdünnt werden.
+
+# Die Elektrophorese — Electrophoresis
+
+Elektrophorese bedeutet »Wanderung im elektrischen Feld«. Sie trennt geladene Moleküle, indem man sie in einem elektrischen Feld wandern lässt. Moleküle mit unterschiedlicher Ladung, Größe und Form wandern unterschiedlich schnell und trennen sich so in Banden auf.
+
+Erinnere dich an den zweiten Leitfaden: In einem elektrischen Feld wandern negative Teilchen zum Pluspol, der Anode, und positive Teilchen zum Minuspol, der Kathode. Proteine tragen viele geladene Gruppen. Beim pH-Wert des Elektrophoresepuffers, der alkalisch ist und etwa bei acht komma sechs liegt, sind fast alle Serumproteine negativ geladen. Sie wandern also alle zur Anode, aber unterschiedlich schnell.
+
+Der klassische Test ist die Serumeiweißelektrophorese. Ein kleiner Tropfen Serum wird auf einen Träger aufgetragen, etwa ein dünnes Gel oder eine Folie. Bei der modernen Kapillarelektrophorese läuft er stattdessen durch ein sehr dünnes Glasröhrchen. Dann wird die Spannung eingeschaltet. Nach dem Lauf werden die Proteine angefärbt, oder sie werden bei der Kapillarmethode mit ultraviolettem Licht erfasst. Das Ergebnis ist eine Kurve mit fünf typischen Gipfeln.
+
+Der erste und größte Gipfel, der am weitesten wandert, ist das Albumin. Dann folgen vier Gruppen von Globulinen, die mit griechischen Buchstaben benannt sind: Alpha eins, Alpha zwei, Beta und Gamma. Die Gamma-Fraktion wandert am wenigsten weit und enthält die meisten Antikörper.
+
+Das Muster erzählt eine Geschichte. Bei einer akuten Entzündung steigen die Alpha-Fraktionen, weil die Akute-Phase-Proteine zunehmen. Bei einer lang anhaltenden Entzündung oder einer Leberzirrhose wird die Gamma-Fraktion breit und hoch, weil viele verschiedene Plasmazellen viele verschiedene Antikörper bilden. Beim nephrotischen Syndrom geht Albumin über die Nieren verloren, und ein großes Protein in der Alpha-zwei-Fraktion wird verhältnismäßig hoch.
+
+Der wichtigste Befund ist eine schmale, spitze Zacke, meist im Gamma-Bereich. Eine schmale Zacke bedeutet, dass eine einzige Antikörperart in riesiger Menge vorliegt. Sie stammt komplett von einem einzigen Klon von Plasmazellen. Man nennt das einen monoklonalen Gradienten oder M-Gradienten. Er kann ein Zeichen für ein multiples Myelom sein, einen Krebs der Plasmazellen. Weitere Tests, die Immunfixation, zeigen dann genau, um welchen Antikörpertyp es sich handelt.
+
+Warum ist das im Labor wichtig? Die Elektrophorese wird mit Serum gemacht, nicht mit Plasma. Plasma enthält noch Fibrinogen, ein Gerinnungseiweiß, das eine eigene schmale Bande zwischen Beta und Gamma bildet. Diese Bande kann wie eine monoklonale Zacke aussehen und einen Fehlalarm auslösen. Prüfe deshalb immer das Probenmaterial. Auch Hämoglobin aus einer hämolytischen Probe kann eine zusätzliche Bande erzeugen. Die Elektrophorese wird auch in anderen Bereichen eingesetzt, zum Beispiel um Hämoglobinvarianten oder D N A-Fragmente zu trennen.
+
+Kurz gesagt: Die Elektrophorese trennt geladene Moleküle im elektrischen Feld. Serumproteine teilen sich in Albumin und die Alpha-eins-, Alpha-zwei-, Beta- und Gamma-Globuline. Eine schmale Zacke im Gamma-Bereich kann auf ein multiples Myelom hinweisen, und der Test muss mit Serum erfolgen.
+
+# Die Chromatographie — Chromatography
+
+Die Chromatographie ist eine Familie von Methoden, die die Bestandteile eines Gemisches trennen. Der Name bedeutet »Farbschreiben«, denn bei den ersten Versuchen wurden Pflanzenfarbstoffe in farbige Banden aufgetrennt. Heute nutzt man sie, um Stoffe zu messen, die einander ähnlich und schwer zu unterscheiden sind.
+
+Jede Chromatographie hat zwei Phasen. Die stationäre Phase bleibt an ihrem Platz. Das kann Papier sein, eine dünn beschichtete Platte oder feine Teilchen, die in eine Säule gepackt sind. Die mobile Phase bewegt sich hindurch oder daran vorbei. Sie ist eine Flüssigkeit oder ein Gas, das die Probe mitnimmt.
+
+Das Prinzip ist einfach. Jeder Stoff im Gemisch hat seine eigene Vorliebe. Manche haften stärker an der stationären Phase. Andere bleiben lieber in der mobilen Phase. Stoffe, die stark haften, wandern langsam. Stoffe, die die mobile Phase bevorzugen, wandern schnell. Stell dir eine Gruppe von Menschen vor, die über einen Markt geht. Wer an jedem Stand stehen bleibt, kommt spät am anderen Ende an. Wer sich nicht für das Einkaufen interessiert, ist schnell durch. Am Ende ist die Gruppe nach Interessen auseinandergezogen.
+
+Du kannst das zu Hause ausprobieren. Mach einen Punkt mit schwarzem Filzstift auf einen Streifen Küchenpapier, tauch das Ende in Wasser und schau zu. Das Wasser steigt nach oben und zieht die Tinte in mehrere Farben auseinander. Das ist Papierchromatographie.
+
+Im Labor ist die wichtigste Form die Hochleistungsflüssigkeitschromatographie, kurz H P L C. Hier wird die mobile Phase mit hohem Druck durch eine dünne Stahlsäule gepresst, die mit winzigen Teilchen gefüllt ist. Am Ende der Säule erfasst ein Detektor jeden Stoff, wenn er herauskommt. Die Zeit, die ein Stoff bis zum Austritt braucht, nennt man Retentionszeit. Sie identifiziert den Stoff. Die Größe des Gipfels zeigt, wie viel davon vorhanden ist.
+
+Bei der Gaschromatographie ist die mobile Phase ein Gas, und die Probe muss verdampft werden. Man nutzt sie für Stoffe wie Alkohole und für viele Medikamente und Giftstoffe.
+
+Oft ist das Chromatographiegerät mit einem Massenspektrometer gekoppelt. Das Massenspektrometer wiegt die Moleküle, wenn sie herauskommen. Dadurch wird die Identifizierung äußerst sicher. Diese Kombination ist der Goldstandard in der Toxikologie, bei Drogentests und bei der Messung mancher Hormone und Vitamine.
+
+Warum ist das im Labor wichtig? Die H P L C ist eine klassische Methode für das H b A eins c, weil sie das zuckertragende Hämoglobin von der normalen Form trennt und dabei auch ungewöhnliche Hämoglobinvarianten zeigen kann. Vitaminspiegel, Spiegel von Immunsuppressiva nach einer Transplantation und Drogensuchtests in der Notaufnahme sind weitere Beispiele. Ist ein schneller Drogensuchtest per Immunoassay positiv, wird er mit Chromatographie und Massenspektrometrie bestätigt.
+
+Kurz gesagt: Die Chromatographie trennt ein Gemisch zwischen einer stationären und einer mobilen Phase. Stoffe, die stärker haften, wandern langsamer. H P L C und Gaschromatographie, oft mit Massenspektrometrie gekoppelt, messen H b A eins c, Medikamente, Vitamine und Giftstoffe.
+
+# Zusammenfassung Biochemie — Biochemistry summary
+
+Schauen wir auf Teil eins zurück.
+
+Enzyme sind Biokatalysatoren aus Protein, die Reaktionen beschleunigen, indem sie die Aktivierungsenergie senken. Ihr aktives Zentrum passt zu einem bestimmten Substrat. Bei viel Substrat ist ein Enzym gesättigt, und seine Geschwindigkeit hängt nur von der Enzymmenge ab. Deshalb verwenden Labortests Substrat im Überschuss und messen die Enzymaktivität in Units pro Liter, oft über N A D H bei dreihundertvierzig Nanometern.
+
+Die A L T, früher G P T, zeigt ziemlich spezifisch einen Leberschaden, während die A S T, früher G O T, auch aus Herz und Muskel stammt. Alkalische Phosphatase und Gamma G T weisen auf einen Gallenstau hin. Die Kreatinkinase steigt bei jeder Muskelschädigung. Das Troponin hat sie als wichtigsten Infarktmarker abgelöst. Hämolyse erhöht A S T und L D H falsch.
+
+Der Stoffwechsel wandelt Brennstoffe in A T P um. Die Glykolyse spaltet Glucose ohne Sauerstoff in Pyruvat und bildet Laktat, wenn Sauerstoff fehlt. Citratzyklus und Atmungskette verbrennen Acetyl-C o A mit Sauerstoff und liefern das meiste A T P. Der Nüchternblutzucker liegt bei etwa siebzig bis neunundneunzig Milligramm pro Deziliter, das H b A eins c zeigt die letzten zwei bis drei Monate, und ein Fluoridröhrchen schützt die Glucose in der Probe.
+
+Albumin hält Wasser in den Gefäßen und transportiert viele Stoffe. Zu den Globulinen gehören das C R P und die Antikörper. Lipide reisen als Lipoproteine. Das L D L bringt Cholesterin zu den Geweben, das H D L bringt es zurück. Die Friedewald-Formel schätzt das L D L in einer Nüchternprobe.
+
+Hormone sind Peptide, Steroide oder Abkömmlinge von Aminosäuren und werden durch Rückkopplung gesteuert. Man misst sie mit Immunoassays. Sandwich-Assays sind für große Moleküle, kompetitive Assays für kleine.
+
+Analysegeräte nutzen die Photometrie bei festen Wellenlängen, mit Endpunkt- oder kinetischer Messung. Die Elektrophorese trennt die Serumproteine in fünf Fraktionen. Die Chromatographie trennt ähnliche Stoffe und identifiziert sie zusammen mit der Massenspektrometrie sehr sicher.
+
+# Teil zwei: Mikrobiologie — Part two: Microbiology
+
+Die Mikrobiologie ist die Lehre von Lebewesen, die zu klein sind, um sie mit bloßem Auge zu sehen: Bakterien, Viren, Pilze und winzige Parasiten. Im Krankenhauslabor beantwortet die Mikrobiologie zwei Fragen. Welcher Erreger macht den Patienten krank? Und welches Medikament tötet ihn ab?
+
+Die Mikrobiologie arbeitet anders als die klinische Chemie. Viele Ergebnisse brauchen Tage statt Minuten, weil die Erreger erst wachsen müssen. Vieles wird noch von Hand gemacht: Proben auf Platten ausstreichen, Kolonien beurteilen, Präparate färben und mikroskopieren. Und die Proben selbst können infektiös sein, deshalb gehören Sicherheit und sauberes Arbeiten zu jedem Schritt.
+
+Dieser Teil beginnt mit dem Aufbau der Bakterien und ihrer Einteilung. Dann kommt die berühmteste Färbung der Medizin, die Gramfärbung. Danach folgen Wachstumsbedingungen und Nährmedien. Dann Viren, Pilze und Parasiten. Dann die Identifizierung von Bakterien und die Antibiotikatestung. Und zum Schluss Sterilisation, Desinfektion und aseptisches Arbeiten.
+
+# Der Bakterienaufbau — Bacterial structure
+
+Bakterien sind einzelne Zellen. Sie sind Prokaryoten, die du aus dem ersten Leitfaden kennst: Sie haben keinen Zellkern und keine von Membranen umgebenen Organellen. Ein typisches Bakterium ist etwa ein bis fünf Mikrometer lang. Das ist ungefähr ein Zehntel der Größe einer menschlichen Zelle, und man braucht ein Lichtmikroskop mit starker Vergrößerung, um es zu sehen.
+
+Gehen wir von innen nach außen.
+
+Das Erbgut eines Bakteriums ist ein einzelner Ring aus D N A, der frei im Zytoplasma liegt. Den Bereich, in dem er liegt, nennt man Nukleoid oder Kernäquivalent. Viele Bakterien tragen außerdem kleine zusätzliche D N A-Ringe, die Plasmide. Plasmide tragen oft nützliche Zusatzgene, zum Beispiel Gene für eine Resistenz gegen Antibiotika. Bakterien können Plasmide untereinander weitergeben, sogar zwischen verschiedenen Arten. Auf diesem Weg breiten sich Resistenzen aus.
+
+Das Zytoplasma enthält viele Ribosomen, die Proteinfabriken. Bakterielle Ribosomen sind kleiner und anders gebaut als menschliche. Mehrere Antibiotika greifen genau diese bakteriellen Ribosomen an und lassen unsere in Ruhe.
+
+Das Zytoplasma ist von der Zellmembran umgeben, einer dünnen Lipiddoppelschicht wie bei unseren eigenen Zellen. Außerhalb der Membran liegt die Zellwand. Sie ist die Besonderheit der Bakterien. Die Wand besteht aus einem Netz namens Peptidoglykan, auch Murein genannt. Es ist ein Geflecht aus Zuckerketten, die durch kurze Eiweißbrücken verbunden sind. Es gibt der Zelle ihre Form und schützt sie vor dem Platzen, ähnlich wie ein Weidenkorb um einen Ballon. Menschliche Zellen haben keine solche Wand. Deshalb schaden Medikamente, die ihren Aufbau blockieren, wie Penicillin, den Bakterien, aber nicht uns.
+
+Manche Bakterien haben zusätzliche Strukturen auf der Außenseite. Eine Kapsel ist eine schleimige Schicht um die Wand. Sie hilft dem Bakterium, sich vor dem Immunsystem zu verstecken. Geißeln sind lange, peitschenartige Fäden, mit denen das Bakterium schwimmen kann. Pili oder Fimbrien sind kurze Härchen, mit denen sich Bakterien an Oberflächen festhalten, zum Beispiel an der Schleimhaut der Harnblase.
+
+Einige Bakterien können Sporen bilden. Eine Spore ist eine ruhende Überlebensform mit einer sehr widerstandsfähigen Hülle. Sporen überstehen Hitze, Trockenheit und viele Desinfektionsmittel jahrelang. Wenn die Bedingungen besser werden, erwacht die Spore und wird wieder zu einem aktiven Bakterium. Zu den Sporenbildnern gehört die Gattung Clostridium, die Wundstarrkrampf und eine schwere Darminfektion verursacht, und die Gattung Bacillus, zu der der Milzbranderreger gehört.
+
+Bakterien vermehren sich durch einfache Zweiteilung. Eine Zelle wächst, verdoppelt ihre D N A und teilt sich in zwei gleiche Tochterzellen. Unter guten Bedingungen teilen sich manche Bakterien alle zwanzig Minuten. Aus einem Bakterium können so innerhalb weniger Stunden Millionen werden.
+
+Warum ist das im Labor wichtig? Der Aufbau der Bakterien erklärt, was wir im Labor sehen und wie wir sie bekämpfen. Die Wand entscheidet, wie sich Bakterien anfärben. Die Sporen entscheiden, wie wir sterilisieren müssen. Plasmide erklären, warum in einem Krankenhaus plötzlich Resistenzen auftauchen können. Und die schnelle Teilung erklärt, warum eine Probe, die stundenlang warm stand, viel mehr Bakterien zeigt, als im Patienten wirklich waren.
+
+Kurz gesagt: Bakterien sind kleine prokaryotische Zellen mit einem D N A-Ring, Ribosomen, einer Membran und einer Zellwand aus Peptidoglykan. Manche haben Kapseln, Geißeln, Pili oder Sporen. Plasmide können Resistenzgene von einem Bakterium zum anderen tragen.
+
+# Die Einteilung der Bakterien — Classifying bacteria
+
+Es gibt tausende Arten von Bakterien. Um über sie zu sprechen, gibt man jeder einen Namen und ordnet sie in Gruppen.
+
+Jedes Bakterium hat einen zweiteiligen wissenschaftlichen Namen, wie Pflanzen und Tiere. Der erste Teil ist die Gattung und wird groß geschrieben. Der zweite Teil ist die Art und wird klein geschrieben. Zum Beispiel Staphylococcus aureus: Die Gattung ist Staphylococcus, die Art ist aureus, was golden bedeutet, weil die Kolonien oft goldgelb aussehen. Ein anderes Beispiel ist Escherichia coli, ein normaler Bewohner des menschlichen Darms und einer der häufigsten Erreger von Blasenentzündungen.
+
+Die einfachste Art, Bakterien zu beschreiben, ist ihre Form unter dem Mikroskop. Es gibt drei Grundformen. Runde Bakterien heißen Kokken. Stäbchenförmige Bakterien heißen Stäbchen. Gebogene oder schraubenförmige Bakterien heißen Spirillen oder Spirochäten.
+
+Kokken unterscheiden sich außerdem darin, wie sie nach der Teilung zusammenliegen. Wenn sie sich in viele Richtungen teilen und in Haufen zusammenbleiben, wie eine Weintraube, sind es Staphylokokken. Wenn sie sich in einer Richtung teilen und Ketten bilden, wie eine Perlenkette, sind es Streptokokken. Liegen sie paarweise, sind es Diplokokken. Der Lungenentzündungserreger Streptococcus pneumoniae erscheint zum Beispiel meist als lanzettförmige Paare. Die Erreger der Gonorrhoe und der Meningokokken-Meningitis sind kaffeebohnenförmige Diplokokken.
+
+Die zweite wichtige Einteilung beruht auf der Zellwand. Sie zeigt sich in der Gramfärbung, die wir in den nächsten beiden Kapiteln betrachten. Bakterien sind entweder grampositiv oder gramnegativ. Zusammen mit der Form ergibt das schon eine nützliche erste Gruppe, zum Beispiel »grampositive Kokken in Haufen« oder »gramnegative Stäbchen«.
+
+Eine dritte Einteilung richtet sich nach dem Sauerstoffbedarf. Manche brauchen Sauerstoff, manche werden von ihm getötet, und viele können mit oder ohne Sauerstoff leben. Das sehen wir uns bei den Wachstumsbedingungen an.
+
+Schließlich ordnet man Bakterien nach ihren chemischen Fähigkeiten. Welche Zucker können sie abbauen? Welche Enzyme besitzen sie? Bilden sie Gas? Diese Stoffwechselmerkmale helfen bei der Bestimmung der Art, wie du später sehen wirst.
+
+Nicht alle Bakterien machen krank. Die meisten Bakterien auf unserer Haut und in unserem Darm sind harmlos oder sogar nützlich. Man nennt sie die physiologische Flora oder Normalflora. Manche Bakterien machen nur krank, wenn sie an den falschen Ort gelangen, zum Beispiel Darmbakterien in die Blase oder Hautbakterien über einen Katheter ins Blut. Das ist für das Labor wichtig, denn ein Bakterium in einer Probe bedeutet nicht immer, dass es die Krankheit verursacht.
+
+Warum ist das im Labor wichtig? Ein erster Befund geht oft schon vor der endgültigen Bestimmung an die Station, manchmal innerhalb einer Stunde. Eine positive Blutkultur wird zum Beispiel gefärbt, und das Labor ruft die Ärztin an: »Grampositive Kokken in Haufen«. Das ist sehr wahrscheinlich ein Staphylokokkus. Die Ärztin kann die Antibiotika schon anpassen, ein bis zwei Tage bevor der Artname bekannt ist. Form, Lagerung und Gramverhalten sind die erste Sprache der Mikrobiologie.
+
+Kurz gesagt: Bakterien haben einen Gattungs- und einen Artnamen. Man ordnet sie zuerst nach der Form in Kokken, Stäbchen und Schrauben, und nach der Lagerung in Haufen, Ketten und Paare. Zusammen mit dem Gramverhalten ergibt das den ersten schnellen Befund.
+
+# Grampositiv und gramnegativ — Gram positive and negative
+
+Im Jahr achtzehnhundertvierundachtzig entwickelte der dänische Arzt Hans Christian Gram eine Färbemethode. Er bemerkte, dass sie die Bakterien in zwei große Gruppen teilte. Heute wissen wir, warum: Die beiden Gruppen haben unterschiedliche Zellwände.
+
+Grampositive Bakterien haben eine dicke Wand. Ihr Peptidoglykannetz ist in vielen Schichten aufgebaut, bis zu vierzig, wie eine dicke Wolldecke um die Zellmembran. In diese Wand sind lange Ketten eines Stoffes namens Teichonsäure eingewebt. Außerhalb der Wand gibt es keine weitere Schicht.
+
+Gramnegative Bakterien haben eine dünne Wand, nur eine oder zwei Schichten Peptidoglykan. Aber außerhalb dieser dünnen Wand haben sie eine zweite Membran, die äußere Membran. Ihre Hülle ist also wie ein Sandwich aufgebaut: innere Membran, dünne Wand, äußere Membran. Den Raum zwischen den beiden Membranen nennt man Periplasma.
+
+Die äußere Membran gramnegativer Bakterien enthält ein besonderes Molekül, das Lipopolysaccharid, eine Verbindung aus Fett und Zucker. Man nennt es auch Endotoxin. Wenn gramnegative Bakterien im Blut absterben und zerfallen, wird Endotoxin frei. Es kann eine heftige Reaktion des Immunsystems auslösen, mit Fieber, Blutdruckabfall und septischem Schock. Deshalb ist eine gramnegative Blutinfektion so gefährlich.
+
+Die äußere Membran wirkt außerdem als Barriere. Sie hält viele Stoffe draußen, darunter auch manche Antibiotika. Dadurch sind gramnegative Bakterien von Natur aus gegen mehrere Medikamente resistent, die gegen grampositive Bakterien gut wirken.
+
+Lernen wir die wichtigsten Vertreter jeder Gruppe kennen.
+
+Zu den grampositiven Kokken gehören die Staphylokokken und die Streptokokken. Staphylococcus aureus verursacht Hautinfektionen, Abszesse, Wundinfektionen und schwere Blutinfektionen. Streptokokken verursachen Mandelentzündungen, Lungenentzündungen und bei Neugeborenen gefährliche Infektionen. Auch die Enterokokken, die im Darm leben, sind grampositive Kokken. Zu den grampositiven Stäbchen gehören die Gattungen Clostridium und Listeria.
+
+Zu den gramnegativen Stäbchen gehören viele Darmbakterien wie Escherichia coli, Klebsiella und Salmonella. Ein weiteres wichtiges ist Pseudomonas aeruginosa, ein Bakterium feuchter Orte, das Krankenhausinfektionen verursacht und gegen viele Medikamente resistent ist. Zu den gramnegativen Kokken gehören die Diplokokken der Gattung Neisseria, die Hirnhautentzündung und Gonorrhoe verursachen.
+
+Manche Bakterien passen nicht in dieses Schema. Mykobakterien, die Erreger der Tuberkulose, haben eine wachsartige Wand, die die Gramfärbung kaum aufnimmt. Sie brauchen eine Spezialfärbung, die Ziehl-Neelsen-Färbung, und heißen dann säurefeste Stäbchen. Mykoplasmen haben gar keine Wand und sind in der Gramfärbung nicht zu sehen.
+
+Warum ist das im Labor wichtig? Der Wandtyp bestimmt die erste Wahl des Antibiotikums. Das Medikament Vancomycin wirkt zum Beispiel gut gegen grampositive Bakterien, kann aber die äußere Membran gramnegativer Bakterien nicht durchdringen. Das Gramergebnis aus einer Blutkultur oder aus dem Nervenwasser kann daher die Behandlung eines schwerkranken Patienten innerhalb von Stunden verändern.
+
+Kurz gesagt: Grampositive Bakterien haben eine dicke Peptidoglykanwand und keine äußere Membran. Gramnegative Bakterien haben eine dünne Wand und eine äußere Membran mit Endotoxin. Dieser Unterschied beeinflusst die Färbung, die Gefährlichkeit der Infektion und die Wahl des Antibiotikums.
+
+# Die Gramfärbung — The Gram stain
+
+Die Gramfärbung ist die wichtigste Färbung der Mikrobiologie. Sie ist schnell, billig und dauert nur wenige Minuten. Jede Auszubildende und jeder Auszubildende lernt, sie von Hand durchzuführen.
+
+Zuerst kommt der Ausstrich. Eine kleine Menge der Probe oder einer Bakterienkolonie wird dünn auf einem Objektträger verteilt. Der Ausstrich trocknet an der Luft. Dann wird er fixiert, meist indem man ihn kurz durch eine Flamme zieht oder Methanol verwendet. Die Fixierung tötet die Bakterien und klebt sie auf das Glas, sodass sie nicht weggespült werden.
+
+Dann folgen vier Schritte.
+
+Schritt eins: Der Objektträger wird etwa eine Minute lang mit Kristallviolett bedeckt, einem tiefvioletten Farbstoff. Alle Bakterien nehmen den Farbstoff auf und werden violett. Dann wird mit Wasser gespült.
+
+Schritt zwei: Der Objektträger wird etwa eine Minute lang mit Lugolscher Lösung bedeckt, die Jod enthält. Das Jod verbindet sich in den Zellen mit dem Kristallviolett zu einem großen Farbstoffkomplex. Dieser Komplex ist zu groß, um leicht hinauszuschlüpfen. Dann wird wieder gespült.
+
+Schritt drei ist der entscheidende Schritt: die Entfärbung. Der Objektträger wird einige Sekunden lang mit Alkohol oder einer Mischung aus Alkohol und Aceton gespült, bis keine violette Farbe mehr abläuft. Bei grampositiven Bakterien schrumpft die dicke Wand und hält den Farbstoffkomplex im Inneren fest. Sie bleiben violett. Bei gramnegativen Bakterien löst der Alkohol die äußere Membran, und die dünne Wand kann den Farbstoff nicht halten. Die Farbe wird ausgewaschen, und sie werden farblos.
+
+Schritt vier ist die Gegenfärbung. Der Objektträger wird etwa eine Minute lang mit einem roten Farbstoff bedeckt, entweder Safranin oder verdünntes Karbolfuchsin. Jetzt nehmen die farblosen gramnegativen Bakterien die rote Farbe auf. Die grampositiven Bakterien sind schon dunkelviolett, deshalb verändert das Rot ihr Aussehen nicht. Nach einem letzten Spülen wird der Objektträger getrocknet.
+
+Das Ergebnis unter dem Mikroskop, mit Ölimmersion und etwa tausendfacher Vergrößerung: Grampositive Bakterien erscheinen dunkelblau bis violett. Gramnegative Bakterien erscheinen rosa bis rot.
+
+Das Mikroskop zeigt noch mehr. Im Ausstrich einer Patientenprobe siehst du auch weiße Blutkörperchen, die auf eine Infektion hindeuten, und Plattenepithelzellen, die auf eine Verunreinigung hindeuten. Eine Sputumprobe mit vielen Plattenepithelien aus dem Mund ist eher Speichel als Material aus der Lunge, und eine Kultur lohnt sich dann vielleicht nicht.
+
+Warum ist das im Labor wichtig? Die Gramfärbung kann in beide Richtungen schiefgehen. Ist die Entfärbung zu lang, verlieren auch grampositive Bakterien ihre Farbe und erscheinen falsch gramnegativ. Ist sie zu kurz, bleiben gramnegative Bakterien violett und erscheinen falsch grampositiv. Ein zu dicker Ausstrich verursacht dasselbe Problem. Auch alte Kulturen färben sich manchmal schlecht, weil die Wände alter oder absterbender grampositiver Bakterien schwächer werden. Labore prüfen ihre Färbung täglich mit bekannten Kontrollstämmen.
+
+Kurz gesagt: Die Gramfärbung verwendet Kristallviolett, Jod, Alkohol und eine rote Gegenfärbung. Grampositive Bakterien behalten die violette Farbe, gramnegative verlieren sie und werden rot. Die Entfärbung ist der kritische Schritt, und Kontrollen sichern die Qualität der Färbung.
+
+# Die Wachstumsbedingungen — Growth conditions
+
+Um ein Bakterium zu bestimmen und gegen Antibiotika zu testen, muss das Labor es zuerst anzüchten. Das Anzüchten von Bakterien im Labor nennt man Kultivierung. Wie jedes Lebewesen brauchen Bakterien die richtigen Bedingungen.
+
+Bakterien brauchen Nahrung: eine Kohlenstoffquelle wie Zucker oder Eiweiß, dazu Stickstoff, Mineralstoffe und Wasser. Manche Bakterien sind anspruchslos und wachsen auf fast allem. Andere sind wählerisch und brauchen besondere Zusätze wie Blut oder bestimmte Vitamine. Diese wählerischen Bakterien nennt man anspruchsvoll.
+
+Die Temperatur ist der nächste Faktor. Krankheitserreger des Menschen mögen meist Körpertemperatur. Deshalb werden die meisten Kulturen im Labor bei fünfunddreißig bis siebenunddreißig Grad Celsius bebrütet, in einem Wärmeschrank, dem Brutschrank.
+
+Der Sauerstoff ist der dritte Faktor, und hier unterscheiden sich Bakterien stark. Obligate Aerobier brauchen Sauerstoff zum Leben, zum Beispiel Pseudomonas oder der Tuberkuloseerreger. Obligate Anaerobier werden durch Sauerstoff getötet. Sie leben an Orten ohne Luft, etwa in tiefen Wunden, Abszessen und im Darm. Man muss sie in verschlossenen Töpfen oder speziellen Kammern ohne Sauerstoff anzüchten. Fakultative Anaerobier können mit oder ohne Sauerstoff leben. Escherichia coli und die Staphylokokken gehören zu dieser Gruppe. Manche Bakterien, die mikroaerophilen, mögen nur wenig Sauerstoff. Und manche anspruchsvollen Bakterien wachsen besser mit zusätzlichem Kohlendioxid, etwa fünf Prozent, in einem speziellen Brutschrank.
+
+Auch der pH-Wert spielt eine Rolle. Die meisten Krankheitserreger bevorzugen einen neutralen pH-Wert um sieben.
+
+Wenn Bakterien alles haben, was sie brauchen, wachsen sie nach einem typischen Muster, der Wachstumskurve. Zuerst kommt die Anlaufphase, auch Lag-Phase genannt. Die Bakterien passen sich an ihre neue Umgebung an und teilen sich kaum. Dann folgt die exponentielle oder logarithmische Phase. Sie teilen sich mit voller Geschwindigkeit, und ihre Zahl verdoppelt sich in regelmäßigen Abständen. Dann geht die Nahrung aus, und Abfallstoffe sammeln sich an. Das Wachstum stoppt, und die Zahl bleibt gleich. Das ist die stationäre Phase. Zuletzt kommt die Absterbephase, in der mehr Bakterien sterben als entstehen.
+
+Wie schnell geht das? Escherichia coli kann sich unter idealen Bedingungen etwa alle zwanzig Minuten verdoppeln. Rechnen wir. In einer Stunde sind das drei Verdopplungen: zwei, vier, acht. Aus einem Bakterium werden also acht. In zwei Stunden werden es vierundsechzig. In fünf Stunden mehr als dreißigtausend. Die meisten häufigen Bakterien bilden über Nacht sichtbare Kolonien auf einer Platte, in etwa achtzehn bis vierundzwanzig Stunden. Manche sind viel langsamer. Der Tuberkuloseerreger verdoppelt sich nur etwa einmal am Tag, und seine Kulturen brauchen mehrere Wochen.
+
+Warum ist das im Labor wichtig? Die Wachstumsbedingungen entscheiden, ob wir den Erreger überhaupt finden. Ein Abstrich aus einem Abszess muss in einem Transportmedium ins Labor kommen, das Anaerobier vor Sauerstoff schützt. Eine Urinprobe, die stundenlang warm steht, lässt Bakterien wachsen und ergibt falsch hohe Keimzahlen. Urin sollte deshalb gekühlt oder schnell untersucht werden. Und eine Probe, die nach der ersten Antibiotikagabe abgenommen wurde, bleibt oft steril, obwohl der Patient eine Infektion hat.
+
+Kurz gesagt: Bakterien brauchen Nahrung, die richtige Temperatur, die passende Menge Sauerstoff und einen geeigneten pH-Wert. Die meisten werden bei fünfunddreißig bis siebenunddreißig Grad Celsius bebrütet, Anaerobier ohne Sauerstoff. Das Wachstum folgt einer Kurve mit Anlauf-, exponentieller, stationärer und Absterbephase.
+
+# Die Nährmedien — Culture media
+
+Ein Nährmedium ist die Nahrung, auf der das Labor Mikroorganismen anzüchtet. Es gibt zwei Grundformen. Ein flüssiges Medium, die Nährbouillon, dient dazu, Bakterien in großer Zahl zu vermehren, zum Beispiel in Blutkulturflaschen. Ein festes Medium entsteht, wenn man Agar zugibt, eine Gallerte aus Meeresalgen, und es in flache runde Schalen gießt, die Petrischalen. Im Labor sagt man einfach Platten.
+
+Auf einem festen Medium wächst jedes einzelne Bakterium zu einem sichtbaren Haufen aus Millionen gleicher Zellen heran. Diesen Haufen nennt man Kolonie. Jede Kolonie stammt von einer einzigen Zelle und ist daher eine Reinkultur einer Bakterienart. Kolonien verschiedener Arten sehen unterschiedlich aus: groß oder klein, glatt oder rau, glänzend oder matt, weiß, gelb oder grau. Ein erfahrenes Auge kann das Bakterium oft schon an seinen Kolonien erraten.
+
+Um Einzelkolonien zu erhalten, streicht man die Probe in einer bestimmten Technik aus, dem fraktionierten Ausstrich oder Drei-Ösen-Ausstrich. Mit einer sterilen Öse wird die Probe auf einem Teil der Platte verteilt. Dann wird die Öse ausgeglüht oder gewechselt und zieht etwas Material aus dem ersten Feld in ein zweites. Dasselbe passiert noch einmal in ein drittes Feld. Jeder Schritt verdünnt die Bakterien, sodass im letzten Feld einzelne Kolonien getrennt voneinander wachsen. Es ist ein bisschen so, als würdest du Butter immer dünner über eine Scheibe Brot streichen.
+
+Nährmedien haben unterschiedliche Aufgaben.
+
+Ein Basismedium ermöglicht das Wachstum der meisten Bakterien. Das klassische Beispiel ist die Blutagarplatte mit Schafblut. Auf Blutagar sieht man außerdem die Hämolyse. Manche Bakterien zerstören die roten Blutkörperchen vollständig und hinterlassen einen klaren Hof um ihre Kolonien. Das nennt man Beta-Hämolyse, typisch für manche Streptokokken. Andere hinterlassen einen grünlichen Hof, die Alpha-Hämolyse. Wieder andere lassen das Blut unverändert, das nennt man Gamma-Hämolyse.
+
+Kochblutagar enthält Blut, das erhitzt wurde, bis es braun ist. Dadurch werden Nährstoffe aus den roten Blutkörperchen frei. Man verwendet ihn für anspruchsvolle Bakterien wie Haemophilus und Neisseria.
+
+Ein Selektivmedium enthält Stoffe, die das Wachstum mancher Bakterien hemmen, sodass die gesuchten leichter zu finden sind. Der MacConkey-Agar enthält zum Beispiel Gallensalze und einen Farbstoff, die die meisten grampositiven Bakterien hemmen. Nur gramnegative Bakterien wachsen darauf.
+
+Ein Differenzierungsmedium zeigt Unterschiede zwischen Bakterien durch einen Farbumschlag. Der MacConkey-Agar ist auch ein Differenzierungsmedium. Er enthält den Zucker Laktose und einen pH-Indikator. Bakterien, die Laktose abbauen, bilden Säure, und ihre Kolonien werden rosa bis rot. Bakterien, die das nicht können, bleiben farblos. Escherichia coli ist rosa. Salmonella ist farblos.
+
+Für Pilze gibt es Spezialmedien wie den Sabouraud-Agar, der leicht sauer ist und zusätzlichen Zucker enthält.
+
+Warum ist das im Labor wichtig? Für jede Probenart verwendet das Labor eine feste Kombination von Platten. Eine Urinprobe kommt zum Beispiel auf Blutagar und ein Differenzierungsmedium für Harnwegserreger. Eine Stuhlprobe kommt auf mehrere Selektivmedien, um Salmonellen oder andere Darmerreger zwischen Milliarden harmloser Darmbakterien zu finden. Die Platten müssen im Kühlschrank gelagert, vor dem Verfallsdatum verwendet und mit Kontrollstämmen geprüft werden. So wird nie ein Erreger übersehen, nur weil eine Platte schlecht war.
+
+Kurz gesagt: Bakterien wachsen in Bouillons oder auf Agarplatten, wo jede Zelle eine Kolonie bildet. Der fraktionierte Ausstrich ergibt Einzelkolonien. Medien können Basis-, Anreicherungs-, Selektiv- oder Differenzierungsmedien sein, und jede Probenart bekommt ihre eigenen Platten.
+
+# Die Viren — Viruses
+
+Viren sind ganz anders als Bakterien. Sie sind überhaupt keine Zellen. Ein Virus ist ein winziges Paket aus Erbgut, umhüllt von einer Eiweißschale. Es ist etwa hundertmal kleiner als ein Bakterium, zu klein für ein Lichtmikroskop. Man braucht ein Elektronenmikroskop, um es zu sehen.
+
+Das Erbgut eines Virus ist entweder D N A oder R N A, niemals beides. Die Eiweißschale darum heißt Kapsid. Manche Viren haben eine zusätzliche äußere Schicht, eine Fetthülle, die sie aus der Membran der Wirtszelle mitnehmen. Man nennt sie behüllte Viren. Grippeviren, H I V, das Hepatitis-B-Virus und die Coronaviren sind behüllt. Viren ohne Hülle nennt man unbehüllt oder nackt, zum Beispiel die Noroviren, die heftiges Erbrechen und Durchfall verursachen.
+
+Ein Virus hat keinen eigenen Stoffwechsel. Es kann weder Energie noch Proteine herstellen. Es kann sich nur in einer lebenden Wirtszelle vermehren. Es ist wie eine Rezeptkarte ohne Küche. Das Virus heftet sich an eine Zelle mit passenden Rezeptoren, dringt ein und setzt sein Erbgut frei. Dann übernimmt es die Maschinen der Zelle und zwingt sie, neue Virusbauteile herzustellen. Diese werden zu hunderten oder tausenden neuen Viren zusammengesetzt, die die Zelle verlassen, sie oft zerstören und die nächsten Zellen befallen.
+
+Manche Viren können sich verstecken. Nach der ersten Infektion bleiben Herpesviren lebenslang still in Nervenzellen und können Jahre später wieder erwachen, zum Beispiel als Lippenherpes oder Gürtelrose. H I V baut sein Erbgut in die D N A der Wirtszelle ein.
+
+Weil Viren keine Wand und keine eigenen Ribosomen haben, wirken Antibiotika nicht gegen sie. Antibiotika greifen Strukturen an, die nur Bakterien haben. Virusinfektionen behandelt man mit speziellen antiviralen Medikamenten, die es nur für manche Viren gibt, oder man beugt ihnen mit Impfungen vor.
+
+Wie weist das Labor Viren nach? Die Anzucht ist schwierig, weil Viren lebende Zellen brauchen. Die Viruskultur ist deshalb heute selten. Stattdessen nutzt das Labor drei Hauptwege. Der erste ist, das Erbgut des Virus mit der P C R nachzuweisen, die du im Genetikteil kennenlernst. Das ist sehr empfindlich und heute für viele Viren der Standard. Der zweite ist, Virusproteine nachzuweisen, die Antigene, mit Immunoassays. Antigen-Schnelltests für Grippe oder Coronavirus funktionieren so. Der dritte ist die Serologie: der Nachweis von Antikörpern des Patienten gegen das Virus. Sie zeigt, ob jemand eine Infektion oder eine Impfung hatte.
+
+Warum ist das im Labor wichtig? Behüllte Viren werden durch Alkohol recht leicht zerstört, weil sich die Fetthülle auflöst. Unbehüllte Viren sind viel widerstandsfähiger. Noroviren überstehen viele gängige Händedesinfektionsmittel, deshalb sind Ausbrüche auf Krankenhausstationen so schwer zu stoppen. Außerdem können viele über das Blut übertragene Viren wie Hepatitis B, Hepatitis C und H I V in jeder Patientenprobe vorhanden sein. Deshalb muss jede Probe als potenziell infektiös behandelt werden.
+
+Kurz gesagt: Viren sind keine Zellen, sondern Erbgut in einer Eiweißschale, manchmal mit einer Hülle. Sie vermehren sich nur in Wirtszellen, und Antibiotika wirken nicht gegen sie. Das Labor weist sie vor allem mit P C R, Antigentests und Antikörpertests nach.
+
+# Pilze und Parasiten — Fungi and parasites
+
+Neben Bakterien und Viren verursachen zwei weitere Gruppen von Lebewesen Infektionen: Pilze und Parasiten. Beide sind Eukaryoten, genau wie wir. Ihre Zellen haben einen Zellkern und Organellen. Das macht sie schwerer zu behandeln, denn Medikamente, die ihnen schaden, können auch menschlichen Zellen schaden.
+
+Beginnen wir mit den Pilzen. Pilze haben eine Zellwand, aber sie besteht aus Chitin, demselben Stoff wie im Panzer von Insekten, und nicht aus Peptidoglykan. Ihre Membran enthält einen Stoff namens Ergosterol statt Cholesterin. Viele Medikamente gegen Pilze greifen genau dieses Ergosterol an.
+
+Medizinisch gibt es Pilze in zwei Formen. Hefen sind einzelne runde Zellen, die sich durch Sprossung vermehren: Eine kleine Tochterzelle wächst wie eine Knospe aus der Mutterzelle heraus. Die wichtigste Hefe ist Candida albicans. Sie lebt bei vielen Menschen harmlos in Mund und Darm. Aber bei Babys, bei Patienten mit schwachem Immunsystem oder nach Antibiotika kann sie Mundsoor, Scheideninfektionen oder sogar gefährliche Blutinfektionen verursachen. Schimmelpilze wachsen als lange, verzweigte Fäden, die Hyphen. Sie bilden flauschige Kolonien wie der Schimmel auf altem Brot. Aspergillus ist ein Schimmelpilz, dessen Sporen wir täglich einatmen. Er ist gefährlich für Patienten mit sehr schwachem Immunsystem, zum Beispiel nach einer Knochenmarktransplantation. Eine dritte Gruppe, die Dermatophyten oder Hautpilze, befallen Haut, Haare und Nägel und verursachen zum Beispiel Fußpilz.
+
+Im Labor werden Pilze auf Spezialmedien wie Sabouraud-Agar angezüchtet. Sie wachsen langsamer als Bakterien, deshalb werden die Kulturen mehrere Tage oder Wochen bebrütet. Haut- und Nagelproben werden oft direkt mikroskopiert, nachdem man sie mit einer starken Lauge aufgeweicht hat, sodass die Pilzfäden sichtbar werden.
+
+Nun zu den Parasiten. Ein Parasit ist ein Lebewesen, das auf oder in einem Wirt lebt und ihm schadet. In der Medizin gibt es zwei Hauptgruppen.
+
+Protozoen sind einzellige Parasiten. Der wichtigste ist Plasmodium, der Malariaerreger, der von Mücken übertragen wird. Er lebt in den roten Blutkörperchen. Andere Protozoen sind Giardia, das Durchfall verursacht, und Toxoplasma, das in der Schwangerschaft gefährlich ist.
+
+Helminthen sind Würmer. Sie sind vielzellig und können groß sein, wie Bandwürmer oder Spulwürmer. Oft sieht das Labor nicht den Wurm selbst, sondern seine Eier in einer Stuhlprobe.
+
+Ektoparasiten wie Läuse und Milben leben auf der Haut. Sie werden meist direkt von der Ärztin erkannt und weniger im Labor.
+
+Warum ist das im Labor wichtig? Malaria ist ein Notfall. Ein Reisender mit Fieber nach einem Aufenthalt in den Tropen muss innerhalb von Stunden untersucht werden, denn eine Malariaform kann schnell tödlich sein. Das Labor fertigt zwei Arten von Blutausstrichen an, den dicken Tropfen und den dünnen Ausstrich. Sie werden nach Giemsa gefärbt, und man sucht Parasiten in den roten Blutkörperchen. Mit dem dünnen Ausstrich kann das Labor auch zählen, wie viel Prozent der roten Blutkörperchen befallen sind. Ein Antigen-Schnelltest kann helfen, aber das Mikroskop bleibt der Goldstandard.
+
+Kurz gesagt: Pilze und Parasiten sind Eukaryoten. Pilze treten als Hefen wie Candida oder als Schimmelpilze wie Aspergillus auf und wachsen langsam auf Spezialmedien. Zu den Parasiten gehören Protozoen wie der Malariaerreger und Würmer, deren Eier man im Stuhl findet.
+
+# Bakterien identifizieren — Identifying bacteria
+
+Wenn Kolonien auf der Platte gewachsen sind, lautet die nächste Frage: Welche Art ist das? Das Labor geht in mehreren Schritten vor, von einfach bis aufwendig.
+
+Der erste Schritt ist Hinschauen. Wie sehen die Kolonien aus? Welche Farbe haben sie? Gibt es eine Hämolyse auf Blutagar? Wachsen sie auf Selektivmedien? Wie riechen sie? Dann folgt eine Gramfärbung der Kolonie, die Form und Gramverhalten zeigt.
+
+Der zweite Schritt sind Schnelltests, die nur Sekunden bis Minuten dauern. Jeder Test prüft auf ein Enzym oder ein Merkmal.
+
+Der Katalasetest unterscheidet Staphylokokken von Streptokokken. Katalase ist ein Enzym, das Wasserstoffperoxid in Wasser und Sauerstoff spaltet. Etwas Koloniematerial wird auf einem Objektträger mit einem Tropfen Wasserstoffperoxid vermischt. Erscheinen Bläschen, ist der Test positiv. Staphylokokken sind katalasepositiv. Streptokokken sind katalasenegativ.
+
+Der Koagulasetest unterscheidet Staphylococcus aureus von den anderen Staphylokokken. Koagulase ist ein Enzym, das Plasma gerinnen lässt. Staphylococcus aureus besitzt es. Die meisten anderen Staphylokokken, oft harmlose Hautbakterien, besitzen es nicht. Heute macht man das oft mit einem schnellen Agglutinationstest auf einer Karte.
+
+Der Oxidasetest hilft bei gramnegativen Stäbchen. Pseudomonas ist oxidasepositiv, während Escherichia coli und seine Verwandten oxidasenegativ sind.
+
+Der dritte Schritt ist eine Reihe biochemischer Tests, die sogenannte bunte Reihe. Das Bakterium wird gleichzeitig auf vielen Substraten getestet. Kann es Glucose, Laktose oder andere Zucker abbauen? Kann es Citrat verwerten? Bildet es bestimmte Enzyme? Jeder Test ergibt ein positives oder negatives Ergebnis, oft durch einen Farbumschlag. Zusammen bilden sie ein Profil, wie einen Fingerabdruck, das mit einer Datenbank verglichen wird. Heute übernehmen kleine Kunststoffstreifen mit vielen winzigen Kammern oder automatische Geräte mit Testkarten diese Aufgabe.
+
+Der vierte Schritt, und die große Revolution der letzten Jahre, ist die Massenspektrometrie. Die Methode heißt Maldi-Tof-Massenspektrometrie. Eine winzige Menge Koloniematerial wird auf eine Metallplatte gegeben und mit einer speziellen Chemikalie bedeckt. Ein Laserstrahl trifft den Fleck und verwandelt die Proteine des Bakteriums in geladene Teilchen. Diese fliegen durch ein langes Rohr zu einem Detektor. Leichte Teilchen kommen zuerst an, schwere später. So entsteht ein Muster aus Gipfeln, vor allem von den ribosomalen Proteinen, das für jede Art typisch ist. Ein Computer vergleicht es mit einer Bibliothek. Die Antwort kommt innerhalb von Minuten, für wenige Cent pro Test.
+
+Warum ist das im Labor wichtig? Die Geschwindigkeit der Bestimmung ist für den Patienten wichtig. Früher dauerte die Bestimmung nach dem Wachstum der Kolonien noch ein bis zwei Tage. Mit der Massenspektrometrie ist die Art innerhalb von Minuten bekannt. Das Labor braucht aber weiterhin eine Reinkultur: Eine Mischung aus zwei Arten auf dem Probenplatz ergibt ein verwirrendes Muster. Und die Massenspektrometrie sagt nichts über Resistenzen. Dafür braucht man weiterhin den Antibiotikatest aus dem nächsten Kapitel.
+
+Kurz gesagt: Bakterien werden anhand ihrer Kolonien, der Gramfärbung, von Schnelltests wie Katalase, Koagulase und Oxidase sowie der bunten Reihe bestimmt. Heute identifiziert die Massenspektrometrie die meisten Arten innerhalb von Minuten aus einer reinen Kolonie.
+
+# Das Antibiogramm — Antibiotic susceptibility
+
+Den Namen eines Bakteriums zu kennen, reicht nicht. Die Ärztin muss auch wissen, welche Antibiotika dagegen wirken. Viele Bakterien sind gegen gängige Medikamente resistent geworden. Deshalb testet das Labor jedes relevante Bakterium gegen eine Reihe von Antibiotika. Das Ergebnis heißt Antibiogramm, die Untersuchung Resistenztestung.
+
+Die entscheidende Zahl ist die minimale Hemmkonzentration, kurz M H K. Sie ist die niedrigste Konzentration eines Antibiotikums, die das sichtbare Wachstum des Bakteriums verhindert. Eine niedrige M H K bedeutet, dass wenig Medikament ausreicht. Eine hohe M H K bedeutet, dass das Bakterium viel Medikament braucht oder gar nicht aufzuhalten ist.
+
+Es gibt mehrere Testverfahren.
+
+Das erste ist der Agardiffusionstest, auch Plättchentest genannt. Eine Aufschwemmung des Bakteriums, auf eine Standarddichte eingestellt, wird gleichmäßig auf einer speziellen Platte verteilt, dem Mueller-Hinton-Agar. Dann legt man kleine Papierplättchen auf, die jeweils mit einem anderen Antibiotikum getränkt sind. Während der Bebrütung breitet sich jedes Antibiotikum im Agar aus. Nahe am Plättchen ist die Konzentration hoch, weiter weg niedriger. Wo die Konzentration hoch genug ist, kann das Bakterium nicht wachsen. So entsteht um jedes Plättchen ein klarer Kreis, der Hemmhof. Sein Durchmesser wird in Millimetern gemessen. Ein großer Hemmhof bedeutet, dass das Bakterium empfindlich ist. Ein kleiner oder fehlender Hemmhof bedeutet, dass es resistent ist.
+
+Das zweite ist die Bouillon-Verdünnungsmethode, die Mikrodilution. Das Bakterium wird in eine Reihe kleiner Vertiefungen gegeben, die das Antibiotikum in jeweils verdoppelten Konzentrationen enthalten. Nach der Bebrütung sucht das Labor die erste Vertiefung, in der nichts gewachsen ist. Diese Konzentration ist die M H K. Automatische Geräte nutzen dieses Prinzip mit Testkarten und erfassen das Wachstum über die Trübung.
+
+Das dritte ist der Gradientenstreifen. Ein Kunststoffstreifen mit einem Gefälle an Antibiotikum, hoch an einem Ende und niedrig am anderen, wird auf eine Platte gelegt. Es bildet sich ein ovaler Hemmhof, und die M H K wird dort abgelesen, wo der Rand des Hofes den Streifen berührt.
+
+Das Ergebnis wird mit offiziellen Grenzwerten, den Grenzwertkonzentrationen, in eine Kategorie übersetzt. In Deutschland und den meisten Ländern Europas legt diese das europäische Komitee E U C A S T fest. S bedeutet sensibel bei Standarddosierung. I bedeutet sensibel bei erhöhter Exposition, zum Beispiel bei höherer Dosis. R bedeutet resistent: Die Behandlung wird wahrscheinlich scheitern.
+
+Manche resistenten Bakterien haben eigene Namen. M R S A ist ein Staphylococcus aureus, der gegen Methicillin und damit gegen fast alle penicillinähnlichen Medikamente resistent ist. E S B L ist ein Enzym gramnegativer Bakterien, das viele Penicilline und Cephalosporine zerstört. Bakterien, die gegen mehrere Antibiotikagruppen resistent sind, nennt man multiresistent. In Deutschland spricht man bei gramnegativen Erregern oft von drei M R G N oder vier M R G N, je nachdem, gegen wie viele Antibiotikagruppen sie resistent sind.
+
+Warum ist das im Labor wichtig? Die Resistenztestung muss genau standardisiert sein: das richtige Medium, die richtige Keimdichte, die richtige Bebrütungszeit und Temperatur. Zu viele Bakterien ergeben kleinere Hemmhöfe und täuschen Resistenz vor. Zu wenige ergeben größere Hemmhöfe und täuschen Empfindlichkeit vor. Täglich werden Kontrollstämme mit bekannten Ergebnissen mitgetestet. Und wenn das Labor ein multiresistentes Bakterium findet, informiert es das Hygieneteam des Krankenhauses, damit der Patient isoliert werden kann.
+
+Kurz gesagt: Die M H K ist die niedrigste Antibiotikakonzentration, die das Wachstum hemmt. Man bestimmt sie mit Agardiffusion, Mikrodilution oder Gradientenstreifen. Das Ergebnis wird nach europäischen Grenzwerten als S, I oder R angegeben, und strenge Standards machen es zuverlässig.
+
+# Die Sterilisation — Sterilisation
+
+Sterilisation bedeutet, alle Mikroorganismen abzutöten oder zu entfernen, einschließlich der widerstandsfähigen Bakteriensporen. Etwas ist nur dann steril, wenn absolut nichts Lebendes mehr darauf ist. Es gibt kein »fast steril«.
+
+Die wichtigste Methode ist der Autoklav. Ein Autoklav ist eine stabile Stahlkammer, wie ein großer Schnellkochtopf. Darin erreicht gesättigter Wasserdampf unter Druck Temperaturen oberhalb des normalen Siedepunktes von Wasser. Ein Standardprogramm arbeitet mit hunderteinundzwanzig Grad Celsius für mindestens fünfzehn Minuten, bei etwa einem Bar Überdruck. Ein zweites übliches Programm arbeitet mit hundertvierunddreißig Grad Celsius für mindestens drei bis fünf Minuten. Dampf ist so wirksam, weil er Wärme sehr schnell überträgt und die Proteine der Mikroben schädigt.
+
+Der Dampf muss jede Oberfläche erreichen. Luftblasen behindern ihn. Deshalb entfernt der Autoklav zuerst die Luft, und das Sterilgut darf nicht zu dicht gepackt sein. Große Flüssigkeitsflaschen brauchen länger, bis sie durchgewärmt sind, und benötigen daher längere Programme.
+
+Trockene Hitze ist eine zweite Methode. Ein Heißluftsterilisator braucht viel höhere Temperaturen und längere Zeiten als Dampf, weil trockene Luft Wärme schlecht überträgt. Ein typisches Programm ist hundertachtzig Grad Celsius für dreißig Minuten. Man verwendet es für Glaswaren und Metallinstrumente, die trocken bleiben müssen.
+
+Manches lässt sich nicht erhitzen, zum Beispiel Kunststoffe, manche Lösungen und empfindliche Instrumente. Dafür gibt es andere Methoden. Flüssigkeiten kann man durch einen Membranfilter mit Poren von null komma zwei Mikrometern drücken. Die Poren sind kleiner als Bakterien, daher werden diese zurückgehalten. Beachte, dass die Filtration keine Viren entfernt. Einwegartikel aus Kunststoff wie Petrischalen und Pipettenspitzen werden meist schon in der Fabrik mit Gammastrahlung sterilisiert. Gase wie Ethylenoxid verwendet man für hitzeempfindliche Medizinprodukte.
+
+Im mikrobiologischen Labor wird die Impföse aus Metalldraht sterilisiert, indem man sie in einer Flamme ausglüht, bis sie rot glüht. Heute verwendet man stattdessen oft sterile Einwegösen aus Kunststoff.
+
+Woher wissen wir, dass die Sterilisation funktioniert hat? Es gibt drei Arten von Kontrollen. Physikalische Kontrollen zeichnen bei jedem Lauf Temperatur, Druck und Zeit auf. Chemische Indikatoren wie spezielles Klebeband oder Streifen ändern ihre Farbe, wenn die richtigen Bedingungen erreicht wurden. Und Bioindikatoren enthalten Sporen eines sehr hitzeresistenten Bakteriums. Nach dem Lauf werden sie bebrütet. Wächst nichts, wurden die Sporen abgetötet, und damit auch alles andere.
+
+Warum ist das im Labor wichtig? Der Autoklav wird in zwei Richtungen genutzt. Erstens, um Medien und Geräte vor dem Gebrauch steril zu machen. Zweitens, um infektiösen Abfall nach dem Gebrauch unschädlich zu machen. Benutzte Kulturplatten sind voller Millionen Bakterien, möglicherweise gefährlicher. Sie werden autoklaviert, bevor sie das Labor verlassen. Ein fehlerhafter Autoklavenlauf kann verunreinigte Medien, falsche Ergebnisse oder infektiösen Abfall im Müll bedeuten.
+
+Kurz gesagt: Sterilisation tötet alle Mikroorganismen ab, auch Sporen. Der Autoklav arbeitet mit Dampf bei hunderteinundzwanzig Grad für fünfzehn Minuten oder hundertvierunddreißig Grad für wenige Minuten. Trockene Hitze, Filtration, Strahlung und Gas sind Alternativen, und jeder Lauf wird mit physikalischen, chemischen und biologischen Indikatoren kontrolliert.
+
+# Desinfektion und Asepsis — Disinfection and asepsis
+
+Desinfektion ist weniger als Sterilisation. Desinfektion verringert die Zahl der schädlichen Mikroorganismen so stark, dass sie keine Infektion mehr auslösen können. Bakteriensporen tötet sie aber nicht zuverlässig ab. Man desinfiziert dort, wo Sterilisation unmöglich ist, zum Beispiel auf Haut, Händen und Arbeitsflächen.
+
+Das wichtigste Desinfektionsmittel in Labor und Krankenhaus ist Alkohol, meist Ethanol oder Propanol mit etwa siebzig bis achtzig Prozent. Vielleicht fragst du dich, warum nicht reiner Alkohol. Der Grund ist, dass etwas Wasser dem Alkohol hilft, in die Zellen einzudringen und ihre Proteine zu zerstören. Reiner Alkohol verdunstet außerdem zu schnell. Alkohol wirkt schnell gegen Bakterien und behüllte Viren, aber nicht gegen Sporen und nur teilweise gegen unbehüllte Viren.
+
+Für Flächen verwenden Labore andere Desinfektionsmittel, zum Beispiel Aldehyde, Sauerstoffabspalter oder Chlorverbindungen. Jedes Desinfektionsmittel hat eine Einwirkzeit: die Zeit, die es auf der Fläche nass bleiben muss, um zu wirken. Wer zu früh abwischt und trocknet, hat die Arbeit nur halb gemacht. Jedes Labor hat einen Hygieneplan, der festlegt, welches Mittel wo und wie lange verwendet wird.
+
+Die Händedesinfektion ist die wichtigste einzelne Maßnahme zur Verhütung von Infektionen. Die Hände werden mit etwa drei bis fünf Millilitern alkoholischem Händedesinfektionsmittel mindestens dreißig Sekunden lang eingerieben, bis sie trocken sind. Jede Fläche zählt: Handflächen, Handrücken, Fingerzwischenräume, Daumen, Fingerkuppen und Handgelenke. Im Labor desinfiziert man die Hände nach dem Ausziehen der Handschuhe, nach jeder Kontamination, vor Pausen und vor dem Verlassen des Labors. Schmuck, Ringe und Uhren werden an Händen und Unterarmen nicht getragen, weil sie Keime verbergen und Handschuhe beschädigen.
+
+Aseptisches Arbeiten bedeutet, so zu arbeiten, dass keine unerwünschten Mikroorganismen in eine Probe, eine Kultur oder ein steriles Produkt gelangen. Gleichzeitig hält es die Mikroorganismen der Probe von dir und deiner Umgebung fern. Die Regeln sind einfach, aber sie müssen zur Gewohnheit werden. Öffne sterile Gefäße nur kurz und berühre nicht ihre Innenseite oder ihren Rand. Halte Deckel mit der Öffnung nach unten, damit nichts hineinfällt. Verwende sterile Ösen und Spitzen und lege sie nie auf dem Tisch ab. Arbeite ruhig und vermeide Spritzer und Aerosole, also winzige Tröpfchen in der Luft.
+
+Viele Arbeiten mit infektiösem Material finden an einer mikrobiologischen Sicherheitswerkbank statt. Sie ist ein Arbeitsplatz mit einer Glasfront und einem ständigen Strom gefilterter Luft. Die Luft strömt vorne nach innen, sodass Aerosole nicht zum Anwender entweichen. Filter entfernen die Keime, bevor die Luft die Werkbank verlässt. Die Werkbank schützt den Anwender, die Umgebung und die Probe.
+
+Labore werden je nach Gefährlichkeit der Erreger, mit denen sie arbeiten, in vier Schutzstufen eingeteilt. Die meisten Krankenhauslabore arbeiten in Schutzstufe zwei. Schutzstufe drei braucht man für Erreger wie den Tuberkuloseerreger. Schutzstufe vier ist für die gefährlichsten Viren, und davon gibt es in Deutschland nur wenige Labore.
+
+Warum ist das im Labor wichtig? Eine einzige verunreinigte Kultur kann zu einer falschen Diagnose und einer falschen Behandlung führen. Schlimmer noch: Unvorsichtiges Arbeiten kann das Laborpersonal infizieren. Jede Probe, von jedem Patienten, wird als potenziell infektiös behandelt. Handschuhe, Kittel, Sicherheitswerkbänke, die richtige Abfallentsorgung und regelmäßige Händedesinfektion schützen den Patienten und dich.
+
+Kurz gesagt: Desinfektion verringert Mikroorganismen so weit, dass sie keine Infektion mehr auslösen, tötet Sporen aber nicht zuverlässig ab. Alkohol mit etwa siebzig bis achtzig Prozent ist das wichtigste Händedesinfektionsmittel, angewendet für mindestens dreißig Sekunden. Aseptisches Arbeiten und Sicherheitswerkbänke halten Proben sauber und Mitarbeitende sicher.
+
+# Zusammenfassung Mikrobiologie — Microbiology summary
+
+Schauen wir auf Teil zwei zurück.
+
+Bakterien sind prokaryotische Zellen mit einem D N A-Ring, Ribosomen, einer Membran und einer Peptidoglykanwand. Plasmide können Resistenzgene tragen. Manche Bakterien bilden Sporen, die Hitze und Desinfektionsmittel überstehen. Bakterien haben einen Gattungs- und einen Artnamen und werden nach Form, Lagerung und Gramverhalten eingeteilt.
+
+Grampositive Bakterien haben eine dicke Wand und bleiben in der Gramfärbung violett. Gramnegative Bakterien haben eine dünne Wand und zusätzlich eine äußere Membran mit Endotoxin, und sie werden rot. Die Entfärbung mit Alkohol ist der kritische Moment der Färbung.
+
+Bakterien brauchen Nahrung, Wärme, die richtige Menge Sauerstoff und einen passenden pH-Wert. Die meisten werden bei fünfunddreißig bis siebenunddreißig Grad bebrütet, Anaerobier ohne Sauerstoff. Auf Agarplatten bildet jede Zelle eine Kolonie. Medien können Basis-, Anreicherungs-, Selektiv- oder Differenzierungsmedien sein.
+
+Viren sind keine Zellen. Sie vermehren sich nur in Wirtszellen, und Antibiotika wirken nicht gegen sie. Man weist sie mit P C R, Antigentests und Antikörpertests nach. Pilze und Parasiten sind Eukaryoten. Candida und Aspergillus sind wichtige Pilze, und Malaria findet man im gefärbten dicken Tropfen und dünnen Ausstrich.
+
+Bakterien werden anhand von Kolonien, Färbungen, Schnelltests wie Katalase, Koagulase und Oxidase, der bunten Reihe und heute meist mit Massenspektrometrie bestimmt. Die Resistenztestung ermittelt die minimale Hemmkonzentration und gibt nach europäischen Grenzwerten S, I oder R an.
+
+Sterilisation tötet alles Leben ab, auch Sporen, meist im Autoklaven. Desinfektion verringert Mikroorganismen auf Haut und Flächen. Aseptisches Arbeiten, Händedesinfektion und Sicherheitswerkbänke schützen Proben und Personal.
+
+# Teil drei: Immunologie — Part three: Immunology
+
+Im zweiten Leitfaden hast du das Immunsystem als eines der Organsysteme kennengelernt. In diesem Teil betrachten wir es mit den Augen des Labors. Das Immunsystem bildet Antikörper, und Antikörper sind sowohl eine Messgröße als auch ein Werkzeug. Viele Tests, von der Infektionsserologie bis zum Schwangerschaftstest, beruhen auf der Reaktion zwischen einem Antigen und einem Antikörper.
+
+Die zweite Hälfte dieses Teils handelt von den Blutgruppen. Die Blutgruppenserologie ist eine der verantwortungsvollsten Aufgaben im ganzen Labor. Ein Fehler kann einen Patienten innerhalb von Minuten töten. Deshalb schauen wir uns das A B Null-System, das Rhesussystem, die Tests zu ihrer Bestimmung und die Kreuzprobe genau an, die vor jeder Transfusion roter Blutkörperchen durchgeführt wird.
+
+# Antigene und Antikörper — Antigens and antibodies
+
+Ein Antigen ist jeder Stoff, den das Immunsystem erkennen kann und der eine Immunantwort auslösen kann. Die meisten Antigene sind Proteine oder große Zuckermoleküle, zum Beispiel auf der Oberfläche eines Bakteriums, eines Virus, eines Pollenkorns oder eines roten Blutkörperchens eines anderen Menschen.
+
+Ein Antikörper erkennt nicht das ganze Antigen. Er erkennt einen kleinen Teil davon, einige Aminosäuren oder Zuckerbausteine. Diesen kleinen Teil nennt man Epitop. Ein großes Antigen wie ein Bakterium hat viele verschiedene Epitope, deshalb können viele verschiedene Antikörper daran binden.
+
+Antikörper heißen auch Immunglobuline. Sie werden von Plasmazellen gebildet, die aus B-Lymphozyten entstehen. Jede Plasmazelle bildet nur eine Art von Antikörper, die nur zu einem Epitop passt.
+
+Ein Antikörper hat die Form des Buchstabens Y. Er besteht aus vier Eiweißketten: zwei großen, den schweren Ketten, und zwei kleinen, den leichten Ketten. Die beiden Arme des Y sind die Bindungsstellen. Ihre Spitzen sind äußerst variabel, und hier passt das Epitop hinein, wie ein Schlüssel ins Schloss. Weil das Y zwei Arme hat, kann ein Antikörper zwei Antigene gleichzeitig festhalten. Der Stamm des Y ist bei allen Antikörpern einer Klasse gleich. Ihn erkennt der Rest des Immunsystems, zum Beispiel die Fresszellen, die alles fressen, was der Antikörper markiert hat.
+
+Es gibt fünf Klassen von Immunglobulinen, die mit Buchstaben benannt sind.
+
+Immunglobulin G, kurz I g G, ist im Blut am häufigsten, etwa drei Viertel aller Antikörper. Es wird in der späteren Phase einer Infektion in großen Mengen gebildet und bleibt jahrelang erhalten. Es ist die einzige Klasse, die die Plazenta passiert, und schützt so das ungeborene Kind.
+
+Immunglobulin M, kurz I g M, ist der erste Antikörper bei einer neuen Infektion. Es ist sehr groß: fünf Y-Formen, die sternförmig verbunden sind. Weil es zehn Bindungsarme hat, ist es sehr gut darin, Partikel zu verklumpen. Die natürlichen Antikörper gegen die Blutgruppen A und B sind überwiegend I g M.
+
+Immunglobulin A, kurz I g A, schützt die Schleimhäute. Man findet es im Speichel, in Tränen, im Darm und in der Muttermilch.
+
+Immunglobulin E, kurz I g E, ist nur in winzigen Mengen vorhanden. Es ist für Allergien verantwortlich und hilft bei der Abwehr von Würmern.
+
+Immunglobulin D findet man vor allem auf der Oberfläche junger B-Zellen. Für das Labor spielt es eine geringere Rolle.
+
+Warum ist das im Labor wichtig? Die Antikörperklasse erzählt etwas über die Zeit. Bei einer frischen Infektion erscheint zuerst I g M, nach etwa einer Woche. I g G folgt etwas später und bleibt. Hat ein Patient I g M gegen ein Virus, ist die Infektion also wahrscheinlich frisch. Hat er nur I g G, ist sie wahrscheinlich alt, oder er wurde geimpft. Auch ein Anstieg des I g G zwischen zwei Proben im Abstand von zwei Wochen spricht für eine frische Infektion. Das ist die Grundlage der Infektionsserologie.
+
+Kurz gesagt: Ein Antigen ist etwas, das das Immunsystem erkennt, und der Antikörper bindet an einen kleinen Teil davon, das Epitop. Antikörper sind Y-förmige Immunglobuline in fünf Klassen. I g M kommt bei einer neuen Infektion zuerst, I g G kommt später und bleibt.
+
+# Die Antigen-Antikörper-Reaktion — The antigen antibody reaction
+
+Wenn ein Antikörper auf sein Antigen trifft, binden sie aneinander. Diese Bindung ist die Antigen-Antikörper-Reaktion. Sie ist die Grundlage der Immunabwehr und unzähliger Labortests.
+
+Die Bindung funktioniert nach dem Schlüssel-Schloss-Prinzip. Die Formen von Epitop und Bindungsstelle passen genau zusammen. Sie werden nicht durch starke chemische Bindungen zusammengehalten, sondern durch viele schwache Kräfte gleichzeitig: Wasserstoffbrücken, Anziehung zwischen Ladungen und andere schwache Anziehungskräfte. Die Reaktion ist also umkehrbar. Weil es aber so viele schwache Kräfte sind und die Passform so genau ist, ist die Bindung sehr fest und sehr spezifisch. Temperatur, pH-Wert und Salzgehalt der Lösung beeinflussen sie.
+
+Was können wir sehen? Ein einzelner Antikörper, der an ein einzelnes Antigen gebunden ist, ist unsichtbar. Aber ein Antikörper hat mindestens zwei Arme, und viele Antigene haben mehrere Epitope. So können Antikörper Antigene zu einem Netzwerk verbinden, einem Gitter. Wird das Gitter groß genug, wird es sichtbar.
+
+Sitzt das Antigen auf Partikeln, zum Beispiel auf roten Blutkörperchen, Bakterien oder winzigen Latexkügelchen, verklumpen die Partikel. Dieses Verklumpen nennt man Agglutination. Man sieht es mit bloßem Auge als Körnchen oder Klumpen in einer Flüssigkeit, die vorher gleichmäßig war. Blutgruppentests beruhen auf der Agglutination.
+
+Ist das Antigen gelöst, also ein einzelnes Protein in einer Lösung, bildet das Gitter einen feinen trüben Niederschlag. Das nennt man Präzipitation. In modernen Analysegeräten misst man die Trübung mit Licht, durch Turbidimetrie oder Nephelometrie, die du im Biochemieteil kennengelernt hast. Das C R P, die Immunglobuline und viele andere Proteine werden so gemessen.
+
+Es gibt einen Haken. Das Gitter bildet sich am besten, wenn Antigen und Antikörper in einem ausgewogenen Verhältnis vorliegen. Das nennt man die Äquivalenzzone. Bei einem riesigen Überschuss an Antikörpern wird jedes Antigen von eigenen Antikörpern bedeckt, und es entsteht kein Netzwerk. Das nennt man die Prozone. Bei einem riesigen Überschuss an Antigen wird jeder Antikörperarm von einem eigenen Antigen besetzt, und wieder entsteht kein Netzwerk. In beiden Fällen kann der Test negativ oder falsch niedrig aussehen, obwohl reichlich Reaktionspartner vorhanden sind. Das erklärt den Hook-Effekt, den du bei den Immunoassays kennengelernt hast. Die Kurve, die diesen Zusammenhang zeigt, heißt Heidelberger-Kurve.
+
+Manche Antikörper, besonders das kleine I g G, können an rote Blutkörperchen binden, ohne sie zu verklumpen. Die Zellen sind mit Antikörpern beladen, bleiben aber getrennt. Um das sichtbar zu machen, gibt das Labor einen zweiten Antikörper dazu, der gegen menschliche Antikörper gerichtet ist. Man nennt ihn Antihumanglobulin. Das Antihumanglobulin verbindet die beladenen Zellen, und jetzt verklumpen sie. Das ist der Antiglobulintest, auch Coombstest genannt, nach seinem Erfinder. Er ist zentral für die Blutgruppenserologie.
+
+Warum ist das im Labor wichtig? Wenn ein Testergebnis nicht zum Patienten passt, denk an die Zonen. Ein Patient mit einer enormen Menge eines Antigens, zum Beispiel eines Tumormarkers, kann einen falsch niedrigen Wert zeigen. Verdünnt man die Probe und testet erneut, zeigt sich der wahre Wert. Und in der Blutgruppenserologie muss das Labor wissen, ob ein Antikörper Zellen direkt verklumpt oder ob man einen Antiglobulintest braucht, um ihn zu finden.
+
+Kurz gesagt: Antigen und Antikörper binden spezifisch über viele schwache Kräfte. Mit Partikeln entsteht Agglutination, mit gelösten Antigenen Präzipitation. Man braucht ein ausgewogenes Verhältnis, und der Antiglobulintest macht Antikörper sichtbar, die Zellen beladen, ohne sie zu verklumpen.
+
+# Angeborene und erworbene Immunität — Innate and adaptive immunity
+
+Das Immunsystem hat zwei Teile, die zusammenarbeiten. Du hast sie im zweiten Leitfaden kennengelernt. Hier schauen wir, was das Labor von ihnen sieht.
+
+Das angeborene Immunsystem ist die erste Verteidigungslinie. Es ist von Geburt an vorhanden und reagiert innerhalb von Minuten bis Stunden. Es muss nicht lernen. Es erkennt allgemeine Gefahrensignale, zum Beispiel typische Bestandteile bakterieller Zellwände. Zu ihm gehören Haut und Schleimhäute als Barrieren, die Fresszellen, die Phagozyten, vor allem die neutrophilen Granulozyten und die Makrophagen, die natürlichen Killerzellen und eine Gruppe von Bluteiweißen, das Komplementsystem. Das Komplement kann Löcher in Bakterien stanzen und sie für die Fresszellen markieren.
+
+Die angeborene Abwehr erzeugt eine Entzündung. Zellen am Infektionsort setzen Botenstoffe frei. Diese verursachen Fieber, holen weitere weiße Blutkörperchen aus dem Knochenmark und veranlassen die Leber, Akute-Phase-Proteine zu bilden.
+
+Das erworbene oder adaptive Immunsystem ist die zweite Verteidigungslinie. Es ist langsamer und braucht für seine erste Antwort Tage, aber es ist hochspezifisch. Es erkennt ein ganz bestimmtes Antigen und merkt es sich. Seine Zellen sind die Lymphozyten. B-Lymphozyten entwickeln sich zu Plasmazellen und bilden Antikörper. T-Lymphozyten gibt es in mehreren Typen. T-Helferzellen koordinieren die Abwehr. Zytotoxische T-Zellen töten infizierte Körperzellen direkt.
+
+Die große Stärke des adaptiven Systems ist das Gedächtnis. Nach einer Infektion bleiben Gedächtniszellen jahrelang erhalten. Kommt derselbe Erreger wieder, ist die Antwort viel schneller und stärker. Diese zweite Antwort bildet vor allem I g G, und oft ist der Erreger besiegt, bevor du etwas merkst. Die Impfung nutzt genau das. Sie zeigt dem Immunsystem eine harmlose Form eines Antigens, sodass ein Gedächtnis entsteht, ohne dass man krank wird.
+
+Was sieht das Labor? Die angeborene Abwehr zeigt sich im Blutbild und in der klinischen Chemie. Bei einer bakteriellen Infektion steigt die Zahl der weißen Blutkörperchen, vor allem durch mehr Neutrophile. Junge Neutrophile aus dem Knochenmark erscheinen im Blut. Das nennt man Linksverschiebung. Das C R P steigt innerhalb von Stunden, und bei schweren bakteriellen Infektionen steigt auch ein Protein namens Procalcitonin.
+
+Die adaptive Abwehr zeigt sich auf zwei Wegen. Erstens in den Lymphozyten des Blutbildes, die bei Virusinfektionen oft ansteigen. Spezielle Geräte, die Durchflusszytometer, können die verschiedenen Lymphozytentypen zählen, zum Beispiel die T-Helferzellen bei Patienten mit H I V. Zweitens in den Antikörpern, die die Serologie als I g M und I g G gegen einen bestimmten Erreger misst. Wenn ein Patient von »keine Antikörper« zu »Antikörper vorhanden« wechselt, spricht man von Serokonversion. Sie beweist eine frische Infektion.
+
+Warum ist das im Labor wichtig? Jedes serologische Ergebnis muss mit Blick auf die Zeit gelesen werden. In den ersten Tagen einer Infektion hat das adaptive System noch keine Antikörper gebildet. Ein Patient kann infiziert sein und trotzdem negativ getestet werden. Diese Lücke nennt man das diagnostische Fenster. Deshalb wird gespendetes Blut zusätzlich direkt mit der P C R auf das Erbgut von Viren untersucht, denn die P C R findet eine Infektion früher als ein Antikörpertest.
+
+Kurz gesagt: Die angeborene Immunität reagiert schnell und allgemein, die adaptive langsam, spezifisch und mit Gedächtnis. Das Labor sieht die angeborene Antwort in den weißen Blutkörperchen und im C R P, die adaptive in den Lymphozyten und spezifischen Antikörpern. Im diagnostischen Fenster sind noch keine Antikörper nachweisbar.
+
+# Das A B Null-System — A B O system
+
+Im Jahr neunzehnhunderteins entdeckte der österreichische Arzt Karl Landsteiner, dass sich das Blut verschiedener Menschen nicht immer gefahrlos mischen lässt. Er fand die A B Null-Blutgruppen und erhielt später dafür den Nobelpreis.
+
+Rote Blutkörperchen tragen viele Antigene auf ihrer Oberfläche. Im A B Null-System sind diese Antigene Zuckerketten, die an der Zellmembran hängen. Es gibt zwei Antigene, A und B. Ein Mensch kann A haben, B, beide oder keines. Daraus ergeben sich vier Blutgruppen. Blutgruppe A hat das Antigen A. Blutgruppe B hat das Antigen B. Blutgruppe A B hat beide. Blutgruppe Null hat keines der beiden.
+
+Die Besonderheit des A B Null-Systems ist, dass Menschen natürliche Antikörper gegen die Antigene haben, die ihnen fehlen. Dafür muss niemand mit fremdem Blut in Kontakt kommen. In den ersten Lebensmonaten tragen Darmbakterien Zuckerstrukturen, die A und B ähneln, und das Immunsystem bildet Antikörper gegen diejenigen, die dem Körper fremd sind. Ein Mensch mit Blutgruppe A hat also Antikörper gegen B. Ein Mensch mit Blutgruppe B hat Antikörper gegen A. Ein Mensch mit Blutgruppe Null hat Antikörper gegen A und B. Ein Mensch mit Blutgruppe A B hat keine. Diese natürlichen Antikörper heißen Isoagglutinine. Sie sind überwiegend I g M und verklumpen rote Blutkörperchen stark.
+
+In Deutschland haben ungefähr dreiundvierzig Prozent der Menschen Blutgruppe A, etwa einundvierzig Prozent Blutgruppe Null, etwa elf Prozent Blutgruppe B und etwa fünf Prozent Blutgruppe A B.
+
+Denk nun an eine Transfusion. Erhält ein Patient mit Blutgruppe Null rote Blutkörperchen der Gruppe A, greifen seine Anti-A-Antikörper die Spenderzellen sofort an. Die Zellen verklumpen und platzen in den Blutgefäßen. Das nennt man eine akute hämolytische Transfusionsreaktion. Die Zeichen sind Fieber, Schüttelfrost, Rückenschmerzen, Blutdruckabfall und dunkler Urin durch das freigesetzte Hämoglobin. Nierenversagen und Tod können folgen. Die meisten dieser Reaktionen entstehen nicht durch Testfehler, sondern durch Verwechslungen: das falsche Röhrchen, der falsche Patient oder der falsche Beutel.
+
+Für rote Blutkörperchen gilt deshalb die Regel: Die Spenderzellen dürfen kein Antigen tragen, gegen das der Patient Antikörper hat. Rote Blutkörperchen der Gruppe Null tragen weder A noch B, daher kann man sie im Notfall allen Patienten geben. Deshalb nennt man Menschen mit Blutgruppe Null manchmal Universalspender für Erythrozyten. Für Plasma gilt die Regel umgekehrt, denn das Plasma trägt die Antikörper. Plasma der Gruppe A B enthält weder Anti-A noch Anti-B und kann daher allen Patienten gegeben werden.
+
+Warum ist das im Labor wichtig? Im Notfall, wenn keine Zeit für Tests bleibt, gibt das Labor Erythrozytenkonzentrate der Gruppe Null heraus, bei Frauen im gebärfähigen Alter meist rhesusnegative. Sobald eine Blutprobe eintrifft, bestimmt das Labor die Blutgruppe, und der Patient erhält dann Blut seiner eigenen Gruppe. Die sorgfältige Beschriftung der Probe am Krankenbett ist der erste und wichtigste Sicherheitsschritt überhaupt.
+
+Kurz gesagt: Das A B Null-System hat zwei Antigene, A und B, und daraus vier Blutgruppen. Jeder Mensch hat natürliche Antikörper gegen die Antigene, die ihm fehlen. Eine falsche A B Null-Transfusion verursacht eine akute, lebensbedrohliche Reaktion, meist wegen einer Verwechslung.
+
+# Das Rhesussystem — The Rhesus system
+
+Das zweitwichtigste Blutgruppensystem ist das Rhesussystem. Es ist nach dem Rhesusaffen benannt, dessen Blut bei den Versuchen verwendet wurde, die zu seiner Entdeckung führten.
+
+Das Rhesussystem umfasst viele Antigene, aber eines ist weit wichtiger als alle anderen: das Antigen D. Tragen die roten Blutkörperchen eines Menschen D, nennt man ihn rhesuspositiv. Wenn nicht, ist er rhesusnegativ. Anders als die A B Null-Antigene sind die Rhesusantigene Proteine in der Zellmembran. In Deutschland und den meisten Ländern Europas sind etwa fünfundachtzig Prozent der Menschen rhesuspositiv und etwa fünfzehn Prozent rhesusnegativ.
+
+Es gibt einen entscheidenden Unterschied zum A B Null-System. Rhesusnegative Menschen haben keine natürlichen Antikörper gegen D. Sie bilden Anti-D nur, wenn ihr Immunsystem mit D-positiven roten Blutkörperchen in Kontakt kommt. Das kann auf zwei Wegen geschehen: durch eine Transfusion rhesuspositiven Blutes, oder in Schwangerschaft und Geburt, wenn die Mutter rhesusnegativ und das Kind rhesuspositiv ist. Ist Anti-D einmal gebildet, ist es ein I g G, und es bleibt.
+
+Nun das klassische Problem. Eine rhesusnegative Frau ist mit einem rhesuspositiven Kind schwanger, das D vom Vater geerbt hat. In der ersten Schwangerschaft passiert wenig. Aber bei der Geburt gelangt etwas kindliches Blut in den Kreislauf der Mutter. Ihr Immunsystem erkennt D als fremd und bildet Anti-D. In der nächsten Schwangerschaft mit einem rhesuspositiven Kind passiert ihr Anti-D als I g G die Plazenta. Es greift die roten Blutkörperchen des ungeborenen Kindes an. Das Kind entwickelt eine Blutarmut, eine Gelbsucht und in schweren Fällen Herzversagen und Wassereinlagerungen am ganzen Körper. Diese Krankheit heißt Morbus haemolyticus neonatorum, die hämolytische Erkrankung des Neugeborenen.
+
+Diese Krankheit lässt sich verhindern. Rhesusnegative Schwangere erhalten eine Spritze mit Anti-D, die Anti-D-Prophylaxe, meist um die achtundzwanzigste Schwangerschaftswoche und erneut innerhalb von zweiundsiebzig Stunden nach der Geburt eines rhesuspositiven Kindes. Das gespritzte Anti-D entfernt kindliche rote Blutkörperchen schnell aus dem Blut der Mutter, bevor ihr eigenes Immunsystem sie bemerkt und eigene Antikörper bildet.
+
+Es gibt noch weitere Rhesusantigene, benannt als großes C, kleines c, großes E und kleines e, und viele andere Blutgruppensysteme mit Namen wie Kell, Duffy und Kidd. Auch gegen sie können sich nach Transfusionen oder Schwangerschaften Antikörper bilden. Sie sind seltener, aber wichtig, denn sie können Transfusionsreaktionen und Erkrankungen bei Neugeborenen verursachen.
+
+Warum ist das im Labor wichtig? Bei jeder Schwangeren in Deutschland werden früh in der Schwangerschaft die A B Null-Blutgruppe und der Rhesusfaktor bestimmt. Außerdem wird sie auf Blutgruppenantikörper untersucht, meist zweimal. Ist sie rhesusnegativ, erhält sie die Prophylaxe. Bei Transfusionen sollen rhesusnegative Patienten, besonders Mädchen und Frauen vor den Wechseljahren, rhesusnegative Erythrozyten bekommen. So entsteht kein Anti-D, das einem späteren Kind schaden könnte.
+
+Kurz gesagt: Das Antigen D entscheidet, ob ein Mensch rhesuspositiv oder rhesusnegativ ist. Anti-D ist nicht natürlich vorhanden, es entsteht erst nach Kontakt mit D-positivem Blut durch Transfusion oder Schwangerschaft. Die Anti-D-Prophylaxe bei rhesusnegativen Müttern verhindert die hämolytische Erkrankung des Neugeborenen.
+
+# Die Blutgruppenbestimmung — Blood group testing
+
+Eine Blutgruppe zu bestimmen klingt einfach: Zellen mit Antikörpern mischen und auf Verklumpung achten. In der Praxis folgt das Labor strengen Regeln, denn ein falsches Ergebnis kann tödlich sein. Schauen wir uns die wichtigsten Tests an.
+
+Die A B Null-Blutgruppe wird auf zwei Wegen bestimmt, die übereinstimmen müssen. Der erste Weg testet die roten Blutkörperchen. Die Zellen des Patienten werden mit Testseren gemischt, die Anti-A und Anti-B enthalten. Verklumpen die Zellen mit Anti-A, tragen sie A. Verklumpen sie mit Anti-B, tragen sie B. Das nennt man den Antigennachweis oder die Bestimmung der Blutgruppenmerkmale.
+
+Der zweite Weg testet das Serum oder Plasma. Das Serum des Patienten wird mit bekannten Testerythrozyten der Gruppen A und B gemischt. Verklumpt das Serum die A-Zellen, enthält es Anti-A. Verklumpt es die B-Zellen, enthält es Anti-B. Das nennt man die Serumgegenprobe.
+
+Beide Ergebnisse müssen zusammenpassen. Ein Beispiel: Die Zellen verklumpen mit Anti-A, aber nicht mit Anti-B, also ist das Antigen A. Das Serum verklumpt B-Zellen, aber nicht A-Zellen, also ist der Antikörper Anti-B. Das passt perfekt zu Blutgruppe A. Widersprechen sich die beiden Tests, darf das Ergebnis nicht freigegeben werden, bis der Grund gefunden ist. Neugeborene sind ein Sonderfall: Sie haben noch keine eigenen natürlichen Antikörper, deshalb wird die Serumgegenprobe bei ihnen nicht verwendet.
+
+Das Rhesusantigen D wird mit Anti-D-Testseren bestimmt, aus Sicherheitsgründen meist mit zwei verschiedenen Reagenzien.
+
+Der Antikörpersuchtest sucht nach unerwarteten Antikörpern gegen andere Blutgruppenantigene, etwa Kell oder die anderen Rhesusantigene. Das Serum des Patienten wird gegen zwei oder drei spezielle Testerythrozyten getestet, die zusammen alle wichtigen Antigene tragen. Diese Antikörper sind meist I g G und verklumpen Zellen nicht direkt. Deshalb nutzt der Test die Antiglobulintechnik. Die Zellen werden bei siebenunddreißig Grad Celsius mit dem Serum inkubiert, damit Antikörper binden können, und dann wird Antihumanglobulin zugegeben. Eine Verklumpung bedeutet jetzt, dass ein unerwarteter Antikörper vorhanden ist. Das Labor bestimmt ihn dann mit einem größeren Panel von Testzellen. Das nennt man die Antikörperdifferenzierung.
+
+Der direkte Antiglobulintest, auch direkter Coombstest, stellt eine andere Frage: Sind die eigenen roten Blutkörperchen des Patienten schon im Körper mit Antikörpern beladen? Dafür gibt man Antihumanglobulin direkt zu den gewaschenen roten Blutkörperchen des Patienten. Er ist positiv bei der hämolytischen Erkrankung des Neugeborenen, bei Transfusionsreaktionen und wenn das Immunsystem die eigenen roten Blutkörperchen angreift.
+
+Die meisten Labore verwenden heute Gelkarten. Eine Gelkarte hat mehrere kleine Röhrchen, die mit einem Gel gefüllt sind, das manchmal die Testantikörper enthält. Zellen und Serum werden oben hineingegeben, und die Karte wird zentrifugiert. Freie, einzelne rote Blutkörperchen wandern durch das Gel und sammeln sich als roter Knopf am Boden. Verklumpte Zellen sind zu groß und bleiben oben oder im Gel hängen. Eine rote Linie oben bedeutet also positiv, ein Knopf am Boden bedeutet negativ.
+
+Warum ist das im Labor wichtig? Die Blutgruppenbestimmung ist in Deutschland sehr streng geregelt. Der Patient muss auf dem Anforderungsschein und auf dem Röhrchen eindeutig identifiziert sein. Viele Labore verlangen zwei unabhängige Proben, bevor eine Blutgruppe als gesichert gilt. Automatische Systeme lesen die Gelkarten ab und übertragen die Ergebnisse elektronisch, um Tippfehler zu vermeiden. Jede unklare Reaktion wird abgeklärt, niemals geraten.
+
+Kurz gesagt: Die A B Null-Blutgruppe wird bestimmt, indem man die Zellen mit Anti-A und Anti-B testet und das Serum mit A- und B-Testzellen, und beide Ergebnisse müssen übereinstimmen. Der Antikörpersuchtest findet mit der Antiglobulintechnik unerwartete Antikörper. Gelkarten zeigen verklumpte Zellen oben und freie Zellen unten.
+
+# Die Kreuzprobe — The cross match
+
+Die Kreuzprobe, auch serologische Verträglichkeitsprobe genannt, ist der letzte Labortest vor einer Transfusion roter Blutkörperchen. Sie prüft, ob ein bestimmter Spenderbeutel zu einem bestimmten Patienten passt.
+
+Das Prinzip ist einfach. Das Serum des Patienten wird mit roten Blutkörperchen aus dem Beutel gemischt, der für diesen Patienten vorgesehen ist. Hat der Patient Antikörper gegen die Spenderzellen, binden sie. Der Test nutzt die Antiglobulintechnik, genau wie der Antikörpersuchtest, meist auf einer Gelkarte. Gibt es keine Verklumpung und keine Reaktion, ist der Beutel verträglich. Gibt es eine Reaktion, darf dieser Beutel nicht gegeben werden, und das Labor muss die Ursache finden.
+
+Warum braucht man das, wenn die Blutgruppe schon bekannt ist? Weil die Blutgruppe nur A, B und D abdeckt. Ein Patient kann seltene Antikörper gegen andere Antigene haben, die der Suchtest nicht gezeigt hat oder die gerade erst entstanden sind. Die Kreuzprobe ist die letzte Prüfung der echten Spenderzellen gegen das echte Patientenserum. Sie fängt auch Verwechslungen ab: Wurde versehentlich ein Beutel der falschen A B Null-Gruppe gewählt, reagiert die Kreuzprobe stark.
+
+In Deutschland sind die Regeln für Transfusionen in der Richtlinie Hämotherapie festgelegt. Vor jeder Transfusion von Erythrozyten muss eine Kreuzprobe durchgeführt werden. Eine Patientenprobe für die Kreuzprobe ist in der Regel nur drei Tage gültig. Danach braucht man eine neue Probe, denn nach einer Transfusion oder Schwangerschaft können sich neue Antikörper bilden.
+
+Es gibt noch eine weitere Sicherheitsprüfung, und sie findet nicht im Labor statt. Unmittelbar vor der Transfusion, am Bett des Patienten, führt die Ärztin oder der Arzt einen schnellen A B Null-Test mit dem Blut des Patienten auf einer Testkarte durch. Das nennt man den Bedside-Test oder A B Null-Identitätstest. Er bestätigt noch einmal, dass der Patient im Bett die Blutgruppe hat, die das Labor getestet hat, und er ist in Deutschland vorgeschrieben. Außerdem prüft die Ärztin, ob Beutel, Name, Geburtsdatum und Unterlagen zusammenpassen.
+
+Die ganze Kette sieht so aus. Erstens eine korrekt beschriftete Probe vom richtigen Patienten. Zweitens die Blutgruppenbestimmung mit Antigennachweis und Serumgegenprobe. Drittens der Antikörpersuchtest. Viertens die Kreuzprobe mit dem ausgewählten Beutel. Fünftens der Bedside-Test und die Identitätsprüfung. Jeder Schritt ist ein Sicherheitsnetz für den vorherigen.
+
+Warum ist das im Labor wichtig? Im Notfall fordert die Ärztin vielleicht Blut an, bevor die Kreuzprobe fertig ist. Das Labor kann dann Erythrozyten der Gruppe Null oder Blut der Patientengruppe ohne abgeschlossene Kreuzprobe herausgeben. Die Ärztin muss mit ihrer Unterschrift bestätigen, dass sie dieses Risiko übernimmt, und die Kreuzprobe wird nachträglich abgeschlossen. Das Labor muss schnell arbeiten, aber es darf nie die Dokumentation auslassen. Und wenn eine Kreuzprobe positiv ist, muss das Labor anhalten, die Ärztin informieren und die Ursache klären, auch wenn die Station nach dem Blut ruft.
+
+Kurz gesagt: Die Kreuzprobe testet das Serum des Patienten gegen die Spenderzellen des vorgesehenen Beutels, mit der Antiglobulintechnik. Sie ist vor jeder Erythrozytentransfusion vorgeschrieben, und die Probe ist meist drei Tage gültig. Der Bedside-Test am Krankenbett ist die letzte Prüfung.
+
+# Zusammenfassung Immunologie — Immunology summary
+
+Schauen wir auf Teil drei zurück.
+
+Ein Antigen ist ein Stoff, den das Immunsystem erkennt. Ein Antikörper bindet an einen kleinen Teil davon, das Epitop. Antikörper sind Y-förmige Immunglobuline in fünf Klassen. I g M ist der erste Antikörper bei einer neuen Infektion, I g G kommt später, bleibt jahrelang und passiert die Plazenta.
+
+Die Antigen-Antikörper-Reaktion ist spezifisch und umkehrbar. Mit Partikeln entsteht Agglutination, mit gelösten Antigenen Präzipitation. Sie braucht ein ausgewogenes Verhältnis, und zu viel Antigen oder Antikörper kann falsch niedrige Ergebnisse ergeben. Der Antiglobulintest macht Antikörper sichtbar, die Zellen beladen, ohne sie zu verklumpen.
+
+Die angeborene Immunität reagiert schnell und allgemein, und das Labor sieht sie in den weißen Blutkörperchen und im C R P. Die adaptive Immunität ist spezifisch und hat ein Gedächtnis, und das Labor sieht sie in den Lymphozyten und Antikörpern. Im diagnostischen Fenster zeigt eine Infektion vielleicht noch keine Antikörper.
+
+Das A B Null-System hat die Antigene A und B und natürliche Antikörper gegen die fehlenden. Erythrozyten der Gruppe Null kann man im Notfall allen geben, ebenso Plasma der Gruppe A B. Das Rhesusantigen D entscheidet über rhesuspositiv oder rhesusnegativ. Anti-D entsteht erst nach Kontakt, und die Anti-D-Prophylaxe schützt die Kinder rhesusnegativer Mütter.
+
+Die Blutgruppenbestimmung verbindet Antigennachweis und Serumgegenprobe, die übereinstimmen müssen, mit dem Antikörpersuchtest. Die Kreuzprobe testet das Patientenserum gegen die vorgesehenen Spenderzellen und ist vor jeder Erythrozytentransfusion vorgeschrieben. Der Bedside-Test ist die letzte Sicherheitsprüfung.
+
+# Teil vier: Genetik — Part four: Genetics
+
+Die Genetik ist die Lehre von der Vererbung: wie Merkmale von Eltern an Kinder weitergegeben werden und wie sich die Anweisungen in unserer D N A verändern können. Im ersten Leitfaden hast du D N A, Gene und die Proteinbiosynthese kennengelernt. In diesem Teil bauen wir darauf auf.
+
+Die Genetik ist ein schnell wachsender Bereich der Labormedizin. Molekularbiologische Labore testen auf Erbkrankheiten, suchen nach Veränderungen in Tumorzellen und finden Viren und Bakterien anhand ihres Erbguts. Das wichtigste Werkzeug hinter vielen dieser Untersuchungen ist die P C R.
+
+Wir beginnen mit Gregor Mendel und den Grundregeln der Vererbung. Dann betrachten wir Genotyp und Phänotyp am Beispiel der Blutgruppen. Dann die Chromosomen, dann die Mutationen, und zum Schluss die P C R und ihre moderne Form, die Echtzeit-P C R.
+
+# Die Mendelschen Regeln — Mendelian inheritance
+
+In den achtzehnhundertsechziger Jahren züchtete der Mönch Gregor Mendel im Garten seines Klosters in Brünn tausende Erbsenpflanzen. Er kreuzte Pflanzen mit unterschiedlichen Merkmalen, etwa violetten oder weißen Blüten, und zählte die Nachkommen sehr sorgfältig. Aus seinen Zahlen leitete er die Grundregeln der Vererbung ab, lange bevor jemand etwas von D N A wusste.
+
+Legen wir zuerst ein paar Begriffe fest. Ein Gen ist ein Abschnitt der D N A, der die Anweisung für ein Merkmal trägt, meist für ein Protein. Ein Gen kann in verschiedenen Versionen vorliegen. Diese Versionen nennt man Allele. Das Gen für die Blütenfarbe kann zum Beispiel ein violettes und ein weißes Allel haben.
+
+Jede Körperzelle hat von jedem Gen zwei Kopien, eine von der Mutter und eine vom Vater. Sind beide Kopien dasselbe Allel, ist das Lebewesen reinerbig, man sagt auch homozygot. Sind die beiden Kopien verschiedene Allele, ist es mischerbig oder heterozygot.
+
+Treffen zwei verschiedene Allele aufeinander, setzt sich oft eines durch. Das Allel, das sich durchsetzt, nennt man dominant. Das verdeckte Allel nennt man rezessiv. Ein rezessives Merkmal zeigt sich nur, wenn beide Kopien das rezessive Allel sind. Bei Mendels Erbsen war Violett dominant über Weiß. Eine Pflanze mit einem violetten und einem weißen Allel hatte violette Blüten. Nur Pflanzen mit zwei weißen Allelen hatten weiße Blüten.
+
+In der Genetik schreibt man dominante Allele mit einem Großbuchstaben und rezessive mit einem Kleinbuchstaben. Großes V steht also für violett und kleines v für weiß. Eine Pflanze kann großes V großes V sein, großes V kleines v, oder kleines v kleines v.
+
+Nun Mendels berühmter Versuch. Er kreuzte zwei Pflanzen, die beide großes V kleines v waren. Jeder Elternteil gibt jedem Nachkommen zufällig eines seiner beiden Allele weiter. Jeder Elternteil gibt also in der Hälfte der Fälle großes V weiter und in der anderen Hälfte kleines v. Um alle möglichen Kombinationen zu sehen, kann man ein kleines Quadrat mit vier Feldern zeichnen, das Kreuzungsschema oder Punnett-Quadrat. Man schreibt die Allele des einen Elternteils oben hin, die des anderen an die Seite, und füllt die Felder aus.
+
+Die vier Felder ergeben: einmal großes V großes V, zweimal großes V kleines v, und einmal kleines v kleines v. Drei der vier haben mindestens ein großes V und sind daher violett. Eines der vier ist kleines v kleines v und daher weiß. Das Verhältnis ist drei violette zu einer weißen. Mendel fand in seinen Zählungen fast genau dieses Verhältnis. Man nennt diese Regel die Spaltungsregel.
+
+Nicht jedes Gen folgt dem einfachen Muster aus dominant und rezessiv. Manchmal zeigen sich beide Allele gleichzeitig. Das nennt man Kodominanz. Die A B Null-Blutgruppe ist ein gutes Beispiel dafür, wie du im nächsten Kapitel sehen wirst.
+
+Warum ist das im Labor wichtig? Viele Erbkrankheiten folgen den Mendelschen Regeln. Die Mukoviszidose wird rezessiv vererbt: Ein Kind ist nur mit zwei defekten Kopien krank. Eltern, die je eine defekte Kopie tragen, sind gesunde Überträger, und jedes ihrer Kinder hat ein Risiko von eins zu vier, krank zu sein. Andere Krankheiten werden dominant vererbt: Eine defekte Kopie reicht. Genetische Labore und Ärzte nutzen diese Regeln, um das Risiko in einer Familie abzuschätzen.
+
+Kurz gesagt: Gene kommen in Versionen vor, den Allelen, und jeder Mensch trägt zwei Kopien jedes Gens. Dominante Allele zeigen sich schon in einer Kopie, rezessive nur in zwei. Die Kreuzung zweier mischerbiger Eltern ergibt das klassische Verhältnis von drei zu eins.
+
+# Genotyp und Phänotyp — Genotype and phenotype
+
+Zwei Begriffe sind zentral für die Genetik. Der Genotyp ist die genetische Ausstattung, also die Allele, die ein Mensch tatsächlich trägt. Der Phänotyp ist das, was man sehen oder messen kann: das Merkmal, das daraus entsteht. Bei Mendels Erbsen sind großes V großes V und großes V kleines v zwei verschiedene Genotypen, aber sie haben denselben Phänotyp: violette Blüten.
+
+Der Phänotyp verrät nicht immer den Genotyp. Eine violette Erbse kann großes V großes V oder großes V kleines v sein. Ein gesunder Mensch kann Überträger einer rezessiven Krankheit sein, ohne es zu wissen. Nur ein Gentest oder die Familiengeschichte kann das verborgene Allel zeigen.
+
+Der Phänotyp hängt auch von der Umwelt ab. Ein Mensch kann Gene für einen großen Körper tragen, aber ohne gute Ernährung in der Kindheit wird er vielleicht nicht groß. Viele häufige Krankheiten wie der Typ-zwei-Diabetes oder Herzerkrankungen entstehen aus vielen Genen zusammen mit dem Lebensstil. Sie folgen nicht den einfachen Mendelschen Regeln.
+
+Die A B Null-Blutgruppe ist ein perfektes Beispiel für das Labor. Das Gen für die A B Null-Gruppe hat drei häufige Allele: A, B und Null. Das Allel A bildet das Antigen A, das Allel B bildet das Antigen B, und das Allel Null bildet keines. A und B sind kodominant: Hat ein Mensch beide, erscheinen beide Antigene, und die Blutgruppe ist A B. A und B sind beide dominant über Null, das rezessiv ist.
+
+Es gibt also sechs mögliche Genotypen, aber nur vier Phänotypen. Blutgruppe A kann der Genotyp A A oder A Null sein. Blutgruppe B kann B B oder B Null sein. Blutgruppe A B ist immer A B. Blutgruppe Null ist immer Null Null.
+
+Rechnen wir ein Beispiel durch. Beide Eltern haben Blutgruppe A, und beide sind mischerbig, mit dem Genotyp A Null. Jeder gibt entweder A oder Null weiter. Das Kreuzungsschema ergibt: einmal A A, zweimal A Null und einmal Null Null. Drei der vier Kombinationen zeigen also Blutgruppe A. Eine der vier, Null Null, zeigt Blutgruppe Null. Zwei Eltern mit Blutgruppe A können daher ein Kind mit Blutgruppe Null haben. Das ist keine Verwechslung, sondern Mendels Regel.
+
+Andererseits sind manche Kombinationen unmöglich. Ein Elternteil mit Blutgruppe A B gibt immer entweder A oder B weiter, niemals Null. Ein Elternteil mit Blutgruppe A B kann also kein Kind mit Blutgruppe Null haben, abgesehen von sehr seltenen Sondervarianten.
+
+Früher nutzte man die Blutgruppen bei Vaterschaftsfragen. Heute haben D N A-Tests sie ersetzt, weil sie viel genauer sind.
+
+Warum ist das im Labor wichtig? Den Phänotyp misst das Labor bei der Blutgruppenbestimmung: die Antigene auf den Zellen. Den Genotyp kann man mit molekularbiologischen Methoden bestimmen. Das ist in besonderen Fällen nützlich, etwa wenn ein Patient kürzlich transfundiert wurde und sein Blut eine Mischung aus eigenen und Spenderzellen enthält. Dann sind die Antigentests verwirrend, aber ein Gentest aus der eigenen D N A des Patienten gibt eine klare Antwort.
+
+Kurz gesagt: Der Genotyp ist die Gesamtheit der Allele, der Phänotyp ist das sichtbare Merkmal. Im A B Null-System sind A und B kodominant und Null ist rezessiv, sodass sechs Genotypen vier Blutgruppen ergeben. Zwei Eltern mit Blutgruppe A können ein Kind mit Blutgruppe Null haben.
+
+# Die Chromosomen — Chromosomes
+
+Die D N A im Zellkern ist ein sehr langes Molekül. Würdest du die D N A einer einzigen menschlichen Zelle ausstrecken, wäre sie etwa zwei Meter lang. Damit sie in den Zellkern passt, ist sie um Proteine gewickelt und sehr dicht verpackt, wie ein Faden, der auf viele kleine Spulen gewickelt ist. Diese verpackten Einheiten sind die Chromosomen.
+
+Eine menschliche Körperzelle hat sechsundvierzig Chromosomen, in dreiundzwanzig Paaren angeordnet. Ein Chromosom jedes Paares stammt von der Mutter, das andere vom Vater. Zweiundzwanzig der Paare sind bei Männern und Frauen gleich. Man nennt sie Autosomen, und sie sind von eins bis zweiundzwanzig nummeriert, ungefähr vom größten zum kleinsten. Das dreiundzwanzigste Paar sind die Geschlechtschromosomen, die Gonosomen. Frauen haben zwei X-Chromosomen. Männer haben ein X und ein viel kleineres Y-Chromosom.
+
+Eizellen und Spermien, die Keimzellen, haben nur einen Satz von dreiundzwanzig Chromosomen. Sie entstehen durch die Meiose, die du aus dem ersten Leitfaden kennst. Wenn sich eine Eizelle und ein Spermium vereinigen, ist die volle Zahl von sechsundvierzig wiederhergestellt.
+
+Unter dem Lichtmikroskop sind Chromosomen nur sichtbar, wenn sich eine Zelle teilt. Kurz vor der Teilung sind sie am dichtesten verpackt, in einer Phase namens Metaphase. Jedes Chromosom sieht dann aus wie ein X: zwei identische Kopien, die an einer Stelle verbunden sind, dem Zentromer.
+
+Ein Bild aller Chromosomen einer Zelle, nach Größe und Form zu Paaren geordnet, nennt man Karyogramm. Um es zu erstellen, züchtet das Labor lebende Zellen an, meist weiße Blutkörperchen. Eine Chemikalie hält die Zellen in der Metaphase an. Die Zellen werden auf einem Objektträger zum Platzen gebracht, und die Chromosomen werden gefärbt. Die Färbung gibt jedem Chromosom ein typisches Muster aus hellen und dunklen Banden, wie einen Strichcode auf einem Produkt. So erkennt die Fachkraft jedes Chromosom und sieht Veränderungen daran.
+
+Gene auf dem X-Chromosom folgen einem besonderen Erbgang. Männer haben nur ein X. Trägt das X eines Mannes ein defektes rezessives Allel, gibt es kein zweites X, das es ausgleichen könnte, und er ist betroffen. Frauen haben zwei X-Chromosomen und sind daher meist gesunde Überträgerinnen. Das nennt man X-chromosomale Vererbung. Beispiele sind die Rot-Grün-Sehschwäche und die Hämophilie, die Bluterkrankheit, bei der ein Gerinnungsfaktor fehlt. Eine Überträgerin gibt das defekte X an die Hälfte ihrer Söhne weiter, die dann betroffen sind.
+
+Warum ist das im Labor wichtig? Die Zytogenetik ist der Laborbereich, der Chromosomen untersucht. Sie sucht nach Veränderungen der Zahl oder Struktur, zum Beispiel bei Kindern mit Entwicklungsstörungen, bei Paaren mit wiederholten Fehlgeburten und bei Blutkrebserkrankungen. Die Zellen müssen leben, damit sie wachsen können. Proben für die Chromosomenanalyse werden deshalb in Heparinröhrchen abgenommen, niemals eingefroren und schnell ins Labor geschickt. Und im Gerinnungslabor kann ein sehr niedriger Faktor acht bei einem Jungen mit Blutungen auf eine Hämophilie hinweisen.
+
+Kurz gesagt: Menschliche Zellen haben sechsundvierzig Chromosomen in dreiundzwanzig Paaren, einschließlich der Geschlechtschromosomen X und Y. Ein Karyogramm zeigt sie in der Metaphase, geordnet und in Banden gefärbt. X-chromosomal rezessive Krankheiten wie die Hämophilie betreffen vor allem Jungen.
+
+# Die Mutationen — Mutations
+
+Eine Mutation ist eine dauerhafte Veränderung der D N A. Mutationen passieren ständig. Manche entstehen durch Fehler beim Kopieren der D N A vor einer Zellteilung. Andere werden durch äußere Einflüsse verursacht, etwa durch Strahlung, ultraviolettes Licht, Tabakrauch und bestimmte Chemikalien. Zellen haben Reparatursysteme, die die meisten Schäden beheben. Die wenigen Veränderungen, die bleiben, sind Mutationen.
+
+Man kann Mutationen nach ihrer Größe einteilen.
+
+Eine Genmutation oder Punktmutation verändert einen oder wenige Buchstaben des D N A-Codes. Wird ein Buchstabe gegen einen anderen ausgetauscht, nennt man das eine Substitution. Manchmal ändert sie nichts, weil der genetische Code mehrere Codewörter für dieselbe Aminosäure hat. Manchmal verändert sie eine Aminosäure im Protein. Und manchmal entsteht ein Stoppsignal, sodass das Protein zu kurz wird.
+
+Das klassische Beispiel ist die Sichelzellkrankheit. Ein einziger Buchstabe im Gen für einen Teil des Hämoglobins ist verändert. Dadurch wird eine Aminosäure in der Proteinkette, die Glutaminsäure, durch eine andere ersetzt, das Valin. Diese kleine Veränderung lässt das Hämoglobin bei Sauerstoffmangel verkleben. Die roten Blutkörperchen werden steif und biegen sich in die Form einer Sichel. Sie verstopfen kleine Gefäße und gehen früh zugrunde.
+
+Werden ein oder mehrere Buchstaben eingefügt oder entfernt, spricht man von einer Insertion oder Deletion. Ist die Zahl der eingefügten oder entfernten Buchstaben kein Vielfaches von drei, verschiebt sich das Leseraster. Jedes Codewort nach der Veränderung wird falsch gelesen, wie ein Satz, in dem alle Leerzeichen um einen Buchstaben verrutscht sind. Solche Rasterschubmutationen zerstören das Protein meist. Viele Fälle von Mukoviszidose werden durch eine kleine Deletion verursacht.
+
+Eine Chromosomenmutation verändert die Struktur eines Chromosoms. Ein Stück kann verloren gehen, verdoppelt, umgedreht oder auf ein anderes Chromosom verlagert werden. Tauschen zwei Chromosomen Stücke aus, nennt man das eine Translokation. Ein berühmtes Beispiel ist das Philadelphia-Chromosom bei einer Form von Blutkrebs, der chronischen myeloischen Leukämie. Ein Stück von Chromosom neun und ein Stück von Chromosom zweiundzwanzig tauschen die Plätze. Dadurch entsteht ein neues Fusionsgen, das die Zellen zu unkontrollierter Teilung antreibt.
+
+Eine Genommutation verändert die Zahl der Chromosomen. Das bekannteste Beispiel ist die Trisomie einundzwanzig, auch Down-Syndrom genannt. Der Mensch hat drei Kopien von Chromosom einundzwanzig statt zwei. Das entsteht meist durch einen Fehler in der Meiose, wenn die Chromosomen nicht richtig getrennt werden.
+
+Es ist wichtig, wo eine Mutation passiert. Eine Mutation in einer Keimzelle kann an Kinder vererbt werden. Sie ist dann in jeder Zelle des kindlichen Körpers vorhanden. Eine Mutation in einer normalen Körperzelle, eine somatische Mutation, wird nicht vererbt. Sie betrifft nur diese Zelle und ihre Tochterzellen. Die meisten Krebserkrankungen entstehen durch eine Anhäufung somatischer Mutationen.
+
+Warum ist das im Labor wichtig? Molekularbiologische Labore suchen täglich nach Mutationen. Sie testen auf erbliche Risiken wie die Faktor-fünf-Leiden-Mutation, eine häufige Veränderung eines Gerinnungsfaktors, die das Thromboserisiko erhöht. Sie suchen nach Mutationen in Tumoren, weil manche neuen Krebsmedikamente nur wirken, wenn eine bestimmte Mutation vorliegt. Und sie verfolgen bei Leukämiepatienten die Menge des Philadelphia-Fusionsgens, um zu sehen, ob die Behandlung wirkt.
+
+Kurz gesagt: Eine Mutation ist eine dauerhafte Veränderung der D N A. Sie kann einzelne Buchstaben, die Struktur eines Chromosoms oder die Zahl der Chromosomen verändern. Keimzellmutationen werden vererbt, somatische Mutationen nicht, und das Labor testet auf beide.
+
+# Das P C R-Prinzip — P C R principle
+
+Die Polymerase-Kettenreaktion, kurz P C R, ist eine Methode, um einen ausgewählten D N A-Abschnitt millionen- oder milliardenfach zu kopieren. Kary Mullis erfand sie im Jahr neunzehnhundertdreiundachtzig und erhielt dafür den Nobelpreis. Sie verwandelt eine winzige, unsichtbare Menge D N A in eine Menge, die groß genug für einen Nachweis ist.
+
+Die P C R kopiert D N A im Reagenzglas auf dieselbe Weise wie Zellen, aber in einem gesteuerten Zyklus von Temperaturen. Sie braucht fünf Zutaten.
+
+Erstens die Proben-D N A, die den Zielabschnitt enthält. Zweitens zwei Primer. Primer sind kurze Stücke einzelsträngiger D N A, etwa zwanzig Buchstaben lang. Sie sind so gestaltet, dass sie genau an den Anfang und das Ende des Zielabschnitts passen. Sie markieren, was kopiert wird, wie zwei Lesezeichen in einem dicken Buch. Drittens die Bausteine, die vier D N A-Buchstaben, die Nukleotide. Viertens eine D N A-Polymerase, das Enzym, das die neuen Stränge baut. Und fünftens ein Puffer mit Magnesium, das das Enzym braucht.
+
+Die Polymerase ist etwas Besonderes. Sie stammt von einem Bakterium namens Thermus aquaticus, das in heißen Quellen lebt. Deshalb übersteht dieses Enzym, die Taq-Polymerase, Temperaturen nahe dem Siedepunkt. Das ist entscheidend, wie du gleich sehen wirst.
+
+Jeder Zyklus hat drei Schritte. Schritt eins ist die Denaturierung bei etwa vierundneunzig bis fünfundneunzig Grad Celsius. Die Hitze trennt die beiden Stränge der D N A-Doppelhelix. Schritt zwei ist die Anlagerung bei etwa fünfzig bis fünfundsechzig Grad, je nach Primer. Die Primer lagern sich an ihre passenden Stellen auf den Einzelsträngen an. Schritt drei ist die Verlängerung, die Elongation, bei zweiundsiebzig Grad, der idealen Temperatur der Taq-Polymerase. Ausgehend von jedem Primer fügt das Enzym Buchstabe für Buchstabe an und baut einen neuen, ergänzenden Strang.
+
+Am Ende eines Zyklus hat sich die Zahl der Zielabschnitte verdoppelt. Dann beginnt der Zyklus von vorn. Ein Gerät namens Thermocycler wechselt die Temperaturen automatisch. Ein Zyklus dauert nur ein bis zwei Minuten.
+
+Die Kraft der P C R liegt in der Verdopplung. Nach einem Zyklus gibt es zwei Kopien. Nach zwei Zyklen vier. Nach zehn Zyklen etwa tausend. Nach zwanzig Zyklen etwa eine Million. Nach dreißig Zyklen etwa eine Milliarde. Eine typische P C R läuft über dreißig bis vierzig Zyklen. Ausgehend von nur wenigen Kopien entsteht so genug für einen einfachen Nachweis.
+
+Viele Viren wie Grippeviren, H I V und die Coronaviren haben R N A statt D N A. Die Polymerase kann R N A nicht direkt kopieren. Deshalb schreibt zuerst ein Enzym namens Reverse Transkriptase die R N A in D N A um. Dann folgt die normale P C R. Diese Kombination nennt man Reverse-Transkriptase-P C R.
+
+Warum ist das im Labor wichtig? Die enorme Empfindlichkeit der P C R ist zugleich ihre größte Gefahr. Eine einzige verirrte Kopie aus einem früheren Test oder aus einer positiven Probe kann milliardenfach kopiert werden und ein falsch positives Ergebnis ergeben. Deshalb sind P C R-Labore in getrennte Räume aufgeteilt: einen für die Vorbereitung der Reagenzien, einen für die Zugabe der Proben und einen für den Lauf und die Auswertung. Die Arbeit geht immer in eine Richtung, von sauber nach schmutzig, niemals zurück. Jeder Lauf enthält Negativkontrollen ohne Probe, die zeigen, dass keine Verunreinigung vorliegt.
+
+Kurz gesagt: Die P C R kopiert einen ausgewählten D N A-Abschnitt, indem sie drei Temperaturschritte wiederholt: Denaturierung, Anlagerung und Verlängerung. Jeder Zyklus verdoppelt das Ziel, sodass dreißig Zyklen etwa eine Milliarde Kopien ergeben. R N A wird zuerst in D N A umgeschrieben, und eine strenge Raumtrennung verhindert Verunreinigungen.
+
+# Die Echtzeit-P C R — Real-time P C R
+
+Bei der klassischen P C R wird das Ergebnis am Ende des Laufs geprüft. Das Produkt wird auf ein Gel aufgetragen und durch Elektrophorese aufgetrennt. Erscheint eine Bande der richtigen Größe, war das Ziel vorhanden. Das kostet zusätzlich Zeit, und das Öffnen der Röhrchen nach dem Lauf birgt die Gefahr, das Produkt im Labor zu verteilen.
+
+Moderne Labore verwenden meist die Echtzeit-P C R, auch quantitative P C R genannt. Hier wird das Produkt während der Reaktion gemessen, in jedem Zyklus, im geschlossenen Röhrchen.
+
+Wie funktioniert das? Die Reaktion enthält fluoreszierende Farbstoffe oder Sonden. Ein häufiger Sondentyp ist ein kurzes D N A-Stück, das zum Ziel passt und zwei kleine Moleküle trägt: einen Farbstoff, der leuchtet, und einen Löscher, der das Leuchten unterdrückt, solange beide nah beieinander sind. Wenn die Polymerase den neuen Strang baut, zerlegt sie die Sonde. Der Farbstoff wird vom Löscher befreit und beginnt zu leuchten. Jede neue Kopie fügt also etwas Licht hinzu. Das Gerät strahlt Licht in jedes Röhrchen und misst das Leuchten nach jedem Zyklus.
+
+Zuerst ist das Leuchten zu schwach, um sich vom Hintergrund abzuheben. Dann, während sich die Kopien weiter verdoppeln, steigt es steil an. Später, wenn die Zutaten aufgebraucht sind, flacht es ab. In einer Grafik ergibt das eine S-förmige Kurve.
+
+Die entscheidende Zahl ist der Zyklus, bei dem das Leuchten erstmals deutlich über den Hintergrund steigt. Man nennt ihn den Schwellenwertzyklus oder C t-Wert. Je mehr Ziel am Anfang vorhanden war, desto früher überschreitet das Leuchten die Schwelle, und desto niedriger ist der C t-Wert. Eine Probe mit viel Virus überschreitet die Schwelle vielleicht bei Zyklus fünfzehn. Eine Probe mit sehr wenig Virus vielleicht bei Zyklus fünfunddreißig. Jeder Zyklus bedeutet eine Verdopplung, deshalb bedeutet ein Unterschied von zehn Zyklen etwa einen tausendfachen Unterschied in der Ausgangsmenge.
+
+Lässt das Labor Standards mit bekannten Mengen mitlaufen, kann es den C t-Wert in eine genaue Zahl von Kopien pro Milliliter umrechnen. Das nennt man die Viruslast. Man nutzt sie zum Beispiel, um die Behandlung von Patienten mit H I V oder Hepatitis B und C zu überwachen.
+
+Verschiedene Sonden mit verschiedenen Farben können im selben Röhrchen verwendet werden. So kann das Labor mehrere Ziele gleichzeitig testen, zum Beispiel Influenza A, Influenza B und das Coronavirus in einer Reaktion. Meist wird auch eine interne Kontrolle mitgeführt. Das ist ein Ziel, das immer gefunden werden sollte. Versagt die interne Kontrolle, enthält die Probe vielleicht Stoffe, die die Reaktion hemmen, und einem negativen Ergebnis kann man nicht trauen.
+
+Warum ist das im Labor wichtig? Eine Echtzeit-P C R liefert innerhalb von ein bis zwei Stunden ein Ergebnis, im geschlossenen Röhrchen und mit geringerem Verunreinigungsrisiko. Aber ein C t-Wert muss vorsichtig gelesen werden. Er hängt von der Qualität der Probe ab, zum Beispiel davon, wie gut ein Abstrich genommen wurde. Ein hoher C t-Wert kann sehr wenig Virus bedeuten, vielleicht am Ende einer Infektion. Der Laborbefund liefert das Ergebnis, und die Ärztin bewertet es zusammen mit dem Patienten.
+
+Kurz gesagt: Die Echtzeit-P C R misst das Produkt in jedem Zyklus mit fluoreszierenden Sonden. Der C t-Wert ist der Zyklus, bei dem das Signal die Schwelle überschreitet, und ein niedriger C t-Wert bedeutet viel Ziel. Mit Standards kann das Labor eine Viruslast angeben, und interne Kontrollen schützen vor falsch negativen Ergebnissen.
+
+# Zusammenfassung Genetik — Genetics summary
+
+Schauen wir auf Teil vier zurück.
+
+Gregor Mendel entdeckte die Grundregeln der Vererbung. Jeder Mensch hat zwei Kopien jedes Gens, die Allele. Dominante Allele zeigen sich schon in einer Kopie, rezessive nur, wenn beide Kopien rezessiv sind. Die Kreuzung zweier mischerbiger Eltern ergibt ein Verhältnis von drei zu eins.
+
+Der Genotyp ist die Gesamtheit der Allele, der Phänotyp ist das sichtbare Merkmal. Im A B Null-System sind A und B kodominant und Null ist rezessiv, sodass zwei Eltern mit Blutgruppe A ein Kind mit Blutgruppe Null haben können.
+
+Menschliche Zellen haben sechsundvierzig Chromosomen in dreiundzwanzig Paaren, einschließlich X und Y. Ein Karyogramm zeigt sie in der Metaphase in Banden gefärbt. X-chromosomal rezessive Krankheiten wie die Hämophilie betreffen vor allem Jungen.
+
+Eine Mutation ist eine dauerhafte Veränderung der D N A. Punktmutationen, wie bei der Sichelzellkrankheit, verändern einzelne Buchstaben. Chromosomenmutationen, wie die Philadelphia-Translokation, verändern die Struktur. Genommutationen, wie die Trisomie einundzwanzig, verändern die Zahl der Chromosomen. Keimzellmutationen werden vererbt, somatische nicht.
+
+Die P C R kopiert einen D N A-Zielabschnitt in Zyklen aus Denaturierung, Anlagerung und Verlängerung und verdoppelt ihn jedes Mal. R N A wird zuerst in D N A umgeschrieben. Die Echtzeit-P C R misst das Leuchten in jedem Zyklus. Ein niedriger C t-Wert bedeutet viel Ziel, und Standards machen daraus eine Viruslast. Getrennte Räume und Kontrollen schützen die P C R vor Verunreinigung.
+
+# Teil fünf: Labormathematik — Part five: Lab maths
+
+Jede Zahl auf einem Laborbefund ist das Ende einer Kette von Berechnungen. Das Analysegerät vergleicht das Signal der Patientenprobe mit den Signalen bekannter Standards. Es prüft, ob die Kontrollproben innerhalb ihrer Grenzen liegen. Und die Ärztin vergleicht das Ergebnis mit einem Referenzbereich. In diesem Teil lernst du die Mathematik hinter diesen drei Schritten.
+
+Keine Sorge. Du brauchst keine höhere Mathematik. Du brauchst ein klares Verständnis weniger Ideen: der Kalibrationskurve, des Mittelwerts, der Standardabweichung, des Variationskoeffizienten und des Referenzbereichs. Wie immer wird jede Rechnung Schritt für Schritt ausgesprochen.
+
+# Die Kalibrationskurve — Calibration curves
+
+Ein Photometer misst die Extinktion, nicht die Konzentration. Ein Immunoassay misst Licht, nicht den Hormonspiegel. Um ein Signal in eine Konzentration zu übersetzen, braucht das Gerät eine Übersetzungstabelle. Diese Übersetzungstabelle ist die Kalibrationskurve, auch Eichkurve oder Standardkurve genannt.
+
+Um sie zu erstellen, misst das Labor mehrere Standards, auch Kalibratoren genannt. Das sind Lösungen mit genau bekannten Konzentrationen des Stoffes. Für jeden Standard zeichnet das Gerät das Signal auf. Dann werden die Ergebnisse in ein Diagramm eingetragen. Die Konzentration kommt auf die waagerechte Achse, das Signal auf die senkrechte Achse. Jeder Standard ergibt einen Punkt, und durch die Punkte wird eine Gerade oder Kurve gelegt.
+
+Nun wird eine Patientenprobe gemessen. Ihr Signal sucht man auf der senkrechten Achse. Von dort geht man waagerecht bis zur Kurve und dann senkrecht nach unten zur waagerechten Achse. Dort liest man die Konzentration der Patientenprobe ab. Das Gerät macht das durch Berechnung, aber das Prinzip ist genau dasselbe.
+
+Rechnen wir ein Beispiel mit einer Geraden durch den Nullpunkt. Ein Standard mit hundert Milligramm pro Deziliter ergibt eine Extinktion von null komma fünf. Der Leerwert ohne Substanz ergibt null. Eine Patientenprobe ergibt eine Extinktion von null komma drei. Da die Linie gerade ist, sind Konzentration und Extinktion proportional. Null komma drei sind drei Fünftel von null komma fünf. Die Konzentration ist also drei Fünftel von hundert, das sind sechzig Milligramm pro Deziliter.
+
+In der Praxis verläuft die Linie nicht immer genau durch den Nullpunkt, und das Labor verwendet mehrere Standards. Die Gerade lässt sich durch ihre Steigung beschreiben, die zeigt, wie steil das Signal mit der Konzentration ansteigt, und durch ihren Achsenabschnitt, den Punkt, an dem sie die senkrechte Achse schneidet.
+
+Viele photometrische Tests ergeben eine Gerade, zumindest in einem bestimmten Bereich. Viele Immunoassays ergeben eine gekrümmte Linie, oft S-förmig. Kompetitive Immunoassays ergeben sogar eine fallende Kurve, weil eine höhere Konzentration ein niedrigeres Signal ergibt. Die Geräte verwenden mathematische Modelle, um diese Kurven anzupassen.
+
+Jede Kalibrationskurve hat einen Messbereich: von der niedrigsten bis zur höchsten Konzentration, die zuverlässig gemessen werden kann. Innerhalb des Bereichs der Standards ist das Ablesen sicher. Das nennt man Interpolation. Das Ablesen über den höchsten Standard hinaus, durch Verlängern der Linie, nennt man Extrapolation, und das ist nicht erlaubt. Die Kurve kann dort abknicken, und das Ergebnis könnte falsch sein. Eine Probe oberhalb des Bereichs wird verdünnt und erneut gemessen, und das Ergebnis wird mit dem Verdünnungsfaktor multipliziert. Eine Probe unterhalb des Bereichs wird als »kleiner als« der niedrigste zuverlässige Wert angegeben.
+
+Kalibriert wird nicht einmal für immer. Reagenzien altern, Lampen werden schwächer, und neue Reagenzchargen verhalten sich etwas anders. Deshalb wird in festen Abständen kalibriert, bei jeder neuen Reagenzcharge und immer dann, wenn die Kontrollen ein Problem zeigen.
+
+Warum ist das im Labor wichtig? Jedes Ergebnis hängt von einer korrekten Kalibration ab. Wurde ein Kalibrator falsch gelagert oder verwechselt, kann jedes Patientenergebnis dieses Tests in dieselbe Richtung falsch sein. Deshalb werden nach jeder Kalibration Kontrollproben gemessen, bevor Patientenergebnisse freigegeben werden. Nur wenn die Kontrollen stimmen, vertrauen wir der Kurve.
+
+Kurz gesagt: Eine Kalibrationskurve übersetzt ein Signal in eine Konzentration, mithilfe von Standards mit bekannten Werten. Ergebnisse werden innerhalb des Messbereichs abgelesen, nie darüber hinaus. Proben oberhalb des Bereichs werden verdünnt, und jede Kalibration wird mit Kontrollen überprüft.
+
+# Mittelwert und Standardabweichung — Mean and standard deviation
+
+Keine Messung ist perfekt. Wenn du dieselbe Probe zehnmal misst, erhältst du zehn leicht unterschiedliche Ergebnisse. Diese kleine, zufällige Streuung ist unvermeidbar. Die Statistik hilft uns, sie zu beschreiben und zu entscheiden, ob man einem Ergebnis trauen kann.
+
+Die erste Zahl ist der Mittelwert, der gewöhnliche Durchschnitt. Um ihn zu berechnen, addierst du alle Werte und teilst durch die Anzahl der Werte. Ein Beispiel: Fünf Messungen einer Kontrolle ergeben vier, fünf, sechs, fünf und fünf Millimol pro Liter. Die Summe ist fünfundzwanzig. Fünfundzwanzig geteilt durch fünf ergibt einen Mittelwert von fünf.
+
+Der Mittelwert sagt uns, wo die Werte im Durchschnitt liegen. Aber er sagt nichts darüber, wie weit sie streuen. Zwei Messreihen können denselben Mittelwert haben, eine mit eng beieinanderliegenden Werten und eine mit Werten, die überall verstreut sind. Um die Streuung zu beschreiben, verwenden wir die Standardabweichung.
+
+Die Standardabweichung ist eine Art durchschnittlicher Abstand der Werte vom Mittelwert. So wird sie Schritt für Schritt berechnet, mit demselben Beispiel. Erstens bestimmst du den Abstand jedes Wertes vom Mittelwert fünf. Vier ergibt minus eins. Fünf ergibt null. Sechs ergibt plus eins. Fünf ergibt null. Fünf ergibt null. Zweitens quadrierst du jeden Abstand, das heißt, du multiplizierst ihn mit sich selbst. Dadurch verschwinden die Minuszeichen. Minus eins zum Quadrat ist eins. Null zum Quadrat ist null. Eins zum Quadrat ist eins. Wir erhalten also eins, null, eins, null, null. Drittens addierst du sie: Die Summe ist zwei. Viertens teilst du durch die Anzahl der Werte minus eins. Wir haben fünf Werte, also teilen wir durch vier. Zwei geteilt durch vier ist null komma fünf. Fünftens ziehst du die Wurzel. Die Wurzel aus null komma fünf ist ungefähr null komma sieben eins. Die Standardabweichung beträgt also ungefähr null komma sieben Millimol pro Liter.
+
+Von Hand wirst du das selten rechnen. Geräte und Computer erledigen das. Aber du musst verstehen, was es bedeutet. Eine kleine Standardabweichung bedeutet, dass die Messungen eng beieinanderliegen, die Methode ist also präzise. Eine große Standardabweichung bedeutet, dass sie weit streuen.
+
+Viele Messwerte folgen einer glockenförmigen Verteilung, der Normalverteilung oder Gaußschen Glockenkurve. Die meisten Werte liegen nahe am Mittelwert, weniger liegen weiter weg, und sehr wenige liegen weit weg. Für eine Normalverteilung gibt es zwei praktische Regeln. Etwa achtundsechzig Prozent aller Werte liegen innerhalb einer Standardabweichung auf beiden Seiten des Mittelwerts. Etwa fünfundneunzig Prozent liegen innerhalb von zwei Standardabweichungen. Und etwa neunundneunzig komma sieben Prozent innerhalb von drei.
+
+Warum ist das im Labor wichtig? Das ist die Grundlage der Qualitätskontrolle. Jeden Tag misst das Labor Kontrollproben mit bekannten Zielwerten. Die Ergebnisse werden in eine Kontrollkarte eingetragen, mit Linien für den Mittelwert und für zwei und drei Standardabweichungen. Ein einzelner Kontrollwert außerhalb von zwei Standardabweichungen ist eine Warnung. Ein Wert außerhalb von drei Standardabweichungen, oder mehrere Werte nacheinander auf einer Seite des Mittelwerts, bedeuten, dass etwas nicht stimmt. Dann dürfen keine Patientenergebnisse freigegeben werden, bis das Problem gelöst ist. In Deutschland sind die Regeln für diese Qualitätskontrolle in einer verbindlichen Richtlinie der Bundesärztekammer festgelegt, der Rili-Bäk.
+
+Kurz gesagt: Der Mittelwert ist der Durchschnitt, und die Standardabweichung beschreibt die Streuung darum. Bei einer Normalverteilung liegen etwa fünfundneunzig Prozent der Werte innerhalb von zwei Standardabweichungen um den Mittelwert. Kontrollkarten nutzen diese Grenzen, um zu entscheiden, ob man einem Messlauf trauen kann.
+
+# Der Variationskoeffizient — The coefficient of variation
+
+Die Standardabweichung hat eine Schwäche. Sie wird in derselben Einheit angegeben wie die Messung, und ihre Größe hängt von der Höhe der Werte ab. Eine Standardabweichung von zwei Milligramm pro Deziliter ist hervorragend bei einer Glucose von dreihundert, aber schlecht bei einem Wert von zehn. Um die Präzision fair zu vergleichen, brauchen wir ein relatives Maß. Das ist der Variationskoeffizient, kurz V K.
+
+Der Variationskoeffizient ist die Standardabweichung geteilt durch den Mittelwert, mal hundert. Das Ergebnis ist eine Prozentzahl. Er sagt dir, wie groß die Streuung im Vergleich zum Wert selbst ist.
+
+Nehmen wir ein Beispiel. Eine Kontrolle wird zwanzigmal gemessen. Der Mittelwert beträgt hundert Milligramm pro Deziliter, die Standardabweichung drei Milligramm pro Deziliter. Drei geteilt durch hundert ist null komma null drei. Mal hundert ergibt drei. Der Variationskoeffizient beträgt also drei Prozent.
+
+Ein zweites Beispiel. Eine andere Kontrolle mit niedriger Konzentration hat einen Mittelwert von zwanzig und eine Standardabweichung von zwei. Zwei geteilt durch zwanzig ist null komma eins. Mal hundert ergibt zehn Prozent. Obwohl die Standardabweichung absolut kleiner ist, ist die relative Streuung viel größer. Die Methode ist in diesem niedrigen Bereich weniger präzise.
+
+Das ist typisch. Die meisten Methoden sind bei sehr niedrigen Konzentrationen relativ ungenauer, nahe an der Grenze dessen, was sie nachweisen können. Deshalb wird der Variationskoeffizient oft für mehrere Konzentrationen eines Tests angegeben.
+
+Was ist ein guter Variationskoeffizient? Das hängt vom Test ab. Bei Natrium, das der Körper in einem sehr engen Bereich hält, muss die Streuung sehr klein sein, etwa ein Prozent oder weniger. Bei vielen Enzym- oder Hormontests sind einige Prozent akzeptabel. Die Hersteller geben den Variationskoeffizienten ihrer Tests an, und das Labor überprüft ihn.
+
+Es gibt zwei Arten von Präzision, die du kennen solltest. Die Präzision in der Serie beschreibt die Streuung, wenn dieselbe Probe in einem Lauf viele Male hintereinander gemessen wird. Die Präzision von Tag zu Tag beschreibt die Streuung über viele Tage, mit verschiedenen Kalibrationen und verschiedenen Mitarbeitenden. Der Variationskoeffizient von Tag zu Tag ist meist größer, weil sich mehr Faktoren ändern.
+
+Präzision ist nicht dasselbe wie Richtigkeit. Stell dir Dartpfeile vor. Wenn alle deine Pfeile dicht beieinander landen, bist du präzise. Landen sie dicht beieinander um die Mitte der Scheibe, bist du auch richtig, und genau das nennt man im Labor Richtigkeit. Landen sie dicht beieinander, aber in einer Ecke der Scheibe, bist du präzise, aber nicht richtig. Eine Methode kann sehr präzise sein und trotzdem systematisch danebenliegen. Das Labor prüft die Präzision mit internen Kontrollen und die Richtigkeit mit der externen Qualitätssicherung, den Ringversuchen. Dabei messen viele Labore dieselbe unbekannte Probe und vergleichen ihre Ergebnisse.
+
+Warum ist das im Labor wichtig? Wenn du eine neue Methode oder ein neues Gerät überprüfst, gehört der Variationskoeffizient zu den ersten Dingen, die du bestimmst. Wenn die Kontrollen eines Tests plötzlich stärker streuen, ist ein steigender Variationskoeffizient ein frühes Warnzeichen: Vielleicht ist eine Pipette verstopft, ein Reagenz alt oder die Lampe schwach.
+
+Kurz gesagt: Der Variationskoeffizient ist die Standardabweichung geteilt durch den Mittelwert, mal hundert, in Prozent. Er erlaubt einen fairen Vergleich der Präzision bei unterschiedlichen Konzentrationen. Präzision ist die Nähe wiederholter Ergebnisse zueinander, Richtigkeit ist ihre Nähe zum wahren Wert.
+
+# Der Referenzbereich — Reference ranges
+
+Ein Laborergebnis allein bedeutet wenig. Ist ein Kalium von fünf komma zwei Millimol pro Liter normal oder nicht? Um das zu beantworten, steht neben jedem Ergebnis ein Referenzbereich. Der Referenzbereich zeigt, welche Werte typischerweise bei gesunden Menschen gefunden werden.
+
+Wie entsteht ein Referenzbereich? Das Labor oder der Hersteller misst den Wert in einer großen Gruppe gesunder Menschen, mindestens hundertzwanzig pro Gruppe. Diese Gruppe nennt man das Referenzkollektiv. Die Ergebnisse werden vom niedrigsten zum höchsten sortiert. Dann werden die niedrigsten zweieinhalb Prozent und die höchsten zweieinhalb Prozent abgeschnitten. Die mittleren fünfundneunzig Prozent der Werte bilden den Referenzbereich.
+
+Folgen die Werte einer Normalverteilung, entsprechen diese mittleren fünfundneunzig Prozent ungefähr dem Mittelwert plus minus zwei Standardabweichungen. Ein Beispiel: Beträgt der Mittelwert eines Wertes bei Gesunden hundertvierzig und die Standardabweichung zwei, reicht der Referenzbereich von hundertsechsunddreißig bis hundertvierundvierzig. Viele Laborwerte sind allerdings nicht symmetrisch verteilt. Dann verwendet das Labor direkt die sortierten Werte.
+
+Diese Methode hat eine wichtige Folge. Per Definition liegen fünf Prozent der gesunden Menschen außerhalb des Referenzbereichs. Einer von zwanzig Gesunden hat rein zufällig einen Wert, der als zu hoch oder zu niedrig markiert wird. Und wenn ein gesunder Mensch zwanzig verschiedene Tests bekommt, ist es wahrscheinlich, dass mindestens einer davon leicht außerhalb liegt. Ein Wert knapp außerhalb des Bereichs ist also nicht automatisch eine Krankheit. Die Ärztin muss ihn zusammen mit den Beschwerden des Patienten, anderen Ergebnissen und früheren Werten bewerten.
+
+Referenzbereiche hängen von vielen Faktoren ab. Das Geschlecht spielt eine Rolle: Hämoglobin und Kreatinin sind bei Männern höher. Das Alter spielt eine Rolle: Die alkalische Phosphatase ist bei Kindern im Wachstum viel höher, und viele Werte ändern sich im Alter. Eine Schwangerschaft verändert viele Werte. Auch die Methode spielt eine Rolle: Verschiedene Geräte und Reagenzien können für denselben Test unterschiedliche Bereiche ergeben. Deshalb zeigt jeder Laborbefund den eigenen Referenzbereich des Labors, und deshalb sollte man Ergebnisse verschiedener Labore nur vorsichtig vergleichen.
+
+Für manche Tests ist ein Referenzbereich nicht die beste Orientierung. Stattdessen gibt es Entscheidungsgrenzen, die von medizinischen Fachleuten auf Grundlage von Studien zu Krankheit und Risiko festgelegt werden. Beispiele kennst du schon: den Nüchternblutzucker von hundertsechsundzwanzig Milligramm pro Deziliter für Diabetes, das H b A eins c von sechs komma fünf Prozent und die risikoabhängigen Zielwerte für das L D L-Cholesterin. Hier lautet die Frage nicht »Was ist bei Gesunden üblich?«, sondern »Ab welchem Wert ist eine Behandlung nötig?«.
+
+Warum ist das im Labor wichtig? Liegt ein Ergebnis weit außerhalb des Referenzbereichs und könnte gefährlich sein, spricht man von einem kritischen Wert oder Alarmwert. Beispiele sind ein sehr hohes Kalium, eine sehr niedrige Glucose oder ein sehr niedriges Hämoglobin. Jedes Labor hat eine Liste solcher Werte. Sie werden der Ärztin sofort mitgeteilt, meist telefonisch, und der Anruf wird dokumentiert. Vor dem Anruf prüft das Labor die Probe: Eine hämolytische Probe kann zum Beispiel ein falsch hohes Kalium zeigen.
+
+Kurz gesagt: Ein Referenzbereich umfasst die mittleren fünfundneunzig Prozent der Werte gesunder Menschen, deshalb liegt einer von zwanzig Gesunden außerhalb. Er hängt von Geschlecht, Alter und Methode ab. Für manche Tests gibt es Entscheidungsgrenzen, und kritische Werte werden der Ärztin sofort gemeldet.
+
+# Zusammenfassung Labormathematik — Lab maths summary
+
+Schauen wir auf Teil fünf zurück.
+
+Eine Kalibrationskurve übersetzt ein gemessenes Signal in eine Konzentration, mithilfe von Standards mit bekannten Werten. Man liest das Ergebnis innerhalb des Messbereichs ab, nie darüber hinaus. Proben oberhalb des Bereichs werden verdünnt, und das Ergebnis wird mit dem Verdünnungsfaktor multipliziert. Jede Kalibration wird mit Kontrollproben überprüft.
+
+Der Mittelwert ist der Durchschnitt einer Reihe von Werten. Die Standardabweichung beschreibt, wie weit sie um den Mittelwert streuen. Bei einer Normalverteilung liegen etwa achtundsechzig Prozent der Werte innerhalb einer Standardabweichung und etwa fünfundneunzig Prozent innerhalb von zwei. Kontrollkarten nutzen diese Grenzen täglich, um zu entscheiden, ob man einem Lauf trauen kann.
+
+Der Variationskoeffizient ist die Standardabweichung geteilt durch den Mittelwert, mal hundert. Er vergleicht die Präzision fair bei verschiedenen Konzentrationen. Präzision bedeutet, dass wiederholte Ergebnisse nah beieinanderliegen. Richtigkeit bedeutet, dass sie nah am wahren Wert liegen.
+
+Ein Referenzbereich umfasst die mittleren fünfundneunzig Prozent der Werte gesunder Menschen. Einer von zwanzig Gesunden liegt also zufällig außerhalb. Referenzbereiche hängen von Geschlecht, Alter und Methode ab. Für manche Tests gibt es Entscheidungsgrenzen, und kritische Werte werden der Ärztin sofort gemeldet.
+
+# Gesamtzusammenfassung — Final summary
+
+Du bist am Ende des dritten Leitfadens angekommen. Machen wir einen letzten Rundgang durch das ganze diagnostische Labor.
+
+In der klinischen Chemie werden Enzyme über ihre Aktivität gemessen, oft über N A D H bei dreihundertvierzig Nanometern. Die A L T weist auf die Leber hin, die Kreatinkinase auf den Muskel und das Troponin auf das Herz. Glucose wird in Fluoridröhrchen geschützt, und das H b A eins c zeigt die letzten zwei bis drei Monate. Albumin hält Wasser und transportiert viele Stoffe. Lipoproteine tragen Fette, wobei das L D L Cholesterin liefert und das H D L es zurückbringt. Hormone werden mit Immunoassays gemessen, entweder als Sandwich oder durch Konkurrenz. Die Analysegeräte beruhen auf Photometrie, Elektrophorese und Chromatographie.
+
+In der Mikrobiologie werden Bakterien nach Form und Gramfärbung eingeteilt: dicke Wand und violett, oder dünne Wand mit äußerer Membran und rot. Sie werden auf passenden Medien bei der richtigen Temperatur und Sauerstoffmenge angezüchtet, mit Schnelltests und Massenspektrometrie bestimmt und gegen Antibiotika getestet, um die minimale Hemmkonzentration zu finden. Viren brauchen Wirtszellen und werden mit P C R und Serologie nachgewiesen. Sterilisation tötet alles ab, auch Sporen. Desinfektion und aseptisches Arbeiten halten Proben sauber und Mitarbeitende sicher.
+
+In der Immunologie binden Antikörper spezifisch an Antigene. I g M kommt zuerst, I g G kommt später und bleibt. Das A B Null-System hat natürliche Antikörper. Das Rhesusantigen D erfordert eine Prophylaxe in der Schwangerschaft. Blutgruppenbestimmung, Antikörpersuchtest und Kreuzprobe machen die Transfusion sicher, und der Bedside-Test ist die letzte Prüfung.
+
+In der Genetik erklären Mendels Regeln die dominante und rezessive Vererbung. Genotyp und Phänotyp unterscheiden sich, wie die Blutgruppen zeigen. Mutationen verändern Buchstaben, Chromosomen oder die Zahl der Chromosomen. Die P C R kopiert D N A, indem sie sie in jedem Zyklus verdoppelt, und die Echtzeit-P C R misst sie, während sie wächst.
+
+In der Labormathematik übersetzen Kalibrationskurven Signale in Konzentrationen. Mittelwert, Standardabweichung und Variationskoeffizient beschreiben die Präzision und steuern die Qualitätskontrolle. Referenzbereiche zeigen, was bei Gesunden üblich ist, aber einer von zwanzig Gesunden liegt außerhalb.
+
+Hinter jeder Zahl auf einem Laborbefund wartet ein Mensch auf eine Antwort. Mit dem Wissen aus diesen drei Leitfäden verstehst du, woher diese Zahl kommt, wie sie falsch werden kann und warum deine sorgfältige Arbeit zählt. Viel Erfolg in deiner Ausbildung.

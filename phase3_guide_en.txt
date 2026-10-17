@@ -1,0 +1,1069 @@
+The diagnostic laboratory: biochemistry, microbiology, immunology, genetics and lab maths.
+
+# Using this guide
+
+This is the third audio guide for the training as a medical technologist for laboratory analysis. The first guide laid the foundations: atoms, bonds, the mole, concentrations, the cell and dilution. The second guide built on them with acids and bases, organic chemistry, the body systems and lab physics. This third guide is the most practical one. It is about what really happens in a diagnostic laboratory.
+
+The guide has five parts. Part one is clinical biochemistry: enzymes, metabolism, blood proteins, lipids, hormones and the methods inside the big analysers. Part two is microbiology: bacteria, viruses, fungi and parasites, how we grow and identify them, and how we keep the work clean and safe. Part three is immunology and blood groups, ending with the cross match before a transfusion. Part four is genetics, from Mendel to the P C R. Part five is lab maths: calibration curves and the statistics behind quality control and reference ranges.
+
+As before, there are no formulas and no symbols, because this is audio. Every number is spoken in full, and every formula is said in words.
+
+Each chapter explains one idea, then shows why it matters in a real laboratory, and ends with a short summary that starts with the words "In short". If you only have a few minutes, the summaries alone are a good revision.
+
+This guide assumes that you know the first two guides. Words like enzyme, protein, photometry, plasma and serum come up all the time. If one of them feels unclear, go back to the matching chapter of the earlier guides.
+
+Let us begin with the workers of the cell, and some of the most frequently measured substances in the whole lab: the enzymes.
+
+# Part one: Biochemistry
+
+Clinical chemistry is the largest department in most hospital laboratories. Every day it measures thousands of values from blood and urine: enzymes, glucose, proteins, fats, electrolytes, hormones and many more. Most of this work runs on large automated analysers. But the analysers only do what chemistry allows. To understand a result, and to notice when a result is wrong, you need to understand the chemistry behind it.
+
+This part goes step by step. First the enzymes: how they work, how fast they work, and why we measure liver and muscle enzymes. Then metabolism, with glycolysis, the citric acid cycle and blood glucose. Then the proteins of the blood. Then lipids and lipoproteins. Then hormones and the immunoassays used to measure them. And finally the three big methods inside the analysers: photometry, electrophoresis and chromatography.
+
+# What enzymes are
+
+An enzyme is a protein that speeds up a chemical reaction without being used up. In chemistry, such a helper is called a catalyst. Enzymes are the catalysts of living things. Almost every reaction in your body, from digesting bread to copying D N A, is run by an enzyme.
+
+Why do reactions need help? Most reactions have to get over a hill before they can run. This hill is called the activation energy. Think of pushing a heavy cart over a bump in the road. Without help, only a few molecules have enough energy to get over the bump, so the reaction runs very slowly. An enzyme makes the bump lower. Then many more molecules get over it, and the reaction runs millions of times faster. The enzyme does not change where the reaction ends up. It only changes how fast it gets there.
+
+The substance that an enzyme works on is called its substrate. The enzyme has a small pocket on its surface, the active site. The substrate fits into this pocket, a bit like a key in a lock. Inside the pocket, the substrate is bent and pulled so that it reacts easily. Then the product leaves, and the enzyme is free for the next substrate molecule. One enzyme molecule can handle thousands of substrate molecules every second.
+
+Because the pocket has a precise shape, most enzymes are very specific. They work on one substrate, or on a small family of similar ones. This specificity is exactly what makes enzymes so useful as tools in the lab.
+
+Many enzymes need a small helper molecule to work. These helpers are called coenzymes. One important coenzyme is N A D, which carries hydrogen and electrons from one reaction to another. Its loaded form is called N A D H. Remember this name, because N A D H will come back several times in this guide.
+
+Enzymes are proteins, so they are sensitive. Every enzyme has an ideal temperature and an ideal pH. In the human body, the ideal temperature is about thirty-seven degrees Celsius. If it gets too hot, the protein unfolds, the pocket loses its shape, and the enzyme stops working for good. Strong acids, bases and heavy metals can also destroy enzymes.
+
+Enzyme names usually end in "ase". The first part of the name often tells you the substrate or the job. Lipase splits lipids. Amylase splits starch. A dehydrogenase removes hydrogen. A transferase moves a chemical group from one molecule to another.
+
+Why does this matter in the lab? Enzymes appear in the lab in two different roles. First, as patient values: when cells are damaged, their enzymes leak into the blood, and we measure them. Second, as tools: many tests use purified enzymes as reagents, for example to measure glucose or cholesterol. In both cases, the sample must be handled carefully. Heat, long storage or repeated freezing and thawing can damage enzymes, and then the result is falsely low.
+
+In short: enzymes are protein catalysts that make reactions fast by lowering the activation energy. Each enzyme has an active site that fits a specific substrate. Temperature and pH must be right, or the enzyme loses its shape and stops working.
+
+# Enzyme kinetics
+
+Kinetics is the study of reaction speed. Enzyme kinetics asks one simple question: how fast does an enzyme work, and what does that speed depend on?
+
+Imagine a small post office with one clerk at one counter. The clerk is the enzyme, and the customers are the substrate molecules. If only one customer comes in every few minutes, the clerk is mostly waiting. Send in more customers, and the clerk serves more people per hour. So at low substrate concentrations, the speed of the reaction rises with the amount of substrate.
+
+But the clerk has a limit. Once there is always a queue, sending in even more customers does not help. The clerk is working as fast as possible. The enzyme is now saturated, and the reaction has reached its maximum speed. This maximum speed is written as V max, which is short for maximum velocity.
+
+If you draw the speed against the substrate concentration, you get a curve that rises steeply at first and then bends and flattens out towards the maximum. This curve is named after two scientists, Leonor Michaelis and Maud Menten. It is called the Michaelis Menten curve.
+
+There is one useful number on this curve. It is the substrate concentration at which the enzyme works at exactly half of its maximum speed. This number is called the Michaelis constant, written K m. A small K m means that the enzyme grabs its substrate easily, even at low concentrations. A large K m means that the enzyme needs a lot of substrate before it gets going.
+
+Now the most important point for the lab. When the substrate is in large excess, the enzyme is saturated. Then the speed no longer depends on the substrate. It only depends on how much enzyme is there. Twice the enzyme gives twice the speed. Back in the post office: if there is always a long queue, two clerks serve twice as many customers as one clerk.
+
+Speed also depends on temperature and pH, as we saw. And it depends on inhibitors. An inhibitor is a substance that slows an enzyme down. Some inhibitors compete with the substrate for the pocket. Others bind somewhere else and change the enzyme's shape. Many drugs work as enzyme inhibitors. And some substances in a sample, such as certain anticoagulants, can inhibit enzymes and disturb a test.
+
+Why does this matter in the lab? When we measure the activity of an enzyme in a patient's serum, we want the result to show how much enzyme is there. So the test reagent contains the substrate in large excess. Then the enzyme is saturated, and the speed of the reaction is directly proportional to the amount of enzyme. This is why enzyme tests are run at a fixed temperature, usually thirty-seven degrees Celsius, and at a fixed pH. Change one of these, and the result changes too.
+
+In short: at low substrate levels, an enzyme works faster when more substrate is added. At high substrate levels, it is saturated and works at maximum speed. In lab tests the substrate is in excess, so the measured speed tells you the amount of enzyme.
+
+# Measuring enzyme activity
+
+Enzymes in blood are present in tiny amounts. Weighing them would be almost impossible. So instead of measuring how much enzyme protein there is, we measure what the enzyme does. We measure its activity.
+
+Activity means: how much substrate the enzyme converts per minute. The classic unit is simply called the unit. One unit is the amount of enzyme that converts one micromole of substrate per minute, under fixed conditions. Enzyme results are reported in units per liter of serum. The official S I unit is the katal, which is one mole per second, but in daily practice you will mostly see units per liter.
+
+How do we see the reaction? Most enzyme tests use photometry, which you know from the second guide. Here the coenzyme N A D H is very handy. N A D H absorbs ultraviolet light at a wavelength of three hundred forty nanometers. Its partner without hydrogen, N A D, does not. So if a reaction uses up N A D H, the absorbance at three hundred forty nanometers goes down. If a reaction produces N A D H, the absorbance goes up.
+
+Often the enzyme we want to measure does not use N A D H itself. Then the test adds a second enzyme, called an indicator enzyme, which does. The first reaction makes a product. The second reaction uses that product and, at the same time, uses up N A D H. The two reactions are coupled like two gears. This is called a coupled enzymatic test.
+
+The measurement is kinetic. That means the analyser does not take one single reading at the end. It reads the absorbance again and again, for example every few seconds over two or three minutes. Then it calculates how fast the absorbance changes per minute. With a known factor, the change per minute is converted into units per liter.
+
+A kinetic measurement needs a straight line. As long as the substrate is in excess, the absorbance falls at a steady rate. But if a sample contains a huge amount of enzyme, the substrate is used up very quickly. The line flattens, and the analyser would calculate a falsely low result. Modern analysers check this. They flag the result as substrate depletion, and the sample is diluted and measured again.
+
+Why does this matter in the lab? Enzyme results depend strongly on the method. In Europe, most labs follow the reference methods of the International Federation of Clinical Chemistry, measured at thirty-seven degrees Celsius. Even so, reference ranges can differ between labs and between analysers. So always compare an enzyme result with the reference range printed on the same report. And watch out for hemolysis: red blood cells contain some enzymes in large amounts, so a hemolysed sample can show falsely high values.
+
+In short: we measure enzymes by their activity, in units per liter. Many tests follow the change of N A D H at three hundred forty nanometers, often through a coupled reaction. The analyser reads the change per minute, and very high values must be diluted and repeated.
+
+# Liver enzymes
+
+The liver is a large chemical factory. Its cells, the hepatocytes, are packed with enzymes. When liver cells are damaged, their enzymes leak into the blood. By measuring them, the lab can see that the liver is in trouble, often long before the patient feels ill.
+
+The two classic liver enzymes are the transaminases. A transaminase moves an amino group from one molecule to another. This is part of how the body builds and breaks down amino acids. The first one is alanine aminotransferase, short A L T. The second one is aspartate aminotransferase, short A S T. Older names that you may still see on reports are G P T for A L T and G O T for A S T.
+
+A L T is found mainly in the liver, and it sits in the cytoplasm of the cell, the fluid inside. So even mild damage to the cell membrane lets A L T escape. This makes A L T quite specific for the liver. A S T is found in the liver too, but also in heart muscle, skeletal muscle and red blood cells. Part of A S T sits in the mitochondria, deeper inside the cell. So a high A S T alone is less specific. It could come from the liver, from the heart or from a muscle.
+
+Typical upper limits for A L T are about thirty-five units per liter for women and about fifty units per liter for men, but these differ between labs. In viral hepatitis, the transaminases can rise to more than ten times the upper limit. In fatty liver or with long-term alcohol use, they are often only mildly raised.
+
+The ratio between the two can give a hint. In most liver diseases, A L T is higher than A S T. When A S T is clearly higher than A L T, doctors think of alcohol damage, of advanced scarring of the liver, or of a source outside the liver, such as muscle.
+
+Two more enzymes complete the liver profile. Alkaline phosphatase, short A P, rises when the flow of bile is blocked, for example by a gallstone. It also comes from bone, so it is naturally high in growing children. Gamma glutamyl transferase, short gamma G T, also rises when bile flow is blocked. It is very sensitive to alcohol and to some drugs.
+
+Why does this matter in the lab? A L T is measured with a coupled test. A L T moves an amino group from alanine to a partner molecule and makes pyruvate. The indicator enzyme lactate dehydrogenase then turns the pyruvate into lactate and uses up N A D H at the same time. The analyser follows the fall in absorbance at three hundred forty nanometers. Remember that red cells contain A S T: a hemolysed sample can raise A S T falsely, and the lab must note the hemolysis on the report.
+
+In short: liver damage releases enzymes into the blood. A L T is fairly specific for the liver, while A S T also comes from heart and muscle. Alkaline phosphatase and gamma G T point to a problem with bile flow.
+
+# Muscle and heart enzymes
+
+Muscle cells need a lot of energy, very quickly. They store a reserve of energy in a molecule called creatine phosphate. The enzyme that moves energy between creatine phosphate and A T P is creatine kinase, short C K. When muscle cells are damaged, C K floods into the blood.
+
+C K is made of two parts, and there are two kinds of part: M for muscle and B for brain. So there are three combinations. C K M M is the typical form of skeletal muscle. C K M B is found in heart muscle in larger amounts. C K B B is found in the brain. Together, these three forms are called isoenzymes: enzymes with the same job but a slightly different structure.
+
+What makes C K rise? Any muscle damage. A heavy workout, a marathon or a fall can raise C K a lot. So can an injection into a muscle, a surgery, or seizures. Certain drugs, especially the cholesterol drugs called statins, can damage muscle and raise C K. A severe breakdown of muscle, called rhabdomyolysis, can push C K to many thousands of units per liter. Then the kidneys are in danger, because the muscle protein myoglobin can block them.
+
+For many years, C K and especially C K M B were the main lab markers for a heart attack. After a heart attack, C K starts to rise after about four to six hours, peaks after about one day, and returns to normal after two to three days. Today, the main marker for heart muscle damage is a protein called cardiac troponin. Troponin is more specific to the heart and stays raised for longer. It is not an enzyme, and it is measured by immunoassay, which comes later in this part. But C K is still widely measured, especially for muscle problems.
+
+Another enzyme that you will often see is lactate dehydrogenase, short L D H. It is found in almost every cell of the body. So a raised L D H only says that cells have been damaged somewhere. It is useful in the follow-up of some cancers, in hemolysis and in some blood diseases. Because red cells are full of L D H, hemolysis in the tube raises it falsely, even more than A S T.
+
+Why does this matter in the lab? Imagine a young man whose C K is fifty times the upper limit, while his troponin is normal. The doctor will ask about sport or a fall before thinking of the heart. The lab helps by measuring quickly and correctly, and by noting anything that could disturb the result, such as a hemolysed sample. When a result is extremely high, many labs call the ward directly, because rhabdomyolysis can damage the kidneys within hours.
+
+In short: creatine kinase is the enzyme of muscle energy, and it rises with any muscle damage. Its heart form, C K M B, was once the main heart attack marker, but cardiac troponin has taken over that role. L D H is found in almost all cells and is very sensitive to hemolysis.
+
+# Metabolism overview
+
+Metabolism is the sum of all chemical reactions in the body. It has two directions. Breaking down is called catabolism: large molecules from food are split into small ones, and energy is released. Building up is called anabolism: small molecules are put together into large ones, such as proteins or glycogen, and this costs energy.
+
+The energy currency of the cell is a molecule called A T P, adenosine triphosphate. A T P carries three phosphate groups in a row. When the last phosphate is split off, energy is released, and the cell uses it for work: to move muscles, to pump ions across membranes, or to build new molecules. Think of A T P as a charged battery. Breaking down food recharges the battery. Doing work empties it again.
+
+The body gets energy from three kinds of fuel: carbohydrates, fats and proteins. All three are broken down into small building blocks. Carbohydrates become glucose. Fats become fatty acids and glycerol. Proteins become amino acids. Then these building blocks enter a few shared pathways, like roads that all lead to the same central station.
+
+The central station is a small molecule called acetyl coenzyme A, usually just acetyl C o A. Glucose is turned into acetyl C o A through glycolysis. Fatty acids are cut into many pieces of acetyl C o A. Many amino acids can also be turned into it. From there, acetyl C o A enters the citric acid cycle, and the cycle feeds the respiratory chain, where most of the A T P is made. You will meet glycolysis and the citric acid cycle in the next two chapters.
+
+Metabolism is tightly controlled by hormones. After a meal, insulin tells the cells to take up glucose and store energy as glycogen and fat. Between meals, glucagon and other hormones tell the liver to release glucose and tell fat tissue to release fatty acids. Most of this happens without you noticing. The lab sees it when the control fails.
+
+Many lab values are simply snapshots of metabolism. Glucose shows the carbohydrate side. Triglycerides and cholesterol show the fat side. Urea and creatinine show the waste from protein and muscle. Lactate shows when cells have to work without enough oxygen. Ketone bodies show when the body burns fat because it cannot use glucose, for example in uncontrolled diabetes.
+
+Why does this matter in the lab? Whenever you look at a metabolic value, ask: what was the patient doing just before the sample was taken? A meal raises glucose and triglycerides. Long fasting raises ketone bodies. Heavy exercise raises lactate and C K. This is why many tests need the patient to be fasting, and why the time of the sample and the time of the last meal are important pieces of information for the lab.
+
+In short: metabolism breaks fuel down to make A T P and builds new molecules with that energy. Carbohydrates, fats and proteins all meet at acetyl C o A. Many lab values, from glucose to lactate, are snapshots of this metabolism.
+
+# Glycolysis
+
+Glycolysis means "splitting sugar". It is the first step in breaking down glucose, and it happens in the cytoplasm of almost every cell in the body.
+
+Glucose is a sugar with six carbon atoms. In glycolysis, the cell turns one molecule of glucose, step by step, into two molecules of pyruvate. Each pyruvate has three carbon atoms. The whole path has ten steps, and each step has its own enzyme. You do not need to know every step. But you should know the main points.
+
+First, the cell invests energy. It uses two A T P to put phosphate groups on the sugar. This traps glucose inside the cell and makes it ready to split. The very first step, which puts a phosphate on glucose, is done by an enzyme called hexokinase. Remember this enzyme, because the lab uses it to measure glucose.
+
+Then the six carbon sugar splits into two halves of three carbons each. These halves are processed further, and now the cell earns energy back. In total it makes four A T P. Since it invested two, the net gain is two A T P per glucose. The cell also loads two molecules of N A D with hydrogen, making two N A D H.
+
+Glycolysis does not need oxygen. That makes it very useful in an emergency. When a muscle works so hard that oxygen runs short, glycolysis keeps running fast. But to keep going, the cell must free up its N A D again. So it turns pyruvate into lactate, and the N A D H gives back its hydrogen. This is why lactate builds up in hard-working muscles, and why lactate rises in the blood of very sick patients whose tissues lack oxygen.
+
+When enough oxygen is present, pyruvate goes a different way. It enters the mitochondria and is turned into acetyl C o A. Then it feeds the citric acid cycle, which gives far more energy.
+
+Some cells depend on glycolysis alone. Red blood cells are the classic example. They have no mitochondria, so they cannot use the citric acid cycle. They live entirely on glycolysis, and they keep on doing so in the tube after the blood has been drawn.
+
+Why does this matter in the lab? Because blood cells keep using glucose in the tube, the glucose level in an untreated sample falls by roughly five to seven percent every hour at room temperature. A sample that waits half a day on the bench can show a falsely low glucose. To stop this, special glucose tubes contain sodium fluoride, which blocks an enzyme of glycolysis, often together with citrate, which acidifies the sample and stops glycolysis faster. The other option is to separate plasma from the cells quickly by centrifugation.
+
+In short: glycolysis splits one glucose into two pyruvate, without oxygen, with a net gain of two A T P. Without oxygen, pyruvate becomes lactate. Red cells live on glycolysis, which is why glucose falls in a sample unless the tube stops glycolysis.
+
+# The citric acid cycle
+
+The citric acid cycle is the central hub of energy metabolism. It is also called the Krebs cycle, after Hans Krebs, who described it. It runs inside the mitochondria, the power stations of the cell.
+
+The fuel for the cycle is acetyl C o A, the small two carbon piece that comes from glucose, fats and amino acids. At the start of the cycle, acetyl C o A joins a four carbon molecule called oxaloacetate. Together they form citrate, which has six carbons. Citrate gives the cycle its name.
+
+Then the cycle runs through eight steps. In these steps, two carbon atoms are removed and released as carbon dioxide. This is the carbon dioxide that you breathe out. At the end of the cycle, oxaloacetate is back, ready to take up the next acetyl C o A. So the cycle is like a round ferry that takes on new passengers at one stop and drops them off elsewhere, and then comes back to the start empty.
+
+What does the cycle produce? Surprisingly little A T P directly: only one energy molecule per round. Its real product is hydrogen, loaded onto carriers. Each round loads three N A D H and one F A D H two. F A D is another carrier of hydrogen, similar to N A D.
+
+These loaded carriers deliver their hydrogen to the respiratory chain. The respiratory chain is a row of protein complexes in the inner membrane of the mitochondria. Here the electrons pass from one complex to the next, step by step, like water running down a series of small waterfalls. The energy released is used to make lots of A T P. At the end of the chain, the electrons and the hydrogen join with oxygen to make water. This is why we need to breathe oxygen.
+
+Together, glycolysis, the citric acid cycle and the respiratory chain make about thirty to thirty-two A T P from one molecule of glucose. Glycolysis alone, without oxygen, makes only two. This shows how important oxygen is for energy.
+
+The cycle is not only for burning fuel. It is also a crossroads for building. Its molecules are used to make amino acids, and the body can make fats from extra acetyl C o A. That is why too much sugar can be stored as fat.
+
+Why does this matter in the lab? The lab cannot see the citric acid cycle directly. But it sees what happens when energy metabolism goes wrong. A rising lactate in a patient with shock tells the doctor that the tissues lack oxygen and have switched to glycolysis alone. Ketone bodies in blood or urine tell that the body is burning fat, because there is too little insulin to use glucose. Both can be measured quickly in the emergency lab and in blood gas analysers.
+
+In short: the citric acid cycle in the mitochondria burns acetyl C o A to carbon dioxide and loads hydrogen onto carriers. The respiratory chain uses this hydrogen and oxygen to make most of the cell's A T P. When oxygen or insulin is missing, the lab sees lactate or ketone bodies rise.
+
+# Blood glucose
+
+Glucose is the main sugar in the blood. The brain depends on it almost entirely, so the body keeps blood glucose within a narrow range. In a fasting healthy adult, it is normally about seventy to ninety-nine milligrams per deciliter.
+
+Germany uses two units for glucose, so you must know both. Milligrams per deciliter is common in many clinics. Millimoles per liter is the S I unit. To convert milligrams per deciliter into millimoles per liter, divide by eighteen. For example, ninety milligrams per deciliter divided by eighteen gives five millimoles per liter.
+
+Two hormones from the pancreas keep glucose in balance. Insulin lowers it. After a meal, insulin tells muscle and fat cells to take up glucose, and tells the liver to store it as glycogen. Glucagon raises it. Between meals, glucagon tells the liver to break down glycogen and to make new glucose. Stress hormones such as adrenaline and cortisol also raise glucose.
+
+When this control fails, we speak of diabetes mellitus. In type one diabetes, the immune system has destroyed the cells that make insulin. In type two diabetes, the body's cells respond poorly to insulin, and over time too little insulin is made. In both cases, glucose rises. A fasting glucose of one hundred twenty-six milligrams per deciliter or more, measured on two occasions, points to diabetes.
+
+Blood glucose is only a snapshot. It changes after every meal. For a longer view, the lab measures H b A one c. Glucose in the blood slowly attaches to hemoglobin in the red cells. The higher the glucose, the more hemoglobin carries a sugar. Since red cells live about one hundred twenty days, H b A one c shows the average glucose of the last two to three months. A value of six point five percent or more points to diabetes. Many labs also report it in millimoles per mole, where the same limit is forty-eight.
+
+How is glucose measured? A common method uses the enzyme hexokinase, which you met in glycolysis. Hexokinase puts a phosphate on glucose. A second enzyme then removes hydrogen from this product and loads it onto a carrier called N A D P, making N A D P H. Like N A D H, it absorbs light at three hundred forty nanometers. So the absorbance rises in proportion to the glucose. Another common method uses the enzyme glucose oxidase. Blood glucose meters on the ward use small strips with enzymes and an electrode.
+
+Why does this matter in the lab? The biggest danger for a glucose result happens before the analysis. As you know from the last chapter, cells in the tube keep eating glucose. So glucose should be taken in a tube with fluoride and citrate, or the sample must be centrifuged soon. Also, a sample taken from an arm with a running glucose drip will show a falsely high value. When a glucose result does not fit the patient, think of the sample first.
+
+In short: fasting glucose is normally about seventy to ninety-nine milligrams per deciliter, or roughly four to five and a half millimoles per liter. Insulin lowers it and glucagon raises it. H b A one c shows the average of the last two to three months, and the correct tube protects glucose from being used up.
+
+# Blood proteins
+
+Plasma contains about seventy grams of protein per liter. The normal range of total protein is roughly sixty-six to eighty-three grams per liter. These proteins are not all the same. They are divided into two main groups: albumin and the globulins.
+
+Albumin is the largest single group, about sixty percent of the total. Its normal range is about thirty-five to fifty-two grams per liter. It is made only in the liver. Albumin has two main jobs.
+
+The first job is to hold water in the blood vessels. Proteins are large and do not easily leave the vessels. They pull water towards themselves by osmosis. This pull is called the colloid osmotic pressure, or oncotic pressure. When albumin is very low, water leaks out of the vessels into the tissues, and the legs or the belly swell. This swelling is called edema.
+
+The second job is transport. Albumin is like a bus with many seats. It carries substances that do not dissolve well in water: bilirubin, fatty acids, some hormones, many drugs, and about half of the calcium in the blood.
+
+Albumin falls when the liver cannot make enough, as in severe liver cirrhosis. It falls when it is lost, for example through damaged kidneys or through large burns. It falls in malnutrition. And it falls in inflammation, because the liver then makes other proteins instead.
+
+The globulins are a mixed group of many different proteins. Some are transport proteins, such as transferrin, which carries iron. Some are clotting factors. Some are acute phase proteins, which rise during inflammation. The best known acute phase protein is C reactive protein, short C R P. It can rise a hundredfold within one or two days in a bacterial infection. And one large group of globulins is the immunoglobulins, the antibodies. You will meet them in the immunology part.
+
+Most of these proteins are made in the liver. The immunoglobulins are the big exception. They are made by plasma cells, the antibody factories of the immune system.
+
+Why does this matter in the lab? Because albumin carries calcium, a low albumin makes total calcium look falsely low, even when the active, free calcium is normal. The lab can correct for this, or measure free calcium directly. Also note that a tourniquet left on for too long concentrates the blood, and proteins and protein-bound substances then appear falsely high. A clean blood draw protects these results.
+
+In short: plasma contains about seventy grams of protein per liter. Albumin, made in the liver, holds water in the vessels and carries many substances. The globulins include transport proteins, acute phase proteins such as C R P, and the antibodies.
+
+# Lipids and lipoproteins
+
+Lipids are fats and fat-like substances. They do not dissolve in water. That is a problem, because blood is mostly water. Think of oil in soup: it floats to the top in drops. The body solves this problem by packing lipids into small transport particles called lipoproteins.
+
+A lipoprotein is like a delivery parcel. The inside contains the fats that hate water: triglycerides and cholesterol esters. The outside is a thin shell of molecules that like water: phospholipids, free cholesterol and special proteins called apolipoproteins. The apolipoproteins act like address labels. They tell the cells what kind of parcel has arrived.
+
+There are four main types of lipoprotein. They are sorted by density. Fat is light, protein is heavy. So the more fat a particle carries, the lower its density.
+
+Chylomicrons are the largest and lightest. They are made in the gut after a meal and carry dietary fat into the blood. They make plasma look milky after a fatty meal.
+
+V L D L, very low density lipoprotein, is made in the liver. It carries triglycerides from the liver to the tissues. As it gives away its triglycerides, it shrinks and becomes denser, and finally it turns into L D L.
+
+L D L, low density lipoprotein, is rich in cholesterol. It delivers cholesterol to the cells. When there is too much L D L, cholesterol is deposited in the walls of the arteries. This leads to atherosclerosis, the hardening of the arteries, which causes heart attacks and strokes. That is why L D L is often called the bad cholesterol.
+
+H D L, high density lipoprotein, is the smallest and densest. It collects extra cholesterol from the tissues and brings it back to the liver. So H D L is often called the good cholesterol.
+
+Cholesterol itself is not bad. It is an important part of every cell membrane, and the body uses it to make bile acids, vitamin D and the steroid hormones. Problems arise only when too much of it travels in the wrong parcels.
+
+Why does this matter in the lab? Lipoproteins explain a common problem in the lab: lipemia. After a fatty meal, the plasma is cloudy with chylomicrons and V L D L. Cloudy plasma scatters light and disturbs many photometric tests. Lipemic samples are flagged by the analyser, and sometimes they are cleared by high speed centrifugation before the test is repeated. This is one reason why lipid tests and many other tests are best taken in the morning, after a night of fasting.
+
+In short: lipids are carried in the blood as lipoproteins, parcels with fat inside and protein on the outside. Chylomicrons and V L D L carry triglycerides. L D L brings cholesterol to the tissues, and H D L brings it back to the liver.
+
+# Cholesterol and triglycerides
+
+The standard lipid profile has four values: total cholesterol, H D L cholesterol, L D L cholesterol and triglycerides. Doctors use it to estimate the risk of heart attack and stroke, and to follow treatment with cholesterol-lowering drugs.
+
+Total cholesterol is desirable below about two hundred milligrams per deciliter, which is about five point two millimoles per liter. But total cholesterol alone says little. A person with a lot of good H D L can have a high total value and still be at low risk. So the parts matter more than the total.
+
+For L D L cholesterol, there is no single normal value. The target depends on the patient's risk. A healthy young person may be fine with an L D L below one hundred sixteen milligrams per deciliter. A patient who has already had a heart attack should be below fifty-five. H D L is protective, so here higher is better. Values below about forty milligrams per deciliter in men and below about fifty in women count as low.
+
+Triglycerides should be below about one hundred fifty milligrams per deciliter in a fasting sample. They rise strongly after a meal, and with alcohol, obesity and poorly controlled diabetes. Very high triglycerides, above about one thousand, can inflame the pancreas.
+
+How are these measured? Cholesterol is measured with a chain of enzymes. First, an enzyme frees the cholesterol from its esters. Then cholesterol oxidase converts it and produces hydrogen peroxide. Finally, the enzyme peroxidase uses the hydrogen peroxide to make a red dye. The more cholesterol, the more colour, and the photometer measures it. Triglycerides are measured in a similar way: an enzyme splits them into glycerol and fatty acids, and the glycerol is then converted through several steps into a coloured dye.
+
+L D L is often not measured directly but calculated. The classic method is the Friedewald formula. In words: L D L cholesterol equals total cholesterol, minus H D L cholesterol, minus triglycerides divided by five. All values are in milligrams per deciliter. Here is an example. Total cholesterol is two hundred twenty. H D L is fifty. Triglycerides are one hundred fifty. One hundred fifty divided by five gives thirty. Two hundred twenty minus fifty minus thirty gives one hundred forty. So the L D L cholesterol is about one hundred forty milligrams per deciliter.
+
+Why does this matter in the lab? The Friedewald formula only works when the sample is fasting and the triglycerides are not too high. Above about four hundred milligrams per deciliter, the result is wrong, and the lab must measure L D L directly or report that it cannot be calculated. Many labs now use direct methods or newer formulas anyway. Always check which method your lab uses, and whether the patient was fasting.
+
+In short: the lipid profile shows total, H D L and L D L cholesterol and the triglycerides. They are measured with enzyme chains that end in a coloured dye. L D L can be calculated, but only in a fasting sample with triglycerides below about four hundred.
+
+# Hormones
+
+Hormones are chemical messengers. Glands release them into the blood, and the blood carries them to distant target cells. A target cell responds only if it has the right receptor, the right lock for that key. Hormones control growth, metabolism, water balance, reproduction and the response to stress.
+
+Chemically, hormones fall into three groups. The first group is the peptide and protein hormones. They are chains of amino acids. Examples are insulin, the growth hormone and the thyroid stimulating hormone, short T S H. They dissolve well in water, travel freely in the blood, and bind to receptors on the outside of the cell.
+
+The second group is the steroid hormones. They are made from cholesterol. Examples are cortisol, aldosterone, testosterone, estradiol and progesterone. Steroids are fat-soluble. In the blood they mostly ride on carrier proteins. They pass easily through the cell membrane and bind to receptors inside the cell, often in the nucleus, where they switch genes on or off.
+
+The third group is derived from single amino acids. Adrenaline comes from the amino acid tyrosine. The thyroid hormones also come from tyrosine, with iodine attached. The main one in the blood is thyroxine, short T four.
+
+Hormones are controlled by feedback, like a thermostat in a house. The thyroid shows this best. The brain region called the hypothalamus signals the pituitary gland. The pituitary releases T S H. T S H tells the thyroid to make thyroxine. When there is enough thyroxine in the blood, it slows down the hypothalamus and the pituitary, and less T S H is released. If the thyroid is underactive, thyroxine falls, and T S H rises, because the pituitary pushes harder. If the thyroid is overactive, thyroxine is high and T S H is very low.
+
+For this reason, T S H is the first test for thyroid function. It is very sensitive to small changes. A normal T S H is roughly zero point four to four milli-units per liter, depending on the lab.
+
+Many hormones also follow a daily rhythm. Cortisol is highest in the early morning and lowest around midnight. Others change with the menstrual cycle, with age, or with stress.
+
+Why does this matter in the lab? Hormones are present in tiny amounts, often a millionth of the concentration of glucose. Simple colour reactions are far too insensitive to detect them. So hormones are measured with immunoassays, the topic of the next chapter. The time of sampling matters as well. A cortisol result is only useful if the lab knows when the blood was taken, and for female sex hormones the day of the cycle should be on the request form.
+
+In short: hormones are messengers made of peptides, of steroids from cholesterol, or of single amino acids. They are controlled by feedback, as T S H and thyroxine show. Their tiny concentrations need very sensitive methods, and the time of sampling matters.
+
+# Immunoassays
+
+An immunoassay is a test that uses antibodies as tools. Antibodies are proteins from the immune system that bind one specific target very tightly and very selectively. The lab uses this ability to find a single kind of molecule among thousands of others, even in tiny amounts. Hormones, tumour markers, troponin, vitamins, drug levels and infection markers are all measured this way.
+
+There is one problem. When an antibody binds its target, nothing visible happens. So the antibody carries a label, a signal that can be measured. In older tests the label was radioactive. Today it is usually an enzyme that makes a colour, or a molecule that gives off light. Light given off by a chemical reaction is called chemiluminescence. Many large analysers use electrochemiluminescence, where an electric pulse at an electrode starts the light reaction.
+
+There are two main designs.
+
+The first is the sandwich assay. It is used for large molecules, which have room for two antibodies to bind. The first antibody is fixed to a solid surface, for example a tiny magnetic bead. It catches the target from the sample. Then a second, labelled antibody binds to another part of the target. Now the target sits between two antibodies, like the filling in a sandwich. Unbound material is washed away, and the signal is measured. The more target in the sample, the more sandwiches, and the stronger the signal. T S H, troponin and the pregnancy hormone h C G are measured like this.
+
+The second is the competitive assay. It is used for small molecules, such as cortisol, thyroxine or drug levels, which are too small for two antibodies. Here the sample is mixed with a known amount of labelled target. The patient's target and the labelled target compete for a limited number of antibody binding sites. Think of a few seats on a bus and two groups of passengers. If the patient has a lot of target, it takes most of the seats, and only a few labelled molecules get on. So in a competitive assay, a high concentration gives a low signal. The relation is reversed.
+
+When the antibody is linked to an enzyme and the test runs on a plastic plate, we call it an E L I S A, an enzyme-linked immunosorbent assay. E L I S A plates with ninety-six small wells are still widely used, especially in infection serology.
+
+Why does this matter in the lab? Immunoassays have their own typical errors. Biotin, a vitamin taken in high doses for hair and nails, can disturb tests that use biotin in their design and give false results in both directions. Some patients have antibodies against animal proteins that can bridge a sandwich without any target. And with extremely high concentrations, a sandwich assay can show a falsely low result. This is called the hook effect, and the remedy is to dilute and repeat the test.
+
+In short: immunoassays use labelled antibodies to measure tiny amounts of a substance. Sandwich assays are for large molecules, and the signal rises with the concentration. Competitive assays are for small molecules, and the signal falls as the concentration rises.
+
+# Photometry in analysers
+
+You know the Lambert Beer law from the second guide. In words: the absorbance equals the absorption coefficient, times the concentration, times the path length. At a fixed wavelength and a fixed cuvette, the absorbance is proportional to the concentration. Most tests in clinical chemistry are built on this simple idea. Now let us see how an analyser uses it.
+
+A modern analyser has a ring of small cuvettes in a warm water bath or a heated block at thirty-seven degrees Celsius. A sample needle takes a few microliters of serum, and reagent needles add the reagents. A small stirrer mixes them. Then a light beam passes through each cuvette as the ring turns, and a detector measures the absorbance at chosen wavelengths, many times per minute.
+
+There are two basic ways to measure. The first is the end point method. The reaction is allowed to run until it is complete, and the absorbance is read at the end. The total change in absorbance shows how much substance was there. Total protein, albumin and many substrate tests work like this.
+
+The second is the kinetic method. Here the analyser follows the rate of change, the change in absorbance per minute, as you saw with enzymes. All enzyme activities are measured this way, and some substrates too.
+
+Every test needs a blank. A blank contains everything except the substance to be measured, or it is read before the reaction starts. It removes the colour of the reagent and of the sample itself. Patient samples can have their own colour: red from hemolysis, yellow from bilirubin, or a milky haze from lipids. These are called the serum indices. Many analysers measure them automatically at several wavelengths and flag samples that could give wrong results.
+
+Analysers also measure at two wavelengths at once. The main wavelength is where the coloured product absorbs strongly. The second wavelength is where it absorbs little. The difference between the two readings removes much of the background noise, such as small bubbles or haze.
+
+A related method is turbidimetry. Some tests do not make a colour but a fine cloudiness, for example when antibodies bind a protein and form small clumps. The analyser measures how much light the cloudiness blocks. This is used for C R P and many other specific proteins. When the light scattered to the side is measured instead, the method is called nephelometry.
+
+Why does this matter in the lab? Every photometric test has a measuring range. Above it, the line is no longer straight, and the result is unreliable. The analyser then flags the result, dilutes the sample automatically or asks you to dilute it, and measures again. When you calculate a result by hand after a dilution, remember to multiply by the dilution factor. A forgotten factor of ten is a classic and dangerous mistake.
+
+In short: analysers apply the Lambert Beer law in heated cuvettes at fixed wavelengths. End point methods read the final colour, kinetic methods read the rate of change. Blanks, serum indices and a second wavelength protect against false results, and high values must be diluted.
+
+# Electrophoresis
+
+Electrophoresis means "carried by electricity". It separates charged molecules by letting them move in an electric field. Molecules with different charge, size and shape travel at different speeds, so they separate into bands.
+
+Remember from the second guide: in an electric field, negative particles move towards the positive pole, the anode, and positive particles move towards the negative pole, the cathode. Proteins carry many charged groups. At the pH of the electrophoresis buffer, which is alkaline, about eight point six, almost all serum proteins carry a negative charge. So they all travel towards the anode, but at different speeds.
+
+The classic test is the serum protein electrophoresis. A small drop of serum is placed on a carrier, such as a thin gel or a strip of special film, or it is sent through a very thin glass tube in the modern method called capillary electrophoresis. Then the voltage is switched on. After the run, the proteins are stained, or detected by ultraviolet light in the capillary method. The result is a curve with five typical peaks.
+
+The first and largest peak, which travels furthest, is albumin. Then come four groups of globulins, named with Greek letters: alpha one, alpha two, beta and gamma. The gamma fraction travels least far and contains most of the antibodies.
+
+The pattern tells a story. In acute inflammation, the alpha fractions rise, because acute phase proteins increase. In long-lasting inflammation or liver cirrhosis, the gamma fraction becomes broad and high, because many different plasma cells make many different antibodies. In nephrotic syndrome, albumin is lost through the kidneys, and a large protein in the alpha two fraction becomes relatively high.
+
+The most important finding is a narrow, sharp spike, usually in the gamma region. A narrow spike means that one single kind of antibody is present in huge amounts. All of it comes from one single clone of plasma cells. This is called a monoclonal band. It can be a sign of multiple myeloma, a cancer of plasma cells. Further tests, called immunofixation, then show exactly which type of antibody it is.
+
+Why does this matter in the lab? Electrophoresis is done on serum, not plasma. Plasma still contains fibrinogen, a clotting protein, which forms its own narrow band between beta and gamma. This band can look like a monoclonal spike and lead to a false alarm. So always check the sample type. Hemoglobin from a hemolysed sample can also create an extra band. Electrophoresis is used in other areas too, for example to separate hemoglobin variants or D N A fragments.
+
+In short: electrophoresis separates charged molecules in an electric field. Serum proteins split into albumin and the alpha one, alpha two, beta and gamma globulins. A narrow spike in the gamma region can point to multiple myeloma, and the test must be done on serum.
+
+# Chromatography
+
+Chromatography is a family of methods that separate the parts of a mixture. The name means "colour writing", because the first experiments separated plant pigments into coloured bands. Today it is used to measure substances that are similar to each other and hard to tell apart.
+
+Every chromatography has two phases. The stationary phase stays in place. It can be paper, a thin coated plate, or fine particles packed into a column. The mobile phase moves through or past it. It is a liquid or a gas that carries the sample along.
+
+The principle is simple. Each substance in the mixture has its own preference. Some stick more strongly to the stationary phase. Others prefer to stay in the mobile phase. Substances that stick strongly move slowly. Substances that prefer the mobile phase move quickly. Think of a group of people walking through a market. Those who stop at every stall arrive late at the other end. Those who do not care about shopping arrive quickly. In the end, the group is spread out by interest.
+
+You can try this at home. Put a dot of black felt-tip ink on a strip of kitchen paper, dip the end in water, and watch. The water climbs up and pulls the ink apart into several colours. That is paper chromatography.
+
+In the lab, the most important form is high performance liquid chromatography, short H P L C. Here the mobile phase is pressed at high pressure through a thin steel column packed with tiny particles. At the end of the column, a detector records each substance as it comes out. The time it takes for a substance to come out is called its retention time. It identifies the substance. The size of the peak shows how much is there.
+
+In gas chromatography, the mobile phase is a gas, and the sample must be turned into vapour. It is used for substances such as alcohols and for many drugs and toxins.
+
+Often the chromatograph is coupled to a mass spectrometer. The mass spectrometer weighs the molecules as they come out. This makes the identification extremely certain. This combination is the gold standard in toxicology, for drug testing, and for measuring some hormones and vitamins.
+
+Why does this matter in the lab? H P L C is a classic method for H b A one c, because it separates the sugar-carrying hemoglobin from the normal form, and it can also reveal unusual hemoglobin variants. Vitamin levels, immunosuppressant drugs after a transplant, and drug screens in the emergency department are other examples. When a quick immunoassay drug screen is positive, chromatography with mass spectrometry is used to confirm it.
+
+In short: chromatography separates a mixture between a stationary and a mobile phase. Substances that stick more move more slowly. H P L C and gas chromatography, often coupled with mass spectrometry, measure H b A one c, drugs, vitamins and toxins.
+
+# Biochemistry summary
+
+Let us look back at part one.
+
+Enzymes are protein catalysts that speed up reactions by lowering the activation energy. Their active site fits a specific substrate. At high substrate levels, an enzyme is saturated, and its speed depends only on the amount of enzyme. That is why lab tests use excess substrate and measure enzyme activity in units per liter, often by following N A D H at three hundred forty nanometers.
+
+A L T points fairly specifically to liver damage, while A S T also comes from heart and muscle. Alkaline phosphatase and gamma G T point to blocked bile flow. Creatine kinase rises with any muscle damage. Troponin has replaced it as the main heart attack marker. Hemolysis falsely raises A S T and L D H.
+
+Metabolism turns fuel into A T P. Glycolysis splits glucose into pyruvate without oxygen, and makes lactate when oxygen is short. The citric acid cycle and the respiratory chain burn acetyl C o A with oxygen and make most of the A T P. Fasting glucose is about seventy to ninety-nine milligrams per deciliter, H b A one c shows the last two to three months, and a fluoride tube protects glucose in the sample.
+
+Albumin holds water in the vessels and carries many substances. The globulins include C R P and the antibodies. Lipids travel as lipoproteins. L D L brings cholesterol to the tissues, H D L brings it back. The Friedewald formula estimates L D L in a fasting sample.
+
+Hormones are peptides, steroids or amino acid derivatives, controlled by feedback. They are measured with immunoassays. Sandwich assays are for large molecules, competitive assays for small ones.
+
+Analysers use photometry at fixed wavelengths, with end point or kinetic readings. Electrophoresis separates serum proteins into five fractions. Chromatography separates similar substances and, with mass spectrometry, identifies them with great certainty.
+
+# Part two: Microbiology
+
+Microbiology is the study of living things too small to see with the naked eye: bacteria, viruses, fungi and the tiny parasites. In the hospital lab, microbiology answers two questions. Which organism is making the patient ill? And which drug will kill it?
+
+Microbiology works differently from clinical chemistry. Many results take days, not minutes, because organisms must first grow. A lot of the work is still done by hand: spreading samples on plates, looking at colonies, staining slides and looking through the microscope. And the samples themselves can be infectious, so safety and clean technique are part of every step.
+
+This part starts with the structure of bacteria and how they are classified. Then comes the most famous stain in medicine, the Gram stain. Then growth conditions and culture media. Then viruses, fungi and parasites. Then the identification of bacteria and the testing of antibiotics. And finally sterilisation, disinfection and aseptic technique.
+
+# Bacterial structure
+
+Bacteria are single cells. They are prokaryotes, which you know from the first guide: they have no nucleus and no membrane-bound organelles. A typical bacterium is about one to five micrometers long. That is roughly one tenth of the size of a human cell, and you need a light microscope with strong magnification to see it.
+
+Let us go from the inside out.
+
+The genetic material of a bacterium is a single ring of D N A that floats freely in the cytoplasm. The area where it lies is called the nucleoid. Many bacteria also carry small extra rings of D N A, called plasmids. Plasmids often carry useful extra genes, for example genes for resistance to antibiotics. Bacteria can pass plasmids to each other, even between different species. This is one way resistance spreads.
+
+The cytoplasm contains many ribosomes, the protein factories. Bacterial ribosomes are smaller and built differently from human ribosomes. Several antibiotics attack exactly these bacterial ribosomes, and leave ours alone.
+
+The cytoplasm is surrounded by the cell membrane, a thin double layer of lipids, like in our own cells. Outside the membrane lies the cell wall. This is the special feature of bacteria. The wall is made of a mesh called peptidoglycan, a net of sugar chains linked by short protein bridges. It gives the cell its shape and protects it from bursting, a bit like the wicker basket around a balloon. Human cells have no such wall, so drugs that block its construction, like penicillin, harm bacteria but not us.
+
+Some bacteria have extra structures on the outside. A capsule is a slimy layer around the wall. It helps the bacterium hide from the immune system. Flagella are long whip-like threads that let the bacterium swim. Pili, also called fimbriae, are short hairs that help bacteria stick to surfaces, such as the lining of the bladder.
+
+A few bacteria can form spores. A spore is a dormant survival form with a very tough coat. Spores survive heat, drying, and many disinfectants for years. When conditions improve, the spore wakes up and becomes an active bacterium again. Spore formers include the genus Clostridium, which causes tetanus and a severe gut infection, and the genus Bacillus, which includes the anthrax bacterium.
+
+Bacteria multiply by simple division. One cell grows, copies its D N A, and splits into two identical daughter cells. Under good conditions, some bacteria divide every twenty minutes. So one bacterium can become millions within a few hours.
+
+Why does this matter in the lab? The structure of bacteria explains what we see in the lab and how we fight them. The wall decides how bacteria stain. Spores decide how we must sterilise. Plasmids explain why resistance can appear suddenly in a hospital. And the fast division explains why a sample left warm for hours can show far more bacteria than were really in the patient.
+
+In short: bacteria are small prokaryotic cells with a ring of D N A, ribosomes, a membrane and a peptidoglycan wall. Some have capsules, flagella, pili or spores. Plasmids can carry resistance genes from one bacterium to another.
+
+# Classifying bacteria
+
+There are thousands of kinds of bacteria. To talk about them, scientists give each one a name and sort them into groups.
+
+Every bacterium has a two-part scientific name, like plants and animals. The first part is the genus, written with a capital letter. The second part is the species, written in small letters. For example, Staphylococcus aureus: the genus is Staphylococcus, and the species is aureus, which means golden, because its colonies often look golden yellow. Another example is Escherichia coli, a normal resident of the human gut, and one of the most common causes of bladder infections.
+
+The simplest way to describe bacteria is by their shape under the microscope. There are three basic shapes. Round bacteria are called cocci. Rod-shaped bacteria are called rods, or bacilli. Curved or spiral bacteria are called spirilla or spirochetes.
+
+Cocci also differ in how they lie together after dividing. If they divide in many directions and stay together in clumps, like a bunch of grapes, they are staphylococci. If they divide in one direction and form chains, like a string of pearls, they are streptococci. If they lie in pairs, they are diplococci. The pneumonia bacterium Streptococcus pneumoniae, for example, usually appears as pairs shaped like lancet tips. The bacteria that cause gonorrhoea and meningococcal meningitis are diplococci shaped like coffee beans.
+
+The second important way to sort bacteria is by their wall. This is shown by the Gram stain, which we will look at in the next two chapters. Bacteria are either Gram positive or Gram negative. Combined with the shape, this already gives a useful first group, for example "Gram positive cocci in clusters" or "Gram negative rods".
+
+A third way to sort them is by their need for oxygen. Some need oxygen, some are killed by it, and many can live with or without it. We will look at this with growth conditions.
+
+Finally, bacteria are sorted by what they do chemically. Which sugars can they break down? Which enzymes do they have? Do they make gas? These metabolic features help to identify the species, as you will see later.
+
+Not all bacteria cause disease. Most of the bacteria on our skin and in our gut are harmless or even helpful. They are called the normal flora. Some bacteria cause disease only when they get into the wrong place, for example gut bacteria in the bladder, or skin bacteria in the blood through a catheter. This is important for the lab, because finding a bacterium in a sample does not always mean that it causes the disease.
+
+Why does this matter in the lab? A first report often goes to the ward before the final identification, sometimes within an hour. For example, a positive blood culture is stained, and the lab calls the doctor: "Gram positive cocci in clusters". This is very likely a staphylococcus. The doctor can already adjust the antibiotics, a day or two before the species name is known. Shape, arrangement and Gram reaction are the first language of microbiology.
+
+In short: bacteria have a genus and a species name. They are first sorted by shape, into cocci, rods and spirals, and by arrangement into clusters, chains and pairs. Together with the Gram reaction, this gives the first quick report.
+
+# Gram positive and negative
+
+In eighteen eighty-four, the Danish doctor Hans Christian Gram developed a staining method. He noticed that it split bacteria into two large groups. Today we know why: the two groups have different cell walls.
+
+Gram positive bacteria have a thick wall. Their peptidoglycan mesh is built in many layers, up to forty, like a thick wool blanket wrapped around the cell membrane. Woven into this wall are long chains of a substance called teichoic acid. There is no further layer outside the wall.
+
+Gram negative bacteria have a thin wall, only one or two layers of peptidoglycan. But outside this thin wall, they have a second membrane, called the outer membrane. So their envelope is like a sandwich: inner membrane, thin wall, outer membrane. The space between the two membranes is called the periplasm.
+
+The outer membrane of Gram negative bacteria contains a special molecule called lipopolysaccharide, a combination of fat and sugar. It is also called endotoxin. When Gram negative bacteria die and break apart in the blood, endotoxin is released. It can trigger a violent reaction of the immune system, with fever, falling blood pressure and septic shock. This is why a Gram negative infection of the blood is so dangerous.
+
+The outer membrane also acts as a barrier. It keeps many substances out, including some antibiotics. This makes Gram negative bacteria naturally resistant to several drugs that work well against Gram positive bacteria.
+
+Let us meet the most important members of each group.
+
+Gram positive cocci include the staphylococci and the streptococci. Staphylococcus aureus causes skin infections, abscesses, wound infections and severe blood infections. Streptococci cause throat infections, pneumonia and, in newborns, dangerous infections. The enterococci, which live in the gut, are also Gram positive cocci. Gram positive rods include the genus Clostridium and the genus Listeria.
+
+Gram negative rods include many gut bacteria, such as Escherichia coli, Klebsiella and Salmonella. Another important one is Pseudomonas aeruginosa, a bacterium of moist places that causes hospital infections and is resistant to many drugs. Gram negative cocci include the diplococci of the genus Neisseria, which cause meningitis and gonorrhoea.
+
+Some bacteria do not fit this scheme. Mycobacteria, which cause tuberculosis, have a waxy wall that hardly takes up the Gram stain. They need a special stain, the Ziehl Neelsen stain, and are then called acid-fast. Mycoplasmas have no wall at all and cannot be seen with the Gram stain.
+
+Why does this matter in the lab? The wall type guides the first choice of antibiotic. For example, the drug vancomycin works well against Gram positive bacteria, but cannot pass the outer membrane of Gram negative ones. So the Gram result from a blood culture or from spinal fluid can change the treatment of a critically ill patient within hours.
+
+In short: Gram positive bacteria have a thick peptidoglycan wall and no outer membrane. Gram negative bacteria have a thin wall and an outer membrane with endotoxin. This difference affects staining, the danger of the infection and the choice of antibiotic.
+
+# The Gram stain
+
+The Gram stain is the most important stain in microbiology. It is fast, cheap, and takes only a few minutes. Every trainee learns to do it by hand.
+
+First, the smear. A small amount of the sample or of a bacterial colony is spread thinly on a glass slide. The smear is left to dry in the air. Then it is fixed, usually by passing it briefly through a flame or by using methanol. Fixing kills the bacteria and glues them to the glass, so they are not washed away.
+
+Then come four steps.
+
+Step one: the slide is covered with crystal violet, a deep purple dye, for about one minute. All bacteria take up the dye and turn purple. Then the slide is rinsed with water.
+
+Step two: the slide is covered with Lugol's solution, which contains iodine, for about one minute. The iodine combines with the crystal violet inside the cells and forms a large dye complex. This complex is too big to slip out easily. Then the slide is rinsed again.
+
+Step three is the critical step: decolourising. The slide is rinsed with alcohol, or a mix of alcohol and acetone, for a few seconds, until no more purple colour runs off. In Gram positive bacteria, the thick wall shrinks and traps the dye complex inside. They stay purple. In Gram negative bacteria, the alcohol dissolves the outer membrane, and the thin wall cannot hold the dye. The colour is washed out, and they become colourless.
+
+Step four: the counterstain. The slide is covered with a red dye, either safranin or diluted carbol fuchsin, for about one minute. Now the colourless Gram negative bacteria take up the red colour. The Gram positive bacteria are already dark purple, so the red does not change how they look. After a final rinse, the slide is dried.
+
+The result under the microscope, with oil immersion and about one thousand times magnification: Gram positive bacteria look dark blue to violet. Gram negative bacteria look pink to red. A good way to remember it: positive is purple.
+
+The microscope also shows other things. In a smear from a patient sample, you also see white blood cells, which point to an infection, and skin cells, which point to contamination. A sputum sample with many skin cells from the mouth is spit, not material from the lungs, and may not be worth culturing.
+
+Why does this matter in the lab? The Gram stain can go wrong in both directions. If the decolourising step is too long, even Gram positive bacteria lose their colour and look falsely negative. If it is too short, Gram negative bacteria stay purple and look falsely positive. A smear that is too thick causes the same problem. Old cultures can also stain poorly, because the walls of old or dying Gram positive bacteria get weaker. Labs check their staining every day with known control strains.
+
+In short: the Gram stain uses crystal violet, iodine, alcohol and a red counterstain. Gram positive bacteria keep the violet colour, Gram negative bacteria lose it and turn red. The decolourising step is critical, and controls make sure the stain works.
+
+# Growth conditions
+
+To identify a bacterium and test it against antibiotics, the lab must first grow it. Growing bacteria in the lab is called culturing. Like any living thing, bacteria need the right conditions.
+
+Bacteria need food: a source of carbon, such as sugars or proteins, plus nitrogen, minerals and water. Some bacteria are easy and grow on almost anything. Others are fussy and need special additions, such as blood or certain vitamins. These fussy bacteria are called fastidious.
+
+Temperature is the next factor. Bacteria that cause disease in humans usually like body temperature. So most cultures in the lab are incubated at thirty-five to thirty-seven degrees Celsius, in a warm cabinet called an incubator.
+
+Oxygen is the third factor, and here bacteria differ a lot. Obligate aerobes need oxygen to live, like Pseudomonas or the tuberculosis bacterium. Obligate anaerobes are killed by oxygen. They live in places without air, such as deep wounds, abscesses and the gut. They must be grown in sealed jars or special chambers without oxygen. Facultative anaerobes can live with or without oxygen. Escherichia coli and the staphylococci belong to this group. Some bacteria, called microaerophilic, like only a little oxygen. And some fastidious bacteria grow better with extra carbon dioxide, about five percent, in a special incubator.
+
+The pH matters too. Most bacteria that cause disease prefer a neutral pH, around seven.
+
+When bacteria have everything they need, they grow in a typical pattern, called the growth curve. First comes the lag phase. The bacteria adjust to their new home and hardly divide. Then comes the log phase, or exponential phase. They divide at full speed, and their number doubles at regular intervals. Then food runs out and waste builds up. Growth stops, and the number stays level. This is the stationary phase. Finally comes the death phase, when more bacteria die than are formed.
+
+How fast is this? Escherichia coli can double in about twenty minutes under ideal conditions. Let us calculate. In one hour, that is three doublings: two, four, eight. So one bacterium becomes eight. In two hours, it becomes sixty-four. In five hours, more than thirty thousand. Most common bacteria grow visible colonies on a plate overnight, in about eighteen to twenty-four hours. Some are much slower. The tuberculosis bacterium doubles only about once a day, and its cultures take several weeks.
+
+Why does this matter in the lab? Growth conditions decide whether we find the cause of an infection at all. A swab from an abscess must reach the lab in a transport medium that protects anaerobes from oxygen. A urine sample left warm for hours lets bacteria multiply and gives falsely high counts, so urine should be cooled or tested quickly. And a sample taken after the first dose of antibiotics may grow nothing at all, even though the patient has an infection.
+
+In short: bacteria need food, the right temperature, the right amount of oxygen and a suitable pH. Most are incubated at thirty-five to thirty-seven degrees Celsius, and anaerobes need conditions without oxygen. Growth follows a curve of lag, log, stationary and death phases.
+
+# Culture media
+
+A culture medium is the food on which the lab grows microorganisms. There are two basic forms. A liquid medium, called a broth, is used for growing bacteria in large numbers, for example in blood culture bottles. A solid medium is made by adding agar, a jelly made from seaweed, and pouring it into flat round dishes called Petri dishes. In the lab, these are simply called plates.
+
+On a solid medium, each single bacterium grows into a visible heap of millions of identical cells. This heap is called a colony. Every colony comes from one cell, so it is a pure culture of one kind of bacterium. Colonies of different species look different: large or small, smooth or rough, shiny or dull, white, yellow or grey. An experienced eye can often guess the bacterium from its colonies.
+
+To get single colonies, the sample is spread with a technique called streaking. With a sterile loop, the sample is spread on one part of the plate. Then the loop is sterilised or replaced, and it drags some material from the first area into a second area. The same is done again into a third area. Each step thins out the bacteria, so that in the last area, single colonies grow apart from each other. It is a bit like spreading butter thinner and thinner across a slice of bread.
+
+Media are designed for different jobs.
+
+A basic medium supports most bacteria. The classic example is blood agar, which contains sheep blood. Blood agar also shows hemolysis. Some bacteria destroy the red cells completely and leave a clear zone around their colonies. This is called beta hemolysis, typical of some streptococci. Others leave a greenish zone, called alpha hemolysis. Others leave the blood unchanged, which is called gamma hemolysis.
+
+Chocolate agar contains blood that has been heated until it turns brown. This releases nutrients from the red cells. It is used for fastidious bacteria, such as Haemophilus and Neisseria.
+
+A selective medium contains substances that stop some bacteria from growing, so that the wanted ones are easier to find. MacConkey agar, for example, contains bile salts and a dye that stop most Gram positive bacteria. Only Gram negative bacteria grow on it.
+
+A differential medium shows a difference between bacteria by a colour change. MacConkey agar is also differential. It contains the sugar lactose and a pH indicator. Bacteria that break down lactose make acid, and their colonies turn pink or red. Bacteria that cannot do this stay colourless. Escherichia coli is pink. Salmonella is colourless.
+
+Special media exist for fungi, such as Sabouraud agar, which is slightly acidic and contains extra sugar.
+
+Why does this matter in the lab? For each type of sample, the lab uses a fixed combination of plates. A urine sample might go on blood agar and a differential medium for urinary bacteria. A stool sample goes on several selective media to find Salmonella or other gut pathogens among billions of harmless gut bacteria. The plates must be stored in the fridge, used before their expiry date, and checked with control strains, so that a missing pathogen is never caused by a bad plate.
+
+In short: bacteria are grown in broths or on agar plates, where each cell forms a colony. Streaking gives single colonies. Media can be basic, enriched, selective or differential, and each sample type gets its own set of plates.
+
+# Viruses
+
+Viruses are very different from bacteria. They are not cells at all. A virus is a tiny package of genetic material, wrapped in a protein shell. It is about one hundred times smaller than a bacterium, too small for a light microscope. You need an electron microscope to see one.
+
+The genetic material of a virus is either D N A or R N A, never both. The protein shell around it is called the capsid. Some viruses have an extra outer layer, a fatty envelope taken from the membrane of the host cell. These are called enveloped viruses. Influenza, H I V, hepatitis B and the coronaviruses are enveloped. Viruses without an envelope are called naked viruses, for example the noroviruses, which cause severe vomiting and diarrhoea.
+
+A virus has no metabolism of its own. It cannot make energy or proteins. It can only multiply inside a living host cell. It is like a recipe card without a kitchen. The virus attaches to a cell with matching receptors, gets inside, and releases its genetic material. Then it takes over the cell's machinery and forces it to make new virus parts. These are assembled into hundreds or thousands of new viruses, which leave the cell, often destroying it, and infect the next cells.
+
+Some viruses can hide. After the first infection, herpes viruses stay silent in nerve cells for life and can wake up again years later, for example as cold sores or shingles. H I V builds its genetic material into the D N A of the host cell.
+
+Because viruses have no wall and no ribosomes of their own, antibiotics do not work against them. Antibiotics attack structures that only bacteria have. Viral infections are treated with special antiviral drugs, which exist for only some viruses, or prevented with vaccines.
+
+How does the lab detect viruses? Growing them is difficult, because they need living cells. So virus culture is rare today. Instead, the lab uses three main approaches. The first is to find the genetic material of the virus with the P C R, which you will meet in the genetics part. This is very sensitive and is now the standard for many viruses. The second is to find virus proteins, called antigens, with immunoassays. Rapid antigen tests for influenza or coronavirus work like this. The third is serology: finding the patient's antibodies against the virus. This shows whether someone has had an infection or a vaccination.
+
+Why does this matter in the lab? Enveloped viruses are destroyed fairly easily by alcohol, because the fatty envelope dissolves. Naked viruses are much tougher. Noroviruses survive many common hand disinfectants, which is why outbreaks on hospital wards are so hard to stop. Also, many blood-borne viruses, such as hepatitis B, hepatitis C and H I V, can be present in any patient sample. This is why every sample must be treated as potentially infectious.
+
+In short: viruses are not cells but genetic material in a protein shell, sometimes with an envelope. They multiply only inside host cells, and antibiotics do not work against them. The lab detects them mainly by P C R, antigen tests and antibody tests.
+
+# Fungi and parasites
+
+Besides bacteria and viruses, two more groups of organisms cause infections: fungi and parasites. Both are eukaryotes, just like us. Their cells have a nucleus and organelles. This makes them harder to treat, because drugs that harm them can also harm human cells.
+
+Let us start with fungi. Fungi have a cell wall, but it is made of chitin, the same material as in the shell of insects, not of peptidoglycan. Their membrane contains a substance called ergosterol instead of cholesterol. Many antifungal drugs attack exactly this ergosterol.
+
+Medically, fungi come in two forms. Yeasts are single round cells that multiply by budding: a small daughter cell grows out of the mother cell like a bud. The most important yeast is Candida albicans. It lives harmlessly in the mouth and gut of many people. But in babies, in patients with weak immune systems, or after antibiotics, it can cause thrush in the mouth, vaginal infections, or even dangerous blood infections. Moulds grow as long branching threads called hyphae. They form fluffy colonies, like the mould on old bread. Aspergillus is a mould whose spores we breathe in every day. It is dangerous for patients with very weak immune systems, for example after a bone marrow transplant. A third group, the dermatophytes, infect skin, hair and nails, causing athlete's foot.
+
+In the lab, fungi are grown on special media such as Sabouraud agar. They grow more slowly than bacteria, so cultures are kept for several days or weeks. Skin and nail samples are often looked at directly under the microscope, after softening them with a strong alkaline solution so that the fungal threads become visible.
+
+Now the parasites. A parasite is an organism that lives on or in a host and harms it. In medicine, there are two main groups.
+
+Protozoa are single-celled parasites. The most important is Plasmodium, the cause of malaria, which is spread by mosquitoes. It lives inside red blood cells. Other protozoa are Giardia, which causes diarrhoea, and Toxoplasma, which is dangerous in pregnancy.
+
+Helminths are worms. They are multicellular and can be large, like tapeworms or roundworms. Often the lab does not see the worm itself, but its eggs in a stool sample.
+
+Ectoparasites, such as lice and mites, live on the skin. They are usually diagnosed directly by the doctor rather than in the lab.
+
+Why does this matter in the lab? Malaria is an emergency. A traveller with fever after a trip to a tropical region must be tested within hours, because one type of malaria can kill quickly. The lab makes two kinds of blood smears, a thick drop and a thin film, stains them with Giemsa stain, and searches for parasites inside the red cells. The thin film also allows the lab to count what percentage of red cells is infected. A rapid antigen test can help, but the microscope remains the gold standard.
+
+In short: fungi and parasites are eukaryotes. Fungi appear as yeasts, such as Candida, or as moulds, such as Aspergillus, and grow slowly on special media. Parasites include protozoa such as the malaria parasite, and worms, whose eggs are found in stool.
+
+# Identifying bacteria
+
+When colonies have grown on the plate, the next question is: which species is it? The lab uses several steps, from simple to advanced.
+
+The first step is to look. What do the colonies look like? What colour are they? Is there hemolysis on blood agar? Do they grow on selective media? How do they smell? Then comes a Gram stain of the colony, which shows the shape and the Gram reaction.
+
+The second step is quick tests, which take only seconds to minutes. Each test checks for one enzyme or one feature.
+
+The catalase test separates staphylococci from streptococci. Catalase is an enzyme that breaks down hydrogen peroxide into water and oxygen. A bit of colony is mixed with a drop of hydrogen peroxide on a slide. If bubbles appear, the test is positive. Staphylococci are catalase positive. Streptococci are catalase negative.
+
+The coagulase test separates Staphylococcus aureus from the other staphylococci. Coagulase is an enzyme that makes plasma clot. Staphylococcus aureus has it. Most other staphylococci, which are often harmless skin bacteria, do not. Today this is often done with a quick agglutination test on a card.
+
+The oxidase test helps with Gram negative rods. Pseudomonas is oxidase positive, while Escherichia coli and its relatives are oxidase negative.
+
+The third step is a set of biochemical tests, often called a biochemical series. The bacterium is tested on many substrates at once. Can it break down glucose, lactose, or other sugars? Can it use citrate? Does it make certain enzymes? Each test gives a positive or negative result, often shown by a colour change. Together they form a profile, like a fingerprint, which is compared with a database. Small plastic strips with many tiny chambers, or automated machines with test cards, do this today.
+
+The fourth step, and the big revolution of recent years, is mass spectrometry. The method is called Maldi-Tof mass spectrometry. A tiny bit of colony is placed on a metal plate and covered with a special chemical. A laser beam hits the spot and turns the proteins of the bacterium into charged particles. These fly through a long tube to a detector. Light particles arrive first, heavy ones later. This gives a pattern of peaks, mostly from the ribosomal proteins, which is typical for each species. A computer compares it with a library. The answer comes within minutes, for a few cents per test.
+
+Why does this matter in the lab? The speed of identification matters for the patient. In the past, identification took one or two days after the colonies had grown. With mass spectrometry, the species is known within minutes. But the lab still needs a pure culture: a mixture of two species on the target gives a confusing pattern. And mass spectrometry tells you nothing about resistance. That still needs the antibiotic test of the next chapter.
+
+In short: bacteria are identified by their colonies, the Gram stain, quick tests such as catalase, coagulase and oxidase, and biochemical series. Today, mass spectrometry identifies most species within minutes from a pure colony.
+
+# Antibiotic susceptibility
+
+Knowing the name of a bacterium is not enough. The doctor also needs to know which antibiotics will work against it. Many bacteria have become resistant to common drugs. So for every relevant bacterium, the lab tests its susceptibility to a panel of antibiotics. In English this is often called the antibiogram.
+
+The key number is the minimum inhibitory concentration, short M I C. It is the lowest concentration of an antibiotic that stops the visible growth of the bacterium. A low M I C means that a small amount of drug is enough. A high M I C means that the bacterium needs a lot of drug, or cannot be stopped at all.
+
+There are several ways to test this.
+
+The first is the disk diffusion test. A suspension of the bacterium, adjusted to a standard density, is spread evenly over a special plate called Mueller Hinton agar. Then small paper disks, each soaked with a different antibiotic, are placed on top. During incubation, each antibiotic spreads out into the agar. Near the disk, the concentration is high. Further away, it is lower. Where the concentration is high enough, the bacterium cannot grow. So a clear circle forms around each disk, called the zone of inhibition. The diameter of the zone is measured in millimeters. A large zone means that the bacterium is sensitive. A small zone, or no zone at all, means that it is resistant.
+
+The second is the broth dilution test. The bacterium is placed into a row of small wells that contain the antibiotic in doubling concentrations. After incubation, the lab looks for the first well in which nothing has grown. That concentration is the M I C. Automated machines use this principle with test cards and read the growth by measuring cloudiness.
+
+The third is the gradient strip. A plastic strip with a gradient of antibiotic, from high at one end to low at the other, is placed on a plate. An oval zone forms, and the M I C is read where the edge of the zone touches the strip.
+
+The result is translated into a category using official limits called breakpoints. In Germany and most of Europe, these are set by the European committee called E U C A S T. S means susceptible at standard dosing. I means susceptible, but only with increased exposure, for example a higher dose. R means resistant: treatment is likely to fail.
+
+Some resistant bacteria have their own names. M R S A is a Staphylococcus aureus that is resistant to methicillin and therefore to almost all penicillin-type drugs. E S B L is an enzyme in Gram negative bacteria that destroys many penicillins and cephalosporins. Bacteria resistant to several groups of antibiotics are called multidrug resistant.
+
+Why does this matter in the lab? Susceptibility testing must be standardised exactly: the right medium, the right density of bacteria, the right incubation time and temperature. Too many bacteria give smaller zones and fake resistance. Too few give larger zones and fake susceptibility. Every day, control strains with known results are tested alongside. And when the lab finds a multidrug-resistant bacterium, it informs the hospital's infection control team, so that the patient can be isolated.
+
+In short: the M I C is the lowest antibiotic concentration that stops growth. It is tested by disk diffusion, broth dilution or gradient strips. The result is reported as S, I or R, using European breakpoints, and strict standards make it reliable.
+
+# Sterilisation
+
+Sterilisation means killing or removing all microorganisms, including the tough bacterial spores. Something is sterile only when absolutely nothing alive is left on it. There is no "almost sterile".
+
+The most important method is the autoclave. An autoclave is a strong steel chamber, like a large pressure cooker. Inside, saturated steam under pressure reaches temperatures above the normal boiling point of water. A standard program uses one hundred twenty-one degrees Celsius for at least fifteen minutes, at about one bar above normal air pressure. A second common program uses one hundred thirty-four degrees Celsius for at least three to five minutes. Steam is so effective because it transfers heat very fast and damages the proteins of microbes.
+
+The steam must reach every surface. Air pockets block it. So the autoclave first removes the air, and the load must not be packed too tightly. Large bottles of liquid take longer to heat through, so they need longer programs.
+
+Dry heat is a second method. A hot air oven needs much higher temperatures and longer times than steam, because dry air transfers heat poorly. A typical program is one hundred eighty degrees Celsius for thirty minutes. It is used for glassware and metal instruments that must stay dry.
+
+Some things cannot be heated, such as plastics, some solutions, and delicate instruments. For these there are other methods. Liquids can be pushed through a membrane filter with pores of zero point two micrometers. The pores are smaller than bacteria, so they are held back. Note that filtration does not remove viruses. Single-use plastic items, such as Petri dishes and pipette tips, are usually sterilised in the factory with gamma radiation. Gases such as ethylene oxide are used for heat-sensitive medical devices.
+
+In the microbiology lab, the inoculating loop made of metal wire is sterilised by heating it in a flame until it glows red. Today, sterile single-use plastic loops are often used instead.
+
+How do we know that sterilisation worked? Three kinds of checks are used. Physical checks record temperature, pressure and time for every run. Chemical indicators, such as special tape or strips, change colour when the right conditions were reached. And biological indicators contain spores of a very heat-resistant bacterium. After the run, they are incubated. If nothing grows, the spores were killed, and so was everything else.
+
+Why does this matter in the lab? The autoclave is used in two directions. First, to make media and equipment sterile before use. Second, to make infectious waste safe after use. Used culture plates are full of millions of bacteria, possibly dangerous ones. They are autoclaved before they leave the lab. A failed autoclave run can mean contaminated media, false results, or infectious waste in the bin.
+
+In short: sterilisation kills all microorganisms, including spores. The autoclave uses steam at one hundred twenty-one degrees for fifteen minutes or one hundred thirty-four degrees for a few minutes. Dry heat, filtration, radiation and gas are alternatives, and every run is checked by physical, chemical and biological indicators.
+
+# Disinfection and asepsis
+
+Disinfection is less than sterilisation. Disinfection reduces the number of harmful microorganisms so much that they can no longer cause an infection. But it does not reliably kill bacterial spores. Disinfection is used where sterilisation is impossible, for example on skin, hands and work surfaces.
+
+The most important disinfectant in the lab and the hospital is alcohol, usually ethanol or propanol at about seventy to eighty percent. You may wonder why not pure alcohol. The reason is that a little water helps the alcohol get into the cells and destroy their proteins. Pure alcohol also evaporates too fast. Alcohol works quickly against bacteria and enveloped viruses, but not against spores, and only partly against naked viruses.
+
+For surfaces, labs use other disinfectants, such as aldehydes, oxygen-releasing products or chlorine compounds. Every disinfectant has a contact time: the time it must stay wet on the surface to work. Wiping and drying too soon means the job is only half done. Each lab has a hygiene plan that says which product to use, where, and for how long.
+
+Hand disinfection is the single most important measure to prevent infections. The hands are rubbed with about three to five milliliters of alcohol hand rub for at least thirty seconds, until dry. Every surface counts: palms, backs, between the fingers, thumbs, fingertips and wrists. In the lab, hands are disinfected after taking off gloves, after any contamination, before breaks and before leaving the lab. Jewellery, rings and watches are not worn on the hands and wrists, because they hide microbes and tear gloves.
+
+Aseptic technique means working in a way that keeps unwanted microorganisms out of a sample, a culture or a sterile product. At the same time, it keeps the microorganisms of the sample away from you and your surroundings. The rules are simple, but they must become habits. Open sterile containers only briefly, and do not touch their inner side or rim. Hold lids facing downwards, so that nothing falls in. Use sterile loops and tips, and never put one down on the bench. Work calmly and avoid creating splashes and aerosols, which are tiny droplets in the air.
+
+Many tasks with infectious material are done in a microbiological safety cabinet. It is a workbench with a glass front and a steady flow of filtered air. The air flows inward at the front, so that aerosols do not escape towards the user. Filters remove the microbes before the air leaves the cabinet. The cabinet protects the user, the environment and the sample.
+
+Laboratories are graded into four safety levels, depending on the danger of the organisms they handle. Most hospital labs work at level two. Level three is needed for organisms such as the tuberculosis bacterium. Level four is for the most dangerous viruses, and there are only a few such labs in Germany.
+
+Why does this matter in the lab? One contaminated culture can lead to a false diagnosis and the wrong treatment. Worse, careless work can infect the lab staff. Every sample, from any patient, is treated as potentially infectious. Gloves, lab coats, safety cabinets, correct waste disposal and regular hand disinfection protect both the patient and you.
+
+In short: disinfection reduces microorganisms so that they no longer cause infection, but does not reliably kill spores. Alcohol at about seventy to eighty percent is the main hand disinfectant, used for at least thirty seconds. Aseptic technique and safety cabinets keep samples clean and staff safe.
+
+# Microbiology summary
+
+Let us look back at part two.
+
+Bacteria are prokaryotic cells with a ring of D N A, ribosomes, a membrane and a peptidoglycan wall. Plasmids can carry resistance genes. Some bacteria form spores, which survive heat and disinfectants. Bacteria have a genus and species name and are sorted by shape, arrangement and Gram reaction.
+
+Gram positive bacteria have a thick wall and stay violet in the Gram stain. Gram negative bacteria have a thin wall plus an outer membrane with endotoxin, and they turn red. The decolourising step with alcohol is the critical moment of the stain.
+
+Bacteria need food, warmth, the right amount of oxygen and a suitable pH. Most are grown at thirty-five to thirty-seven degrees, and anaerobes without oxygen. On agar plates, each cell forms a colony. Media can be basic, enriched, selective or differential.
+
+Viruses are not cells. They multiply only inside host cells, and antibiotics do not work against them. They are found by P C R, antigen tests and antibody tests. Fungi and parasites are eukaryotes. Candida and Aspergillus are important fungi, and malaria is found in stained thick and thin blood smears.
+
+Bacteria are identified by colonies, stains, quick tests such as catalase, coagulase and oxidase, biochemical series, and today mostly by mass spectrometry. Susceptibility testing finds the minimum inhibitory concentration and reports S, I or R according to European breakpoints.
+
+Sterilisation kills all life, including spores, mostly in the autoclave. Disinfection reduces microorganisms on skin and surfaces. Aseptic technique, hand disinfection and safety cabinets protect samples and staff.
+
+# Part three: Immunology
+
+In the second guide, you met the immune system as one of the body systems. In this part, we look at it with the eyes of the laboratory. The immune system makes antibodies, and antibodies are both something we measure and a tool we use. Many tests, from infection serology to pregnancy tests, are built on the reaction between an antigen and an antibody.
+
+The second half of this part is about blood groups. Blood group testing is one of the most responsible tasks in the whole lab. A mistake can kill a patient within minutes. So we will look carefully at the A B O system, the Rhesus system, the tests used to determine them, and the cross match that is done before every transfusion of red cells.
+
+# Antigens and antibodies
+
+An antigen is any substance that the immune system can recognise and that can trigger an immune response. Most antigens are proteins or large sugar molecules, for example on the surface of a bacterium, a virus, a pollen grain, or a red blood cell from another person.
+
+An antibody does not recognise the whole antigen. It recognises a small part of it, a few amino acids or sugar units. This small part is called the epitope. A large antigen, such as a bacterium, has many different epitopes, so many different antibodies can bind to it.
+
+Antibodies are also called immunoglobulins. They are made by plasma cells, which develop from B lymphocytes. Every plasma cell makes only one kind of antibody, which fits only one epitope.
+
+An antibody has the shape of a letter Y. It is built from four protein chains: two large ones, called heavy chains, and two small ones, called light chains. The two arms of the Y are the binding sites. Their tips are extremely variable, and this is where the epitope fits, like a key in a lock. Because the Y has two arms, one antibody can hold two antigens at once. The stem of the Y is the same for all antibodies of one class. It is the part that the rest of the immune system recognises, for example the scavenger cells that eat what the antibody has marked.
+
+There are five classes of immunoglobulin, named with letters.
+
+Immunoglobulin G, short I g G, is the most common one in the blood, about three quarters of all antibodies. It is made in large amounts in the later phase of an infection, and it remains for years. It is the only class that crosses the placenta, so it protects the unborn child.
+
+Immunoglobulin M, short I g M, is the first antibody made in a new infection. It is very large: five Y shapes joined together in a star. Because it has ten binding arms, it is very good at clumping particles together. The natural antibodies against the blood groups A and B are mostly I g M.
+
+Immunoglobulin A, short I g A, protects the mucous membranes. It is found in saliva, tears, the gut and breast milk.
+
+Immunoglobulin E, short I g E, is present only in tiny amounts. It is responsible for allergies, and it helps fight worms.
+
+Immunoglobulin D is found mainly on the surface of young B cells. Its role is less important for the lab.
+
+Why does this matter in the lab? The class of antibody tells a story about time. In a fresh infection, I g M appears first, after about a week. I g G follows a little later and stays. So if a patient has I g M against a virus, the infection is probably recent. If they have only I g G, it is probably old, or they were vaccinated. A rise of I g G between two samples taken two weeks apart also points to a fresh infection. This is the basis of infection serology.
+
+In short: an antigen is something the immune system recognises, and the antibody binds to a small part of it, the epitope. Antibodies are Y-shaped immunoglobulins in five classes. I g M comes first in a new infection, and I g G comes later and stays.
+
+# The antigen antibody reaction
+
+When an antibody meets its antigen, they bind. This binding is the antigen antibody reaction. It is the basis of the immune defence and of countless lab tests.
+
+The binding works like a key in a lock. The shapes of epitope and binding site fit together exactly. They are held together not by strong chemical bonds, but by many weak forces at once: hydrogen bonds, attraction between charges, and other weak attractions. So the reaction is reversible. But because there are so many weak forces, and because the fit is so precise, the binding is very strong and very specific. Temperature, pH and the salt content of the solution affect it.
+
+What can we see? A single antibody bound to a single antigen is invisible. But an antibody has at least two arms, and many antigens have several epitopes. So antibodies can link antigens together into a network, a lattice. When the lattice grows large enough, it becomes visible.
+
+If the antigen sits on particles, such as red blood cells, bacteria or tiny latex beads, the particles clump together. This clumping is called agglutination. You can see it with the naked eye, as grains or clumps in a liquid that was smooth before. Blood group tests are based on agglutination.
+
+If the antigen is dissolved, a single protein in a solution, the lattice forms a fine cloudy precipitate. This is called precipitation. In modern analysers, the cloudiness is measured with light, by turbidimetry or nephelometry, which you met in the biochemistry part. C R P, the immunoglobulins and many other proteins are measured this way.
+
+There is a catch. The lattice forms best when antigen and antibody are present in a balanced ratio. This is called the zone of equivalence. If there is a huge excess of antibody, each antigen is covered by its own antibodies, and no network forms. This is called the prozone. If there is a huge excess of antigen, each antibody arm is taken by a separate antigen, and again no network forms. In both cases, the test can look negative or falsely low, even though there is plenty to react. This explains the hook effect that you met with immunoassays.
+
+Some antibodies, especially the small I g G, can bind to red cells without clumping them. The cells are coated with antibody, but they stay apart. To reveal this, the lab adds a second antibody, which is directed against human antibodies. It is called an antiglobulin. The antiglobulin bridges the coated cells, and now they clump. This is the antiglobulin test, also called the Coombs test, after its inventor. It is central to blood group serology.
+
+Why does this matter in the lab? When a test result does not fit the patient, think of the zones. A patient with an enormous amount of an antigen, for example a tumour marker, may show a falsely low value. Diluting the sample and testing again reveals the true value. And in blood group work, the lab must know whether an antibody clumps cells directly, or whether an antiglobulin test is needed to find it.
+
+In short: antigen and antibody bind specifically through many weak forces. With particles they cause agglutination, with dissolved antigens precipitation. A balanced ratio is needed, and the antiglobulin test reveals antibodies that coat cells without clumping them.
+
+# Innate and adaptive immunity
+
+The immune system has two parts that work together. You met them in the second guide. Here we look at what the lab can see of them.
+
+The innate immune system is the first line of defence. It is present from birth and reacts within minutes to hours. It does not need to learn. It recognises general danger signals, such as typical parts of bacterial walls. Its parts include the skin and mucous membranes as barriers, the scavenger cells called phagocytes, especially the neutrophil granulocytes and the macrophages, natural killer cells, and a group of blood proteins called the complement system. Complement can punch holes into bacteria and mark them for the phagocytes.
+
+The innate response produces inflammation. Cells at the site of infection release messenger substances. These cause fever, call more white cells from the bone marrow, and tell the liver to make acute phase proteins.
+
+The adaptive immune system is the second line. It is slower, needing days for its first response, but it is highly specific. It recognises one exact antigen and remembers it. Its cells are the lymphocytes. B lymphocytes develop into plasma cells and make antibodies. T lymphocytes come in several types. Helper T cells coordinate the response. Cytotoxic T cells kill infected body cells directly.
+
+The great strength of the adaptive system is memory. After an infection, memory cells remain for years. When the same germ comes again, the response is much faster and stronger. This second response mostly makes I g G, and often the germ is defeated before you notice it. Vaccination uses exactly this. It shows the immune system a harmless form of an antigen, so that memory develops without the disease.
+
+What does the lab see? The innate response shows in the blood count and in the chemistry. In a bacterial infection, the white cell count rises, mostly because of more neutrophils. Young neutrophils from the bone marrow appear in the blood. This is called a left shift. C R P rises within hours, and in severe bacterial infections a protein called procalcitonin rises too.
+
+The adaptive response shows in two ways. First, in the lymphocytes of the blood count, which often rise in viral infections. Special analysers called flow cytometers can count the different types of lymphocytes, for example the helper T cells in patients with H I V. Second, in the antibodies, which serology measures as I g M and I g G against a specific germ. When a patient changes from having no antibodies to having them, we call it seroconversion. It proves a fresh infection.
+
+Why does this matter in the lab? Every serology result must be read with time in mind. In the first days of an infection, the adaptive system has not yet made antibodies. A patient can be infected but still test negative. This gap is called the diagnostic window. For blood donors, this is why donated blood is also tested directly for the genetic material of viruses with P C R, which can find an infection earlier than antibody tests.
+
+In short: innate immunity reacts fast and generally, adaptive immunity slowly, specifically and with memory. The lab sees the innate response in white cells and C R P, and the adaptive response in lymphocytes and specific antibodies. In the diagnostic window, antibodies are not yet detectable.
+
+# A B O system
+
+In nineteen hundred and one, the Austrian doctor Karl Landsteiner discovered that the blood of different people does not always mix safely. He found the A B O blood groups, and he later received the Nobel Prize for it.
+
+Red blood cells carry many antigens on their surface. In the A B O system, these antigens are sugar chains attached to the cell membrane. There are two antigens, called A and B. A person can have A, B, both, or neither. This gives four blood groups. Group A has the A antigen. Group B has the B antigen. Group A B has both. Group O has neither of the two.
+
+The special feature of the A B O system is that people have natural antibodies against the antigens they lack. Nobody has to be exposed to foreign blood for this. In the first months of life, bacteria in the gut carry sugar structures similar to A and B, and the immune system makes antibodies against the ones that are foreign to the body. So a person with group A has antibodies against B. A person with group B has antibodies against A. A person with group O has antibodies against both A and B. A person with group A B has neither. These natural antibodies are mostly I g M and clump red cells strongly.
+
+In Germany, roughly forty-three percent of people have group A, about forty-one percent group O, about eleven percent group B, and about five percent group A B.
+
+Now think about a transfusion. If a patient with group O receives red cells of group A, the patient's anti-A antibodies attack the donor cells at once. The cells clump and burst inside the blood vessels. This is called an acute hemolytic transfusion reaction. Symptoms are fever, chills, back pain, a drop in blood pressure, and dark urine from the released hemoglobin. Kidney failure and death can follow. Most of these reactions are caused not by test errors, but by mix-ups: the wrong tube, the wrong patient, or the wrong bag.
+
+So for red cells, the rule is: the donor cells must not carry an antigen against which the patient has antibodies. Group O red cells carry neither A nor B, so they can be given to all patients in an emergency. For this reason, people with group O are sometimes called universal donors of red cells. For plasma, the rule is reversed, because plasma carries the antibodies. Group A B plasma contains no anti-A and no anti-B, so it can be given to all patients.
+
+Why does this matter in the lab? In an emergency, when there is no time for testing, the lab issues group O red cells, usually Rhesus negative ones for women of childbearing age. As soon as a blood sample arrives, the lab determines the blood group, and the patient then receives blood of their own group. Careful labelling of the sample at the bedside is the first and most important safety step of all.
+
+In short: the A B O system has two antigens, A and B, giving four groups. Everyone has natural antibodies against the antigens they lack. A wrong A B O transfusion causes an acute, life-threatening reaction, usually because of a mix-up.
+
+# The Rhesus system
+
+The second most important blood group system is the Rhesus system. It is named after the rhesus monkey, whose blood was used in the experiments that led to its discovery.
+
+The Rhesus system contains many antigens, but one is far more important than all the others: the antigen D. If a person's red cells carry D, the person is called Rhesus positive. If not, the person is Rhesus negative. Unlike the A B O antigens, the Rhesus antigens are proteins in the cell membrane. In Germany and most of Europe, about eighty-five percent of people are Rhesus positive and about fifteen percent are Rhesus negative.
+
+There is one key difference from the A B O system. Rhesus negative people do not have natural antibodies against D. They only make anti-D if their immune system comes into contact with D positive red cells. This can happen in two ways: through a transfusion of Rhesus positive blood, or during pregnancy and birth, when the mother is Rhesus negative and the child is Rhesus positive. Once formed, anti-D is an I g G, and it stays.
+
+Now the classic problem. A Rhesus negative woman is pregnant with a Rhesus positive child, who inherited D from the father. During the first pregnancy, little happens. But at birth, some of the baby's blood enters the mother's circulation. Her immune system recognises D as foreign and makes anti-D. In the next pregnancy with a Rhesus positive child, her anti-D, being I g G, crosses the placenta. It attacks the red cells of the unborn child. The child develops anaemia, jaundice, and in severe cases heart failure and swelling of the whole body. This is called hemolytic disease of the fetus and newborn.
+
+This disease can be prevented. Rhesus negative pregnant women receive an injection of anti-D, called anti-D prophylaxis, usually around the twenty-eighth week of pregnancy and again within seventy-two hours after the birth of a Rhesus positive child. The injected anti-D quickly removes any of the child's red cells from the mother's blood, before her own immune system notices them and starts making its own antibodies.
+
+There are other Rhesus antigens too, named big C, small c, big E and small e, and many other blood group systems with names like Kell, Duffy and Kidd. Antibodies against them can also form after transfusions or pregnancies. They are rarer, but they matter, because they can cause transfusion reactions and disease in newborns.
+
+Why does this matter in the lab? Every pregnant woman in Germany has her A B O and Rhesus group determined early in pregnancy, and is tested for blood group antibodies, usually twice. If she is Rhesus negative, she receives the prophylaxis. In transfusion, Rhesus negative patients, especially girls and women before menopause, should receive Rhesus negative red cells, to avoid creating anti-D that could harm a future child.
+
+In short: the D antigen decides whether a person is Rhesus positive or negative. Anti-D is not natural. It forms only after contact with D positive blood, through transfusion or pregnancy. Anti-D prophylaxis in Rhesus negative mothers prevents hemolytic disease of the newborn.
+
+# Blood group testing
+
+Determining a blood group sounds simple: mix cells with antibodies and look for clumping. In practice, the lab follows strict rules, because a wrong result can be fatal. Let us look at the main tests.
+
+The A B O group is determined in two ways, which must agree. The first way tests the red cells. The patient's cells are mixed with test reagents containing anti-A and anti-B. If the cells clump with anti-A, they carry A. If they clump with anti-B, they carry B. This is called the antigen test.
+
+The second way tests the serum or plasma. The patient's serum is mixed with known test red cells of group A and group B. If the serum clumps the A cells, it contains anti-A. If it clumps the B cells, it contains anti-B. This is called the serum test or reverse grouping.
+
+Both results must match. For example: the cells clump with anti-A but not with anti-B, so the antigen is A. The serum clumps B cells but not A cells, so the antibody is anti-B. This fits group A perfectly. If the two tests disagree, the result must not be released until the reason is found. Newborns are a special case: they do not yet have their own natural antibodies, so the serum test is not used.
+
+The Rhesus D antigen is tested with anti-D reagents, usually with two different reagents for safety.
+
+The antibody screening test looks for unexpected antibodies against other blood group antigens, such as Kell or the other Rhesus antigens. The patient's serum is tested against two or three special test red cells, which together carry all the important antigens. These antibodies are usually I g G and do not clump cells directly. So the test uses the antiglobulin technique: the cells are incubated with the serum at thirty-seven degrees Celsius, so that antibodies can bind, and then antiglobulin is added. Clumping now means that an unexpected antibody is present. The lab then identifies it with a larger panel of test cells.
+
+The direct antiglobulin test, or direct Coombs test, asks a different question: are the patient's own red cells already coated with antibodies in the body? Antiglobulin is added directly to the patient's washed red cells. It is positive in hemolytic disease of the newborn, in transfusion reactions, and when the immune system attacks its own red cells.
+
+Most labs today use gel cards. A gel card has several small tubes filled with a gel, sometimes containing the reagent antibodies. Cells and serum are added on top, and the card is centrifuged. Free, single red cells pass through the gel and collect as a red button at the bottom. Clumped cells are too large and are trapped at the top or in the gel. So a red line at the top means positive, and a button at the bottom means negative.
+
+Why does this matter in the lab? Blood group testing is regulated very strictly in Germany. The patient must be clearly identified on the request form and on the tube. Many labs require two independent samples before a blood group is considered confirmed. Automated systems read the gel cards and send the results electronically, to avoid typing errors. Any unclear reaction is investigated, never guessed.
+
+In short: the A B O group is determined by testing the cells with anti-A and anti-B, and the serum with A and B test cells, and both must agree. The antibody screening uses the antiglobulin technique to find unexpected antibodies. Gel cards show clumped cells at the top and free cells at the bottom.
+
+# The cross match
+
+The cross match is the final laboratory test before a red cell transfusion. It checks whether a specific donor bag is compatible with a specific patient.
+
+The principle is simple. The patient's serum is mixed with red cells taken from the bag that is planned for this patient. If the patient has any antibodies against the donor cells, they will bind. The test uses the antiglobulin technique, just like the antibody screening, usually in a gel card. If there is no clumping and no reaction, the bag is compatible. If there is a reaction, that bag must not be given, and the lab must find out why.
+
+Why is this needed when the blood group is already known? Because the blood group only covers A, B and D. A patient may carry rare antibodies against other antigens, which the screening did not reveal, or which have only just appeared. The cross match is the last check of the real donor cells against the real patient serum. It also catches mix-ups: if a bag of the wrong A B O group was picked by mistake, the cross match reacts strongly.
+
+In Germany, the rules for transfusion are laid down in national guidelines on hemotherapy. Before every transfusion of red cells, a cross match must be done. A patient sample for the cross match is generally valid for only three days. After that, a new sample is needed, because new antibodies can form after a transfusion or a pregnancy.
+
+There is one more safety check, and it does not happen in the lab. Directly before the transfusion, at the patient's bed, the doctor performs a quick A B O test of the patient's blood on a test card. This is called the bedside test. It confirms once more that the patient in the bed has the blood group that the lab tested, and it is required by law in Germany. The doctor also checks that the bag, the name, the date of birth and the paperwork all match.
+
+The whole chain looks like this. First, a correctly labelled sample from the right patient. Second, blood group determination with antigen and serum tests. Third, antibody screening. Fourth, the cross match with the selected bag. Fifth, the bedside test and identity check. Each step is a safety net for the previous one.
+
+Why does this matter in the lab? In an emergency, the doctor may ask for blood before the cross match is finished. The lab can then release group O red cells, or blood of the patient's group, without a completed cross match. The doctor must sign that they accept this risk, and the cross match is completed afterwards. The lab must work fast, but it must never skip documentation. And if a cross match is positive, the lab must stop, inform the doctor, and investigate, even when the ward is calling for the blood.
+
+In short: the cross match tests the patient's serum against the donor cells of the planned bag, using the antiglobulin technique. It is required before every red cell transfusion, and the sample is usually valid for three days. The bedside test at the patient's bed is the final check.
+
+# Immunology summary
+
+Let us look back at part three.
+
+An antigen is a substance the immune system recognises. An antibody binds a small part of it, the epitope. Antibodies are Y-shaped immunoglobulins in five classes. I g M is the first antibody in a new infection, and I g G comes later, stays for years and crosses the placenta.
+
+The antigen antibody reaction is specific and reversible. With particles it causes agglutination, with dissolved antigens precipitation. It needs a balanced ratio, and too much antigen or antibody can give falsely low results. The antiglobulin test reveals antibodies that coat cells without clumping them.
+
+Innate immunity reacts fast and generally, and the lab sees it in white cells and C R P. Adaptive immunity is specific and has memory, and the lab sees it in lymphocytes and antibodies. In the diagnostic window, an infection may not yet show antibodies.
+
+The A B O system has the antigens A and B and natural antibodies against the missing ones. Group O red cells can be given to everyone in an emergency, and group A B plasma likewise. The Rhesus antigen D decides Rhesus positive or negative. Anti-D forms only after contact, and anti-D prophylaxis protects the children of Rhesus negative mothers.
+
+Blood group testing combines an antigen test and a serum test, which must agree, plus antibody screening. The cross match tests the patient's serum against the planned donor cells and is required before every red cell transfusion. The bedside test is the last safety check.
+
+# Part four: Genetics
+
+Genetics is the science of heredity: how features are passed from parents to children, and how the instructions in our D N A can change. In the first guide, you met D N A, genes and protein synthesis. In this part, we build on that.
+
+Genetics has become a fast-growing area of laboratory medicine. Molecular labs test for inherited diseases, look for changes in tumour cells, and find viruses and bacteria by their genetic material. The key tool behind much of this work is the P C R.
+
+We start with Gregor Mendel and the basic rules of inheritance. Then we look at genotype and phenotype, using the blood groups as an example. Then chromosomes, then mutations, and finally the P C R and its modern form, the real-time P C R.
+
+# Mendelian inheritance
+
+In the eighteen sixties, the monk Gregor Mendel grew thousands of pea plants in his monastery garden in Brno. He crossed plants with different features, such as purple or white flowers, and counted the offspring very carefully. From his numbers, he worked out the basic rules of heredity, long before anyone knew about D N A.
+
+Let us first fix a few words. A gene is a section of D N A that carries the instructions for one feature, usually for one protein. A gene can exist in different versions. These versions are called alleles. For example, the gene for flower colour may have a purple allele and a white allele.
+
+Every body cell has two copies of each gene, one from the mother and one from the father. If both copies are the same allele, the individual is homozygous. If the two copies are different alleles, the individual is heterozygous.
+
+When two different alleles meet, one often wins. The winning allele is called dominant. The allele that is hidden is called recessive. A recessive feature only shows when both copies are the recessive allele. In Mendel's peas, purple was dominant over white. A plant with one purple and one white allele had purple flowers. Only plants with two white alleles had white flowers.
+
+Geneticists write dominant alleles with a capital letter and recessive alleles with a small letter. So big P is purple and small p is white. A plant can be big P big P, big P small p, or small p small p.
+
+Now Mendel's famous experiment. He crossed two plants that were both big P small p. Each parent passes on one of its two alleles, by chance, to each offspring. So each parent passes big P half of the time and small p half of the time. To see all the possible combinations, you can draw a small square with four boxes, called a Punnett square. Write the alleles of one parent along the top and the other parent along the side, and fill in the boxes.
+
+The four boxes give: one big P big P, two big P small p, and one small p small p. Three of the four have at least one big P, so they are purple. One of the four is small p small p, so it is white. The ratio is three purple to one white. Mendel found almost exactly this ratio in his counts.
+
+Not every gene follows the simple dominant and recessive pattern. Sometimes both alleles show at the same time. This is called codominance. The A B O blood group is a good example, as you will see in the next chapter.
+
+Why does this matter in the lab? Many inherited diseases follow Mendel's rules. Cystic fibrosis is recessive: a child is only ill with two faulty copies. Parents who each carry one faulty copy are healthy carriers, and each of their children has a one in four chance of being ill. Other diseases are dominant: one faulty copy is enough. Genetic labs and doctors use these rules to estimate the risk in a family.
+
+In short: genes come in versions called alleles, and each person carries two copies of each gene. Dominant alleles show even in one copy, recessive alleles only in two. Crossing two heterozygous parents gives the classic ratio of three to one.
+
+# Genotype and phenotype
+
+Two terms are central to genetics. The genotype is the genetic makeup, the alleles a person actually carries. The phenotype is what you can see or measure: the feature that results. In Mendel's peas, big P big P and big P small p are two different genotypes, but they have the same phenotype: purple flowers.
+
+The phenotype does not always reveal the genotype. A purple pea could be big P big P or big P small p. A healthy person could be a carrier of a recessive disease without knowing it. Only a genetic test, or the family history, can show the hidden allele.
+
+The phenotype also depends on the environment. A person may carry genes for a tall body, but without good food in childhood, they may not grow tall. Many common diseases, such as type two diabetes or heart disease, result from many genes together with lifestyle. They do not follow Mendel's simple rules.
+
+The A B O blood group is a perfect example for the lab. The gene for the A B O group has three common alleles: A, B and O. The A allele makes the A antigen, the B allele makes the B antigen, and the O allele makes neither. A and B are codominant: if a person has both, both antigens appear, and the blood group is A B. A and B are both dominant over O, which is recessive.
+
+So there are six possible genotypes but only four phenotypes. Blood group A can be the genotype A A or A O. Blood group B can be B B or B O. Blood group A B is always A B. Blood group O is always O O.
+
+Let us work through an example. Both parents have blood group A, and both are heterozygous, genotype A O. Each passes on either A or O. The Punnett square gives: one A A, two A O and one O O. So three of the four combinations show blood group A. One of the four, O O, shows blood group O. Two parents with group A can therefore have a child with group O. This is not a mix-up. It is Mendel's rule.
+
+On the other hand, some combinations are impossible. A parent with group A B always passes on either A or B, never O. So a parent with group A B cannot have a child with group O, unless very rare special variants are involved.
+
+In the past, blood groups were used in paternity questions. Today, D N A tests have replaced them, because they are far more precise.
+
+Why does this matter in the lab? Phenotype is what the lab measures in blood group testing: the antigens on the cells. Genotype can be determined by molecular methods. This is useful in special cases, for example when a patient has been transfused recently and the blood contains a mix of their own and donor cells. Then the antigen tests are confusing, but a genetic test of the patient's own D N A gives a clear answer.
+
+In short: the genotype is the set of alleles, the phenotype is the visible feature. In the A B O system, A and B are codominant and O is recessive, so six genotypes give four blood groups. Two group A parents can have a group O child.
+
+# Chromosomes
+
+D N A in the nucleus is a very long molecule. If you stretched out the D N A of one human cell, it would be about two meters long. To fit into the nucleus, it is wound around proteins and packed very tightly, like thread wound on many small spools. These packed units are the chromosomes.
+
+A human body cell has forty-six chromosomes, arranged in twenty-three pairs. One chromosome of each pair comes from the mother, the other from the father. Twenty-two of the pairs are the same in men and women. They are called autosomes, and they are numbered from one to twenty-two, roughly from the largest to the smallest. The twenty-third pair are the sex chromosomes. Women have two X chromosomes. Men have one X and one much smaller Y chromosome.
+
+Egg cells and sperm cells, the germ cells, have only one set of twenty-three chromosomes. They are made by meiosis, which you met in the first guide. When an egg and a sperm join, the full number of forty-six is restored.
+
+Chromosomes are visible under a light microscope only when a cell is dividing. Just before division, they are most tightly packed, in a phase called metaphase. Each chromosome then looks like a letter X: two identical copies joined at one point, called the centromere.
+
+A picture of all the chromosomes of a cell, sorted by size and shape into pairs, is called a karyotype. To make one, the lab grows living cells, usually white blood cells, in culture. A chemical stops the cells in metaphase. The cells are burst open on a slide, and the chromosomes are stained. The stain gives each chromosome a typical pattern of light and dark bands, like a barcode on a product. This lets the specialist recognise each chromosome and see changes in it.
+
+Genes on the X chromosome follow a special pattern of inheritance. Men have only one X. So if a man's X carries a faulty recessive allele, there is no second X to compensate, and he is affected. Women have two X chromosomes, so they are usually healthy carriers. This is called X-linked inheritance. Examples are red-green colour blindness and haemophilia, the bleeding disorder in which a clotting factor is missing. A carrier mother passes the faulty X to half of her sons, who are then affected.
+
+Why does this matter in the lab? Cytogenetics is the part of the lab that studies chromosomes. It looks for changes in number or structure, for example in children with developmental problems, in couples with repeated miscarriages, and in blood cancers. The cells must be alive to grow, so samples for chromosome analysis are taken in heparin tubes, never frozen, and sent to the lab quickly. And in the coagulation lab, a very low factor eight in a boy with bleeding can point to haemophilia.
+
+In short: human cells have forty-six chromosomes in twenty-three pairs, including the sex chromosomes X and Y. A karyotype shows them in metaphase, sorted and stained in bands. X-linked recessive diseases, such as haemophilia, mainly affect boys.
+
+# Mutations
+
+A mutation is a permanent change in the D N A. Mutations happen all the time. Some arise from errors when D N A is copied before cell division. Others are caused by outside factors, such as radiation, ultraviolet light, tobacco smoke and certain chemicals. Cells have repair systems that fix most damage. The few changes that remain are mutations.
+
+Mutations can be sorted by their size.
+
+A gene mutation, or point mutation, changes one or a few letters of the D N A code. When one letter is exchanged for another, it is called a substitution. Sometimes it changes nothing, because the genetic code has several codes for the same amino acid. Sometimes it changes one amino acid in the protein. And sometimes it creates a stop signal, so the protein is cut short.
+
+The classic example is sickle cell disease. One single letter in the gene for a part of hemoglobin is changed. As a result, one amino acid in the protein chain, glutamic acid, is replaced by another, valine. This small change makes hemoglobin stick together when oxygen is low. The red cells become stiff and bend into the shape of a sickle. They block small vessels and break down early.
+
+When one or more letters are added or lost, it is called an insertion or a deletion. If the number of added or lost letters is not a multiple of three, the reading frame shifts. Every code word after the change is read wrongly, like a sentence in which all the spaces have moved by one letter. Such frameshift mutations usually destroy the protein. Many cases of cystic fibrosis are caused by a small deletion.
+
+A chromosome mutation changes the structure of a chromosome. A piece can be lost, doubled, turned around, or moved to another chromosome. When two chromosomes swap pieces, it is called a translocation. A famous example is the Philadelphia chromosome in a type of blood cancer called chronic myeloid leukaemia. A piece of chromosome nine and a piece of chromosome twenty-two swap places. This creates a new fused gene, which drives the cells to divide without control.
+
+A genome mutation changes the number of chromosomes. The best-known example is trisomy twenty-one, also called Down syndrome. The person has three copies of chromosome twenty-one instead of two. This usually happens through an error in meiosis, when the chromosomes are not separated properly.
+
+It matters where a mutation happens. A mutation in a germ cell can be passed on to children. It is then present in every cell of the child's body. A mutation in a normal body cell, called a somatic mutation, is not inherited. It affects only that cell and its daughter cells. Most cancers are caused by an accumulation of somatic mutations.
+
+Why does this matter in the lab? Molecular labs search for mutations every day. They test for inherited risks, such as factor five Leiden, a common mutation in a clotting factor that raises the risk of blood clots. They look for mutations in tumours, because some new cancer drugs work only when a certain mutation is present. And they follow the amount of the Philadelphia fusion gene in leukaemia patients, to see whether treatment is working.
+
+In short: a mutation is a permanent change in the D N A. It can change single letters, the structure of a chromosome, or the number of chromosomes. Germ cell mutations are inherited, somatic mutations are not, and the lab tests for both.
+
+# P C R principle
+
+The polymerase chain reaction, short P C R, is a method to copy a chosen piece of D N A millions or billions of times. It was invented by Kary Mullis in nineteen eighty-three, and he received the Nobel Prize for it. It turns a tiny, invisible amount of D N A into an amount large enough to detect.
+
+The P C R copies D N A in the test tube in the same way that cells do, but in a controlled cycle of temperatures. It needs five ingredients.
+
+First, the sample D N A, which contains the target piece. Second, two primers. Primers are short pieces of single-stranded D N A, about twenty letters long. They are designed to fit exactly at the start and the end of the target piece. They mark what will be copied, like two bookmarks in a long book. Third, the building blocks, the four D N A letters, called nucleotides. Fourth, a D N A polymerase, the enzyme that builds the new strands. And fifth, a buffer with magnesium, which the enzyme needs.
+
+The polymerase is special. It comes from a bacterium called Thermus aquaticus, which lives in hot springs. So the enzyme, called Taq polymerase, survives temperatures close to boiling. This is essential, as you will see.
+
+Each cycle has three steps. Step one is denaturation, at about ninety-four to ninety-five degrees Celsius. The heat separates the two strands of the D N A double helix. Step two is annealing, at about fifty to sixty-five degrees, depending on the primers. The primers attach to their matching places on the single strands. Step three is elongation, at seventy-two degrees, the ideal temperature of Taq polymerase. Starting from each primer, the enzyme adds letters one by one and builds a new complementary strand.
+
+At the end of one cycle, the number of target pieces has doubled. Then the cycle starts again. A machine called a thermal cycler changes the temperatures automatically. One cycle takes only a minute or two.
+
+The power of the P C R lies in the doubling. After one cycle, there are two copies. After two cycles, four. After ten cycles, about one thousand. After twenty cycles, about one million. After thirty cycles, about one billion. A typical P C R runs thirty to forty cycles. Starting with just a few copies, this gives enough to detect easily.
+
+Many viruses, such as influenza, H I V and the coronaviruses, have R N A instead of D N A. The polymerase cannot copy R N A directly. So first, an enzyme called reverse transcriptase writes the R N A into D N A. Then the normal P C R follows. This combination is called reverse transcription P C R.
+
+Why does this matter in the lab? The enormous sensitivity of the P C R is also its biggest danger. A single stray copy from an earlier test, or from a positive sample, can be copied billions of times and give a false positive result. So P C R labs are organised in separate rooms: one for preparing the reagents, one for adding the samples, and one for running and analysing the reaction. Work always moves in one direction, from clean to dirty, never back. Every run includes negative controls without sample, to show that no contamination is present.
+
+In short: the P C R copies a chosen piece of D N A by repeating three temperature steps: denaturation, annealing and elongation. Each cycle doubles the target, so thirty cycles make about a billion copies. R N A is first transcribed into D N A, and strict room separation prevents contamination.
+
+# Real-time P C R
+
+In the classic P C R, the result is checked at the end of the run. The product is placed on a gel and separated by electrophoresis. If a band of the right size appears, the target was present. This takes extra time, and opening the tubes after the run risks spreading the product around the lab.
+
+Modern labs mostly use real-time P C R, also called quantitative P C R. Here, the product is measured during the reaction, in every cycle, inside the closed tube.
+
+How? The reaction contains fluorescent dyes or probes. A common type of probe is a short piece of D N A that fits the target and carries two small molecules: a dye that glows, and a quencher that keeps the glow switched off while the two are close together. When the polymerase builds the new strand, it breaks the probe apart. The dye is freed from the quencher and begins to glow. So every new copy adds a little light. The machine shines light into each tube and measures the glow after every cycle.
+
+At first, the glow is too weak to see above the background. Then, as the copies keep doubling, the glow rises steeply. Later, when the ingredients run out, it levels off. On a graph, this gives an S-shaped curve.
+
+The key number is the cycle at which the glow first rises clearly above the background. This is called the threshold cycle, or C t value. The more target there was at the start, the earlier the glow crosses the threshold, and the lower the C t value. A sample with a lot of virus might cross at cycle fifteen. A sample with very little might cross at cycle thirty-five. Each step of one cycle means a doubling, so a difference of ten cycles means about a thousandfold difference in the starting amount.
+
+By running standards with known amounts alongside, the lab can turn the C t value into an exact number of copies per milliliter. This is called the viral load. It is used, for example, to follow treatment in patients with H I V or hepatitis B and C.
+
+Different probes with different colours can be used in the same tube. This allows the lab to test for several targets at once, for example influenza A, influenza B and the coronavirus in one reaction. An internal control is usually included as well. It is a target that should always be found. If the internal control fails, the sample may contain substances that block the reaction, and a negative result cannot be trusted.
+
+Why does this matter in the lab? A real-time P C R gives a result within one or two hours, in a closed tube, with less risk of contamination. But a C t value must be read with care. It depends on the quality of the sample, for example on how well a swab was taken. A high C t value may mean very little virus, perhaps at the end of an infection. The lab report gives the result, and the doctor interprets it together with the patient.
+
+In short: real-time P C R measures the product in every cycle with fluorescent probes. The C t value is the cycle at which the signal crosses the threshold, and a low C t means a lot of target. With standards, the lab can report a viral load, and internal controls guard against false negatives.
+
+# Genetics summary
+
+Let us look back at part four.
+
+Gregor Mendel discovered the basic rules of heredity. Each person has two copies of each gene, called alleles. Dominant alleles show even in a single copy, recessive alleles only when both copies are recessive. Crossing two heterozygous parents gives a ratio of three to one.
+
+The genotype is the set of alleles, the phenotype is the visible feature. In the A B O system, A and B are codominant and O is recessive, so two parents with group A can have a child with group O.
+
+Human cells have forty-six chromosomes in twenty-three pairs, including X and Y. A karyotype shows them stained in bands during metaphase. X-linked recessive diseases, such as haemophilia, mainly affect boys.
+
+A mutation is a permanent change in the D N A. Point mutations, such as in sickle cell disease, change single letters. Chromosome mutations, such as the Philadelphia translocation, change structure. Genome mutations, such as trisomy twenty-one, change the number of chromosomes. Germ cell mutations are inherited, somatic mutations are not.
+
+The P C R copies a target piece of D N A through cycles of denaturation, annealing and elongation, doubling it each time. R N A is first transcribed into D N A. Real-time P C R measures the glow in every cycle. A low C t value means a lot of target, and standards turn it into a viral load. Separate rooms and controls protect the P C R from contamination.
+
+# Part five: Lab maths
+
+Every number in a lab report is the end of a chain of calculations. The analyser compares the signal from the patient's sample with the signals from known standards. It checks whether the control samples are within their limits. And the doctor compares the result with a reference range. In this part, you will learn the maths behind these three steps.
+
+Do not worry. You do not need advanced maths. You need a clear understanding of a few ideas: the calibration curve, the mean, the standard deviation, the coefficient of variation, and the reference range. As always, every calculation is spoken step by step.
+
+# Calibration curves
+
+A photometer measures absorbance, not concentration. An immunoassay measures light, not hormone levels. To turn a signal into a concentration, the analyser needs a translation table. This translation table is the calibration curve, also called the standard curve.
+
+To make it, the lab measures several standards, also called calibrators. These are solutions with exactly known concentrations of the substance. For each standard, the analyser records the signal. Then the results are drawn on a graph. The concentration goes along the bottom axis, and the signal goes up the side axis. Each standard gives one point, and a line or curve is drawn through the points.
+
+Now a patient sample is measured. Its signal is found on the side axis. From there, you go across to the curve, and then straight down to the bottom axis. There you read the concentration of the patient's sample. The analyser does this by calculation, but the principle is exactly the same.
+
+Let us do an example with a straight line through zero. A standard with one hundred milligrams per deciliter gives an absorbance of zero point five. The blank, with no substance, gives zero. A patient sample gives an absorbance of zero point three. Since the line is straight, concentration and absorbance are proportional. Zero point three is three fifths of zero point five. So the concentration is three fifths of one hundred, which is sixty milligrams per deciliter.
+
+In practice, the line does not always pass exactly through zero, and the lab uses several standards. The line can be described by its slope, which shows how steeply the signal rises with concentration, and by its intercept, the point where it crosses the side axis.
+
+Many photometric tests give a straight line, at least within a certain range. Many immunoassays give a curved line, often S-shaped. Competitive immunoassays even give a falling curve, because a higher concentration gives a lower signal. Analysers use mathematical models to fit these curves.
+
+Every calibration curve has a measuring range: from the lowest to the highest concentration that can be measured reliably. Within the range of the standards, reading the curve is safe. This is called interpolation. Reading beyond the highest standard, by extending the line, is called extrapolation, and it is not allowed. The curve may bend there, and the result could be wrong. A sample above the range is diluted and measured again, and the result is multiplied by the dilution factor. A sample below the range is reported as "less than" the lowest reliable value.
+
+Calibration is not done once and forever. Reagents age, lamps weaken and new lots of reagent behave slightly differently. So calibration is repeated at fixed intervals, with every new lot of reagent, and whenever the controls show a problem.
+
+Why does this matter in the lab? Every result depends on a correct calibration. If a calibrator was stored wrongly or mixed up, every patient result of that test can be wrong in the same direction. That is why, after each calibration, control samples are measured before any patient results are released. Only when the controls are correct do we trust the curve.
+
+In short: a calibration curve translates a signal into a concentration, using standards with known values. Results are read within the measuring range, never beyond it. Samples above the range are diluted, and every calibration is checked with controls.
+
+# Mean and standard deviation
+
+No measurement is perfect. If you measure the same sample ten times, you will get ten slightly different results. This small, random scatter is unavoidable. Statistics helps us to describe it and to decide whether a result can be trusted.
+
+The first number is the mean, the ordinary average. To calculate it, add up all the values and divide by the number of values. For example, five measurements of a control give four, five, six, five and five millimoles per liter. The sum is twenty-five. Twenty-five divided by five gives a mean of five.
+
+The mean tells us where the values lie on average. But it says nothing about how widely they scatter. Two series can have the same mean, one with tight values, and one with values all over the place. To describe the scatter, we use the standard deviation.
+
+The standard deviation is a kind of average distance of the values from the mean. Here is how it is calculated, step by step, using the same example. First, find the distance of each value from the mean of five. Four is minus one. Five is zero. Six is plus one. Five is zero. Five is zero. Second, square each distance, which means multiplying it by itself. This removes the minus signs. Minus one squared is one. Zero squared is zero. One squared is one. So we get one, zero, one, zero, zero. Third, add them up: the sum is two. Fourth, divide by the number of values minus one. We have five values, so we divide by four. Two divided by four is zero point five. Fifth, take the square root. The square root of zero point five is about zero point seven one. So the standard deviation is about zero point seven millimoles per liter.
+
+You will rarely calculate this by hand. Analysers and computers do it. But you must understand what it means. A small standard deviation means that the measurements are close together, so the method is precise. A large standard deviation means that they scatter widely.
+
+Many measurements follow a bell-shaped distribution, called the normal distribution or Gauss curve. Most values lie near the mean, fewer lie further away, and very few lie far away. For a normal distribution, there are two handy rules. About sixty-eight percent of all values lie within one standard deviation on either side of the mean. About ninety-five percent lie within two standard deviations. And about ninety-nine point seven percent lie within three.
+
+Why does this matter in the lab? This is the basis of quality control. Every day, the lab measures control samples with known target values. The results are plotted on a control chart, with lines for the mean and for two and three standard deviations. A single control value outside two standard deviations is a warning. A value outside three standard deviations, or several values in a row on one side of the mean, means that something is wrong. Then patient results must not be released until the problem is solved. In Germany, the rules for this quality control are set in a binding guideline of the German Medical Association.
+
+In short: the mean is the average, and the standard deviation describes the scatter around it. In a normal distribution, about ninety-five percent of values lie within two standard deviations of the mean. Control charts use these limits to decide whether a run can be trusted.
+
+# The coefficient of variation
+
+The standard deviation has a weakness. It is given in the same unit as the measurement, and its size depends on the level of the values. A standard deviation of two milligrams per deciliter is excellent for a glucose of three hundred, but poor for a value of ten. To compare precision fairly, we need a relative measure. This is the coefficient of variation, short C V.
+
+The coefficient of variation is the standard deviation divided by the mean, multiplied by one hundred. The result is a percentage. It tells you how large the scatter is, compared with the value itself.
+
+Let us take an example. A control is measured twenty times. The mean is one hundred milligrams per deciliter, and the standard deviation is three milligrams per deciliter. Three divided by one hundred is zero point zero three. Times one hundred gives three. So the coefficient of variation is three percent.
+
+A second example. Another control, at a low level, has a mean of twenty and a standard deviation of two. Two divided by twenty is zero point one. Times one hundred gives ten percent. Even though the standard deviation is smaller in absolute terms, the relative scatter is much larger. The method is less precise at this low level.
+
+This is typical. Most methods are relatively less precise at very low concentrations, close to the limit of what they can detect. So the coefficient of variation is often given for several levels of a test.
+
+What is a good coefficient of variation? It depends on the test. For sodium, which the body keeps in a very narrow range, the scatter must be very small, around one percent or less. For many enzyme or hormone tests, a few percent is acceptable. Manufacturers state the coefficient of variation of their tests, and the lab checks it.
+
+There are two kinds of precision that you should know. Within-run precision describes the scatter when the same sample is measured many times in one run, one after the other. Between-run precision, or between-day precision, describes the scatter over many days, with different calibrations and different staff. The between-day coefficient of variation is usually larger, because more factors change.
+
+Precision is not the same as correctness. Imagine throwing darts. If all your darts land close together, you are precise. If they land close together around the bull's eye, you are also correct, which in the lab is called trueness. If they land close together, but in the corner of the board, you are precise but not correct. A method can be very precise and still be biased. The lab checks precision with internal controls, and correctness with external quality assessment, where many labs measure the same unknown sample and compare their results.
+
+Why does this matter in the lab? When you validate a new method or a new analyser, one of the first things you measure is the coefficient of variation. When the controls of a test suddenly scatter more, a rising C V is an early warning: perhaps a pipette is blocked, a reagent is old, or the lamp is failing.
+
+In short: the coefficient of variation is the standard deviation divided by the mean, times one hundred, in percent. It allows a fair comparison of precision at different levels. Precision is the closeness of repeated results, and trueness is their closeness to the true value.
+
+# Reference ranges
+
+A lab result alone means little. Is a potassium of five point two millimoles per liter normal or not? To answer this, every result is printed next to a reference range. The reference range shows which values are typically found in healthy people.
+
+How is a reference range made? The lab, or the manufacturer, measures the value in a large group of healthy people, at least one hundred twenty for each group. This group is called the reference population. The results are sorted from lowest to highest. Then the lowest two and a half percent and the highest two and a half percent are cut off. The middle ninety-five percent of the values form the reference range.
+
+If the values follow a normal distribution, this middle ninety-five percent is roughly the mean plus or minus two standard deviations. For example, if the mean of a value in healthy people is one hundred forty, and the standard deviation is two, the reference range is from one hundred thirty-six to one hundred forty-four. Many lab values, however, are not distributed symmetrically. Then the lab uses the sorted values directly.
+
+This method has an important consequence. By definition, five percent of healthy people lie outside the reference range. One in twenty healthy people has a value that is flagged as high or low, simply by chance. And if a healthy person has twenty different tests, it is likely that at least one of them is slightly out of range. So a value just outside the range is not automatically a disease. The doctor must interpret it together with the patient's symptoms, other results, and earlier values.
+
+Reference ranges depend on many factors. Sex matters: hemoglobin and creatinine are higher in men. Age matters: alkaline phosphatase is much higher in growing children, and many values change in old age. Pregnancy changes many values. The method matters too: different analysers and reagents can give different ranges for the same test. That is why every lab report shows the lab's own reference range, and why results from different labs should be compared with care.
+
+For some tests, a reference range is not the best guide. Instead, there are decision limits, set by medical experts based on studies of disease and risk. You have already met examples: the fasting glucose of one hundred twenty-six milligrams per deciliter for diabetes, the H b A one c of six point five percent, and the risk-based targets for L D L cholesterol. Here the question is not "what is usual in healthy people", but "from what value is treatment needed".
+
+Why does this matter in the lab? When a result lies far outside the reference range and could be dangerous, it is called a critical value. Examples are a very high potassium, a very low glucose, or a very low hemoglobin. Each lab has a list of such values. They are reported to the doctor immediately, usually by phone, and the call is documented. Before the call, the lab checks the sample: a hemolysed sample, for example, can show a falsely high potassium.
+
+In short: a reference range covers the middle ninety-five percent of values from healthy people, so one in twenty healthy people lies outside it. It depends on sex, age and method. Decision limits are used for some tests, and critical values are reported to the doctor at once.
+
+# Lab maths summary
+
+Let us look back at part five.
+
+A calibration curve translates a measured signal into a concentration, using standards with known values. You read the result within the measuring range, never beyond it. Samples above the range are diluted, and the result is multiplied by the dilution factor. Every calibration is checked with control samples.
+
+The mean is the average of a series of values. The standard deviation describes how widely they scatter around the mean. In a normal distribution, about sixty-eight percent of values lie within one standard deviation, and about ninety-five percent within two. Control charts use these limits every day to decide whether a run can be trusted.
+
+The coefficient of variation is the standard deviation divided by the mean, times one hundred. It compares precision fairly at different levels. Precision means that repeated results are close together. Trueness means that they are close to the true value.
+
+A reference range covers the middle ninety-five percent of values from healthy people. So one in twenty healthy people is outside it by chance. Reference ranges depend on sex, age and method. Decision limits are used for some tests, and critical values are reported to the doctor immediately.
+
+# Final summary
+
+You have reached the end of the third guide. Let us take one last walk through the whole diagnostic laboratory.
+
+In clinical chemistry, enzymes are measured by their activity, often by following N A D H at three hundred forty nanometers. A L T points to the liver, creatine kinase to muscle, and troponin to the heart. Glucose is protected in fluoride tubes, and H b A one c shows the last two to three months. Albumin holds water and carries many substances. Lipoproteins carry fats, with L D L delivering cholesterol and H D L bringing it back. Hormones are measured by immunoassays, either as sandwiches or by competition. Analysers rely on photometry, electrophoresis and chromatography.
+
+In microbiology, bacteria are sorted by shape and by the Gram stain: thick wall and violet, or thin wall with an outer membrane and red. They are grown on suitable media at the right temperature and oxygen level, identified by quick tests and mass spectrometry, and tested against antibiotics to find the minimum inhibitory concentration. Viruses need host cells and are found by P C R and serology. Sterilisation kills everything, including spores. Disinfection and aseptic technique keep samples clean and staff safe.
+
+In immunology, antibodies bind antigens specifically. I g M comes first, I g G comes later and stays. The A B O system has natural antibodies. The Rhesus antigen D needs prophylaxis in pregnancy. Blood group testing, antibody screening and the cross match make transfusion safe, and the bedside test is the final check.
+
+In genetics, Mendel's rules explain dominant and recessive inheritance. Genotype and phenotype differ, as the blood groups show. Mutations change letters, chromosomes or the number of chromosomes. The P C R copies D N A by doubling it in every cycle, and real-time P C R measures it as it grows.
+
+In lab maths, calibration curves turn signals into concentrations. The mean, the standard deviation and the coefficient of variation describe precision and drive quality control. Reference ranges show what is usual in healthy people, but one in twenty healthy people lies outside them.
+
+Behind every number on a lab report, there is a patient waiting for an answer. With the knowledge from these three guides, you can understand where that number comes from, how it can go wrong, and why your careful work matters. Good luck with your training.

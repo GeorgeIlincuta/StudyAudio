@@ -1,0 +1,1125 @@
+Building on the foundations: chemistry, organic chemistry, human biology and lab physics.
+
+# Using this guide
+
+This is the second audio guide for the training as a medical technologist for laboratory analysis. The first guide covered the foundations: the atom, chemical bonds, the mole, concentrations, the cell, and dilution. This guide builds on all of that.
+
+The guide has four parts. Part one goes deeper into general chemistry: acids and bases, buffers, titration, equilibrium, reaction speed, electrolytes and electrochemistry. Part two is organic chemistry, the chemistry of carbon. Part three is human biology, one body system at a time, starting with the blood. Part four is lab physics: light, photometry, the centrifuge and electricity.
+
+As before, there are no formulas and no symbols, because this is audio. Every number is spoken in full. Every formula is said in words. When you later see the written formula in a textbook, you will already know what it means.
+
+Each chapter explains one idea, then shows why it matters in a real laboratory, and ends with a short summary that starts with the words "In short". If you only have a few minutes, the summaries alone are a good revision.
+
+Many chapters refer back to the first guide. If a word such as ion, mole or concentration feels unclear, it is a good idea to listen to that chapter of the first guide again.
+
+Let us begin with one of the most important ideas in all of laboratory chemistry: acids and bases.
+
+# Part one: Chemistry
+
+In the first guide you met acids and bases briefly, together with the pH value. In this part we look at them closely, because they are everywhere in the lab. The pH of blood is one of the most tightly controlled values in the body. Many test reagents only work at a certain pH. And many measurements depend on a chemical reaction reaching a balance.
+
+The part goes step by step. First acids and bases, and the pH scale. Then buffers, and why blood needs them. Then titration and indicators. Then chemical equilibrium and reaction speed. Then salts, ions and the electrolytes in the body. And finally redox reactions and the basics of electrochemistry, which explain how many lab analysers measure ions.
+
+# Acids and bases
+
+What is an acid? The most useful definition for the lab is this one. An acid is a substance that gives away a proton. A base is a substance that takes up a proton. This is called the Bronsted definition, named after a Danish chemist.
+
+Remember from the first guide: a hydrogen atom is one proton and one electron. If a hydrogen atom loses its electron, only the proton is left. So a proton and a hydrogen ion are the same thing. In chemistry, both words are used.
+
+Take hydrochloric acid, the acid in your stomach. In water, it gives its proton to a water molecule. The result is a chloride ion and a hydronium ion. The hydronium ion is simply a water molecule that has picked up an extra proton. Whenever chemists talk about hydrogen ions in water, they really mean hydronium ions.
+
+Now a base. Ammonia is a classic base. In water, it takes a proton from a water molecule. The result is an ammonium ion and a hydroxide ion. The hydroxide ion is a water molecule that has lost a proton. Many bases, such as sodium hydroxide, contain hydroxide ions directly.
+
+An acid and a base always work as a pair. One gives, the other takes. Think of a ball passed between two players. The proton is the ball. After the pass, the acid has become a base, because it could now take the proton back. Chemists call these two forms a conjugate pair. Acetic acid and acetate are such a pair. Carbonic acid and bicarbonate are another, and they will become very important in the chapter on blood.
+
+Water is special. It can act as an acid and as a base. It can give a proton and it can take one. Substances like this are called amphoteric.
+
+Acids are also either strong or weak. A strong acid, such as hydrochloric acid, gives away practically all of its protons in water. A weak acid, such as acetic acid in vinegar, gives away only a small part of its protons. Most of its molecules stay whole. The same is true for bases. Sodium hydroxide is a strong base. Ammonia is a weak base.
+
+Strong does not mean concentrated. A very dilute solution of a strong acid is still a strong acid. Strength describes how completely the acid gives away its protons. Concentration describes how much acid is in the solution.
+
+Why does this matter in the lab? Many reagents are acids or bases. Hydrochloric acid is used to clean glassware and to adjust the pH of solutions. Sodium hydroxide is used in titrations. Trichloroacetic acid is used to make proteins fall out of a sample. To handle these safely, and to understand what they do to a sample, you need to know which substance gives protons and which takes them.
+
+In short: an acid gives away protons, a base takes them up. An acid and its base form a conjugate pair. Strong acids and bases react almost completely in water, weak ones only partly.
+
+# The pH scale
+
+In the first guide you learned that the pH value tells how acidic a solution is. Now let us see where this number comes from.
+
+Even pure water contains a few ions. A tiny fraction of water molecules pass a proton to each other. This gives hydronium ions and hydroxide ions in equal numbers. In pure water at twenty-five degrees Celsius, the concentration of hydronium ions is ten to the power of minus seven moles per liter. That is one ten-millionth of a mole per liter.
+
+Such small numbers are hard to work with. So chemists use a trick. They take the negative logarithm, to base ten, of the hydronium concentration. The result is the pH value. For pure water, ten to the power of minus seven gives a pH of seven.
+
+A logarithm sounds frightening, but here it simply counts the zeros. Ten to the minus three is a pH of three. Ten to the minus nine is a pH of nine. So the pH is the power of ten, without the minus sign.
+
+The scale runs from about zero to fourteen. A pH of seven is neutral. Below seven is acidic: there are more hydronium ions than hydroxide ions. Above seven is basic, also called alkaline: there are more hydroxide ions.
+
+There is a second important point. The scale is logarithmic. One step on the pH scale means a factor of ten in the concentration. A solution with pH four contains ten times more hydronium ions than a solution with pH five. And a solution with pH three contains one hundred times more than pH five. Small changes in the pH number are big changes in chemistry.
+
+There is also a mirror value called the pOH, for hydroxide ions. In water at twenty-five degrees, pH plus pOH always gives fourteen. So if you know one, you know the other.
+
+A worked example. A solution of hydrochloric acid has a concentration of zero point zero one moles per liter. Hydrochloric acid is strong, so all of it gives away its protons. The hydronium concentration is therefore also zero point zero one moles per liter. That is ten to the power of minus two. So the pH is two.
+
+Why does this matter in the lab? The pH of arterial blood is normally between seven point three five and seven point four five. That looks like a tiny range. But remember the logarithm. A drop from seven point four to seven point one means about twice as many hydronium ions. Such a drop is called acidosis and can be life-threatening. A pH above seven point four five is called alkalosis. The blood gas analyser in an intensive care unit measures this value many times a day.
+
+In short: the pH is the negative logarithm of the hydronium concentration. Seven is neutral, lower is acidic, higher is basic. One pH unit means a factor of ten, so small pH changes are large chemical changes.
+
+# Buffers
+
+A buffer is a solution that resists changes in pH. You can add a little acid or a little base, and the pH hardly moves.
+
+How does that work? A buffer contains two partners. One is a weak acid. The other is its conjugate base. For example, acetic acid and acetate. Both are present in similar amounts.
+
+Now add some strong acid. The extra protons do not stay free. The acetate catches them and turns into acetic acid. The protons are taken out of circulation, so the pH barely changes.
+
+Now add some strong base. The hydroxide ions do not stay free either. The acetic acid gives them a proton, and they become water. Again, the pH barely changes.
+
+Think of a buffer as a sponge in a kitchen sink. If a little water spills in, the sponge soaks it up. If the sink is too dry, you can squeeze some water out. Only when the sponge is completely full, or completely dry, does it stop working.
+
+That last point is the buffer capacity. A buffer can only take up a certain amount of acid or base. When one partner is used up, the buffer fails, and the pH changes quickly. The more of both partners a buffer contains, the higher its capacity.
+
+Every buffer works best around a certain pH. This pH is a property of the weak acid, and chemists call it the p K a value. At the p K a, the acid and its base are present in exactly equal amounts. Then the buffer is equally strong in both directions. A buffer works well within about one pH unit above and below its p K a.
+
+The relationship is described by the Henderson Hasselbalch equation. In words: the pH equals the p K a plus the logarithm of the ratio of base to acid. If base and acid are equal, the ratio is one, the logarithm of one is zero, and the pH equals the p K a. If there is ten times more base than acid, the logarithm is one, and the pH is one unit above the p K a.
+
+Why does this matter in the lab? Almost every enzyme test and every reagent kit contains a buffer. Enzymes only work properly at a certain pH. If the pH of the reaction mixture drifted, the result would be wrong. Common lab buffers include phosphate buffer, Tris buffer and HEPES buffer. Calibration solutions for pH meters are also buffers, with an exactly known pH.
+
+In short: a buffer is a mixture of a weak acid and its conjugate base. It catches added protons and added hydroxide ions, so the pH stays stable. A buffer works best near its p K a and only as long as its capacity lasts.
+
+# The blood buffer
+
+Your blood must stay between pH seven point three five and seven point four five. But your body constantly produces acid. Every cell burns food and makes carbon dioxide. Muscles make lactic acid. The breakdown of proteins makes other acids. Without buffers, the blood would turn acidic within minutes.
+
+The most important blood buffer is the bicarbonate buffer. It has two partners. The weak acid is carbonic acid. The base is the bicarbonate ion.
+
+Carbonic acid has a special link to carbon dioxide. When carbon dioxide dissolves in water, it forms carbonic acid. Carbonic acid can split into water and carbon dioxide again. In the red blood cells, an enzyme called carbonic anhydrase makes this reaction very fast.
+
+Here is the clever part. The body can control both partners of this buffer separately. The lungs control carbon dioxide, and so the acid side. If you breathe faster, you breathe out more carbon dioxide, and the blood becomes less acidic. The kidneys control bicarbonate, the base side. They can keep more bicarbonate, or let more go into the urine. The lungs react within minutes. The kidneys need hours to days.
+
+In healthy blood, there is about twenty times more bicarbonate than carbonic acid. The p K a of this system is about six point one. Using the Henderson Hasselbalch equation: six point one plus the logarithm of twenty gives about seven point four. That is exactly the normal blood pH.
+
+There are other buffers in blood too. Proteins, especially hemoglobin in the red blood cells, can take up and give away protons. Phosphate buffers matter mainly inside cells and in urine.
+
+Doctors describe disturbances in four groups. If the lungs breathe out too little carbon dioxide, for example in severe lung disease, this is respiratory acidosis. If someone breathes too fast, for example in panic, too much carbon dioxide is lost, and this is respiratory alkalosis. If the body produces too much acid, for example in uncontrolled diabetes, bicarbonate is used up, and this is metabolic acidosis. If acid is lost, for example through long vomiting, this is metabolic alkalosis.
+
+Why does this matter in the lab? A blood gas analysis measures the pH, the partial pressure of carbon dioxide, and calculates the bicarbonate. Normal bicarbonate is about twenty-two to twenty-six millimoles per liter. The sample must be arterial blood, free of air bubbles, and measured quickly. Air in the syringe changes the carbon dioxide value. A delay lets the blood cells keep working and produce acid. So pre-analytical care is part of a correct result.
+
+In short: blood is buffered mainly by the bicarbonate buffer. The lungs control carbon dioxide, the kidneys control bicarbonate. A ratio of twenty to one keeps the pH at about seven point four.
+
+# Neutralisation and titration
+
+When an acid meets a base, they cancel each other out. This is called neutralisation. The protons of the acid and the hydroxide ions of the base join to form water. What is left over is a salt.
+
+For example: hydrochloric acid plus sodium hydroxide gives water and sodium chloride, which is table salt. The sour acid and the caustic base have become salt water.
+
+This reaction can be used to measure how much acid is in a solution. The method is called titration. It is one of the oldest and most precise methods in analytical chemistry.
+
+Here is how it works. You have a solution with an unknown amount of acid. You put an exactly measured volume of it into a flask. Then you slowly add a base of known concentration from a burette. A burette is a long, thin glass tube with a fine scale and a tap at the bottom. You add the base drop by drop, until all of the acid is used up. That moment is called the equivalence point. At this point, the amount of base added equals the amount of acid that was there.
+
+How do you know when you have reached it? You need a signal. That can be a colour change from an indicator, or a sudden jump on a pH meter. The next chapter covers indicators.
+
+Now the calculation. The amount of substance is concentration times volume. At the equivalence point, the moles of base equal the moles of acid, for an acid and base that each exchange one proton.
+
+A worked example. You titrate twenty milliliters of hydrochloric acid with sodium hydroxide of zero point one moles per liter. You need sixteen milliliters to reach the equivalence point. Step one: the moles of base are zero point one times zero point zero one six liters, which is zero point zero zero one six moles. Step two: the moles of acid are the same, zero point zero zero one six moles. Step three: divide by the acid volume, zero point zero two liters. The result is zero point zero eight moles per liter. So the acid had a concentration of zero point zero eight moles per liter.
+
+If you draw the pH against the added volume, you get a titration curve. At first the pH rises slowly. Near the equivalence point it jumps steeply. After that it rises slowly again. For a strong acid and a strong base, the jump is centred on pH seven. For a weak acid with a strong base, the equivalence point lies above seven.
+
+Why does this matter in the lab? In training labs, titration is a classic exercise in precise work. In clinical labs it is used to check reagent concentrations, and in some methods for chloride and acid in gastric juice. And the principle of measuring an unknown amount with a known reagent is the basis of many automated methods.
+
+In short: acid plus base gives water and a salt. In a titration, a base of known concentration is added until the acid is used up. From the volume used, you calculate the unknown concentration.
+
+# Indicators
+
+An indicator is a substance that changes its colour depending on the pH. It shows you, without any instrument, whether a solution is acidic or basic.
+
+How does it work? An indicator is itself a weak acid. Its acid form has one colour. Its base form has another colour. When the pH changes, the indicator gives away or takes up a proton, and so it switches between the two forms. Our eyes see the colour change.
+
+Each indicator changes colour within a certain pH range, usually about two pH units wide. This range is called the transition range.
+
+Here are three common examples. Phenolphthalein is colourless in acids and neutral solutions, and turns pink above a pH of about eight to ten. Methyl orange is red below about pH three and yellow above about pH four point four. Bromothymol blue is yellow in acids and blue in bases, with its change around pH six to seven point six.
+
+For a titration you choose an indicator whose transition range matches the steep jump of the titration curve. For a strong acid and a strong base, the jump is so large that several indicators work. For a weak acid titrated with a strong base, phenolphthalein is a good choice, because the equivalence point lies in the basic range.
+
+The point where the indicator changes colour is called the end point. A good method makes the end point and the equivalence point fall almost exactly together.
+
+A universal indicator is a mixture of several indicators. It shows a whole rainbow of colours, from red for strong acids to violet for strong bases. Indicator paper and pH test strips work in the same way.
+
+A word of caution. Indicators give an estimate, not an exact value. For exact work, you use a pH meter. You will learn how it works in the chapter on electrochemistry.
+
+Why does this matter in the lab? Urine test strips are full of indicators. One field of the strip measures the pH of the urine, which is normally about five to seven. Even the protein field of a test strip uses an indicator effect: proteins change the colour of an indicator dye. And many cell culture media contain phenol red, which turns yellow when the medium becomes acidic, a warning that the cells are overgrown or contaminated.
+
+In short: an indicator is a weak acid whose acid and base forms have different colours. It changes colour within a specific pH range. Indicators show the end point of titrations and are used in test strips.
+
+# Chemical equilibrium
+
+In the first guide, a chemical equation looked like a one-way street. Starting materials go in, products come out. But many reactions can also run backwards. The products can react to form the starting materials again. Such reactions are called reversible.
+
+Picture a reversible reaction in a closed container. At the start there are only starting materials. The forward reaction runs fast, because there is plenty of material. Products build up. Now the backward reaction starts too, and it gets faster as more product appears. At some point both reactions run at exactly the same speed. From that moment, the amounts stop changing. This state is called chemical equilibrium.
+
+It is important to understand that the reactions have not stopped. Both directions still run all the time. But they cancel each other out. Chemists call this a dynamic equilibrium.
+
+A comparison helps. Imagine a busy shop with two doors. People walk in through one door and out through the other. If as many people come in as go out, the number of people inside stays the same, although the people inside keep changing.
+
+Equilibrium does not mean that starting materials and products are present in equal amounts. Some reactions reach equilibrium when almost everything has become product. Others reach it when hardly any product has formed. The position of the equilibrium is described by a number called the equilibrium constant. A large constant means the equilibrium lies on the side of the products. A small constant means it lies on the side of the starting materials.
+
+The equilibrium constant is the product of the concentrations of the products, divided by the product of the concentrations of the starting materials. For a given reaction and temperature, this ratio is always the same.
+
+You have already met one equilibrium constant without its name. A weak acid that only partly splits into a proton and its base is in equilibrium. Its constant is called the acid constant. The p K a from the buffer chapter is simply the negative logarithm of this acid constant.
+
+Another example is solubility. When a solid salt dissolves until no more will dissolve, the dissolved ions and the solid salt are in equilibrium. This is called a saturated solution.
+
+Why does this matter in the lab? Many lab reactions are equilibria. In an antibody test, the antibody and its target bind and separate again all the time, until a balance is reached. The test must wait until this balance is established, which is why reagent kits give exact incubation times. Hemoglobin and oxygen also form an equilibrium, which lets blood take up oxygen in the lungs and release it in the tissues.
+
+In short: in a reversible reaction, the forward and backward reactions eventually run at the same speed. The amounts then stay constant, although both reactions continue. This is chemical equilibrium, described by the equilibrium constant.
+
+# Le Chatelier's principle
+
+What happens when you disturb an equilibrium? The French chemist Henri Le Chatelier found a simple rule. A system in equilibrium reacts to a disturbance by reducing that disturbance. It moves to a new equilibrium.
+
+Let us look at the possible disturbances one by one.
+
+First, a change in concentration. If you add more starting material, the system uses up some of it. The equilibrium shifts to the product side. If you remove product, the system makes more product to replace it. Again, the equilibrium shifts to the product side. And if you add more product, the equilibrium shifts back towards the starting materials.
+
+Second, a change in temperature. Some reactions release heat, others take up heat. If you heat a system, the equilibrium shifts in the direction that takes up heat. If you cool it, it shifts in the direction that releases heat. Temperature is the only disturbance that also changes the value of the equilibrium constant itself.
+
+Third, a change in pressure. This only matters when gases take part. If you increase the pressure, the equilibrium shifts to the side with fewer gas molecules, because that takes up less space.
+
+A catalyst does not shift an equilibrium. It only helps the system reach equilibrium faster.
+
+Think of a seesaw with children on both sides. If a new child sits on one side, the others move until the seesaw is balanced again. The system does not ignore the change. It adjusts to it.
+
+The blood buffer is a perfect example. Carbon dioxide and water are in equilibrium with carbonic acid, and carbonic acid is in equilibrium with protons and bicarbonate. If the muscles produce extra acid, the extra protons react with bicarbonate. The equilibrium shifts towards carbonic acid, and then towards carbon dioxide. The lungs breathe out this extra carbon dioxide. Removing the product pulls the whole chain along. That is Le Chatelier in your own body.
+
+Another example from the body: in the lungs, the oxygen concentration is high. The equilibrium between hemoglobin and oxygen shifts to oxygen-loaded hemoglobin. In the tissues, oxygen is low, so the equilibrium shifts back, and the hemoglobin releases its oxygen.
+
+Why does this matter in the lab? Many tests use Le Chatelier on purpose. A reagent is added in large excess, so the reaction is pushed almost completely to the product side. Then all of the substance you want to measure has reacted, and the signal is proportional to its amount. In enzyme tests, a product is often removed by a second reaction, which pulls the first reaction forward. And samples are stored cold or sealed to stop equilibria from shifting before the measurement.
+
+In short: if you disturb an equilibrium, the system shifts to reduce the disturbance. Adding starting material or removing product pushes it towards the products. Temperature and pressure also shift equilibria, but a catalyst does not.
+
+# Reaction kinetics
+
+Equilibrium tells you where a reaction ends. Kinetics tells you how fast it gets there. Reaction kinetics is the study of reaction speed.
+
+The reaction rate is the change in concentration per unit of time. For example, the amount of product that appears per second, or the amount of starting material that disappears per minute.
+
+Why do some reactions run fast and others slowly? To react, particles must meet. And they must meet with enough energy, and in the right orientation. This idea is called collision theory.
+
+The minimum energy needed for a successful collision is the activation energy. Think of it as a hill that the particles must climb before they can roll down the other side. A high hill means a slow reaction. A low hill means a fast one.
+
+Four factors change the speed of a reaction.
+
+The first is concentration. More particles in the same volume means more collisions per second. So a higher concentration usually means a faster reaction.
+
+The second is temperature. Warmer particles move faster. They collide more often, and more of them have enough energy to climb the hill. A rough rule says that a rise of ten degrees Celsius roughly doubles the reaction rate.
+
+The third is surface area. A solid in fine powder reacts faster than one big lump, because more particles are on the surface. A sugar cube dissolves more slowly than granulated sugar.
+
+The fourth is a catalyst. A catalyst lowers the activation energy, like building a tunnel through the hill. It makes the reaction faster, but it is not used up. At the end of the reaction it is unchanged.
+
+The most important catalysts in the body are enzymes. Enzymes are proteins. Each enzyme has an active site, a pocket into which only its specific substance fits. That substance is called the substrate. Think of a key and a lock. Enzymes can make reactions millions of times faster.
+
+But enzymes are sensitive. They work best at a certain temperature and pH. In the human body, the best temperature is about thirty-seven degrees Celsius. If it gets too hot, the protein structure is destroyed and the enzyme stops working for good. This is called denaturation. Too much acid or base does the same.
+
+Enzyme speed also depends on the substrate. At low substrate concentration, the speed rises with every bit of extra substrate. At high concentration, every enzyme is already busy, and the speed reaches a maximum. This behaviour is described by the Michaelis Menten model.
+
+Why does this matter in the lab? Enzymes appear in the lab in two roles. First, many patient values are enzyme activities, such as liver and heart enzymes. The analyser measures how fast the enzyme in the sample converts its substrate. That is pure kinetics, which is why the temperature in the analyser must be exactly controlled, usually at thirty-seven degrees Celsius. Second, many reagents use enzymes as tools, for example to measure glucose. And samples are cooled to slow down unwanted reactions, so that the blood cells do not use up the glucose before it is measured.
+
+In short: reaction kinetics describes how fast a reaction runs. Higher concentration, higher temperature, larger surface and a catalyst make it faster. Enzymes are biological catalysts that are very fast, but sensitive to temperature and pH.
+
+# Salts and ions
+
+A salt is a compound made of positive and negative ions. In the first guide you met the ionic bond: a metal gives electrons to a non-metal, and the opposite charges attract each other. Sodium chloride, table salt, is the classic example.
+
+Salts form in many ways. One way you already know: acid plus base gives a salt and water. Hydrochloric acid and sodium hydroxide give sodium chloride. Sulfuric acid and potassium hydroxide give potassium sulfate.
+
+Positive ions are called cations. Negative ions are called anions. In a solid salt, they sit in a regular crystal lattice, held together by strong forces. That is why salts are hard, brittle and melt only at high temperatures.
+
+When a salt dissolves in water, the lattice breaks apart. Water molecules surround each ion. The slightly negative oxygen side of the water points to the cations. The slightly positive hydrogen side points to the anions. This is called hydration. The ions can now move freely.
+
+Because the ions can move, a salt solution conducts electricity. Substances that form conducting solutions are called electrolytes. In medicine, the word electrolytes usually means the ions dissolved in body fluids.
+
+Some ions are made of several atoms that stay together. These are called complex ions or molecular ions. Examples are bicarbonate, phosphate, sulfate and ammonium.
+
+An important rule: every solution is electrically neutral overall. The total positive charge equals the total negative charge. If a body fluid contains many cations, it must contain the same amount of negative charge in anions.
+
+When a salt dissolves, it may change the pH of the water. A salt from a strong acid and a strong base, such as sodium chloride, gives a neutral solution. A salt from a weak acid and a strong base, such as sodium acetate, gives a slightly basic solution. A salt from a strong acid and a weak base, such as ammonium chloride, gives a slightly acidic one.
+
+Ion concentrations are often given in millimoles per liter. Sometimes, especially in older literature, they are given in milliequivalents per liter. This unit counts charges instead of particles. For an ion with one charge, such as sodium, both numbers are the same. For an ion with two charges, such as calcium, the milliequivalent number is double.
+
+Why does this matter in the lab? Saline, a solution of zero point nine percent sodium chloride, has about the same salt concentration as blood. It is used to dilute samples and to wash cells. The lab uses many salt solutions as reagents and buffers. And the principle of electrical neutrality is used directly in medicine, as you will see in the next chapter.
+
+In short: salts are made of cations and anions. In water, the ions separate and become surrounded by water molecules. Such solutions conduct electricity and are called electrolytes. Every solution is electrically neutral overall.
+
+# Sodium and potassium
+
+The body contains a number of important electrolytes. They control the water balance, the nerves, the muscles and the acid-base balance. This chapter covers sodium and potassium. The next chapter covers calcium, chloride and bicarbonate.
+
+First, a key idea. The body water is divided into two spaces. The fluid inside the cells is called intracellular fluid. The fluid outside the cells, including blood plasma, is called extracellular fluid. The two spaces have very different ion compositions.
+
+Sodium is the main cation outside the cells. Its normal concentration in serum is about one hundred thirty-five to one hundred forty-five millimoles per liter. Because sodium is so abundant outside the cells, it decides where water goes. Water follows sodium by osmosis. That is why sodium controls the volume of the extracellular fluid, and so also blood volume and blood pressure.
+
+Too little sodium is called hyponatremia. It often happens when there is too much water in the body, for example with some medications or heart failure. Symptoms include confusion, headache and, in severe cases, seizures. Too much sodium is called hypernatremia. It often means that the body has lost water, for example by sweating and not drinking.
+
+Potassium is the main cation inside the cells. Inside, it is about one hundred forty millimoles per liter. In serum, it is only about three point five to five millimoles per liter. This big difference is maintained by the sodium potassium pump, which you met in the first guide. It pumps sodium out of the cell and potassium in.
+
+This difference in potassium creates a small electrical voltage across the cell membrane. Nerves and muscles, including the heart, depend on this voltage. That is why potassium is so dangerous when it is wrong. Both too little, called hypokalemia, and too much, called hyperkalemia, can cause life-threatening heart rhythm problems.
+
+Why does this matter in the lab? Sodium and potassium are among the most frequently ordered tests. For potassium, the pre-analytical phase is critical. Red blood cells contain about twenty-five times more potassium than serum. If they burst during blood collection, called hemolysis, potassium escapes into the sample. The result is falsely high. The same happens if the sample stands too long, or is stored in the fridge before separation, because the pumps stop working and potassium leaks out. A falsely high potassium could lead to wrong treatment. So the lab checks every sample for hemolysis, often by its red colour, and reports it.
+
+In short: sodium is the main cation outside the cells and controls water distribution. Potassium is the main cation inside the cells and is essential for nerves and heart. Hemolysis falsely raises potassium.
+
+# Calcium, chloride and bicarbonate
+
+Calcium has more tasks than almost any other ion. It builds bones and teeth, where about ninety-nine percent of the body's calcium is stored. It is needed for muscle contraction, for nerve signals and for blood clotting. It also acts as a messenger inside cells.
+
+The total calcium in serum is normally about two point two to two point six millimoles per liter. But not all of it is free. About half of it is free ions. That is the active part. About forty percent is bound to proteins, mainly albumin. The rest is bound to small anions such as phosphate and citrate.
+
+This matters for interpretation. If a patient has little albumin, the total calcium is low, even though the active, free calcium may be normal. That is why some labs also measure free calcium directly, called ionised calcium.
+
+The pH changes the binding too. In acidic blood, protons push calcium off the albumin, and free calcium rises. In alkaline blood, more calcium binds, and free calcium falls. This is why fast breathing in panic can cause tingling and muscle cramps.
+
+Calcium is controlled by parathyroid hormone and vitamin D, which raise it, and by calcitonin, which lowers it.
+
+Chloride is the main anion outside the cells. Its normal value is about ninety-eight to one hundred six millimoles per liter. It usually goes together with sodium. Chloride also helps balance charge when bicarbonate moves in or out of red blood cells.
+
+Bicarbonate, as you know, is the base partner of the blood buffer. It is normally about twenty-two to twenty-six millimoles per liter.
+
+Now the idea of electrical neutrality from the salt chapter. If you take sodium and subtract chloride and bicarbonate, you do not get zero. You get about eight to sixteen millimoles per liter. This gap is called the anion gap. It stands for anions that are not routinely measured, such as proteins, phosphate and sulfate. If the gap is larger than normal, extra acids are present. This helps doctors find the cause of a metabolic acidosis, for example lactic acid or the acids in uncontrolled diabetes.
+
+Why does this matter in the lab? The tube type is critical for calcium. Some anticoagulants, such as E D T A and citrate, work by binding calcium. A sample in such a tube will show a falsely very low calcium. Even a few drops carried over from an E D T A tube can ruin a calcium result. That is why the order in which tubes are filled during blood collection is fixed. E D T A also contains potassium, so contamination raises potassium too.
+
+In short: calcium is needed for bones, muscles, nerves and clotting, and only its free form is active. Chloride is the main anion outside cells, and bicarbonate is the blood's buffer base. The anion gap helps to find extra acids.
+
+# Redox reactions
+
+In the first guide you learned the basics of redox reactions. Oxidation is the loss of electrons. Reduction is the gain of electrons. Both always happen together, because electrons cannot simply disappear. A useful memory trick is "OIL RIG": oxidation is loss, reduction is gain.
+
+You also learned oxidation numbers. During oxidation, the oxidation number rises. During reduction, it falls.
+
+The substance that takes electrons from another is called the oxidising agent. It is itself reduced. The substance that gives electrons is called the reducing agent. It is itself oxidised. Oxygen is the classic oxidising agent, which is where the word oxidation comes from.
+
+Not every substance gives or takes electrons equally easily. Some metals, such as sodium and zinc, give away electrons very readily. They are strong reducing agents. Others, such as gold and silver, hold on to their electrons. Chemists arrange the metals in a list, from those that easily give electrons to those that hold them tightly. This list is called the electrochemical series.
+
+The series predicts reactions. Put an iron nail into a solution of copper ions. Iron gives electrons more readily than copper. So the iron gives its electrons to the copper ions. A layer of red copper appears on the nail, and iron ions go into the solution.
+
+In the body, redox reactions provide energy. Food molecules are oxidised step by step, and the electrons are passed along a chain in the mitochondria, until they reach oxygen. Carrier molecules transport the electrons. The most important is called N A D. In its reduced form it carries electrons and is called N A D H. In its oxidised form it has given them away.
+
+Iron in hemoglobin must stay in its reduced form, with a charge of two plus, to carry oxygen. If it is oxidised, it forms methemoglobin, which cannot carry oxygen.
+
+Why does this matter in the lab? N A D H is one of the most useful molecules in clinical chemistry. It absorbs ultraviolet light at a wavelength of three hundred forty nanometers, and N A D does not. So many enzyme tests are coupled to a reaction that makes or uses N A D H. The analyser simply watches the light absorption at three hundred forty nanometers rising or falling. Glucose, many liver enzymes and many other tests are measured this way. Redox reactions also produce the colour in many glucose test strips.
+
+In short: oxidation is loss of electrons, reduction is gain, and both always occur together. The electrochemical series ranks substances by how easily they give electrons. The redox pair N A D and N A D H is the basis of many enzyme tests.
+
+# Electrochemistry
+
+Electrochemistry connects chemistry and electricity. The key idea is simple. In a redox reaction, electrons move from one substance to another. If you let those electrons flow through a wire instead, you get an electric current.
+
+This is how a battery works. Picture two containers. In the first, a zinc metal strip stands in a zinc salt solution. In the second, a copper strip stands in a copper salt solution. The two strips are connected by a wire. The two solutions are connected by a salt bridge, a tube with a salt solution that lets ions pass.
+
+Zinc gives electrons more readily than copper. So zinc atoms give up electrons and go into solution as ions. The electrons flow through the wire to the copper strip. There, copper ions from the solution take them up and become copper metal. Electrons flow through the wire, and ions flow through the salt bridge, so the circuit is closed. This arrangement is called a galvanic cell.
+
+Each metal strip is an electrode. The electrode where oxidation happens is called the anode. The electrode where reduction happens is called the cathode.
+
+Between the two electrodes there is a voltage, measured in volts. Its size depends on how different the two metals are in the electrochemical series. The bigger the difference, the higher the voltage. The voltage also depends on the concentrations of the ions. This relationship is described by the Nernst equation. In plain words: the voltage of an electrode changes with the logarithm of the ion concentration.
+
+That last point is very useful. If the voltage depends on a concentration, you can measure the voltage to find the concentration. That is exactly what many lab instruments do.
+
+The pH meter is the best known example. It uses a glass electrode with a very thin glass membrane. A voltage develops across the membrane that depends on the hydronium concentration of the sample. The meter compares it with a reference electrode, which has a constant voltage, and converts the difference into a pH value. Before use, the pH meter must be calibrated with buffers of known pH.
+
+Electrolysis is the reverse process. You apply an outside voltage to force a redox reaction that would not run by itself. For example, electrolysis can split water into hydrogen and oxygen.
+
+Why does this matter in the lab? Sodium, potassium, chloride, calcium and the pH are usually measured with ion-selective electrodes. Each electrode has a membrane that lets only one kind of ion affect the voltage. The analyser measures the voltage and calculates the concentration using the Nernst relationship. Blood gas analysers also use electrodes for oxygen and carbon dioxide. To keep these electrodes accurate, the lab calibrates them regularly and runs quality controls every day.
+
+In short: in a galvanic cell, a redox reaction produces an electric current between two electrodes. The voltage depends on the ion concentration. Ion-selective electrodes and the pH meter use this to measure ions in samples.
+
+# Chemistry summary
+
+Let us look back at part one.
+
+Acids give away protons, bases take them up. Strong acids and bases react completely, weak ones only partly. The pH value is the negative logarithm of the hydronium concentration. Seven is neutral, and one pH unit is a factor of ten.
+
+A buffer is a mixture of a weak acid and its base. It keeps the pH stable. Blood is buffered mainly by bicarbonate and carbonic acid, with the lungs controlling carbon dioxide and the kidneys controlling bicarbonate. Normal blood pH is seven point three five to seven point four five.
+
+In neutralisation, acid and base give water and a salt. Titration uses this to find an unknown concentration, and indicators show the end point by a colour change.
+
+Many reactions are reversible and reach a dynamic equilibrium. Le Chatelier's principle says that a disturbed equilibrium shifts to reduce the disturbance. Kinetics describes reaction speed, which rises with concentration, temperature, surface area and catalysts such as enzymes.
+
+Salts are made of ions. The key electrolytes in the body are sodium and chloride outside the cells, potassium inside the cells, plus calcium and bicarbonate. Hemolysis falsely raises potassium, and E D T A falsely lowers calcium.
+
+Redox reactions move electrons. In electrochemistry, those electrons flow through a wire, and the voltage depends on ion concentration. That is the principle of the pH meter and of ion-selective electrodes.
+
+Now we turn to the chemistry of life itself: organic chemistry.
+
+# Part two: Organic chemistry
+
+Organic chemistry is the chemistry of carbon compounds. The name comes from an old belief that these substances could only be made by living organisms. Today we know that this is not true, but the name stayed.
+
+Carbon is special. It can form four bonds, and it can bond with itself in long chains, branches and rings. That gives millions of different molecules. Sugars, fats, proteins, DNA, most medicines and most lab reagents are organic compounds.
+
+This part starts with the simplest organic molecules, the hydrocarbons. Then come the functional groups, which give molecules their character. Then naming and isomerism, including the mirror-image molecules that are so important in biology. Finally, the key reactions: oxidation, reduction, condensation and hydrolysis.
+
+# Hydrocarbons
+
+Hydrocarbons are molecules made only of carbon and hydrogen. They are the skeleton on which all other organic molecules are built.
+
+Each carbon atom forms four bonds. Each hydrogen atom forms one. The simplest hydrocarbon is methane: one carbon atom with four hydrogen atoms. Methane is natural gas.
+
+Add a second carbon, and you get ethane. Three carbons give propane, four give butane. Then the names follow Greek number words: pentane for five, hexane for six, heptane for seven, octane for eight.
+
+When all bonds between the carbon atoms are single bonds, the hydrocarbon is called an alkane. Alkanes are called saturated, because every carbon holds as many hydrogen atoms as possible. They are quite unreactive.
+
+Carbon atoms can also share two pairs of electrons. This is a double bond. Hydrocarbons with at least one double bond are called alkenes. Ethene, with two carbons and a double bond, is the simplest. Alkenes are unsaturated, because they could take up more hydrogen. The double bond is a reactive spot in the molecule.
+
+With three shared pairs, you get a triple bond. These hydrocarbons are called alkynes. Ethyne, also called acetylene, is used in welding torches.
+
+The chains can also close into rings. A very important ring is benzene: six carbon atoms in a ring, with electrons shared evenly around the whole ring. This makes benzene very stable. Compounds with this kind of ring are called aromatic compounds. The name comes from their often strong smell.
+
+Hydrocarbons are non-polar. Carbon and hydrogen attract electrons about equally, so there are no partial charges. That is why hydrocarbons do not mix with water. Oil floats on water. Instead, they dissolve well in other non-polar substances. Chemists say "like dissolves like".
+
+The longer the chain, the higher the boiling point. Short alkanes are gases, medium ones are liquids such as petrol, and long ones are waxy solids such as paraffin.
+
+Why does this matter in the lab? Non-polar solvents such as hexane are used to extract fat-soluble substances from samples. The fatty acid chains in fats and in cell membranes are long hydrocarbon chains. This explains why fats do not dissolve in blood plasma and must be packed into transport particles, called lipoproteins. It also explains why a blood sample after a fatty meal can look milky, called lipemic, which can disturb many measurements.
+
+In short: hydrocarbons contain only carbon and hydrogen. Alkanes have single bonds, alkenes double bonds, alkynes triple bonds, and aromatic compounds have a benzene ring. Hydrocarbons are non-polar and do not mix with water.
+
+# Alcohols, aldehydes and ketones
+
+A hydrocarbon skeleton alone is fairly boring. What gives an organic molecule its character are functional groups. A functional group is a small group of atoms attached to the skeleton. It decides how the molecule reacts. Molecules with the same functional group behave in similar ways, a bit like members of the same family.
+
+The first group is the hydroxyl group: one oxygen atom and one hydrogen atom attached to a carbon. Molecules with this group are called alcohols. Their names end in "ol". Methanol has one carbon, ethanol has two. Ethanol is the alcohol in drinks and in disinfectants. Methanol is highly toxic.
+
+The hydroxyl group is polar. It can form hydrogen bonds with water. So small alcohols mix easily with water. Glycerol is an alcohol with three hydroxyl groups. It is part of every fat molecule.
+
+Alcohols are divided by where the hydroxyl group sits. In a primary alcohol, the carbon with the hydroxyl group is bonded to only one other carbon. In a secondary alcohol, it is bonded to two other carbons. This difference matters when alcohols are oxidised, as you will see later.
+
+The next group is the carbonyl group: a carbon atom with a double bond to an oxygen atom. Where it sits decides the family.
+
+If the carbonyl group is at the end of a chain, the molecule is an aldehyde. Its name ends in "al". Methanal, better known as formaldehyde, is used to fix tissue samples for pathology. Aldehydes are reactive and are easily oxidised.
+
+If the carbonyl group sits in the middle of the chain, between two carbon atoms, the molecule is a ketone. Its name ends in "one". The simplest is propanone, better known as acetone. It is a solvent, and it is also found in nail polish remover.
+
+Sugars combine these groups. Glucose has several hydroxyl groups and one aldehyde group. Fructose has several hydroxyl groups and one ketone group.
+
+Why does this matter in the lab? Ethanol and other alcohols are used for disinfection and for fixing blood smears. Formaldehyde fixes tissue. Ketones play a role in diagnosis. When the body cannot use glucose, for example in untreated type one diabetes, it burns fat and produces ketone bodies, including acetone. They make the blood acidic. A urine test strip has a field that detects ketone bodies. Some patients even have breath that smells of acetone.
+
+In short: functional groups give organic molecules their character. Alcohols have a hydroxyl group. Aldehydes have a carbonyl group at the end of the chain, and ketones have it in the middle.
+
+# Acids, esters and amines
+
+The carboxyl group combines a carbonyl group and a hydroxyl group on the same carbon atom. Molecules with this group are called carboxylic acids. The carboxyl group can give away the proton of its hydroxyl group. That is why these molecules are acids. They are weak acids.
+
+Methanoic acid, also called formic acid, is found in ant stings. Ethanoic acid, better known as acetic acid, is in vinegar. Lactic acid is formed in muscles during hard work. Citric acid is in lemons.
+
+When a carboxylic acid gives away its proton, it becomes a negatively charged ion. Its name then ends in "ate". Acetic acid becomes acetate, lactic acid becomes lactate. In the body, at a pH of about seven point four, most of these acids exist as their "ate" form. That is why doctors speak of lactate, not lactic acid.
+
+Fatty acids are carboxylic acids with a long hydrocarbon tail. The head is polar, and the tail is not. This is the secret of soap, and of cell membranes.
+
+Esters form when a carboxylic acid reacts with an alcohol. Water is released. Esters often smell fruity. Many fruit flavours are esters. The most important esters in the body are fats. A fat, called a triglyceride, is one glycerol molecule linked to three fatty acids by ester bonds.
+
+Amines contain nitrogen. They are derived from ammonia, in which one or more hydrogen atoms are replaced by carbon groups. The nitrogen atom has a free pair of electrons that can take up a proton. So amines are bases. The amino group is an amine group with two hydrogen atoms.
+
+Amino acids carry both an amino group and a carboxyl group. They are the building blocks of proteins. In the body they usually carry both charges at once: the acid group has given away its proton, and the amino group has taken one up.
+
+When the carboxyl group of one amino acid joins the amino group of another, an amide bond forms. In proteins, this bond is called a peptide bond. Long chains of amino acids linked by peptide bonds are proteins.
+
+Why does this matter in the lab? Lactate is measured in the blood to detect a lack of oxygen in tissues, for example in shock or sepsis. Triglycerides are part of every lipid profile. The sample should be taken after fasting, because a meal raises triglycerides for hours. Many hormones and messengers are amines, such as adrenaline. And the ester bond is the target of the enzyme lipase, which is measured to detect inflammation of the pancreas.
+
+In short: carboxylic acids have a carboxyl group and are weak acids. Acid plus alcohol gives an ester, the bond type found in fats. Amines contain nitrogen and are bases. Amino acids have both groups and link by peptide bonds into proteins.
+
+# Naming organic compounds
+
+With millions of organic molecules, a clear naming system is essential. The international rules are set by an organisation called the I U P A C. A name tells you the structure of the molecule, like an address tells you where a house is.
+
+The name is built in three parts: the main chain, the functional group, and the side groups.
+
+Step one: find the longest continuous chain of carbon atoms. Its length gives the stem of the name. One carbon is "meth", two is "eth", three is "prop", four is "but", five is "pent", six is "hex".
+
+Step two: identify the main functional group. It gives the ending. An alkane ends in "ane". An alkene in "ene". An alcohol in "ol". An aldehyde in "al". A ketone in "one". A carboxylic acid in "oic acid".
+
+Step three: number the carbon atoms of the main chain. You start from the end that gives the functional group the lowest possible number. The number then shows where the group sits.
+
+Step four: name the side groups. A side group with one carbon is called methyl. With two carbons it is ethyl. Halogens are named fluoro, chloro, bromo and iodo. Each side group also gets a number for its position. If the same side group occurs twice, you add "di". Three times, "tri".
+
+Here is an example. A chain of three carbon atoms with a hydroxyl group on the middle carbon. The stem is "prop", the ending is "ol", and the position is two. The name is propan two ol. Its common name is isopropanol, a frequent disinfectant in the lab.
+
+A second example. A chain of four carbons, with a double bond starting at carbon one. The name is but one ene.
+
+A third example. Take the chain of five carbons, with a methyl group on carbon two. The name is two methyl pentane.
+
+Alongside these systematic names, many old names are still used every day. Acetone is propanone. Acetic acid is ethanoic acid. Formaldehyde is methanal. Glycerol is propane one two three triol. In the lab, you will hear both kinds of names, so it is worth knowing the most common pairs.
+
+Why does this matter in the lab? Reagent bottles, safety data sheets and test instructions use these names. Ethanol and methanol differ by only one carbon atom, but one is a disinfectant and the other is a poison. Mixing up two similar names can be dangerous. Reading a name correctly is the first step to handling a chemical safely.
+
+In short: the I U P A C name is built from the longest carbon chain, an ending for the main functional group, and numbered side groups. Many traditional names are still in daily use alongside the systematic ones.
+
+# Isomerism
+
+Isomers are molecules with the same formula but a different structure. They contain exactly the same atoms, in the same numbers. But the atoms are arranged differently. And a different arrangement means a different substance, with different properties.
+
+Think of the letters of a word. The same letters can give different words, such as "listen" and "silent". The letters are the same. The meaning is completely different.
+
+There are two main types of isomerism.
+
+The first type is structural isomerism. Here, the atoms are connected in a different order. There are several forms. In chain isomers, the carbon skeleton is different: butane is a straight chain of four carbons, and its isomer, methyl propane, is a branched chain. In position isomers, a functional group sits at a different place: propan one ol and propan two ol. In functional group isomers, the atoms form a completely different functional group. Ethanol, an alcohol, and dimethyl ether have the same atoms but are totally different substances.
+
+Glucose and fructose are structural isomers too. Both have six carbon, twelve hydrogen and six oxygen atoms. But glucose is an aldehyde sugar and fructose is a ketone sugar.
+
+The second type is stereoisomerism. Here, the atoms are connected in the same order, but they are arranged differently in space. You need three dimensions to see the difference.
+
+One form of stereoisomerism happens around double bonds. A double bond cannot rotate. So if two groups are attached to a double bond, they can be on the same side or on opposite sides. On the same side is called the cis form. On opposite sides is called the trans form.
+
+This matters in nutrition. Natural unsaturated fatty acids are mostly cis fatty acids. Their chains have a bend. Industrially hardened fats can contain trans fatty acids, which have straight chains. Trans fats raise the bad cholesterol and are linked to heart disease.
+
+The other form of stereoisomerism is chirality, the mirror-image property. It is so important that it gets its own chapter, which comes next.
+
+Why does this matter in the lab? Isomers have the same mass and the same formula, so some simple methods cannot tell them apart. Methods such as chromatography, which separates substances by their structure, are needed. In drug testing and in newborn screening, it matters which isomer is present, because one may be harmless and the other a sign of disease.
+
+In short: isomers have the same formula but a different structure. In structural isomers, the atoms are connected differently. In stereoisomers, the connection is the same but the spatial arrangement differs, for example cis and trans forms at a double bond.
+
+# Chirality
+
+Look at your two hands. They are mirror images of each other. They have the same parts in the same order. But you cannot put one exactly on top of the other. A left glove does not fit a right hand. Objects like this are called chiral, from the Greek word for hand.
+
+Molecules can be chiral too. The usual reason is a carbon atom bonded to four different groups. Such a carbon atom is called a chiral centre, or a stereocentre. With four different groups, there are two possible arrangements in space, and they are mirror images of each other. The two forms are called enantiomers.
+
+Enantiomers are a special pair. Most of their physical properties are identical: the same melting point, the same boiling point, the same solubility. But there is one difference you can measure. They rotate polarised light in opposite directions. One turns it to the right, the other by the same amount to the left. That is why chiral molecules are also called optically active.
+
+To name the two forms, chemists use letters. An older system, still used for sugars and amino acids, uses D and L. Almost all amino acids in human proteins are L forms. Almost all natural sugars, including the glucose in blood, are D forms. A newer system, used for medicines, uses R and S.
+
+A mixture of equal amounts of both enantiomers is called a racemate. It does not rotate light, because the two effects cancel out.
+
+Why does chirality matter so much in biology? Because enzymes and receptors are chiral themselves. They are built from L amino acids. An enzyme fits its substrate like a glove fits a hand. It may accept one enantiomer and completely ignore the other. Our bodies can use D glucose, but not L glucose.
+
+For medicines, this can be a question of life and death. The best known tragic example is thalidomide, sold around the year nineteen sixty as a sleeping pill. One enantiomer had the intended effect. The other caused severe birth defects. Today, the two forms of a chiral drug must be tested separately.
+
+Why does this matter in the lab? Many enzyme tests depend on chirality. For example, the lab measures L lactate, the form made by human muscles. Some bacteria produce D lactate, which a standard test does not detect, so a special test is needed when such an infection is suspected. Glucose tests use enzymes that react only with D glucose. And the specificity of antibodies in immune tests relies on the same three-dimensional fit.
+
+In short: a chiral molecule cannot be placed on its mirror image, usually because of a carbon atom with four different groups. The two mirror forms are called enantiomers. Enzymes and receptors usually recognise only one of them.
+
+# Oxidation and reduction
+
+In organic chemistry, redox reactions follow the same rule as before: oxidation is loss of electrons, reduction is gain. But with organic molecules, there is a simpler way to see it.
+
+An organic molecule is oxidised when it gains oxygen or loses hydrogen. It is reduced when it loses oxygen or gains hydrogen.
+
+Let us follow the oxidation of a primary alcohol. Ethanol is oxidised by losing two hydrogen atoms. It becomes ethanal, an aldehyde, also called acetaldehyde. Ethanal is then oxidised further by gaining an oxygen atom. It becomes ethanoic acid, which is acetic acid. So the chain is: primary alcohol, then aldehyde, then carboxylic acid.
+
+This is exactly what happens in your liver after a drink. The enzyme alcohol dehydrogenase turns ethanol into acetaldehyde. Acetaldehyde is toxic and causes much of the hangover. A second enzyme turns it into acetate. The electrons removed in both steps are taken up by N A D, which becomes N A D H.
+
+A secondary alcohol behaves differently. When it is oxidised, it becomes a ketone. Propan two ol becomes acetone. A ketone cannot easily be oxidised further, because there is no hydrogen left on the carbonyl carbon.
+
+A tertiary alcohol, where the carbon with the hydroxyl group is bonded to three other carbons, cannot be oxidised in this way at all.
+
+Reduction runs in the opposite direction. An aldehyde can be reduced to a primary alcohol, and a ketone to a secondary alcohol. Adding hydrogen to an alkene double bond is also a reduction. It is called hydrogenation. It turns liquid vegetable oils into solid fats, for example to make margarine.
+
+Complete oxidation of an organic molecule gives carbon dioxide and water. That is what happens when you burn wood. In your cells, glucose is oxidised in the same way, but slowly and in many small steps, so that the energy can be captured as A T P.
+
+Aldehydes are easily oxidised, so they act as reducing agents. A classic test uses this. Copper ions in a blue solution are reduced by an aldehyde sugar such as glucose. The result is a brick-red precipitate. Sugars that can do this are called reducing sugars.
+
+Why does this matter in the lab? Older urine tests for sugar used this copper reduction. Modern tests use enzymes. Glucose oxidase oxidises glucose and produces hydrogen peroxide. A second enzyme uses the hydrogen peroxide to oxidise a colour dye. The colour shows the glucose concentration. Many liver enzyme tests follow the redox pair N A D and N A D H. And the blood alcohol test in forensic medicine uses alcohol dehydrogenase.
+
+In short: an organic molecule is oxidised when it gains oxygen or loses hydrogen, and reduced in the reverse case. Primary alcohols oxidise to aldehydes and then to acids, secondary alcohols to ketones. Many glucose and alcohol tests use these reactions.
+
+# Condensation and hydrolysis
+
+Two more reaction types build and break almost all the large molecules of life. They are opposites of each other.
+
+In a condensation reaction, two molecules join together, and a small molecule is released. Usually that small molecule is water. Think of two Lego bricks clicking together, where a small piece falls off.
+
+You have already seen condensation reactions. An acid and an alcohol join to form an ester and water. Two amino acids join to form a peptide bond and water. Two sugar molecules join to form a double sugar and water. The bond that links two sugars is called a glycosidic bond.
+
+Repeat a condensation many times, and you get very large molecules, called polymers. The single building blocks are called monomers. Proteins are polymers of amino acids. Starch and glycogen are polymers of glucose. DNA is a polymer of nucleotides. Fats are not polymers, but they are made by condensation of glycerol with three fatty acids.
+
+Hydrolysis is the reverse. The word means "splitting with water". A water molecule is added, and a bond is broken. The large molecule falls apart into its building blocks.
+
+This is digestion. When you eat bread, enzymes in your saliva and gut hydrolyse the starch into glucose. Proteins are hydrolysed into amino acids. Fats are hydrolysed into glycerol and fatty acids. Only these small pieces can be taken up into the blood.
+
+Hydrolysis is usually slow on its own. In the body, enzymes speed it up. These enzymes are named after their target. Amylase splits starch. Proteases split proteins. Lipases split fats. Many enzyme names end in "ase".
+
+Building a polymer by condensation needs energy. Breaking it by hydrolysis releases energy. The cell's energy molecule, A T P, works in this way. When one of its phosphate groups is split off by hydrolysis, energy is released for the work of the cell.
+
+Hydrolysis can also be carried out in the lab with strong acids or bases and heat. For example, boiling a fat with sodium hydroxide splits it into glycerol and soap. This old method is called saponification.
+
+Why does this matter in the lab? Amylase and lipase in the blood are measured to detect diseases of the pancreas. The tests give them a substrate to hydrolyse and measure how fast they work. The triglyceride test uses lipase to hydrolyse fats into glycerol, which is then measured. Hydrolysis also explains why some samples change on standing: enzymes in the sample keep breaking down substances, so samples must be processed or frozen quickly.
+
+In short: in a condensation, two molecules join and release water. In hydrolysis, water is added and a bond is broken. Proteins, carbohydrates and fats are built by condensation and broken down by hydrolysis, usually with the help of enzymes.
+
+# Organic chemistry summary
+
+Let us review part two.
+
+Organic chemistry is the chemistry of carbon, which forms four bonds and long chains. Hydrocarbons contain only carbon and hydrogen. Alkanes have single bonds, alkenes double bonds, alkynes triple bonds, and aromatic compounds a benzene ring. Hydrocarbons are non-polar and do not mix with water.
+
+Functional groups give molecules their character. Alcohols have a hydroxyl group. Aldehydes and ketones have a carbonyl group, at the end or in the middle of the chain. Carboxylic acids have a carboxyl group and are weak acids. Esters form from acid and alcohol. Amines contain nitrogen and are bases.
+
+The systematic name is built from the main chain, the ending for the functional group, and numbered side groups.
+
+Isomers share the same formula but differ in structure. Structural isomers are connected differently. Stereoisomers differ in space, as cis and trans forms, or as mirror images. Chiral molecules have two enantiomers, and enzymes usually accept only one.
+
+Oxidation adds oxygen or removes hydrogen, and reduction does the reverse. Primary alcohols oxidise to aldehydes and acids, secondary alcohols to ketones. Condensation joins molecules and releases water. Hydrolysis splits them by adding water. These reactions build and break proteins, sugars and fats.
+
+With this chemistry in hand, we can now look at the human body itself.
+
+# Part three: Human biology
+
+In the first guide you learned how a single cell works. Now we look at how billions of cells work together. Cells of the same kind form tissues. Tissues form organs, such as the heart or the liver. And organs that work together form organ systems.
+
+Almost every sample in the lab comes from one of these systems. Blood, urine, stool, cerebrospinal fluid and tissue all tell a story about the organs they come from. To understand a lab result, you need to know what the organ normally does, and what happens when it fails.
+
+This part starts with the blood and circulation, because blood is the most common sample of all. Then come the immune and lymphatic system, the kidneys, the liver and digestive system, and the hormone system. It ends with an overview of the lungs, the nervous system, and the muscles and bones.
+
+# Blood composition
+
+An adult has about five to six liters of blood. Blood is a liquid tissue. It transports oxygen, nutrients, hormones, heat and waste products. It defends the body against infection. And it can seal its own leaks by clotting.
+
+If you let a tube of blood with an anticoagulant stand, or spin it in a centrifuge, it separates into layers. At the bottom are the red blood cells. On top is a clear, yellowish liquid, the plasma. Between them is a thin, whitish layer. It contains the white blood cells and the platelets, and is called the buffy coat.
+
+The share of red blood cells in the total volume is called the hematocrit. In men it is normally about forty to fifty-two percent. In women it is about thirty-seven to forty-eight percent. So almost half of blood is cells, and a little more than half is plasma.
+
+Plasma is about ninety percent water. The rest is dissolved substances. The largest group is proteins, about sixty to eighty grams per liter. The most abundant protein is albumin. It keeps water in the blood vessels and transports many substances, such as calcium, bilirubin and medicines. Other proteins are the antibodies, the clotting factors and many transport proteins. Plasma also contains electrolytes, glucose, fats, hormones, vitamins, and waste products such as urea and creatinine.
+
+The cells in blood are of three kinds. Red blood cells carry oxygen. White blood cells defend against infection. Platelets help to stop bleeding. The next chapters look at each of them.
+
+Why does this matter in the lab? The complete blood count is the most common blood test of all. It measures the hematocrit, the number of each type of cell, and the hemoglobin. It needs whole blood with the anticoagulant E D T A, which keeps the cells in good shape. Before measurement, the tube must be mixed gently, because the cells sink to the bottom over time. A sample that is not mixed gives wrong cell counts.
+
+In short: blood is a liquid tissue of about five to six liters. It consists of plasma, which is mostly water with proteins and dissolved substances, and cells: red blood cells, white blood cells and platelets. The hematocrit is the share of red cells.
+
+# Red blood cells
+
+Red blood cells are also called erythrocytes. They are by far the most numerous cells in the blood. A man has about four and a half to six million of them in every microliter of blood. A woman has about four to five and a half million.
+
+A red blood cell is shaped like a disc that is thinner in the middle than at the edge, like a doughnut without a hole. This shape gives it a large surface for gas exchange. It is about seven and a half micrometers wide. That is larger than the narrowest capillaries, so the cell must be very flexible to squeeze through.
+
+Mature red blood cells have no nucleus and no mitochondria. They have given up these organelles to make room for their main cargo: hemoglobin.
+
+Hemoglobin is a protein made of four chains. Each chain holds a heme group, with one iron atom in its centre. Each iron atom can bind one oxygen molecule. So one hemoglobin molecule carries up to four oxygen molecules. Hemoglobin gives blood its red colour. Oxygen-rich blood is bright red, oxygen-poor blood is darker.
+
+Normal hemoglobin in men is about thirteen and a half to seventeen and a half grams per deciliter. In women it is about twelve to sixteen.
+
+Red blood cells live for about one hundred twenty days. Then they become stiff and are removed, mainly in the spleen. Their hemoglobin is broken down. The iron is recycled. The heme part becomes a yellow pigment called bilirubin, which the liver removes.
+
+Every day, the body makes about two hundred billion new red cells. Young red cells that still contain remains of their genetic material are called reticulocytes. Their number shows how actively the bone marrow is working.
+
+Too few red cells, or too little hemoglobin, is called anemia. The patient feels tired and weak and looks pale. The most common cause worldwide is a lack of iron. Then the red cells become small and pale. A lack of vitamin B twelve or folic acid makes them large instead.
+
+From the counts, the analyser calculates the red cell indices. The mean cell volume, called M C V, is the average size of a red cell. The mean cell hemoglobin, called M C H, is the average amount of hemoglobin in one cell. These values help doctors find the cause of anemia.
+
+Why does this matter in the lab? The red cell count, the hemoglobin and the indices are part of every complete blood count. A blood smear stained and viewed under the microscope shows the shape of the cells, which can reveal diseases such as sickle cell anemia. Before a blood transfusion, the lab also determines the blood group, which is defined by molecules on the surface of the red cells.
+
+In short: red blood cells are flexible discs without a nucleus, packed with hemoglobin, which carries oxygen with the help of iron. They live about one hundred twenty days. Too few red cells or too little hemoglobin is called anemia.
+
+# White blood cells
+
+White blood cells are also called leukocytes. They are the defence force of the body. Unlike red cells, they have a nucleus. They are fewer: normally about four thousand to ten thousand per microliter of blood. Too many is called leukocytosis, often a sign of infection. Too few is called leukopenia.
+
+White blood cells do most of their work outside the blood. They use the blood as a road to travel to where they are needed. Then they squeeze out through the vessel wall into the tissue.
+
+There are five main types. Three of them have visible grains in their cytoplasm and are called granulocytes.
+
+The neutrophil granulocytes are the most common type, about fifty to seventy percent of all white cells. They are the first responders to bacterial infections. They eat bacteria, a process called phagocytosis. Their nucleus has several lobes. Pus is mainly made of dead neutrophils.
+
+The eosinophil granulocytes have grains that stain orange-red with the dye eosin. They fight parasites, such as worms, and they rise in allergies. They make up about one to four percent.
+
+The basophil granulocytes are the rarest, under one percent. Their dark grains contain histamine, which is released in allergic reactions.
+
+The fourth type are the lymphocytes, about twenty to forty percent. They are small, round cells with a large nucleus. They are the cells of the specific, adaptive immune system: B cells make antibodies, and T cells control the immune response and kill infected cells. They rise mainly in viral infections.
+
+The fifth type are the monocytes, the largest white cells, about two to eight percent. They leave the blood and become macrophages in the tissues, which means "big eaters". They clean up bacteria, dead cells and debris.
+
+The count of each type, as a percentage or as an absolute number, is called the differential blood count.
+
+Why does this matter in the lab? A differential count can be done by an analyser or by looking at a stained blood smear under the microscope. A high number of neutrophils, with many young forms, suggests a bacterial infection. A high number of lymphocytes suggests a virus. Unusual, immature cells in the blood can be a sign of leukemia, a cancer of the blood-forming cells. Recognising these cells under the microscope is one of the key skills in hematology.
+
+In short: white blood cells defend the body. There are five main types: neutrophils, eosinophils and basophils, which are granulocytes, plus lymphocytes and monocytes. Each has its own role, and their pattern helps to find the cause of a disease.
+
+# Platelets and clotting
+
+Platelets are also called thrombocytes. They are not complete cells. They are small fragments that break off from giant cells in the bone marrow, the megakaryocytes. They have no nucleus and live about seven to ten days. Normal blood contains about one hundred fifty thousand to four hundred thousand platelets per microliter.
+
+Their job is to stop bleeding. Stopping a bleed is called hemostasis, and it happens in steps.
+
+Step one: the injured blood vessel narrows, which reduces the blood flow.
+
+Step two: platelets stick to the damaged vessel wall. They change shape, release signal substances and call more platelets. They clump together and form a loose plug. This is called primary hemostasis. It takes only a few minutes.
+
+Step three: the plug is made firm. This is secondary hemostasis, or coagulation. A chain of clotting factors becomes active, one after another, like a row of falling dominoes. Most of these factors are proteins made in the liver. They are numbered with Roman numerals. At the end of the chain, an enzyme called thrombin turns the soluble plasma protein fibrinogen into insoluble fibrin. Fibrin threads form a net that traps blood cells. The result is a solid clot.
+
+Calcium is needed for several steps of this chain. And vitamin K is needed by the liver to make several of the factors.
+
+Step four: later, when the wound has healed, the clot is dissolved again. This is called fibrinolysis.
+
+The balance must be exact. Too little clotting leads to bleeding, as in the inherited disease hemophilia. Too much leads to clots inside vessels, called thromboses, which can block a vein in the leg or an artery in the heart or brain.
+
+Why does this matter in the lab? Clotting tests need a special tube with citrate, which binds calcium and so stops clotting. Later, the lab adds calcium back to start clotting in a controlled way and measures the time. The tube must be filled exactly to the mark, because the ratio of blood to citrate is fixed at nine to one. Common tests are the prothrombin time, often reported as the I N R, which is used to monitor blood-thinning drugs, and the activated partial thromboplastin time. The platelet count is part of the complete blood count. Sometimes platelets clump in the E D T A tube, giving a falsely low count. Then a second sample in a citrate tube helps.
+
+In short: platelets are cell fragments that form a first plug in an injured vessel. Then the clotting cascade turns fibrinogen into fibrin, which makes the plug firm. Clotting tests use citrate tubes and need an exact filling volume.
+
+# Plasma and serum
+
+Plasma and serum are both the liquid part of blood. They look almost the same. But they are not the same, and the difference matters every day in the lab.
+
+Plasma is obtained from blood that has not clotted. The tube contains an anticoagulant, such as E D T A, citrate or heparin. After centrifugation, the cells are at the bottom, and the liquid on top is plasma. Plasma still contains all the clotting factors, including fibrinogen.
+
+Serum is obtained from blood that has been allowed to clot. The tube contains no anticoagulant, but often a clotting activator. The blood must stand for about thirty minutes until the clot has formed. Then the tube is centrifuged. The clot, with the cells trapped in it, goes to the bottom. The liquid on top is serum.
+
+So the simple rule is: serum is plasma without the clotting factors, because they were used up in the clot. Above all, serum contains no fibrinogen.
+
+Many serum tubes also contain a gel. During centrifugation, the gel moves between the clot and the serum and forms a barrier. This keeps the serum from touching the cells.
+
+Each tube type has a coloured cap. The colours differ between manufacturers and regions, so every lab follows its own chart.
+
+There are small but real differences between plasma and serum. During clotting, platelets release potassium. So serum potassium is slightly higher than plasma potassium. Total protein is lower in serum, because fibrinogen is missing.
+
+Why does this matter in the lab? Every test needs the right sample type. Most clinical chemistry tests use serum or heparin plasma. The complete blood count uses E D T A whole blood. Clotting tests use citrate plasma. The wrong tube can make a result useless, or dangerously wrong. A serum tube that is centrifuged before the blood has fully clotted may form small fibrin threads later, which can block the needle of the analyser. Good sample handling starts with knowing which tube is which.
+
+In short: plasma comes from blood with an anticoagulant and still contains clotting factors. Serum comes from clotted blood and lacks fibrinogen and the other used clotting factors. Each test needs a specific sample type.
+
+# Blood formation
+
+All blood cells are born in the bone marrow. The process is called hematopoiesis. In adults, it takes place in the red marrow inside flat bones, such as the hip bones, the breastbone, the ribs and the vertebrae. In children, the long bones of the arms and legs also make blood.
+
+Everything starts with the blood stem cells. A stem cell can divide again and again. When it divides, one daughter cell usually stays a stem cell, so the supply never runs out. The other daughter cell begins to specialise.
+
+The specialising cells first take one of two paths. The myeloid line produces red cells, platelets, granulocytes and monocytes. The lymphoid line produces lymphocytes. Along each path, the cells divide and mature step by step, like products moving along an assembly line, until they are ready to enter the blood.
+
+Each line is controlled by growth factors. The best known is erythropoietin, usually called E P O. It is made mainly in the kidneys. When the kidneys sense a lack of oxygen, they release more E P O. The bone marrow then makes more red blood cells. This is why people living at high altitude have more red cells. It is also why patients with kidney failure often have anemia: their kidneys make too little E P O. E P O is also known as a banned doping substance in sport.
+
+The bone marrow needs raw materials. For red cells, the most important are iron, to build hemoglobin, and vitamin B twelve and folic acid, which are needed for cell division. A lack of any of them leads to anemia.
+
+The mature red cell is the end of a long road. Its predecessor still has a nucleus. Shortly before leaving the marrow, the nucleus is pushed out. The young cell, the reticulocyte, enters the blood and matures within one or two days.
+
+Why does this matter in the lab? Diagnosing anemia often means checking each raw material: ferritin, which shows the iron stores, vitamin B twelve and folic acid. The reticulocyte count shows whether the marrow is responding. If the blood shows a serious disorder, doctors may take a bone marrow sample, usually from the hip bone. The lab then examines the developing cells under the microscope, which is an important step in diagnosing leukemia.
+
+In short: all blood cells come from stem cells in the red bone marrow. They mature along a myeloid line and a lymphoid line. E P O from the kidneys drives red cell production, and iron, vitamin B twelve and folic acid are essential raw materials.
+
+# The heart
+
+The heart is a muscular pump about the size of a fist. It lies in the chest, slightly to the left of the centre. It beats about sixty to eighty times per minute at rest, which is about one hundred thousand times a day.
+
+The heart has four chambers. The two upper chambers are the atria. They receive blood. The two lower chambers are the ventricles. They pump blood out. A wall divides the heart into a right half and a left half.
+
+The two halves serve two different circuits. The right half pumps oxygen-poor blood into the lungs. There the blood takes up oxygen and gives off carbon dioxide. This is the small, or pulmonary, circulation. The oxygen-rich blood returns to the left half. The left half pumps it out into the whole body. This is the large, or systemic, circulation. Because the left ventricle must push blood through the whole body, its wall is much thicker.
+
+Four valves make sure that blood flows only in one direction, like one-way doors. Two valves lie between the atria and the ventricles. Two lie at the exits of the ventricles.
+
+Each heartbeat has two phases. In systole, the ventricles contract and push the blood out. In diastole, they relax and fill again.
+
+The heart has its own pacemaker, a small group of cells in the right atrium called the sinus node. It sends out electrical signals that spread through the heart and make it contract. These signals can be recorded on the skin as an electrocardiogram, called E C G. The potassium and calcium levels in blood strongly affect this electrical system.
+
+At rest, the heart pumps about five liters of blood per minute. That is the entire blood volume once every minute.
+
+The heart muscle has its own blood supply through the coronary arteries. If one of them is blocked, part of the heart muscle gets no oxygen and dies. This is a heart attack, or myocardial infarction.
+
+Why does this matter in the lab? When heart muscle cells die, they release proteins into the blood. The most important is troponin. A rising troponin value is a key part of diagnosing a heart attack, so this test is often run as an emergency, within an hour. Another marker, called B N P, is released by the stretched heart muscle and helps to diagnose heart failure. Speed and reliability in these tests can save lives.
+
+In short: the heart is a four-chambered pump. The right half sends blood to the lungs, the left half to the body. Its own pacemaker controls the beat. When heart muscle dies, troponin appears in the blood.
+
+# Blood vessels
+
+The blood vessels form a closed network of tubes, many tens of thousands of kilometers long. There are three main types.
+
+Arteries carry blood away from the heart. They have thick, elastic, muscular walls, because the blood in them is under high pressure. With each heartbeat they stretch and then spring back. You can feel this as the pulse. Most arteries carry oxygen-rich blood. The exception is the pulmonary artery, which carries oxygen-poor blood to the lungs.
+
+Arteries branch into smaller and smaller vessels, and finally into the capillaries. Capillaries are extremely thin, often only as wide as one red blood cell. Their wall is just one layer of cells. This is where the real exchange takes place. Oxygen and nutrients pass into the tissue, and carbon dioxide and waste pass into the blood.
+
+From the capillaries, the blood collects into veins, which carry it back to the heart. In veins, the pressure is low. Their walls are thinner. Many veins, especially in the legs, have valves that prevent blood from flowing backwards. The muscles of the legs squeeze the veins when you walk and help to push the blood upwards.
+
+Blood pressure is the force of the blood on the artery walls. It is given as two numbers. The higher number is the pressure during systole, when the heart pumps. The lower number is the pressure during diastole, when the heart relaxes. A normal value is about one hundred twenty over eighty millimeters of mercury. Permanently high blood pressure is called hypertension and damages vessels, heart, kidneys and brain.
+
+Fluid also leaves the capillaries into the tissue. Most of it comes back, pulled by the albumin in the blood. The rest is collected by the lymphatic system. When albumin is very low, fluid stays in the tissue and causes swelling, called edema.
+
+Why does this matter in the lab? Most blood samples are taken from a vein in the bend of the elbow. This is called venipuncture. A tourniquet makes the vein easier to find. But it should not stay on for more than about one minute. Otherwise, water leaves the vessel, and large molecules and cells become concentrated. Proteins, calcium and other values are then falsely high. Arterial blood is needed for blood gas analysis. Capillary blood, from a fingertip or the heel of a baby, is used for small tests such as blood glucose.
+
+In short: arteries carry blood from the heart under high pressure, veins bring it back under low pressure, and capillaries are the thin vessels where exchange happens. Most lab samples are venous blood, and a tourniquet left on too long distorts results.
+
+# The innate immune system
+
+The immune system protects the body against bacteria, viruses, fungi, parasites, and against its own cells when they turn into cancer cells. It works in two layers. The first layer is the innate immune system. It is present from birth, reacts within minutes to hours, and treats all intruders in a similar way. The second layer is the adaptive immune system. It learns, targets one specific intruder, and remembers it. This chapter covers the first layer.
+
+The first line of defence is the barriers. The skin is a tough wall. The mucous membranes of the nose, lungs and gut are covered with sticky mucus that traps germs. Tears and saliva contain an enzyme that damages bacteria. The stomach acid kills most germs in food. And harmless bacteria on the skin and in the gut leave little room for dangerous ones.
+
+If germs break through these barriers, the cells of the innate system attack. Neutrophils and macrophages eat them. Natural killer cells destroy body cells infected by viruses. They all recognise general patterns that many germs share, such as parts of the bacterial cell wall.
+
+At the same time, the damaged tissue starts an inflammation. Small vessels widen, and more blood flows in. The vessel walls become leaky, so fluid and white blood cells can enter the tissue. The result is the classic signs of inflammation: redness, heat, swelling, pain, and loss of function. Inflammation is not a mistake. It is the body bringing its defenders to the right place.
+
+Another part of the innate system is the complement system. This is a group of plasma proteins that work as a cascade, similar to the clotting cascade. They can punch holes into bacteria, mark them for eating, and call more white cells.
+
+If the infection is larger, the whole body reacts. Signal substances travel to the brain and cause fever. Warmer temperatures slow down many germs and speed up the immune cells. The liver starts to produce special proteins, called acute phase proteins.
+
+Why does this matter in the lab? The most important acute phase protein in the lab is C-reactive protein, called C R P. In healthy people it is very low. In a bacterial infection, it can rise more than a hundred times within one or two days. It is one of the most frequently ordered tests. Another marker, called procalcitonin, rises especially in severe bacterial infections and sepsis. Together with the white blood cell count, these tests help doctors to judge how serious an infection is and whether a treatment is working.
+
+In short: the innate immune system reacts fast and in the same way to all intruders. It uses barriers, eating cells, natural killer cells, complement and inflammation. The lab follows it with markers such as C R P.
+
+# Adaptive immunity
+
+The adaptive immune system is slower, but very precise. It recognises one particular intruder and builds a defence against exactly that one. And it remembers it for years.
+
+The key concept is the antigen. An antigen is any structure that the immune system can recognise as foreign. It is usually a part of a protein or a sugar on the surface of a germ. Each lymphocyte carries receptors that fit only one particular antigen, like a key that fits only one lock. The body has millions of different lymphocytes, each with its own key, ready for almost any antigen.
+
+There are two main types of lymphocytes.
+
+B cells produce antibodies. When a B cell meets its antigen, and receives help from a T cell, it divides many times. Its daughter cells become plasma cells, which are antibody factories. Antibodies, also called immunoglobulins, are Y-shaped proteins. The two tips of the Y bind exactly to the antigen. They neutralise toxins and viruses, clump bacteria together, and mark them for destruction.
+
+There are five classes of antibodies. I g M is made first in a new infection. It is a large molecule, made of five units. I g G comes later and stays for a long time. It is the most common antibody in blood, and the only one that crosses the placenta to protect the unborn child. I g A protects the mucous membranes and is found in saliva and breast milk. I g E is involved in allergies and in defence against parasites. I g D is found on the surface of B cells.
+
+T cells do not make antibodies. Helper T cells coordinate the immune response. They activate B cells and other cells. This is the cell type attacked by the H I V virus, which is why untreated H I V infection destroys the immune system. Killer T cells recognise and destroy body cells that are infected by viruses or have turned into cancer cells.
+
+After an infection, some B cells and T cells remain as memory cells. If the same germ comes back, they react much faster and stronger. Often the person does not even notice the second infection. This is called immunity. Vaccination uses the same principle: it shows the immune system a harmless form of the antigen, so memory cells form without the disease.
+
+Why does this matter in the lab? Serology is the part of the lab that measures antibodies. It shows whether a person has had an infection or a vaccination. The class of antibody gives a clue about timing: I g M suggests a fresh infection, I g G a past one or immunity. The lab also uses antibodies as tools. In an immunoassay, a carefully made antibody binds the substance to be measured, such as a hormone or troponin, with great precision. The blood group test is also based on antibodies.
+
+In short: the adaptive immune system recognises specific antigens. B cells become plasma cells that make antibodies, and T cells coordinate the response and kill infected cells. Memory cells give lasting immunity. The lab measures antibodies and also uses them as tools.
+
+# The lymphatic system
+
+The lymphatic system is a second network of vessels, alongside the blood vessels. It has two main jobs. It returns fluid from the tissues to the blood. And it is the home and highway of the immune cells.
+
+Every day, a few liters of fluid leak out of the capillaries and are not taken back directly. This fluid is collected by tiny, thin-walled lymph vessels, which start blindly in the tissue. Once inside, the fluid is called lymph. It is clear and contains white blood cells, especially lymphocytes.
+
+The lymph vessels join into larger vessels. Like veins, they have valves, and the lymph is pushed forward by the movement of muscles. In the end, the largest lymph vessel empties into a large vein near the heart. So the fluid returns to the blood.
+
+The lymph from the gut is special. After a fatty meal, it carries the fats taken up by the intestine. These fats make it look milky.
+
+Along the vessels lie the lymph nodes, small bean-shaped organs. There are several hundred of them, clustered in the neck, the armpits, the groin and the abdomen. Each lymph node is a filter and a meeting point. Germs and foreign particles carried in the lymph are trapped there. Lymphocytes wait in the nodes, and when they meet their antigen, they multiply. That is why lymph nodes swell during an infection. You can often feel them in the neck when you have a sore throat.
+
+The lymphatic organs include more than the nodes. The bone marrow produces all lymphocytes, and B cells mature there. The thymus, a gland behind the breastbone, is where T cells mature and learn not to attack the body's own cells. The thymus is large in children and shrinks in adults. The spleen, in the upper left abdomen, filters the blood. It removes old red blood cells and contains many lymphocytes that react to germs in the blood. The tonsils and patches of lymphatic tissue in the gut guard the entrances of the body.
+
+When the lymphatic system is blocked, for example after surgery, fluid builds up in the tissue, and the arm or leg swells.
+
+Why does this matter in the lab? Cancers of lymphocytes are called lymphomas. They often start as a painless, swollen lymph node. The lab examines tissue from the node and uses a method called flow cytometry to identify the cell types by their surface markers. Lymphocyte subtypes, such as the number of helper T cells, are also counted in the blood, for example to monitor patients with H I V.
+
+In short: the lymphatic system returns tissue fluid to the blood and houses the immune cells. Lymph nodes filter the lymph and swell in infection. The thymus trains T cells, and the spleen filters the blood.
+
+# The kidneys
+
+The two kidneys lie at the back of the abdomen, on each side of the spine, about at the height of the lowest ribs. Each kidney is about the size of a fist and shaped like a bean.
+
+The kidneys are the body's water treatment plant. Their main tasks are to remove waste products, to control the amount of water and salt, and to keep the pH of the blood stable. But they do even more. They produce E P O, which drives red cell production. They produce renin, which helps control blood pressure. And they activate vitamin D, which is needed for calcium balance.
+
+The kidneys receive about one fifth of all the blood the heart pumps. That is more than one liter of blood every minute.
+
+The working unit of the kidney is the nephron. Each kidney has about one million nephrons. A nephron has two parts: a filter, and a long tube.
+
+The filter is the glomerulus, a tiny ball of capillaries. It sits inside a cup-shaped capsule. Blood pressure pushes water and small dissolved substances out of the capillaries into the capsule. Blood cells and large proteins stay in the blood, because they are too big to pass the filter. The filtered liquid is called primary urine.
+
+The kidneys make about one hundred eighty liters of primary urine every day. But we only pass about one and a half liters of urine. So about ninety-nine percent must be taken back. This happens in the long tube, the tubule, which is the topic of the next chapter.
+
+The amount of fluid filtered per minute is called the glomerular filtration rate, or G F R. In a healthy young adult it is about one hundred twenty milliliters per minute. It is the most important measure of kidney function. It falls with age and in kidney disease.
+
+Why does this matter in the lab? The G F R cannot easily be measured directly. Instead, the lab measures creatinine in the blood. Creatinine is a waste product of muscles. It is made at a steady rate and removed almost only by filtering. If the kidneys filter less, creatinine rises in the blood. From the creatinine value, together with age and sex, the lab calculates an estimated G F R. Another marker is cystatin C. Urea is also measured, but it depends strongly on diet. Potassium is checked closely, because failing kidneys cannot remove it, and high potassium is dangerous for the heart.
+
+In short: the kidneys filter the blood in about one million nephrons per kidney. The glomerulus filters about one hundred eighty liters of primary urine per day. Kidney function is described by the G F R, which the lab estimates from creatinine.
+
+# Urine formation
+
+After filtration, the primary urine flows through the tubule, a long, twisted tube. Along the way, the composition of the fluid is changed step by step, until the final urine is left.
+
+The main process is reabsorption. Useful substances are taken back from the tubule into the blood. In the first part of the tubule, almost all of the glucose and amino acids are taken back. Most of the water, sodium, bicarbonate and other ions are also reabsorbed here. These cells work very hard and have many mitochondria.
+
+The tubule then forms a long loop that dips deep into the kidney and back out. It is called the loop of Henle. It creates a high salt concentration deep in the kidney. This salt gradient later allows the kidney to pull water out of the urine and make it concentrated.
+
+The second process is secretion. Some substances are actively pumped from the blood into the tubule. These include potassium, protons, and many drugs. Secreting protons is how the kidney gets rid of acid and keeps the blood pH stable.
+
+The last part of the tubule and the collecting ducts are where the fine-tuning happens, under the control of hormones. The hormone A D H, the antidiuretic hormone, is released by the pituitary gland when the body needs water. It makes the collecting ducts let water pass back into the body. The urine becomes small in volume and concentrated. When you drink a lot, there is little A D H, and you pass a lot of dilute urine. The hormone aldosterone, from the adrenal glands, makes the kidney keep sodium and release potassium.
+
+The final urine flows from the kidneys through two thin tubes, the ureters, into the bladder. From the bladder, it leaves the body through the urethra.
+
+Normal urine is clear and yellow. It contains water, urea, creatinine, salts, and small amounts of other waste. It normally contains no glucose, no blood and almost no protein.
+
+Why does this matter in the lab? Urine is the second most common sample. A test strip checks pH, protein, glucose, blood, white cells, nitrite and ketones. Glucose appears in the urine when the blood glucose is so high that the tubule cannot take it all back, which happens at about one hundred eighty milligrams per deciliter. Protein in the urine suggests damage to the glomerulus. Nitrite and white cells suggest a bladder infection. Under the microscope, the urine sediment can show cells, crystals and casts. For reliable results, a midstream sample of the first morning urine is preferred, and it should be examined within two hours.
+
+In short: in the tubule, useful substances are reabsorbed and waste is secreted. Hormones such as A D H and aldosterone adjust the water and salt content. Urine normally contains no glucose and almost no protein, which makes it a valuable sample.
+
+# The liver
+
+The liver is the largest internal organ, weighing about one and a half kilograms. It lies in the upper right abdomen, under the diaphragm. It is the chemical factory of the body, with hundreds of different tasks.
+
+The liver has a special blood supply. Besides oxygen-rich blood from an artery, it receives all the blood coming from the stomach and intestines through the portal vein. So everything taken up from food passes the liver first. The liver can store it, change it, or remove it before it reaches the rest of the body.
+
+Its main tasks can be grouped into five areas.
+
+First, metabolism. The liver stores glucose as glycogen and releases it when blood sugar falls. It can even make new glucose. It builds and breaks down fats and makes cholesterol.
+
+Second, protein production. The liver makes most plasma proteins, including albumin and most clotting factors.
+
+Third, detoxification. The liver changes drugs, alcohol and toxins so that they can be removed by the kidneys or the bile. It also turns toxic ammonia, from protein breakdown, into harmless urea.
+
+Fourth, bile production. The liver makes about half a liter to one liter of bile each day. Bile is stored in the gallbladder. It helps to digest fats, and it carries waste out of the body, especially bilirubin.
+
+Fifth, storage. The liver stores vitamins, such as vitamin B twelve and vitamin A, and iron.
+
+Remember bilirubin, the yellow pigment from old red blood cells. In the blood it is bound to albumin. The liver takes it up, makes it water-soluble by attaching a sugar group, and releases it into the bile. When this process fails, bilirubin builds up in the blood. The skin and the whites of the eyes turn yellow. This is called jaundice.
+
+Why does this matter in the lab? The liver panel is one of the most common sets of tests. When liver cells are damaged, they release enzymes into the blood. A L T is quite specific for the liver. A S T is also found in heart and muscle. G G T rises especially with alcohol and bile problems. Alkaline phosphatase rises when bile flow is blocked. Bilirubin shows how well the liver handles this pigment. Low albumin and a long clotting time show that the liver is not making enough proteins. Bilirubin breaks down in light, so these samples should be protected from light.
+
+In short: the liver processes nutrients, makes plasma proteins and clotting factors, detoxifies, and makes bile. Damaged liver cells release enzymes such as A L T and A S T, and a failing liver leads to jaundice.
+
+# The digestive system
+
+Digestion breaks food into pieces small enough to pass into the blood. It is a journey through a tube about eight to nine meters long, from the mouth to the anus. Along the way, food is broken down mechanically, by chewing and mixing, and chemically, by enzymes using hydrolysis.
+
+It starts in the mouth. The teeth grind the food. Saliva moistens it and contains amylase, which begins to split starch.
+
+The food then passes through the esophagus into the stomach. The stomach is a muscular bag. It produces hydrochloric acid, with a pH of about one to two. The acid kills germs and unfolds proteins. The enzyme pepsin begins to split proteins. The stomach also makes a substance called intrinsic factor, which is needed to absorb vitamin B twelve later. The stomach wall protects itself with a thick layer of mucus.
+
+Next comes the small intestine, the main place of digestion and absorption. It is about five to six meters long. Its inner surface is folded into countless finger-like projections, called villi. These give it an enormous surface, about the size of a small apartment.
+
+Two organs send their juices into the first part of the small intestine. The pancreas produces amylase, lipase and proteases, plus bicarbonate to neutralise the stomach acid. The liver and gallbladder send bile. Bile acts like washing-up liquid: it breaks fat into tiny droplets, so that lipase can work on them.
+
+Now the nutrients are absorbed. Sugars and amino acids go into the blood and travel through the portal vein to the liver. Fats go into the lymph.
+
+In the large intestine, water and salts are taken back. Billions of bacteria live there. They break down fibre and produce some vitamins, such as vitamin K. What remains leaves the body as stool.
+
+The pancreas also has a second, hormonal job: it produces insulin and glucagon. That is part of the next chapter.
+
+Why does this matter in the lab? Lipase and amylase in the blood rise strongly in acute inflammation of the pancreas. Stool samples are tested for hidden blood, which can be an early sign of colon cancer, and for germs that cause diarrhoea. Stool can also be tested for pancreatic elastase, which shows whether the pancreas produces enough enzymes. A breath test can detect the stomach bacterium Helicobacter, which causes ulcers.
+
+In short: digestion breaks food down mechanically and by enzymes. The stomach uses acid and pepsin, and the small intestine, with juices from the pancreas and bile from the liver, digests and absorbs most nutrients. Lipase and amylase in blood are markers of pancreatic disease.
+
+# The endocrine system
+
+The endocrine system is the body's postal service. Glands release messenger substances, called hormones, into the blood. The hormones travel through the whole body, but only cells with the matching receptor read the message. Hormonal signals are slower than nerve signals, but they last longer.
+
+Many hormone systems are controlled by feedback. Think of the thermostat of a heating system. When the room is cold, the heating switches on. When the room is warm enough, it switches off. In the same way, when a hormone level is high, its own production is turned down. This is called negative feedback.
+
+The control centre is in the brain. The hypothalamus measures the hormone levels and sends signals to the pituitary gland, a pea-sized gland just below it. The pituitary gland is the master gland. It sends out hormones that control other glands.
+
+The thyroid gland sits in the front of the neck. It makes the hormones T three and T four, which contain iodine. They set the speed of metabolism in almost all cells. The pituitary controls the thyroid with the thyroid stimulating hormone, T S H. If the thyroid is too slow, T S H rises to push it. If it is too active, T S H falls. Too little thyroid hormone makes people tired, cold and heavy. Too much makes them restless, hot and thin.
+
+The adrenal glands sit on top of the kidneys. Their outer layer makes cortisol, the stress hormone, which raises blood sugar and dampens inflammation. It also makes aldosterone, which you met in the kidney chapter. Their inner part makes adrenaline, for fight or flight.
+
+The pancreas controls blood sugar. Insulin lowers it: it lets the cells take up glucose. Glucagon raises it: it makes the liver release glucose. In type one diabetes, the body destroys its own insulin-producing cells. In type two diabetes, the cells respond poorly to insulin, and later too little is made. In both cases blood sugar is too high.
+
+The sex glands, ovaries and testes, make the sex hormones estrogen, progesterone and testosterone. The placenta makes the pregnancy hormone h C G.
+
+Why does this matter in the lab? Hormone tests are a large part of lab work. T S H is the screening test for thyroid disease. Fasting blood glucose is normally below about one hundred milligrams per deciliter. H b A one c, a form of hemoglobin with sugar attached, shows the average blood sugar of the last two to three months. The pregnancy test detects h C G in urine or blood. Timing matters: cortisol is highest in the morning and lowest at night, so the time of sampling must be noted. Most hormones are measured by immunoassays.
+
+In short: hormones are messengers carried in the blood and controlled by feedback. The hypothalamus and pituitary control the thyroid, adrenals and sex glands. Insulin and glucagon control blood sugar. The lab measures many hormones, and timing of the sample often matters.
+
+# The respiratory system
+
+The lungs bring oxygen into the body and remove carbon dioxide. Air enters through the nose and mouth, passes the throat and the larynx, and goes down the windpipe, the trachea. The trachea splits into two main bronchi, one for each lung. These branch again and again, like an upside-down tree, into smaller and smaller tubes.
+
+At the very end are about three hundred million tiny air sacs, called alveoli. Their walls are extremely thin and covered with capillaries. Here, oxygen diffuses from the air into the blood, and carbon dioxide diffuses from the blood into the air. Together, the alveoli have a surface of about seventy to one hundred square meters.
+
+Breathing is driven by the diaphragm, a dome-shaped muscle below the lungs. When it contracts, the chest gets bigger, and air flows in. When it relaxes, air flows out.
+
+The breathing centre in the brain stem controls how fast and deep we breathe. Its main signal is not a lack of oxygen, but the carbon dioxide level and the pH of the blood. If carbon dioxide rises, we breathe faster.
+
+The respiratory system works closely with the blood buffer. More breathing removes more carbon dioxide and makes the blood less acidic. Less breathing does the opposite.
+
+Why does this matter in the lab? The blood gas analysis measures oxygen, carbon dioxide and pH in arterial blood. It shows how well the lungs are working and whether there is an acid-base problem. Sputum, the mucus coughed up from the lungs, is examined for bacteria, including the bacteria that cause tuberculosis. Throat and nose swabs are tested for viruses, for example by P C R.
+
+In short: air flows through the airways to the alveoli, where oxygen enters the blood and carbon dioxide leaves it. Breathing is controlled mainly by carbon dioxide and pH. The lab checks lung function with blood gases and tests airway samples for germs.
+
+# The nervous system
+
+The nervous system is the body's fast communication network. It collects information, processes it, and sends commands. Its signals travel in fractions of a second.
+
+The central nervous system consists of the brain and the spinal cord. The peripheral nervous system includes all the nerves that connect them with the rest of the body.
+
+The basic cell is the nerve cell, or neuron. A neuron has a cell body, many short branches that receive signals, and one long fibre, the axon, which sends signals on. Some axons are over a meter long. Many are wrapped in a fatty insulating layer called myelin, which makes the signal much faster.
+
+The signal itself is electrical. At rest, the inside of the neuron is negative compared to the outside. This resting voltage comes from the uneven distribution of sodium and potassium, kept by the sodium potassium pump. When the neuron fires, sodium rushes in, and the voltage flips for a moment. Then potassium flows out, and the voltage returns. This wave travels along the axon, and is called the action potential. This is why sodium, potassium and calcium in the blood are so important for the nerves.
+
+At the end of the axon, the signal must cross a small gap to the next cell. This junction is called a synapse. The electrical signal releases chemical messengers, called neurotransmitters, which cross the gap and trigger the next cell.
+
+One part of the peripheral system works without our will. It is the autonomic nervous system. It controls heart rate, digestion and breathing. It has two opposite branches: one for activity and stress, the other for rest and digestion.
+
+The brain and spinal cord float in a clear liquid, the cerebrospinal fluid. It protects them like a water cushion.
+
+Why does this matter in the lab? Cerebrospinal fluid is taken by a lumbar puncture, a needle placed in the lower back. It is a precious sample, because taking it is unpleasant for the patient and it cannot easily be repeated. It must be brought to the lab immediately. The lab counts the cells, measures glucose and protein, and looks for bacteria. In bacterial meningitis, the fluid contains many neutrophils, much protein and little glucose. This is a true emergency, so every minute counts.
+
+In short: the nervous system sends fast electrical signals along neurons and chemical signals across synapses. Sodium and potassium create the nerve signal. Cerebrospinal fluid surrounds the brain and is an emergency sample in suspected meningitis.
+
+# Muscles and bones
+
+The skeleton gives the body its shape, protects the organs, and allows movement. An adult has about two hundred six bones. Bone is a living tissue. It consists of a protein framework, mainly collagen, filled with calcium phosphate crystals. The protein makes the bone flexible, and the mineral makes it hard.
+
+Bone is constantly rebuilt. Special cells break down old bone, and others build new bone. In this way the skeleton repairs small damage and serves as a calcium store. When blood calcium falls, parathyroid hormone releases calcium from the bone. In old age, more bone is broken down than built, and bones may become fragile. This is called osteoporosis.
+
+As you know, the red bone marrow inside some bones makes all blood cells.
+
+The bones meet at joints. Muscles are attached to bones by tendons. When a muscle contracts, it pulls on the bone, and the joint moves.
+
+There are three types of muscle. Skeletal muscle moves the bones and is controlled by our will. Under the microscope, it looks striped. Heart muscle is also striped, but it works on its own, without our will. Smooth muscle is found in the walls of the gut, the blood vessels and the bladder. It also works without our will.
+
+Muscle contraction needs a signal from a nerve, calcium inside the muscle cell, and energy in the form of A T P. Thin and thick protein filaments slide past each other and shorten the muscle.
+
+Muscle cells contain special enzymes and proteins. The enzyme creatine kinase, called C K, helps to supply energy quickly. The protein myoglobin stores oxygen in the muscle.
+
+Why does this matter in the lab? When muscle cells are damaged, for example by an injury, very hard exercise or some drugs, C K and myoglobin are released into the blood. A strongly raised C K shows muscle damage. In severe cases, myoglobin can block the kidneys, so the kidney values are checked too. For bones, the lab measures calcium, phosphate, vitamin D, parathyroid hormone and alkaline phosphatase, which rises when bone is built quickly, for example during growth in children.
+
+In short: bones are living tissue of collagen and calcium phosphate, and they store calcium. There are skeletal, heart and smooth muscles. Muscle damage releases C K and myoglobin into the blood.
+
+# Biology summary
+
+Let us review part three.
+
+Blood is about five to six liters of plasma and cells. Red blood cells carry oxygen with hemoglobin and live about one hundred twenty days. White blood cells defend the body: neutrophils, eosinophils, basophils, lymphocytes and monocytes. Platelets and the clotting cascade stop bleeding. Plasma comes from blood with an anticoagulant, and serum comes from clotted blood without fibrinogen. All blood cells are made in the red bone marrow, driven by E P O.
+
+The heart is a four-chambered pump for two circuits. Arteries carry blood away under high pressure, capillaries exchange, and veins bring it back.
+
+The innate immune system reacts fast with barriers, eating cells and inflammation, measured with C R P. The adaptive immune system uses B cells, which make antibodies, and T cells. The lymphatic system returns fluid and houses the immune cells.
+
+The kidneys filter the blood in the nephrons, reabsorb what is useful, and are monitored with creatinine and the G F R. The liver processes nutrients, makes proteins, detoxifies and removes bilirubin. The digestive system breaks down food with enzymes from the stomach and pancreas.
+
+Hormones are messengers controlled by feedback, such as T S H, cortisol and insulin. The lungs exchange gases. The nervous system uses sodium and potassium for its signals. Bones store calcium, and damaged muscle releases C K.
+
+Now we leave the body and look at the instruments that measure it.
+
+# Part four: Lab physics
+
+Every lab result comes out of an instrument. The analyser shines light through a sample, spins it in a centrifuge, or measures a tiny electric current. Behind each of these steps is a piece of physics. If you understand the physics, you understand what the instrument is really doing, and you can recognise when something goes wrong.
+
+This part covers four topics. First, light, and how it is absorbed and transmitted by a solution. Second, the Lambert Beer law, which links the absorbed light to the concentration. Third, the photometer, the most common measuring device in the lab. Fourth, the centrifuge. And finally, the basics of electricity: current, voltage and resistance.
+
+# Light and colour
+
+Light is a form of energy that travels as a wave. The distance between two wave crests is the wavelength. In the lab, it is given in nanometers. One nanometer is one millionth of a millimeter.
+
+The human eye sees light with wavelengths from about four hundred to about seven hundred nanometers. This is visible light. Short wavelengths, around four hundred, look violet and blue. Middle wavelengths look green and yellow. Long wavelengths, around seven hundred, look red. White light, such as sunlight, is a mixture of all these colours. A prism splits it into a rainbow.
+
+Below four hundred nanometers is ultraviolet light, which we cannot see. It carries more energy. Above seven hundred nanometers is infrared light, which we feel as heat.
+
+When light hits a substance, several things can happen. It can pass straight through. This is called transmission. It can be taken up by the substance. This is called absorption. It can bounce back, which is reflection. Or it can be thrown in all directions by particles, which is scattering.
+
+Why does a solution have a colour? Because it absorbs some wavelengths and lets the others through. The colour we see is the light that passes through. A solution that absorbs blue light looks yellow or orange. A solution that absorbs red and yellow light looks blue. The absorbed colour and the seen colour are called complementary colours. So a blue solution is measured with red-orange light, because that is the light it absorbs.
+
+Each substance absorbs most strongly at certain wavelengths. A graph of absorption against wavelength is called an absorption spectrum. It is like a fingerprint of the substance. For measurements, you choose the wavelength where the substance absorbs most. This gives the strongest signal. Remember N A D H from the chemistry part: it absorbs strongly at three hundred forty nanometers, in the ultraviolet, while N A D does not.
+
+The proportion of light that passes through is called the transmission. If one hundred units of light go in and forty come out, the transmission is forty percent.
+
+Why does this matter in the lab? Many patient samples have their own colour, which can disturb measurements. A red sample after hemolysis contains hemoglobin. A yellow-brown sample from a patient with jaundice contains bilirubin. A milky sample after a fatty meal scatters light. Modern analysers measure these interferences at several wavelengths and flag the sample. Knowing that colour means absorption helps you understand these warnings.
+
+In short: light is a wave, and visible light ranges from about four hundred to seven hundred nanometers. A substance can transmit, absorb, reflect or scatter light. A solution shows the colour it does not absorb, and each substance has its own absorption spectrum.
+
+# The Lambert Beer law
+
+How much light does a solution absorb? This depends on two things: how much of the substance is in the solution, and how far the light travels through it. The law that describes this is named after two scientists, Lambert and Beer.
+
+First, we need a measure for absorption. You might think of the transmission. But the transmission does not change in a straight line with the concentration. Think of sunglasses. One pair lets through half of the light. Two pairs on top of each other let through half of half, which is a quarter. Three pairs let through one eighth. Each layer removes the same fraction, not the same amount.
+
+So chemists use a different measure, called the absorbance. It is also called extinction. The absorbance is the negative logarithm, to base ten, of the transmission. A transmission of one hundred percent gives an absorbance of zero. A transmission of ten percent gives an absorbance of one. A transmission of one percent gives an absorbance of two.
+
+Now the law. In words: the absorbance equals the molar absorption coefficient, times the concentration, times the path length.
+
+The path length is the distance the light travels through the sample. In the lab, cuvettes usually have a path length of exactly one centimeter. The molar absorption coefficient is a fixed property of the substance at a given wavelength. It says how strongly that substance absorbs.
+
+The important message is this. If the path length and the wavelength stay the same, the absorbance is directly proportional to the concentration. Double the concentration, and the absorbance doubles. This simple straight-line relationship is the basis of a huge part of clinical chemistry.
+
+In practice, a standard is often used. A standard is a solution with a known concentration. You measure the standard and the sample under the same conditions. Then you use the rule of three from the first guide.
+
+A worked example. A glucose standard with one hundred milligrams per deciliter gives an absorbance of zero point four. The patient sample gives an absorbance of zero point three. Step one: divide the sample absorbance by the standard absorbance. Zero point three divided by zero point four is zero point seven five. Step two: multiply this by the standard concentration. Zero point seven five times one hundred is seventy-five. So the sample contains seventy-five milligrams of glucose per deciliter.
+
+The law has limits. It is only valid for dilute, clear solutions. At high concentrations, the straight line bends. Most photometers work best at absorbances below about one or two. A very concentrated sample must therefore be diluted and measured again, and the result multiplied by the dilution factor.
+
+Why does this matter in the lab? Glucose, cholesterol, creatinine, total protein, hemoglobin, and hundreds of other tests are calculated with the Lambert Beer law. Every analyser has a measuring range. If a result lies above it, the analyser flags it, and the sample is diluted. You now know why: above this range, the straight line is no longer straight.
+
+In short: the absorbance is the negative logarithm of the transmission. The Lambert Beer law says that absorbance equals the absorption coefficient times concentration times path length. So, with a fixed cuvette and wavelength, absorbance is proportional to concentration, within the measuring range.
+
+# Photometry
+
+A photometer is an instrument that measures how much light a sample absorbs. It is the workhorse of the clinical chemistry lab. Large analysers are, at their heart, very fast automatic photometers.
+
+A photometer has four main parts, in a line.
+
+First, the light source. For visible light, this is often a halogen lamp. For ultraviolet light, a special lamp is used. Many modern devices use light-emitting diodes.
+
+Second, the wavelength selector. It picks out the wavelength you need. A simple filter photometer uses coloured glass filters. A spectrophotometer uses a prism or a grating, which splits the light like a rainbow, and a narrow slit to select one wavelength. The selected light is called monochromatic, which means "one colour".
+
+Third, the cuvette. This small container holds the sample in the light path. It must be clean, free of scratches and fingerprints, and placed the right way round. Ordinary glass and plastic absorb ultraviolet light, so for measurements at three hundred forty nanometers you need quartz cuvettes or special ultraviolet plastic ones.
+
+Fourth, the detector. It turns the light that comes through into an electric signal. The device then calculates the transmission and the absorbance.
+
+Before measuring, the photometer must be zeroed with a blank. The blank contains everything except the substance you want to measure: the reagent and the solvent. This way, the colour of the reagent itself and the absorption of the cuvette are subtracted. Only the absorbance caused by the substance remains. Often a sample blank is also used, to subtract the patient sample's own colour.
+
+There are two main ways of measuring.
+
+In an end point measurement, the reaction is allowed to run to completion. Then the absorbance is measured once. This is used for most substances, such as glucose or cholesterol.
+
+In a kinetic measurement, the absorbance is measured several times over a period of time. The analyser calculates how fast it changes. This is used for enzymes. The faster the absorbance changes, the more enzyme is in the sample. Enzyme activity is given in units per liter.
+
+A related method is turbidimetry. Here, antibodies make the substance clump into tiny particles. The particles scatter the light. The analyser measures the loss of light caused by this cloudiness. C R P is often measured in this way.
+
+Why does this matter in the lab? You will operate photometers and analysers every day. Good results need clean cuvettes, the right wavelength, a fresh blank, a correct temperature, and regular controls. Quality control samples with known values are measured every day. If a control is out of range, patient results cannot be released until the problem is found.
+
+In short: a photometer consists of a light source, a wavelength selector, a cuvette and a detector. A blank removes the background. End point measurements measure once at the end, and kinetic measurements follow the change over time, which is used for enzymes.
+
+# Centrifugation
+
+A centrifuge separates the parts of a sample by spinning it very fast. In a resting tube, heavy particles sink slowly to the bottom because of gravity. In a centrifuge, they are pushed outwards much more strongly, so they sink in minutes rather than hours.
+
+Think of a carousel at a funfair. The faster it turns, the more strongly you are pushed outwards. And the further you sit from the centre, the stronger the push.
+
+So two things decide the force in a centrifuge: the speed, and the distance from the centre.
+
+The speed is given in revolutions per minute, called R P M. This is the number the centrifuge shows on its display. But R P M alone does not tell you the force. A small centrifuge and a large centrifuge, both at three thousand R P M, push with very different forces, because their radius is different.
+
+That is why scientists use the relative centrifugal force, called R C F. It tells you how many times stronger the force is than normal gravity. It is given as a multiple of g, the symbol for the gravity of the earth. An R C F of one thousand g means that the sample feels a force a thousand times stronger than gravity.
+
+The formula connecting the two values is this. In words: the R C F equals one point one one eight times ten to the power of minus five, times the radius in centimeters, times the R P M squared.
+
+A worked example. A centrifuge has a radius of ten centimeters and runs at three thousand R P M. Step one: square the R P M. Three thousand times three thousand is nine million. Step two: multiply by the radius, ten. That gives ninety million. Step three: multiply by one point one one eight times ten to the minus five. That is the same as multiplying by about zero point zero zero zero zero one one two. The result is about one thousand. So the R C F is about one thousand g.
+
+Notice that the R P M is squared. If you double the speed, the force becomes four times as large. Instructions for tests should therefore always give R C F and time, not just R P M.
+
+Safety is essential. The centrifuge must be balanced. Tubes of equal weight must be placed opposite each other. An unbalanced rotor shakes, can be damaged and can even break apart. Tubes should be closed, to prevent dangerous aerosols. The lid must stay closed until the rotor has completely stopped. Never brake a rotor by hand.
+
+Why does this matter in the lab? Almost every blood sample for clinical chemistry is centrifuged to get serum or plasma. A typical setting is about ten minutes at around two thousand g, but each lab and tube manufacturer gives its own exact values. Too little force leaves cells or platelets in the plasma. Too much, or too long, can damage cells and release potassium. Urine sediment is also prepared by centrifugation, at a much lower force, so that fragile structures stay intact.
+
+In short: a centrifuge separates particles by spinning. The real force is the R C F, a multiple of gravity, which depends on the radius and on the square of the R P M. Always balance the rotor, close the tubes, and follow the given R C F and time.
+
+# Electricity basics
+
+Electricity is the movement of electric charge. In metal wires, the moving charges are electrons. In solutions, such as blood or a salt solution, the moving charges are ions. Three basic quantities describe electricity: current, voltage and resistance.
+
+A water pipe is a helpful picture. The voltage is like the water pressure. The current is like the amount of water flowing per second. The resistance is like a narrow section of the pipe that makes the flow harder.
+
+Current is the amount of charge that flows past a point per second. It is measured in amperes. A small lamp needs a fraction of an ampere. A kettle needs about ten amperes.
+
+Voltage is the driving force that pushes the charges. It is the difference in electrical pressure between two points. It is measured in volts. A battery cell has about one and a half volts. A household socket in Europe has two hundred thirty volts. Remember the galvanic cell from the chemistry part: its voltage comes from a redox reaction.
+
+Resistance describes how strongly a material opposes the current. It is measured in ohms. Metals such as copper have a low resistance. They are good conductors. Plastic, rubber and glass have a very high resistance. They are insulators. Pure water conducts poorly. Water with dissolved ions conducts well. That is why tap water and body fluids conduct electricity.
+
+The three quantities are linked by Ohm's law. In words: the voltage equals the resistance times the current. If you know two of them, you can calculate the third.
+
+A worked example. A device works with twelve volts and has a resistance of four ohms. What is the current? The current equals the voltage divided by the resistance. Twelve divided by four is three. So the current is three amperes.
+
+The electric power tells you how much energy is used per second. It equals voltage times current, and is measured in watts. In our example, twelve volts times three amperes gives thirty-six watts.
+
+For safety, remember that the human body conducts electricity, especially with wet skin. Damaged cables, liquids near devices, and opened instrument housings are real dangers. Devices in the lab are earthed and regularly checked.
+
+Why does this matter in the lab? Electricity is used to measure, not only to power the devices. Blood cell counters use the impedance principle: cells pass one by one through a tiny opening in a salt solution. Each cell is a poor conductor, so it briefly raises the resistance. The device counts these pulses, and the size of each pulse shows the size of the cell. Electrophoresis uses a voltage to move charged proteins through a gel, separating them by charge and size. And ion-selective electrodes measure voltages to find ion concentrations.
+
+In short: current is the flow of charge, measured in amperes. Voltage is the driving force, measured in volts. Resistance opposes the flow, measured in ohms. Ohm's law says voltage equals resistance times current, and cell counters and electrophoresis rely on these principles.
+
+# Physics summary
+
+Let us review part four.
+
+Light is a wave. Visible light lies between about four hundred and seven hundred nanometers, and ultraviolet light lies below. A substance can transmit, absorb, reflect or scatter light. A solution shows the colour that it does not absorb.
+
+The absorbance is the negative logarithm of the transmission. The Lambert Beer law says absorbance equals absorption coefficient times concentration times path length. So, with a fixed cuvette and wavelength, absorbance is proportional to concentration, and a standard lets you calculate an unknown with the rule of three.
+
+A photometer has a light source, a wavelength selector, a cuvette and a detector. A blank removes the background. End point measurements suit most substances, and kinetic measurements suit enzymes.
+
+A centrifuge separates particles by spinning. The real force, the R C F, depends on the radius and on the square of the R P M. Always balance the rotor.
+
+Electric current is measured in amperes, voltage in volts, and resistance in ohms. Ohm's law links them: voltage equals resistance times current. Cell counters, electrophoresis and electrodes all use electricity to measure.
+
+# Final summary
+
+You have reached the end of the second guide. Let us look at the whole picture.
+
+In part one, you deepened your chemistry. Acids give protons and bases take them. The pH is a logarithmic scale, and buffers keep it stable, above all the bicarbonate buffer in blood. Titration measures concentrations. Equilibrium and Le Chatelier's principle explain how reactions balance, and kinetics explains how fast they run. The electrolytes sodium, potassium, calcium, chloride and bicarbonate keep the body working, and electrodes measure them.
+
+In part two, you learned the language of organic chemistry. Hydrocarbons form the skeleton, and functional groups give the character: alcohols, aldehydes, ketones, acids, esters and amines. Isomers have the same atoms in different arrangements, and chiral molecules exist as mirror images. Oxidation, reduction, condensation and hydrolysis build and break the molecules of life.
+
+In part three, you travelled through the body. Blood with its cells and plasma, the heart and the vessels, the immune and lymphatic system, the kidneys, the liver and the gut, the hormones, the lungs, the nerves, and the muscles and bones. For each one, you now know at least one lab test that tells its story.
+
+In part four, you looked inside the instruments: the photometer and the Lambert Beer law, the centrifuge with its R C F, and the basics of electricity.
+
+All four parts meet in every single lab result. A potassium value, for example, depends on the cell biology of the red cell, on careful centrifugation, on an ion-selective electrode, and on understanding what the kidneys and the heart do with potassium.
+
+Listen to the chapters again whenever you like. Each time, more of it will feel familiar. Good luck with your training.

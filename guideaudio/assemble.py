@@ -1,0 +1,128 @@
+"""Lay clips and silence out in time, then encode.
+
+The timeline itself is built by `reader.text_timeline`; this module only
+turns a finished timeline into samples and the samples into an MP3.
+"""
+
+from dataclasses import dataclass
+from pathlib import Path
+
+import numpy as np
+
+from guideaudio.audio import read_wav, silence
+from guideaudio.config import TARGET_PEAK
+from guideaudio.synth import ClipSpec, clip_path
+
+# Separate from audio.py's private _INT16_SCALE: that one belongs to the
+# WAV cache boundary, this one belongs to the MP3 encode boundary. Same
+# value, different modules, kept independent on purpose.
+_INT16_SCALE = 32767.0
+
+# lameenc.Encoder.encode() can be called repeatedly before flush(), so audio
+# is fed in blocks rather than converting the whole track to int16 at once.
+_ENCODE_BLOCK_SECONDS = 30
+
+
+@dataclass(frozen=True)
+class Silence:
+    seconds: float
+
+
+TimelineItem = ClipSpec | Silence
+
+def render(
+    timeline: list[TimelineItem],
+    cache_dir: Path,
+    engine_id: str,
+    sample_rate: int,
+    target_peak: float = TARGET_PEAK,
+) -> np.ndarray:
+    """Concatenate the timeline into one waveform.
+
+    Each clip is scaled so its peak sits at `target_peak`. That lifts the
+    whole track and evens out clips the engine rendered quieter than the
+    rest. Gain is applied here rather than at synthesis, so the cache keeps
+    the engine's raw output and changing the level never re-synthesizes.
+
+    Clips are read once each and reused, so a repeated sentence costs memory
+    for one copy only. Silence gets the identical treatment: only two pause
+    durations exist, but a long guide places thousands of silence items, so
+    memoizing per (seconds, sample_rate) avoids redundant allocations of the
+    same array contents.
+    `np.concatenate` only reads its inputs, so reusing one array object at
+    many positions is safe.
+    """
+    cache: dict[str, np.ndarray] = {}
+    silence_cache: dict[tuple[float, int], np.ndarray] = {}
+    pieces: list[np.ndarray] = []
+
+    for item in timeline:
+        if isinstance(item, Silence):
+            silence_key = (item.seconds, sample_rate)
+            if silence_key not in silence_cache:
+                silence_cache[silence_key] = silence(item.seconds, sample_rate)
+            pieces.append(silence_cache[silence_key])
+            continue
+
+        key = item.key(engine_id)
+        if key not in cache:
+            path = clip_path(cache_dir, item, engine_id)
+            if not path.exists():
+                raise FileNotFoundError(
+                    f"no cached audio for {item.text!r} ({item.language}) at {path}"
+                )
+            samples, rate = read_wav(path)
+            if rate != sample_rate:
+                raise ValueError(
+                    f"{path} is {rate} Hz but the track is {sample_rate} Hz"
+                )
+            cache[key] = _normalize_peak(samples, target_peak)
+        pieces.append(cache[key])
+
+    if not pieces:
+        return np.zeros(0, dtype=np.float32)
+    # `dtype=` casts as part of the concatenation itself. The previous
+    # `.astype(np.float32)` ran on an already-float32 array purely to be
+    # safe, but `.astype` copies unconditionally — at 500-entry scale that
+    # redundant copy alone was measured at 1.4 GB.
+    return np.concatenate(pieces, dtype=np.float32)
+
+
+def _normalize_peak(samples: np.ndarray, target_peak: float) -> np.ndarray:
+    peak = float(np.abs(samples).max()) if len(samples) else 0.0
+    if peak == 0.0:
+        return samples
+    return samples * np.float32(target_peak / peak)
+
+
+def encode_mp3(samples: np.ndarray, sample_rate: int, path: Path, bitrate: int) -> None:
+    """Encode to MP3, feeding lameenc in blocks rather than all at once.
+
+    Converting the entire track to int16 in one shot keeps the clipped
+    float32 copy, the scaled product, the int16 array, and its `tobytes()`
+    copy all live simultaneously — at 500-entry scale, on the order of
+    4 GB combined. `lameenc.Encoder.encode()` may be called repeatedly
+    before `flush()`, so each ~30-second block is converted and encoded on
+    its own, keeping the live working set at a few MB regardless of the
+    track's total length.
+    """
+    import lameenc
+
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+
+    encoder = lameenc.Encoder()
+    encoder.set_bit_rate(bitrate)
+    encoder.set_in_sample_rate(sample_rate)
+    encoder.set_channels(1)
+    encoder.set_quality(2)  # 0 slowest/best, 9 fastest/worst
+
+    block_frames = _ENCODE_BLOCK_SECONDS * sample_rate
+    chunks: list[bytes] = []
+    for start in range(0, len(samples), block_frames):
+        block = samples[start : start + block_frames]
+        pcm = (np.clip(block, -1.0, 1.0) * _INT16_SCALE).astype(np.int16)
+        chunks.append(encoder.encode(pcm.tobytes()))
+    chunks.append(encoder.flush())
+
+    path.write_bytes(b"".join(chunks))

@@ -1,0 +1,12 @@
+.superpowers/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Generated artifacts — never committed (the cache holds GBs of synthesized clips)
+cache/
+out/
+logs/

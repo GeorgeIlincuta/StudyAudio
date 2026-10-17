@@ -1,0 +1,1125 @@
+Aufbauwissen für das medizinische Labor: Chemie, organische Chemie, Biologie des Menschen und Laborphysik.
+
+# Hinweise zum Leitfaden — Using this guide
+
+Dies ist der zweite Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Der erste Leitfaden behandelt die Grundlagen. Dazu gehören das Atom, die chemische Bindung, das Mol, die Konzentration, die Zelle und die Verdünnung. Dieser Leitfaden baut darauf auf.
+
+Der Leitfaden hat vier Teile. Teil eins vertieft die allgemeine Chemie. Es geht um Säuren und Basen, Puffer, Titration, Gleichgewicht, Reaktionsgeschwindigkeit, Elektrolyte und Elektrochemie. Teil zwei ist die organische Chemie, also die Chemie des Kohlenstoffs. Teil drei ist die Biologie des Menschen. Wir gehen ein Organsystem nach dem anderen durch und beginnen mit dem Blut. Teil vier ist die Laborphysik. Dazu gehören Licht, Photometrie, die Zentrifuge und der elektrische Strom.
+
+Wie im ersten Leitfaden gibt es keine Formeln und keine Symbole. Jede Zahl wird ganz ausgesprochen. Jede Formel wird in Worten beschrieben. Wenn du die Formel später im Lehrbuch siehst, kennst du ihre Bedeutung schon.
+
+Jedes Kapitel erklärt eine Idee. Dann zeigt es, warum die Idee im Labor wichtig ist. Am Ende steht eine kurze Zusammenfassung. Sie beginnt mit den Worten »Kurz gesagt«. Wenn du nur wenig Zeit hast, kannst du nur die Zusammenfassungen hören.
+
+Viele Kapitel beziehen sich auf den ersten Leitfaden. Ist ein Wort wie Ion, Mol oder Konzentration unklar? Dann hör dir das passende Kapitel im ersten Leitfaden noch einmal an.
+
+Wir beginnen mit einem der wichtigsten Themen der Laborchemie: Säuren und Basen.
+
+# Teil eins: Chemie — Part one: Chemistry
+
+Im ersten Leitfaden hast du Säuren, Basen und den pH-Wert schon kurz kennengelernt. In diesem Teil schauen wir sie genauer an. Sie sind im Labor nämlich überall. Der pH-Wert des Blutes gehört zu den am engsten geregelten Werten im Körper. Viele Reagenzien funktionieren nur bei einem bestimmten pH-Wert. Und viele Messungen hängen davon ab, dass eine Reaktion ein Gleichgewicht erreicht.
+
+Wir gehen Schritt für Schritt vor. Zuerst kommen Säuren, Basen und die pH-Skala. Dann folgen die Puffer und der Puffer im Blut. Danach geht es um Titration und Indikatoren. Dann kommen das chemische Gleichgewicht und die Reaktionsgeschwindigkeit. Danach folgen Salze, Ionen und die Elektrolyte im Körper. Zum Schluss geht es um Redoxreaktionen und die Grundlagen der Elektrochemie. Sie erklären, wie viele Laborgeräte Ionen messen.
+
+# Säuren und Basen — Acids and bases
+
+Was ist eine Säure? Für das Labor ist diese Definition am nützlichsten. Eine Säure ist ein Stoff, der ein Proton abgibt. Eine Base ist ein Stoff, der ein Proton aufnimmt. Diese Definition ist nach dem dänischen Chemiker Brönsted benannt.
+
+Erinnere dich an den ersten Leitfaden. Ein Wasserstoffatom besteht aus einem Proton und einem Elektron. Verliert es sein Elektron, bleibt nur das Proton übrig. Ein Proton und ein Wasserstoff-Ion sind also dasselbe. In der Chemie hört man beide Wörter.
+
+Nimm die Salzsäure als Beispiel. Sie ist auch die Säure in deinem Magen. In Wasser gibt sie ihr Proton an ein Wassermolekül ab. So entstehen ein Chlorid-Ion und ein Oxonium-Ion. Das Oxonium-Ion ist ein Wassermolekül mit einem zusätzlichen Proton. Wenn Chemiker von Wasserstoff-Ionen in Wasser sprechen, meinen sie eigentlich Oxonium-Ionen.
+
+Jetzt eine Base. Ammoniak ist eine typische Base. In Wasser nimmt Ammoniak ein Proton von einem Wassermolekül auf. So entstehen ein Ammonium-Ion und ein Hydroxid-Ion. Das Hydroxid-Ion ist ein Wassermolekül ohne ein Proton. Viele Basen enthalten Hydroxid-Ionen direkt, zum Beispiel Natronlauge.
+
+Säure und Base arbeiten immer als Paar. Die eine gibt, die andere nimmt. Stell dir einen Ball vor, den zwei Spieler sich zuwerfen. Das Proton ist der Ball. Nach dem Wurf ist aus der Säure eine Base geworden. Sie könnte das Proton ja wieder aufnehmen. Diese beiden Formen nennt man ein korrespondierendes Säure-Base-Paar. Essigsäure und Acetat sind so ein Paar. Kohlensäure und Hydrogencarbonat sind ein anderes Paar. Dieses Paar ist später beim Blut sehr wichtig.
+
+Wasser ist etwas Besonderes. Es kann als Säure und als Base reagieren. Es kann ein Proton abgeben und eines aufnehmen. Solche Stoffe nennt man Ampholyte.
+
+Säuren sind außerdem stark oder schwach. Eine starke Säure gibt in Wasser fast alle Protonen ab. Ein Beispiel ist die Salzsäure. Eine schwache Säure gibt nur einen kleinen Teil ihrer Protonen ab. Ein Beispiel ist die Essigsäure. Die meisten ihrer Moleküle bleiben ganz. Bei Basen ist es genauso. Natronlauge ist eine starke Base. Ammoniak ist eine schwache Base.
+
+Stark bedeutet nicht konzentriert. Eine sehr verdünnte Salzsäure ist trotzdem eine starke Säure. Die Stärke beschreibt, wie vollständig die Säure ihre Protonen abgibt. Die Konzentration beschreibt, wie viel Säure in der Lösung ist.
+
+Warum ist das im Labor wichtig? Viele Reagenzien sind Säuren oder Basen. Mit Salzsäure reinigt man Glasgeräte und stellt den pH-Wert von Lösungen ein. Natronlauge braucht man für Titrationen. Mit Trichloressigsäure fällt man Proteine aus einer Probe aus. Du musst wissen, welcher Stoff Protonen abgibt und welcher sie aufnimmt. Nur dann arbeitest du sicher und verstehst, was mit der Probe passiert.
+
+Kurz gesagt: Eine Säure gibt Protonen ab, eine Base nimmt sie auf. Säure und Base bilden ein korrespondierendes Paar. Starke Säuren und Basen reagieren in Wasser fast vollständig, schwache nur teilweise.
+
+# Die pH-Skala — The pH scale
+
+Im ersten Leitfaden hast du gelernt: Der pH-Wert zeigt, wie sauer eine Lösung ist. Jetzt schauen wir, woher diese Zahl kommt.
+
+Auch reines Wasser enthält ein paar Ionen. Ein winziger Teil der Wassermoleküle gibt sich gegenseitig Protonen weiter. So entstehen Oxonium-Ionen und Hydroxid-Ionen in gleicher Zahl. In reinem Wasser bei fünfundzwanzig Grad Celsius ist die Konzentration der Oxonium-Ionen zehn hoch minus sieben Mol pro Liter. Das ist ein Zehnmillionstel Mol pro Liter.
+
+Mit so kleinen Zahlen rechnet man nicht gern. Darum benutzen Chemiker einen Trick. Sie nehmen den negativen Zehnerlogarithmus der Oxonium-Konzentration. Das Ergebnis ist der pH-Wert. Für reines Wasser ergibt zehn hoch minus sieben einen pH-Wert von sieben.
+
+Logarithmus klingt schwierig. Hier zählt er aber einfach die Nullen. Zehn hoch minus drei ist pH drei. Zehn hoch minus neun ist pH neun. Der pH-Wert ist also die Hochzahl ohne das Minuszeichen.
+
+Die Skala geht ungefähr von null bis vierzehn. Ein pH-Wert von sieben ist neutral. Unter sieben ist sauer. Dann gibt es mehr Oxonium-Ionen als Hydroxid-Ionen. Über sieben ist basisch, man sagt auch alkalisch. Dann gibt es mehr Hydroxid-Ionen.
+
+Ein zweiter Punkt ist wichtig. Die Skala ist logarithmisch. Ein Schritt auf der Skala bedeutet einen Faktor zehn. Eine Lösung mit pH vier enthält zehnmal mehr Oxonium-Ionen als eine Lösung mit pH fünf. Eine Lösung mit pH drei enthält sogar hundertmal mehr. Kleine Änderungen im pH-Wert sind also große Änderungen in der Chemie.
+
+Es gibt auch einen Spiegelwert für die Hydroxid-Ionen. Er heißt p O H Wert. In Wasser bei fünfundzwanzig Grad gilt: pH plus pOH ist immer vierzehn. Kennst du den einen Wert, kennst du auch den anderen.
+
+Ein Rechenbeispiel. Eine Salzsäure hat eine Konzentration von null komma null eins Mol pro Liter. Salzsäure ist stark und gibt alle Protonen ab. Die Oxonium-Konzentration ist also auch null komma null eins Mol pro Liter. Das ist zehn hoch minus zwei. Der pH-Wert ist also zwei.
+
+Warum ist das im Labor wichtig? Der pH-Wert im arteriellen Blut liegt normal zwischen sieben komma drei fünf und sieben komma vier fünf. Das sieht nach einem winzigen Bereich aus. Aber denk an den Logarithmus. Sinkt der pH-Wert von sieben komma vier auf sieben komma eins, verdoppeln sich die Oxonium-Ionen ungefähr. So einen Abfall nennt man Azidose. Er kann lebensgefährlich sein. Ein pH-Wert über sieben komma vier fünf heißt Alkalose. Auf der Intensivstation misst das Blutgasgerät diesen Wert viele Male am Tag.
+
+Kurz gesagt: Der pH-Wert ist der negative Logarithmus der Oxonium-Konzentration. Sieben ist neutral, darunter ist sauer, darüber basisch. Eine pH-Einheit bedeutet einen Faktor zehn. Kleine pH-Änderungen sind also große chemische Änderungen.
+
+# Die Puffer — Buffers
+
+Ein Puffer ist eine Lösung, die den pH-Wert stabil hält. Du kannst etwas Säure oder Base dazugeben, und der pH-Wert ändert sich kaum.
+
+Wie funktioniert das? Ein Puffer enthält zwei Partner. Der eine ist eine schwache Säure. Der andere ist ihre korrespondierende Base. Ein Beispiel sind Essigsäure und Acetat. Beide sind in ähnlicher Menge vorhanden.
+
+Jetzt gibst du etwas starke Säure dazu. Die zusätzlichen Protonen bleiben nicht frei. Das Acetat fängt sie ein und wird zu Essigsäure. Die Protonen sind damit gebunden. Der pH-Wert ändert sich kaum.
+
+Jetzt gibst du etwas starke Base dazu. Auch die Hydroxid-Ionen bleiben nicht frei. Die Essigsäure gibt ihnen ein Proton. So entsteht Wasser. Wieder ändert sich der pH-Wert kaum.
+
+Stell dir einen Puffer wie einen Schwamm in der Küchenspüle vor. Kommt etwas Wasser in die Spüle, saugt der Schwamm es auf. Ist die Spüle zu trocken, kannst du etwas Wasser aus dem Schwamm drücken. Erst wenn der Schwamm ganz voll oder ganz trocken ist, hilft er nicht mehr.
+
+Das ist die Pufferkapazität. Ein Puffer kann nur eine bestimmte Menge Säure oder Base aufnehmen. Ist ein Partner verbraucht, versagt der Puffer. Dann ändert sich der pH-Wert schnell. Je mehr von beiden Partnern ein Puffer enthält, desto größer ist seine Kapazität.
+
+Jeder Puffer arbeitet am besten bei einem bestimmten pH-Wert. Dieser Wert ist eine Eigenschaft der schwachen Säure. Chemiker nennen ihn den p K s Wert. Beim p K s Wert sind Säure und Base genau gleich viel. Dann puffert die Lösung in beide Richtungen gleich gut. Ein Puffer arbeitet gut im Bereich von etwa einer pH-Einheit über und unter seinem p K s Wert.
+
+Diesen Zusammenhang beschreibt die Henderson-Hasselbalch-Gleichung. In Worten heißt sie: Der pH-Wert ist gleich dem p K s Wert plus dem Logarithmus des Verhältnisses von Base zu Säure. Sind Base und Säure gleich viel, ist das Verhältnis eins. Der Logarithmus von eins ist null. Dann ist der pH-Wert gleich dem p K s Wert. Gibt es zehnmal mehr Base als Säure, ist der Logarithmus eins. Dann liegt der pH-Wert eine Einheit über dem p K s Wert.
+
+Warum ist das im Labor wichtig? Fast jeder Enzymtest und fast jedes Reagenz enthält einen Puffer. Enzyme arbeiten nur bei einem bestimmten pH-Wert richtig. Würde sich der pH-Wert im Ansatz verändern, wäre das Ergebnis falsch. Typische Laborpuffer sind Phosphatpuffer, Tris-Puffer und HEPES-Puffer. Auch die Kalibrierlösungen für das pH-Meter sind Puffer. Sie haben einen genau bekannten pH-Wert.
+
+Kurz gesagt: Ein Puffer ist eine Mischung aus einer schwachen Säure und ihrer korrespondierenden Base. Er fängt zugegebene Protonen und Hydroxid-Ionen ab. So bleibt der pH-Wert stabil. Ein Puffer arbeitet am besten in der Nähe seines p K s Werts und nur, solange seine Kapazität reicht.
+
+# Der Blutpuffer — The blood buffer
+
+Dein Blut muss zwischen pH sieben komma drei fünf und sieben komma vier fünf bleiben. Aber dein Körper bildet ständig Säure. Jede Zelle verbrennt Nährstoffe und bildet dabei Kohlendioxid. Muskeln bilden Milchsäure. Beim Abbau von Proteinen entstehen weitere Säuren. Ohne Puffer würde das Blut in wenigen Minuten sauer werden.
+
+Der wichtigste Puffer im Blut ist der Bicarbonatpuffer. Er hat zwei Partner. Die schwache Säure ist die Kohlensäure. Die Base ist das Hydrogencarbonat-Ion, auch Bicarbonat genannt.
+
+Kohlensäure hat eine besondere Verbindung zum Kohlendioxid. Löst sich Kohlendioxid in Wasser, entsteht Kohlensäure. Kohlensäure kann wieder in Wasser und Kohlendioxid zerfallen. In den roten Blutkörperchen beschleunigt ein Enzym diese Reaktion stark. Es heißt Carboanhydrase.
+
+Jetzt kommt der kluge Teil. Der Körper kann beide Partner getrennt steuern. Die Lunge steuert das Kohlendioxid, also die Säureseite. Atmest du schneller, atmest du mehr Kohlendioxid ab. Dann wird das Blut weniger sauer. Die Nieren steuern das Bicarbonat, also die Basenseite. Sie können mehr Bicarbonat behalten oder mehr in den Urin abgeben. Die Lunge reagiert in Minuten. Die Nieren brauchen Stunden bis Tage.
+
+Im gesunden Blut gibt es etwa zwanzigmal mehr Bicarbonat als Kohlensäure. Der p K s Wert dieses Systems liegt bei etwa sechs komma eins. Jetzt nimm die Henderson-Hasselbalch-Gleichung. Sechs komma eins plus der Logarithmus von zwanzig ergibt etwa sieben komma vier. Das ist genau der normale pH-Wert des Blutes.
+
+Es gibt noch andere Puffer im Blut. Proteine können Protonen aufnehmen und abgeben. Besonders wichtig ist das Hämoglobin in den roten Blutkörperchen. Phosphatpuffer spielen vor allem in den Zellen und im Urin eine Rolle.
+
+Ärzte teilen die Störungen in vier Gruppen ein. Atmet die Lunge zu wenig Kohlendioxid ab, entsteht eine respiratorische Azidose. Das passiert zum Beispiel bei schweren Lungenkrankheiten. Atmet jemand zu schnell, zum Beispiel bei Panik, geht zu viel Kohlendioxid verloren. Das ist eine respiratorische Alkalose. Bildet der Körper zu viel Säure, wird Bicarbonat verbraucht. Das ist eine metabolische Azidose. Sie entsteht zum Beispiel bei einem entgleisten Diabetes. Verliert der Körper Säure, zum Beispiel durch langes Erbrechen, entsteht eine metabolische Alkalose.
+
+Warum ist das im Labor wichtig? Die Blutgasanalyse misst den pH-Wert und den Partialdruck von Kohlendioxid. Das Bicarbonat wird daraus berechnet. Normal sind etwa zweiundzwanzig bis sechsundzwanzig Millimol pro Liter. Die Probe muss arterielles Blut sein. Sie muss frei von Luftblasen sein und schnell gemessen werden. Luft in der Spritze verändert den Kohlendioxid-Wert. Wartet man zu lange, arbeiten die Blutzellen weiter und bilden Säure. Die sorgfältige Präanalytik gehört also zum richtigen Ergebnis.
+
+Kurz gesagt: Das Blut wird vor allem durch den Bicarbonatpuffer gepuffert. Die Lunge steuert das Kohlendioxid, die Nieren steuern das Bicarbonat. Ein Verhältnis von zwanzig zu eins hält den pH-Wert bei etwa sieben komma vier.
+
+# Neutralisation und Titration — Neutralisation and titration
+
+Wenn eine Säure auf eine Base trifft, heben sie sich auf. Das heißt Neutralisation. Die Protonen der Säure und die Hydroxid-Ionen der Base verbinden sich zu Wasser. Übrig bleibt ein Salz.
+
+Ein Beispiel: Salzsäure und Natronlauge ergeben Wasser und Natriumchlorid. Natriumchlorid ist Kochsalz. Aus der sauren Säure und der ätzenden Lauge ist Salzwasser geworden.
+
+Mit dieser Reaktion kann man messen, wie viel Säure in einer Lösung ist. Die Methode heißt Titration. Sie gehört zu den ältesten und genauesten Methoden der analytischen Chemie.
+
+So funktioniert sie. Du hast eine Lösung mit einer unbekannten Menge Säure. Du gibst ein genau abgemessenes Volumen davon in einen Kolben. Dann gibst du langsam eine Base mit bekannter Konzentration aus einer Bürette dazu. Eine Bürette ist ein langes, dünnes Glasrohr mit einer feinen Skala und einem Hahn unten. Du gibst die Base Tropfen für Tropfen dazu, bis die ganze Säure verbraucht ist. Diesen Moment nennt man den Äquivalenzpunkt. An diesem Punkt entspricht die Menge der Base genau der Menge der Säure.
+
+Woran erkennst du diesen Punkt? Du brauchst ein Signal. Das kann ein Farbwechsel eines Indikators sein. Oder ein plötzlicher Sprung auf dem pH-Meter. Um Indikatoren geht es im nächsten Kapitel.
+
+Jetzt zur Rechnung. Die Stoffmenge ist Konzentration mal Volumen. Am Äquivalenzpunkt ist die Stoffmenge der Base gleich der Stoffmenge der Säure. Das gilt, wenn Säure und Base jeweils ein Proton austauschen.
+
+Ein Rechenbeispiel. Du titrierst zwanzig Milliliter Salzsäure mit Natronlauge. Die Natronlauge hat null komma eins Mol pro Liter. Bis zum Äquivalenzpunkt brauchst du sechzehn Milliliter. Schritt eins: Die Stoffmenge der Base ist null komma eins mal null komma null eins sechs Liter. Das sind null komma null null eins sechs Mol. Schritt zwei: Die Stoffmenge der Säure ist genauso groß. Schritt drei: Du teilst durch das Volumen der Säure, also null komma null zwei Liter. Das Ergebnis ist null komma null acht Mol pro Liter. Die Salzsäure hatte also eine Konzentration von null komma null acht Mol pro Liter.
+
+Trägst du den pH-Wert gegen das zugegebene Volumen auf, erhältst du eine Titrationskurve. Zuerst steigt der pH-Wert langsam. In der Nähe des Äquivalenzpunkts springt er steil nach oben. Danach steigt er wieder langsam. Bei einer starken Säure und einer starken Base liegt der Sprung um pH sieben. Bei einer schwachen Säure und einer starken Base liegt der Äquivalenzpunkt über sieben.
+
+Warum ist das im Labor wichtig? In der Ausbildung ist die Titration eine klassische Übung für genaues Arbeiten. Im klinischen Labor prüft man damit die Konzentration von Reagenzien. Manche Methoden für Chlorid und für Magensaft nutzen sie ebenfalls. Und das Prinzip ist die Grundlage vieler automatischer Methoden. Man misst eine unbekannte Menge mit einem bekannten Reagenz.
+
+Kurz gesagt: Säure und Base ergeben Wasser und ein Salz. Bei der Titration gibt man eine Base mit bekannter Konzentration dazu, bis die Säure verbraucht ist. Aus dem verbrauchten Volumen berechnet man die unbekannte Konzentration.
+
+# Die Indikatoren — Indicators
+
+Ein Indikator ist ein Stoff, der seine Farbe je nach pH-Wert ändert. Er zeigt dir ohne Gerät, ob eine Lösung sauer oder basisch ist.
+
+Wie funktioniert das? Ein Indikator ist selbst eine schwache Säure. Seine Säureform hat eine Farbe. Seine Basenform hat eine andere Farbe. Ändert sich der pH-Wert, gibt der Indikator ein Proton ab oder nimmt eines auf. So wechselt er zwischen den beiden Formen. Unsere Augen sehen den Farbwechsel.
+
+Jeder Indikator wechselt seine Farbe in einem bestimmten pH-Bereich. Dieser Bereich ist meist etwa zwei pH-Einheiten breit. Man nennt ihn den Umschlagsbereich.
+
+Hier sind drei häufige Beispiele. Phenolphthalein ist in sauren und neutralen Lösungen farblos. Über einem pH-Wert von etwa acht bis zehn wird es pink. Methylorange ist unter etwa pH drei rot und über etwa pH vier komma vier gelb. Bromthymolblau ist in Säuren gelb und in Basen blau. Es wechselt etwa zwischen pH sechs und sieben komma sechs.
+
+Für eine Titration wählst du einen Indikator, dessen Umschlagsbereich zum steilen Sprung der Titrationskurve passt. Bei einer starken Säure und einer starken Base ist der Sprung sehr groß. Dann passen mehrere Indikatoren. Titrierst du eine schwache Säure mit einer starken Base, ist Phenolphthalein eine gute Wahl. Der Äquivalenzpunkt liegt dann nämlich im basischen Bereich.
+
+Den Punkt, an dem der Indikator die Farbe wechselt, nennt man den Endpunkt. Bei einer guten Methode liegen Endpunkt und Äquivalenzpunkt fast genau zusammen.
+
+Ein Universalindikator ist eine Mischung aus mehreren Indikatoren. Er zeigt einen ganzen Regenbogen von Farben. Rot steht für starke Säuren, Violett für starke Basen. Indikatorpapier und pH-Teststreifen funktionieren genauso.
+
+Eine Warnung. Indikatoren geben nur einen Schätzwert. Für genaue Arbeit benutzt man ein pH-Meter. Wie es funktioniert, lernst du im Kapitel über Elektrochemie.
+
+Warum ist das im Labor wichtig? Urinteststreifen sind voller Indikatoren. Ein Feld misst den pH-Wert des Urins. Er liegt normal bei etwa fünf bis sieben. Auch das Eiweißfeld nutzt einen Indikatoreffekt. Proteine verändern dort die Farbe eines Farbstoffs. Viele Nährmedien für Zellkulturen enthalten Phenolrot. Es wird gelb, wenn das Medium sauer wird. Das ist eine Warnung: Die Zellen sind zu dicht gewachsen, oder die Kultur ist verunreinigt.
+
+Kurz gesagt: Ein Indikator ist eine schwache Säure. Seine Säureform und seine Basenform haben verschiedene Farben. Er wechselt die Farbe in einem bestimmten pH-Bereich. Indikatoren zeigen den Endpunkt einer Titration und stecken in Teststreifen.
+
+# Das chemische Gleichgewicht — Chemical equilibrium
+
+Im ersten Leitfaden sah eine Reaktionsgleichung wie eine Einbahnstraße aus. Ausgangsstoffe gehen hinein, Produkte kommen heraus. Aber viele Reaktionen können auch rückwärts laufen. Die Produkte reagieren dann wieder zu den Ausgangsstoffen. Solche Reaktionen heißen umkehrbar oder reversibel.
+
+Stell dir eine umkehrbare Reaktion in einem geschlossenen Gefäß vor. Am Anfang gibt es nur Ausgangsstoffe. Die Hinreaktion läuft schnell, weil viel Material da ist. Es bilden sich Produkte. Jetzt beginnt auch die Rückreaktion. Sie wird schneller, je mehr Produkt da ist. Irgendwann laufen beide Reaktionen genau gleich schnell. Ab diesem Moment ändern sich die Mengen nicht mehr. Diesen Zustand nennt man das chemische Gleichgewicht.
+
+Wichtig ist: Die Reaktionen haben nicht aufgehört. Beide Richtungen laufen weiter, die ganze Zeit. Aber sie heben sich gegenseitig auf. Chemiker sprechen von einem dynamischen Gleichgewicht.
+
+Ein Vergleich hilft. Stell dir ein volles Geschäft mit zwei Türen vor. Durch die eine Tür kommen Leute herein, durch die andere gehen Leute hinaus. Kommen genauso viele herein, wie hinausgehen, bleibt die Zahl der Leute im Geschäft gleich. Trotzdem sind es ständig andere Leute.
+
+Gleichgewicht bedeutet nicht, dass Ausgangsstoffe und Produkte gleich viel sind. Manche Reaktionen erreichen das Gleichgewicht, wenn fast alles zu Produkt geworden ist. Andere erreichen es, wenn kaum Produkt entstanden ist. Die Lage des Gleichgewichts beschreibt eine Zahl. Sie heißt Gleichgewichtskonstante. Eine große Konstante bedeutet: Das Gleichgewicht liegt auf der Seite der Produkte. Eine kleine Konstante bedeutet: Es liegt auf der Seite der Ausgangsstoffe.
+
+Die Gleichgewichtskonstante ist das Produkt der Konzentrationen der Produkte, geteilt durch das Produkt der Konzentrationen der Ausgangsstoffe. Dieses Verhältnis heißt auch Massenwirkungsgesetz. Für eine bestimmte Reaktion und Temperatur ist es immer gleich.
+
+Eine Gleichgewichtskonstante kennst du schon, ohne ihren Namen. Eine schwache Säure gibt ihre Protonen nur teilweise ab. Sie ist also im Gleichgewicht. Ihre Konstante heißt Säurekonstante. Der p K s Wert aus dem Pufferkapitel ist einfach der negative Logarithmus dieser Säurekonstante.
+
+Ein anderes Beispiel ist die Löslichkeit. Ein Salz löst sich, bis sich nichts mehr löst. Dann stehen die gelösten Ionen und das feste Salz im Gleichgewicht. Das nennt man eine gesättigte Lösung.
+
+Warum ist das im Labor wichtig? Viele Laborreaktionen sind Gleichgewichte. Bei einem Antikörpertest binden Antikörper und Zielstoff aneinander und lösen sich wieder. Das geht so lange, bis ein Gleichgewicht erreicht ist. Der Test muss warten, bis dieses Gleichgewicht steht. Darum geben Testkits genaue Inkubationszeiten an. Auch Hämoglobin und Sauerstoff bilden ein Gleichgewicht. So nimmt das Blut in der Lunge Sauerstoff auf und gibt ihn im Gewebe wieder ab.
+
+Kurz gesagt: Bei einer umkehrbaren Reaktion laufen Hinreaktion und Rückreaktion irgendwann gleich schnell. Dann bleiben die Mengen konstant, obwohl beide Reaktionen weiterlaufen. Das ist das chemische Gleichgewicht. Die Gleichgewichtskonstante beschreibt seine Lage.
+
+# Le Chateliers Prinzip — Le Chatelier's principle
+
+Was passiert, wenn man ein Gleichgewicht stört? Der französische Chemiker Henri Le Chatelier fand eine einfache Regel. Ein System im Gleichgewicht reagiert auf eine Störung so, dass die Störung kleiner wird. Es stellt sich ein neues Gleichgewicht ein. Man nennt das auch das Prinzip vom kleinsten Zwang.
+
+Schauen wir die möglichen Störungen nacheinander an.
+
+Erstens eine Änderung der Konzentration. Gibst du mehr Ausgangsstoff dazu, verbraucht das System einen Teil davon. Das Gleichgewicht verschiebt sich zur Seite der Produkte. Nimmst du Produkt weg, bildet das System neues Produkt. Auch dann verschiebt sich das Gleichgewicht zu den Produkten. Gibst du mehr Produkt dazu, verschiebt es sich zurück zu den Ausgangsstoffen.
+
+Zweitens eine Änderung der Temperatur. Manche Reaktionen geben Wärme ab, andere nehmen Wärme auf. Erwärmst du ein System, verschiebt sich das Gleichgewicht in die Richtung, die Wärme aufnimmt. Kühlst du es ab, verschiebt es sich in die Richtung, die Wärme abgibt. Die Temperatur ist die einzige Störung, die auch die Gleichgewichtskonstante selbst verändert.
+
+Drittens eine Änderung des Drucks. Das ist nur wichtig, wenn Gase beteiligt sind. Erhöhst du den Druck, verschiebt sich das Gleichgewicht zur Seite mit weniger Gasteilchen. Diese Seite braucht weniger Platz.
+
+Ein Katalysator verschiebt das Gleichgewicht nicht. Er hilft dem System nur, das Gleichgewicht schneller zu erreichen.
+
+Stell dir eine Wippe mit Kindern auf beiden Seiten vor. Setzt sich ein neues Kind auf eine Seite, rücken die anderen, bis die Wippe wieder im Gleichgewicht ist. Das System ignoriert die Änderung nicht. Es passt sich an.
+
+Der Blutpuffer ist ein perfektes Beispiel. Kohlendioxid und Wasser stehen im Gleichgewicht mit Kohlensäure. Kohlensäure steht im Gleichgewicht mit Protonen und Bicarbonat. Bilden die Muskeln zusätzliche Säure, reagieren die Protonen mit Bicarbonat. Das Gleichgewicht verschiebt sich zur Kohlensäure und dann zum Kohlendioxid. Die Lunge atmet dieses zusätzliche Kohlendioxid ab. Das Produkt wird entfernt, und das zieht die ganze Kette mit. Das ist Le Chatelier in deinem eigenen Körper.
+
+Noch ein Beispiel aus dem Körper. In der Lunge ist viel Sauerstoff. Das Gleichgewicht zwischen Hämoglobin und Sauerstoff verschiebt sich zum beladenen Hämoglobin. Im Gewebe ist wenig Sauerstoff. Dort verschiebt sich das Gleichgewicht zurück, und das Hämoglobin gibt den Sauerstoff ab.
+
+Warum ist das im Labor wichtig? Viele Tests nutzen Le Chatelier mit Absicht. Man gibt ein Reagenz in großem Überschuss dazu. So läuft die Reaktion fast vollständig zur Produktseite. Dann hat der ganze gesuchte Stoff reagiert, und das Signal ist proportional zu seiner Menge. Bei Enzymtests entfernt man oft ein Produkt durch eine zweite Reaktion. Das zieht die erste Reaktion nach vorne. Und Proben werden gekühlt oder verschlossen gelagert. So verschieben sich Gleichgewichte nicht vor der Messung.
+
+Kurz gesagt: Störst du ein Gleichgewicht, verschiebt es sich so, dass die Störung kleiner wird. Mehr Ausgangsstoff oder weniger Produkt verschiebt es zu den Produkten. Auch Temperatur und Druck verschieben Gleichgewichte, ein Katalysator aber nicht.
+
+# Die Reaktionskinetik — Reaction kinetics
+
+Das Gleichgewicht sagt dir, wo eine Reaktion endet. Die Kinetik sagt dir, wie schnell sie dorthin kommt. Die Reaktionskinetik ist die Lehre von der Reaktionsgeschwindigkeit.
+
+Die Reaktionsgeschwindigkeit ist die Änderung der Konzentration pro Zeit. Zum Beispiel die Menge Produkt, die pro Sekunde entsteht. Oder die Menge Ausgangsstoff, die pro Minute verschwindet.
+
+Warum laufen manche Reaktionen schnell und andere langsam? Damit Teilchen reagieren, müssen sie sich treffen. Sie müssen mit genug Energie zusammenstoßen und in der richtigen Richtung. Diese Idee heißt Stoßtheorie.
+
+Die kleinste Energie für einen erfolgreichen Zusammenstoß heißt Aktivierungsenergie. Stell sie dir wie einen Hügel vor. Die Teilchen müssen hinaufsteigen, bevor sie auf der anderen Seite hinunterrollen können. Ein hoher Hügel bedeutet eine langsame Reaktion. Ein niedriger Hügel bedeutet eine schnelle Reaktion.
+
+Vier Dinge verändern die Geschwindigkeit einer Reaktion.
+
+Das Erste ist die Konzentration. Mehr Teilchen im gleichen Volumen bedeuten mehr Zusammenstöße pro Sekunde. Eine höhere Konzentration bedeutet also meist eine schnellere Reaktion.
+
+Das Zweite ist die Temperatur. Warme Teilchen bewegen sich schneller. Sie stoßen öfter zusammen, und mehr von ihnen haben genug Energie für den Hügel. Eine grobe Regel sagt: Zehn Grad Celsius mehr verdoppeln die Reaktionsgeschwindigkeit ungefähr. Das ist die R G T Regel.
+
+Das Dritte ist die Oberfläche. Ein feines Pulver reagiert schneller als ein großer Klumpen. Beim Pulver liegen mehr Teilchen an der Oberfläche. Ein Zuckerwürfel löst sich langsamer als Streuzucker.
+
+Das Vierte ist ein Katalysator. Ein Katalysator senkt die Aktivierungsenergie. Er baut sozusagen einen Tunnel durch den Hügel. Die Reaktion wird schneller, aber der Katalysator wird nicht verbraucht. Am Ende der Reaktion ist er unverändert.
+
+Die wichtigsten Katalysatoren im Körper sind die Enzyme. Enzyme sind Proteine. Jedes Enzym hat ein aktives Zentrum. Das ist eine Tasche, in die nur sein bestimmter Stoff passt. Dieser Stoff heißt Substrat. Denk an einen Schlüssel und ein Schloss. Enzyme machen Reaktionen millionenfach schneller.
+
+Aber Enzyme sind empfindlich. Sie arbeiten am besten bei einer bestimmten Temperatur und einem bestimmten pH-Wert. Im menschlichen Körper liegt die beste Temperatur bei etwa siebenunddreißig Grad Celsius. Wird es zu heiß, zerfällt die Struktur des Proteins. Das Enzym hört für immer auf zu arbeiten. Das nennt man Denaturierung. Zu viel Säure oder Base hat die gleiche Wirkung.
+
+Die Geschwindigkeit eines Enzyms hängt auch vom Substrat ab. Bei wenig Substrat steigt die Geschwindigkeit mit jedem bisschen mehr Substrat. Bei viel Substrat ist jedes Enzym schon beschäftigt. Dann erreicht die Geschwindigkeit ein Maximum. Dieses Verhalten beschreibt das Modell von Michaelis und Menten.
+
+Warum ist das im Labor wichtig? Enzyme haben im Labor zwei Rollen. Erstens sind viele Patientenwerte Enzymaktivitäten, zum Beispiel Leber- und Herzenzyme. Das Gerät misst, wie schnell das Enzym in der Probe sein Substrat umsetzt. Das ist reine Kinetik. Darum muss die Temperatur im Gerät genau stimmen, meist siebenunddreißig Grad Celsius. Zweitens benutzen viele Reagenzien Enzyme als Werkzeug, zum Beispiel für die Glukosemessung. Und man kühlt Proben, um unerwünschte Reaktionen zu bremsen. So verbrauchen die Blutzellen die Glukose nicht vor der Messung.
+
+Kurz gesagt: Die Reaktionskinetik beschreibt, wie schnell eine Reaktion läuft. Höhere Konzentration, höhere Temperatur, größere Oberfläche und ein Katalysator machen sie schneller. Enzyme sind sehr schnelle biologische Katalysatoren, aber empfindlich gegen Temperatur und pH-Wert.
+
+# Salze und Ionen — Salts and ions
+
+Ein Salz ist eine Verbindung aus positiven und negativen Ionen. Im ersten Leitfaden hast du die Ionenbindung kennengelernt. Ein Metall gibt Elektronen an ein Nichtmetall ab. Die entgegengesetzten Ladungen ziehen sich an. Natriumchlorid, also Kochsalz, ist das klassische Beispiel.
+
+Salze entstehen auf viele Arten. Eine Art kennst du schon: Säure und Base ergeben ein Salz und Wasser. Aus Salzsäure und Natronlauge entsteht Natriumchlorid. Aus Schwefelsäure und Kalilauge entsteht Kaliumsulfat.
+
+Positive Ionen heißen Kationen. Negative Ionen heißen Anionen. In einem festen Salz sitzen sie in einem regelmäßigen Ionengitter. Starke Kräfte halten sie zusammen. Darum sind Salze hart und spröde und schmelzen erst bei hoher Temperatur.
+
+Löst sich ein Salz in Wasser, bricht das Gitter auseinander. Wassermoleküle umgeben jedes Ion. Die leicht negative Sauerstoffseite des Wassers zeigt zu den Kationen. Die leicht positive Wasserstoffseite zeigt zu den Anionen. Das nennt man Hydratation. Jetzt können sich die Ionen frei bewegen.
+
+Weil sich die Ionen bewegen, leitet eine Salzlösung den elektrischen Strom. Stoffe, die leitende Lösungen bilden, heißen Elektrolyte. In der Medizin meint man mit Elektrolyten meist die gelösten Ionen in den Körperflüssigkeiten.
+
+Manche Ionen bestehen aus mehreren Atomen, die zusammenbleiben. Man nennt sie Molekül-Ionen. Beispiele sind Hydrogencarbonat, Phosphat, Sulfat und Ammonium.
+
+Eine wichtige Regel: Jede Lösung ist insgesamt elektrisch neutral. Die gesamte positive Ladung ist gleich der gesamten negativen Ladung. Enthält eine Körperflüssigkeit viele Kationen, muss sie gleich viel negative Ladung in Form von Anionen enthalten.
+
+Ein gelöstes Salz kann den pH-Wert des Wassers verändern. Ein Salz aus einer starken Säure und einer starken Base gibt eine neutrale Lösung. Ein Beispiel ist Natriumchlorid. Ein Salz aus einer schwachen Säure und einer starken Base gibt eine leicht basische Lösung. Ein Beispiel ist Natriumacetat. Ein Salz aus einer starken Säure und einer schwachen Base gibt eine leicht saure Lösung. Ein Beispiel ist Ammoniumchlorid.
+
+Ionenkonzentrationen gibt man meist in Millimol pro Liter an. Manchmal, vor allem in älteren Büchern, steht Millival pro Liter. Diese Einheit zählt Ladungen statt Teilchen. Bei einem Ion mit einer Ladung, wie Natrium, sind beide Zahlen gleich. Bei einem Ion mit zwei Ladungen, wie Calcium, ist die Zahl in Millival doppelt so groß.
+
+Warum ist das im Labor wichtig? Physiologische Kochsalzlösung enthält null komma neun Prozent Natriumchlorid. Sie hat etwa die gleiche Salzkonzentration wie Blut. Man benutzt sie zum Verdünnen von Proben und zum Waschen von Zellen. Das Labor benutzt viele Salzlösungen als Reagenzien und Puffer. Und die Regel der elektrischen Neutralität nutzt man direkt in der Medizin. Das zeigt das übernächste Kapitel.
+
+Kurz gesagt: Salze bestehen aus Kationen und Anionen. In Wasser trennen sich die Ionen und werden von Wassermolekülen umgeben. Solche Lösungen leiten Strom und heißen Elektrolyte. Jede Lösung ist insgesamt elektrisch neutral.
+
+# Natrium und Kalium — Sodium and potassium
+
+Der Körper enthält mehrere wichtige Elektrolyte. Sie steuern den Wasserhaushalt, die Nerven, die Muskeln und den Säure-Basen-Haushalt. Dieses Kapitel behandelt Natrium und Kalium. Das nächste Kapitel behandelt Calcium, Chlorid und Bicarbonat.
+
+Zuerst eine wichtige Idee. Das Körperwasser ist auf zwei Räume verteilt. Die Flüssigkeit in den Zellen heißt Intrazellulärflüssigkeit. Die Flüssigkeit außerhalb der Zellen heißt Extrazellulärflüssigkeit. Dazu gehört auch das Blutplasma. Die beiden Räume haben eine sehr unterschiedliche Zusammensetzung.
+
+Natrium ist das wichtigste Kation außerhalb der Zellen. Im Serum liegt es normal bei etwa hundertfünfunddreißig bis hundertfünfundvierzig Millimol pro Liter. Weil außerhalb der Zellen so viel Natrium ist, bestimmt es, wohin das Wasser geht. Wasser folgt dem Natrium durch Osmose. Darum steuert Natrium das Volumen der Extrazellulärflüssigkeit. Damit steuert es auch das Blutvolumen und den Blutdruck.
+
+Zu wenig Natrium heißt Hyponatriämie. Oft ist dann zu viel Wasser im Körper. Das kommt zum Beispiel bei manchen Medikamenten oder bei Herzschwäche vor. Typisch sind Verwirrung, Kopfschmerzen und in schweren Fällen Krampfanfälle. Zu viel Natrium heißt Hypernatriämie. Oft hat der Körper dann Wasser verloren. Das passiert zum Beispiel, wenn jemand stark schwitzt und nicht trinkt.
+
+Kalium ist das wichtigste Kation in den Zellen. In den Zellen liegt es bei etwa hundertvierzig Millimol pro Liter. Im Serum sind es nur etwa drei komma fünf bis fünf Millimol pro Liter. Diesen großen Unterschied hält die Natrium-Kalium-Pumpe aufrecht. Du kennst sie aus dem ersten Leitfaden. Sie pumpt Natrium aus der Zelle hinaus und Kalium hinein.
+
+Dieser Unterschied beim Kalium erzeugt eine kleine elektrische Spannung an der Zellmembran. Nerven und Muskeln brauchen diese Spannung, auch das Herz. Darum ist ein falscher Kaliumwert so gefährlich. Zu wenig Kalium heißt Hypokaliämie. Zu viel Kalium heißt Hyperkaliämie. Beides kann lebensgefährliche Herzrhythmusstörungen auslösen.
+
+Warum ist das im Labor wichtig? Natrium und Kalium gehören zu den häufigsten Laborwerten. Beim Kalium ist die Präanalytik besonders wichtig. Rote Blutkörperchen enthalten etwa fünfundzwanzigmal mehr Kalium als das Serum. Platzen sie bei der Blutentnahme, tritt Kalium in die Probe aus. Das nennt man Hämolyse. Der Kaliumwert ist dann falsch hoch. Das Gleiche passiert, wenn die Probe zu lange steht. Es passiert auch, wenn sie vor dem Zentrifugieren im Kühlschrank liegt. Die Pumpen arbeiten dann nicht mehr, und Kalium tritt aus. Ein falsch hoher Kaliumwert kann zu einer falschen Behandlung führen. Darum prüft das Labor jede Probe auf Hämolyse. Oft erkennt man sie an der roten Farbe des Serums.
+
+Kurz gesagt: Natrium ist das wichtigste Kation außerhalb der Zellen und steuert die Verteilung des Wassers. Kalium ist das wichtigste Kation in den Zellen und unverzichtbar für Nerven und Herz. Hämolyse erhöht den Kaliumwert falsch.
+
+# Calcium, Chlorid und Bicarbonat — Calcium, chloride and bicarbonate
+
+Calcium hat mehr Aufgaben als fast jedes andere Ion. Es baut Knochen und Zähne auf. Dort liegen etwa neunundneunzig Prozent des Calciums im Körper. Calcium braucht man für die Muskelkontraktion, für Nervensignale und für die Blutgerinnung. Es ist außerdem ein Botenstoff in den Zellen.
+
+Das Gesamtcalcium im Serum liegt normal bei etwa zwei komma zwei bis zwei komma sechs Millimol pro Liter. Aber nicht alles davon ist frei. Etwa die Hälfte sind freie Ionen. Das ist der aktive Teil. Etwa vierzig Prozent sind an Proteine gebunden, vor allem an Albumin. Der Rest ist an kleine Anionen gebunden, zum Beispiel an Phosphat und Citrat.
+
+Das ist für die Beurteilung wichtig. Hat ein Patient wenig Albumin, ist das Gesamtcalcium niedrig. Das aktive, freie Calcium kann trotzdem normal sein. Darum messen manche Labore das freie Calcium direkt. Man nennt es ionisiertes Calcium.
+
+Auch der pH-Wert verändert die Bindung. In saurem Blut drängen Protonen das Calcium vom Albumin weg. Das freie Calcium steigt. In basischem Blut bindet mehr Calcium. Das freie Calcium sinkt. Darum kann schnelles Atmen bei Panik zu Kribbeln und Muskelkrämpfen führen.
+
+Das Parathormon und das Vitamin D erhöhen das Calcium. Das Calcitonin senkt es.
+
+Chlorid ist das wichtigste Anion außerhalb der Zellen. Normal sind etwa achtundneunzig bis hundertsechs Millimol pro Liter. Chlorid geht meist mit Natrium zusammen. Es hilft auch beim Ladungsausgleich, wenn Bicarbonat in die roten Blutkörperchen hinein- oder hinauswandert.
+
+Bicarbonat kennst du schon als Basenpartner des Blutpuffers. Normal sind etwa zweiundzwanzig bis sechsundzwanzig Millimol pro Liter.
+
+Jetzt kommt die Idee der elektrischen Neutralität aus dem Salzkapitel zurück. Nimm das Natrium und zieh Chlorid und Bicarbonat ab. Das Ergebnis ist nicht null. Es sind etwa acht bis sechzehn Millimol pro Liter. Diese Lücke heißt Anionenlücke. Sie steht für Anionen, die man nicht routinemäßig misst. Dazu gehören Proteine, Phosphat und Sulfat. Ist die Lücke größer als normal, sind zusätzliche Säuren da. Das hilft den Ärzten, die Ursache einer metabolischen Azidose zu finden. Ursachen sind zum Beispiel Milchsäure oder die Säuren bei einem entgleisten Diabetes.
+
+Warum ist das im Labor wichtig? Für Calcium ist die Art des Röhrchens entscheidend. Manche Gerinnungshemmer, wie E D T A und Citrat, wirken, indem sie Calcium binden. Eine Probe aus so einem Röhrchen zeigt ein falsch sehr niedriges Calcium. Schon ein paar Tropfen aus einem E D T A Röhrchen können einen Calciumwert verderben. Darum ist die Reihenfolge der Röhrchen bei der Blutentnahme genau festgelegt. E D T A enthält außerdem Kalium. Eine Verschleppung erhöht also auch den Kaliumwert.
+
+Kurz gesagt: Calcium braucht man für Knochen, Muskeln, Nerven und Gerinnung. Nur das freie Calcium ist aktiv. Chlorid ist das wichtigste Anion außerhalb der Zellen, und Bicarbonat ist die Pufferbase des Blutes. Die Anionenlücke hilft, zusätzliche Säuren zu finden.
+
+# Die Redoxreaktion — Redox reactions
+
+Im ersten Leitfaden hast du die Grundlagen der Redoxreaktion gelernt. Oxidation ist die Abgabe von Elektronen. Reduktion ist die Aufnahme von Elektronen. Beides passiert immer zusammen, denn Elektronen können nicht einfach verschwinden.
+
+Du kennst auch die Oxidationszahlen. Bei einer Oxidation steigt die Oxidationszahl. Bei einer Reduktion sinkt sie.
+
+Der Stoff, der einem anderen Elektronen wegnimmt, heißt Oxidationsmittel. Er selbst wird dabei reduziert. Der Stoff, der Elektronen abgibt, heißt Reduktionsmittel. Er selbst wird dabei oxidiert. Sauerstoff ist das klassische Oxidationsmittel. Daher kommt auch das Wort Oxidation.
+
+Nicht jeder Stoff gibt oder nimmt Elektronen gleich leicht. Manche Metalle geben ihre Elektronen sehr gern ab, zum Beispiel Natrium und Zink. Sie sind starke Reduktionsmittel. Andere halten ihre Elektronen fest, zum Beispiel Gold und Silber. Chemiker ordnen die Metalle in einer Liste. Am Anfang stehen die Metalle, die leicht Elektronen abgeben. Am Ende stehen die Metalle, die sie festhalten. Diese Liste heißt elektrochemische Spannungsreihe.
+
+Die Spannungsreihe sagt Reaktionen voraus. Stell einen Eisennagel in eine Lösung mit Kupfer-Ionen. Eisen gibt seine Elektronen leichter ab als Kupfer. Also gibt das Eisen seine Elektronen an die Kupfer-Ionen ab. Auf dem Nagel erscheint eine rote Schicht aus Kupfer. Eisen-Ionen gehen in die Lösung.
+
+Im Körper liefern Redoxreaktionen Energie. Nährstoffe werden Schritt für Schritt oxidiert. Die Elektronen wandern in den Mitochondrien eine Kette entlang, bis sie den Sauerstoff erreichen. Trägermoleküle transportieren die Elektronen. Das wichtigste heißt N A D. In seiner reduzierten Form trägt es Elektronen und heißt N A D H. In seiner oxidierten Form hat es sie abgegeben.
+
+Das Eisen im Hämoglobin muss in seiner reduzierten Form bleiben, mit zwei positiven Ladungen. Nur so trägt es Sauerstoff. Wird es oxidiert, entsteht Methämoglobin. Methämoglobin kann keinen Sauerstoff tragen.
+
+Warum ist das im Labor wichtig? N A D H ist eines der nützlichsten Moleküle in der klinischen Chemie. Es absorbiert ultraviolettes Licht mit einer Wellenlänge von dreihundertvierzig Nanometern. N A D tut das nicht. Darum koppelt man viele Enzymtests an eine Reaktion, die N A D H bildet oder verbraucht. Das Gerät beobachtet einfach, wie die Lichtabsorption bei dreihundertvierzig Nanometern steigt oder fällt. So misst man Glukose, viele Leberenzyme und viele andere Werte. Auch die Farbe auf vielen Glukoseteststreifen entsteht durch eine Redoxreaktion.
+
+Kurz gesagt: Oxidation ist Abgabe von Elektronen, Reduktion ist Aufnahme, und beides passiert immer zusammen. Die Spannungsreihe ordnet Stoffe danach, wie leicht sie Elektronen abgeben. Das Redoxpaar N A D und N A D H ist die Grundlage vieler Enzymtests.
+
+# Die Elektrochemie — Electrochemistry
+
+Die Elektrochemie verbindet Chemie und Elektrizität. Die Grundidee ist einfach. Bei einer Redoxreaktion wandern Elektronen von einem Stoff zum anderen. Lässt man diese Elektronen durch einen Draht fließen, erhält man elektrischen Strom.
+
+So funktioniert eine Batterie. Stell dir zwei Gefäße vor. Im ersten steht ein Zinkblech in einer Zinksalzlösung. Im zweiten steht ein Kupferblech in einer Kupfersalzlösung. Ein Draht verbindet die beiden Bleche. Eine Salzbrücke verbindet die beiden Lösungen. Das ist ein Röhrchen mit Salzlösung, durch das Ionen wandern können.
+
+Zink gibt Elektronen leichter ab als Kupfer. Darum geben Zinkatome Elektronen ab und gehen als Ionen in die Lösung. Die Elektronen fließen durch den Draht zum Kupferblech. Dort nehmen Kupfer-Ionen aus der Lösung sie auf und werden zu Kupfermetall. Elektronen fließen durch den Draht, Ionen fließen durch die Salzbrücke. So ist der Stromkreis geschlossen. Diese Anordnung heißt galvanisches Element.
+
+Jedes Metallblech ist eine Elektrode. Die Elektrode, an der die Oxidation passiert, heißt Anode. Die Elektrode, an der die Reduktion passiert, heißt Kathode.
+
+Zwischen den beiden Elektroden gibt es eine Spannung. Man misst sie in Volt. Ihre Größe hängt davon ab, wie weit die beiden Metalle in der Spannungsreihe auseinanderliegen. Je größer der Abstand, desto höher die Spannung. Die Spannung hängt auch von der Konzentration der Ionen ab. Diesen Zusammenhang beschreibt die Nernst-Gleichung. Einfach gesagt: Die Spannung einer Elektrode ändert sich mit dem Logarithmus der Ionenkonzentration.
+
+Dieser letzte Punkt ist sehr nützlich. Hängt die Spannung von einer Konzentration ab, kann man die Spannung messen und daraus die Konzentration berechnen. Genau das machen viele Laborgeräte.
+
+Das bekannteste Beispiel ist das pH-Meter. Es hat eine Glaselektrode mit einer sehr dünnen Glasmembran. An der Membran entsteht eine Spannung. Sie hängt von der Oxonium-Konzentration der Probe ab. Das Gerät vergleicht sie mit einer Bezugselektrode. Die Bezugselektrode hat eine konstante Spannung. Aus dem Unterschied berechnet das Gerät den pH-Wert. Vor dem Messen muss man das pH-Meter mit Puffern von bekanntem pH-Wert kalibrieren.
+
+Die Elektrolyse ist der umgekehrte Vorgang. Man legt von außen eine Spannung an. So erzwingt man eine Redoxreaktion, die nicht von selbst läuft. Mit Elektrolyse kann man zum Beispiel Wasser in Wasserstoff und Sauerstoff spalten.
+
+Warum ist das im Labor wichtig? Natrium, Kalium, Chlorid, Calcium und der pH-Wert werden meist mit ionenselektiven Elektroden gemessen. Jede Elektrode hat eine Membran. Nur eine Ionensorte kann die Spannung an dieser Membran beeinflussen. Das Gerät misst die Spannung und berechnet die Konzentration mit dem Nernst-Zusammenhang. Auch Blutgasgeräte benutzen Elektroden für Sauerstoff und Kohlendioxid. Damit die Elektroden genau bleiben, kalibriert das Labor sie regelmäßig. Außerdem misst es jeden Tag Kontrollen.
+
+Kurz gesagt: In einem galvanischen Element erzeugt eine Redoxreaktion einen Strom zwischen zwei Elektroden. Die Spannung hängt von der Ionenkonzentration ab. Ionenselektive Elektroden und das pH-Meter nutzen das, um Ionen in Proben zu messen.
+
+# Zusammenfassung Chemie — Chemistry summary
+
+Schauen wir auf Teil eins zurück.
+
+Säuren geben Protonen ab, Basen nehmen sie auf. Starke Säuren und Basen reagieren vollständig, schwache nur teilweise. Der pH-Wert ist der negative Logarithmus der Oxonium-Konzentration. Sieben ist neutral, und eine pH-Einheit ist ein Faktor zehn.
+
+Ein Puffer ist eine Mischung aus einer schwachen Säure und ihrer Base. Er hält den pH-Wert stabil. Das Blut wird vor allem durch Bicarbonat und Kohlensäure gepuffert. Die Lunge steuert das Kohlendioxid, die Nieren steuern das Bicarbonat. Der normale pH-Wert des Blutes liegt bei sieben komma drei fünf bis sieben komma vier fünf.
+
+Bei der Neutralisation ergeben Säure und Base Wasser und ein Salz. Die Titration nutzt das, um eine unbekannte Konzentration zu finden. Indikatoren zeigen den Endpunkt durch einen Farbwechsel.
+
+Viele Reaktionen sind umkehrbar und erreichen ein dynamisches Gleichgewicht. Nach Le Chatelier verschiebt sich ein gestörtes Gleichgewicht so, dass die Störung kleiner wird. Die Kinetik beschreibt die Geschwindigkeit. Sie steigt mit Konzentration, Temperatur, Oberfläche und Katalysatoren wie Enzymen.
+
+Salze bestehen aus Ionen. Die wichtigsten Elektrolyte im Körper sind Natrium und Chlorid außerhalb der Zellen, Kalium in den Zellen, dazu Calcium und Bicarbonat. Hämolyse erhöht das Kalium falsch, und E D T A senkt das Calcium falsch.
+
+Bei Redoxreaktionen wandern Elektronen. In der Elektrochemie fließen sie durch einen Draht, und die Spannung hängt von der Ionenkonzentration ab. Das ist das Prinzip des pH-Meters und der ionenselektiven Elektroden.
+
+Jetzt kommen wir zur Chemie des Lebens: zur organischen Chemie.
+
+# Teil zwei: Organische Chemie — Part two: Organic chemistry
+
+Die organische Chemie ist die Chemie der Kohlenstoffverbindungen. Der Name kommt von einer alten Idee. Früher dachte man, nur Lebewesen könnten diese Stoffe herstellen. Heute weiß man, dass das nicht stimmt. Der Name ist aber geblieben.
+
+Kohlenstoff ist besonders. Er bildet vier Bindungen. Und er kann sich mit sich selbst zu langen Ketten, Verzweigungen und Ringen verbinden. So entstehen Millionen verschiedener Moleküle. Zucker, Fette, Proteine, DNA, die meisten Medikamente und die meisten Reagenzien sind organische Verbindungen.
+
+Dieser Teil beginnt mit den einfachsten organischen Molekülen, den Kohlenwasserstoffen. Dann kommen die funktionellen Gruppen. Sie geben den Molekülen ihren Charakter. Danach geht es um Namen und Isomerie. Dazu gehören auch die spiegelbildlichen Moleküle, die in der Biologie so wichtig sind. Zum Schluss kommen die wichtigsten Reaktionen: Oxidation, Reduktion, Kondensation und Hydrolyse.
+
+# Die Kohlenwasserstoffe — Hydrocarbons
+
+Kohlenwasserstoffe sind Moleküle, die nur aus Kohlenstoff und Wasserstoff bestehen. Sie sind das Gerüst, auf dem alle anderen organischen Moleküle aufbauen.
+
+Jedes Kohlenstoffatom bildet vier Bindungen. Jedes Wasserstoffatom bildet eine. Der einfachste Kohlenwasserstoff ist Methan. Er hat ein Kohlenstoffatom und vier Wasserstoffatome. Methan ist Erdgas.
+
+Mit einem zweiten Kohlenstoffatom entsteht Ethan. Drei Kohlenstoffatome ergeben Propan, vier ergeben Butan. Danach folgen die Namen griechischen Zahlwörtern. Pentan hat fünf, Hexan sechs, Heptan sieben und Octan acht Kohlenstoffatome.
+
+Gibt es zwischen den Kohlenstoffatomen nur Einfachbindungen, heißt der Kohlenwasserstoff Alkan. Alkane nennt man gesättigt. Jedes Kohlenstoffatom trägt so viele Wasserstoffatome wie möglich. Alkane reagieren eher wenig.
+
+Kohlenstoffatome können sich auch zwei Elektronenpaare teilen. Das ist eine Doppelbindung. Kohlenwasserstoffe mit mindestens einer Doppelbindung heißen Alkene. Das einfachste ist Ethen. Alkene nennt man ungesättigt. Sie könnten nämlich noch mehr Wasserstoff aufnehmen. Die Doppelbindung ist eine reaktive Stelle im Molekül.
+
+Mit drei geteilten Elektronenpaaren entsteht eine Dreifachbindung. Diese Kohlenwasserstoffe heißen Alkine. Ethin, auch Acetylen genannt, brennt in Schweißbrennern.
+
+Die Ketten können sich auch zu Ringen schließen. Ein sehr wichtiger Ring ist das Benzol. Es hat sechs Kohlenstoffatome im Ring. Die Elektronen sind gleichmäßig über den ganzen Ring verteilt. Das macht Benzol sehr stabil. Verbindungen mit so einem Ring heißen aromatische Verbindungen. Der Name kommt von ihrem oft starken Geruch.
+
+Kohlenwasserstoffe sind unpolar. Kohlenstoff und Wasserstoff ziehen Elektronen etwa gleich stark an. Darum gibt es keine Teilladungen. Deshalb mischen sich Kohlenwasserstoffe nicht mit Wasser. Öl schwimmt auf Wasser. Dafür lösen sie sich gut in anderen unpolaren Stoffen. Chemiker sagen: Gleiches löst sich in Gleichem.
+
+Je länger die Kette, desto höher der Siedepunkt. Kurze Alkane sind Gase. Mittlere sind Flüssigkeiten wie Benzin. Lange sind wachsartige Feststoffe wie Paraffin.
+
+Warum ist das im Labor wichtig? Mit unpolaren Lösungsmitteln wie Hexan zieht man fettlösliche Stoffe aus Proben heraus. Die Fettsäureketten in Fetten und Zellmembranen sind lange Kohlenwasserstoffketten. Darum lösen sich Fette nicht im Blutplasma. Sie müssen in Transportteilchen verpackt werden. Diese heißen Lipoproteine. Das erklärt auch, warum Blut nach einer fetten Mahlzeit milchig aussehen kann. Man nennt das lipämisch. Lipämie kann viele Messungen stören.
+
+Kurz gesagt: Kohlenwasserstoffe enthalten nur Kohlenstoff und Wasserstoff. Alkane haben Einfachbindungen, Alkene Doppelbindungen, Alkine Dreifachbindungen, und aromatische Verbindungen haben einen Benzolring. Kohlenwasserstoffe sind unpolar und mischen sich nicht mit Wasser.
+
+# Alkohole, Aldehyde und Ketone — Alcohols, aldehydes and ketones
+
+Ein Gerüst aus Kohlenwasserstoff allein ist ziemlich langweilig. Den Charakter eines organischen Moleküls bestimmen die funktionellen Gruppen. Eine funktionelle Gruppe ist eine kleine Atomgruppe am Gerüst. Sie entscheidet, wie das Molekül reagiert. Moleküle mit der gleichen funktionellen Gruppe verhalten sich ähnlich. Sie sind wie Mitglieder einer Familie.
+
+Die erste Gruppe ist die Hydroxygruppe. Sie besteht aus einem Sauerstoffatom und einem Wasserstoffatom an einem Kohlenstoffatom. Moleküle mit dieser Gruppe heißen Alkohole. Ihre Namen enden auf »ol«. Methanol hat ein Kohlenstoffatom, Ethanol hat zwei. Ethanol ist der Alkohol in Getränken und in Desinfektionsmitteln. Methanol ist stark giftig.
+
+Die Hydroxygruppe ist polar. Sie kann Wasserstoffbrücken mit Wasser bilden. Darum mischen sich kleine Alkohole leicht mit Wasser. Glycerin ist ein Alkohol mit drei Hydroxygruppen. Es steckt in jedem Fettmolekül.
+
+Man unterscheidet Alkohole danach, wo die Hydroxygruppe sitzt. Bei einem primären Alkohol ist das Kohlenstoffatom mit der Hydroxygruppe an nur ein anderes Kohlenstoffatom gebunden. Bei einem sekundären Alkohol ist es an zwei andere Kohlenstoffatome gebunden. Dieser Unterschied ist bei der Oxidation wichtig. Das siehst du später.
+
+Die nächste Gruppe ist die Carbonylgruppe. Das ist ein Kohlenstoffatom mit einer Doppelbindung zu einem Sauerstoffatom. Wo sie sitzt, entscheidet über die Familie.
+
+Sitzt die Carbonylgruppe am Ende einer Kette, ist das Molekül ein Aldehyd. Sein Name endet auf »al«. Methanal kennt man besser als Formaldehyd. Damit fixiert man Gewebeproben für die Pathologie. Aldehyde sind reaktiv und lassen sich leicht oxidieren.
+
+Sitzt die Carbonylgruppe in der Mitte der Kette, zwischen zwei Kohlenstoffatomen, ist das Molekül ein Keton. Sein Name endet auf »on«. Das einfachste Keton ist Propanon, besser bekannt als Aceton. Es ist ein Lösungsmittel und steckt auch im Nagellackentferner.
+
+Zucker verbinden diese Gruppen. Glukose hat mehrere Hydroxygruppen und eine Aldehydgruppe. Fruktose hat mehrere Hydroxygruppen und eine Ketogruppe.
+
+Warum ist das im Labor wichtig? Ethanol und andere Alkohole benutzt man zum Desinfizieren und zum Fixieren von Blutausstrichen. Formaldehyd fixiert Gewebe. Ketone spielen in der Diagnostik eine Rolle. Kann der Körper keine Glukose nutzen, verbrennt er Fett. Das passiert zum Beispiel bei einem unbehandelten Typ eins Diabetes. Dabei entstehen Ketonkörper, darunter Aceton. Sie machen das Blut sauer. Ein Feld auf dem Urinteststreifen zeigt Ketonkörper an. Bei manchen Patienten riecht sogar der Atem nach Aceton.
+
+Kurz gesagt: Funktionelle Gruppen geben organischen Molekülen ihren Charakter. Alkohole haben eine Hydroxygruppe. Aldehyde haben eine Carbonylgruppe am Ende der Kette, Ketone in der Mitte.
+
+# Säuren, Ester und Amine — Acids, esters and amines
+
+Die Carboxygruppe verbindet eine Carbonylgruppe und eine Hydroxygruppe am selben Kohlenstoffatom. Moleküle mit dieser Gruppe heißen Carbonsäuren. Die Carboxygruppe kann das Proton ihrer Hydroxygruppe abgeben. Darum sind diese Moleküle Säuren. Es sind schwache Säuren.
+
+Methansäure heißt auch Ameisensäure. Sie steckt im Stich der Ameise. Ethansäure kennt man besser als Essigsäure. Sie ist im Essig. Milchsäure bildet sich in den Muskeln bei harter Arbeit. Zitronensäure steckt in Zitronen.
+
+Gibt eine Carbonsäure ihr Proton ab, wird sie zu einem negativen Ion. Ihr Name endet dann auf »at«. Aus Essigsäure wird Acetat, aus Milchsäure wird Laktat. Im Körper liegt der pH-Wert bei etwa sieben komma vier. Dort liegen die meisten dieser Säuren in ihrer »at« Form vor. Darum sprechen Ärzte von Laktat und nicht von Milchsäure.
+
+Fettsäuren sind Carbonsäuren mit einem langen Schwanz aus Kohlenwasserstoff. Der Kopf ist polar, der Schwanz nicht. Das ist das Geheimnis der Seife und der Zellmembran.
+
+Ester entstehen, wenn eine Carbonsäure mit einem Alkohol reagiert. Dabei wird Wasser frei. Ester riechen oft fruchtig. Viele Fruchtaromen sind Ester. Die wichtigsten Ester im Körper sind die Fette. Ein Fett heißt Triglycerid. Es besteht aus einem Glycerin und drei Fettsäuren. Sie sind durch Esterbindungen verbunden.
+
+Amine enthalten Stickstoff. Sie leiten sich vom Ammoniak ab. Ein oder mehrere Wasserstoffatome sind durch Kohlenstoffgruppen ersetzt. Das Stickstoffatom hat ein freies Elektronenpaar. Damit kann es ein Proton aufnehmen. Amine sind also Basen. Die Aminogruppe ist eine Amingruppe mit zwei Wasserstoffatomen.
+
+Aminosäuren tragen eine Aminogruppe und eine Carboxygruppe. Sie sind die Bausteine der Proteine. Im Körper tragen sie meist beide Ladungen gleichzeitig. Die Säuregruppe hat ihr Proton abgegeben, und die Aminogruppe hat eines aufgenommen.
+
+Verbindet sich die Carboxygruppe einer Aminosäure mit der Aminogruppe einer anderen, entsteht eine Amidbindung. In Proteinen heißt sie Peptidbindung. Lange Ketten aus Aminosäuren mit Peptidbindungen sind Proteine.
+
+Warum ist das im Labor wichtig? Laktat misst man im Blut, um einen Sauerstoffmangel im Gewebe zu erkennen. Das ist zum Beispiel bei Schock oder Sepsis wichtig. Triglyceride gehören zu jedem Fettstoffwechselprofil. Die Probe sollte nüchtern entnommen werden. Eine Mahlzeit erhöht die Triglyceride nämlich für Stunden. Viele Hormone und Botenstoffe sind Amine, zum Beispiel Adrenalin. Und die Esterbindung ist das Ziel des Enzyms Lipase. Lipase misst man, um eine Entzündung der Bauchspeicheldrüse zu erkennen.
+
+Kurz gesagt: Carbonsäuren haben eine Carboxygruppe und sind schwache Säuren. Säure und Alkohol ergeben einen Ester. Diese Bindung findet man in Fetten. Amine enthalten Stickstoff und sind Basen. Aminosäuren haben beide Gruppen und verbinden sich durch Peptidbindungen zu Proteinen.
+
+# Die Nomenklatur — Naming organic compounds
+
+Es gibt Millionen organischer Moleküle. Darum braucht man ein klares System für ihre Namen. Die internationalen Regeln macht eine Organisation namens I U P A C. Ein Name verrät die Struktur des Moleküls. Er ist wie eine Adresse, die dir sagt, wo ein Haus steht.
+
+Der Name besteht aus drei Teilen: der Hauptkette, der funktionellen Gruppe und den Seitengruppen.
+
+Schritt eins: Such die längste durchgehende Kette aus Kohlenstoffatomen. Ihre Länge ergibt den Stamm des Namens. Ein Kohlenstoff heißt »Meth«, zwei heißen »Eth«, drei »Prop«, vier »But«, fünf »Pent« und sechs »Hex«.
+
+Schritt zwei: Bestimm die wichtigste funktionelle Gruppe. Sie ergibt die Endung. Ein Alkan endet auf »an«. Ein Alken auf »en«. Ein Alkohol auf »ol«. Ein Aldehyd auf »al«. Ein Keton auf »on«. Eine Carbonsäure auf »säure«.
+
+Schritt drei: Nummeriere die Kohlenstoffatome der Hauptkette. Du beginnst an dem Ende, das der funktionellen Gruppe die kleinste Nummer gibt. Die Nummer zeigt dann, wo die Gruppe sitzt.
+
+Schritt vier: Benenne die Seitengruppen. Eine Seitengruppe mit einem Kohlenstoff heißt Methyl. Mit zwei Kohlenstoffen heißt sie Ethyl. Halogene heißen Fluor, Chlor, Brom und Iod. Jede Seitengruppe bekommt auch eine Nummer für ihre Position. Kommt dieselbe Seitengruppe zweimal vor, setzt man »Di« davor. Bei dreimal setzt man »Tri« davor.
+
+Ein Beispiel. Eine Kette hat drei Kohlenstoffatome. Am mittleren Kohlenstoff sitzt eine Hydroxygruppe. Der Stamm ist »Prop«, die Endung ist »ol«, die Position ist zwei. Der Name ist Propan zwei ol. Der übliche Name ist Isopropanol. Das ist ein häufiges Desinfektionsmittel im Labor.
+
+Ein zweites Beispiel. Eine Kette hat vier Kohlenstoffatome. Eine Doppelbindung beginnt am Kohlenstoff eins. Der Name ist But eins en.
+
+Ein drittes Beispiel. Eine Kette hat fünf Kohlenstoffatome. Am Kohlenstoff zwei sitzt eine Methylgruppe. Der Name ist zwei Methylpentan.
+
+Neben diesen systematischen Namen benutzt man jeden Tag viele alte Namen. Aceton ist Propanon. Essigsäure ist Ethansäure. Formaldehyd ist Methanal. Glycerin ist Propan eins zwei drei triol. Im Labor hörst du beide Arten von Namen. Darum lohnt es sich, die häufigsten Paare zu kennen.
+
+Warum ist das im Labor wichtig? Auf Reagenzflaschen, Sicherheitsdatenblättern und Arbeitsanleitungen stehen diese Namen. Ethanol und Methanol unterscheiden sich nur durch ein Kohlenstoffatom. Aber das eine ist ein Desinfektionsmittel und das andere ein Gift. Verwechselt man zwei ähnliche Namen, kann das gefährlich sein. Einen Namen richtig zu lesen ist der erste Schritt zum sicheren Umgang mit einer Chemikalie.
+
+Kurz gesagt: Der I U P A C Name besteht aus der längsten Kohlenstoffkette, einer Endung für die wichtigste funktionelle Gruppe und nummerierten Seitengruppen. Viele alte Namen benutzt man im Alltag weiter.
+
+# Die Isomerie — Isomerism
+
+Isomere sind Moleküle mit derselben Summenformel, aber einer anderen Struktur. Sie enthalten genau dieselben Atome in derselben Zahl. Aber die Atome sind anders angeordnet. Und eine andere Anordnung bedeutet einen anderen Stoff mit anderen Eigenschaften.
+
+Denk an die Buchstaben eines Wortes. Dieselben Buchstaben können verschiedene Wörter bilden. Zum Beispiel »Regal« und »Lager«. Die Buchstaben sind gleich. Die Bedeutung ist völlig anders.
+
+Es gibt zwei Hauptarten der Isomerie.
+
+Die erste Art ist die Konstitutionsisomerie. Hier sind die Atome in einer anderen Reihenfolge verbunden. Es gibt mehrere Formen. Bei Kettenisomeren ist das Kohlenstoffgerüst anders. Butan ist eine gerade Kette aus vier Kohlenstoffatomen. Sein Isomer Methylpropan ist verzweigt. Bei Stellungsisomeren sitzt eine funktionelle Gruppe an einer anderen Stelle. Beispiele sind Propan eins ol und Propan zwei ol. Bei Funktionsisomeren bilden die Atome eine ganz andere funktionelle Gruppe. Ethanol ist ein Alkohol. Dimethylether hat dieselben Atome, ist aber ein ganz anderer Stoff.
+
+Auch Glukose und Fruktose sind Konstitutionsisomere. Beide haben sechs Kohlenstoffatome, zwölf Wasserstoffatome und sechs Sauerstoffatome. Aber Glukose ist ein Aldehydzucker und Fruktose ein Ketozucker.
+
+Die zweite Art ist die Stereoisomerie. Hier sind die Atome in derselben Reihenfolge verbunden. Aber sie sind im Raum anders angeordnet. Den Unterschied sieht man nur in drei Dimensionen.
+
+Eine Form der Stereoisomerie gibt es bei Doppelbindungen. Eine Doppelbindung kann sich nicht drehen. Hängen zwei Gruppen an einer Doppelbindung, können sie auf derselben Seite oder auf entgegengesetzten Seiten sitzen. Auf derselben Seite heißt cis. Auf entgegengesetzten Seiten heißt trans.
+
+Das ist für die Ernährung wichtig. Natürliche ungesättigte Fettsäuren sind meist cis Fettsäuren. Ihre Ketten haben einen Knick. Industriell gehärtete Fette können trans Fettsäuren enthalten. Ihre Ketten sind gerade. Transfette erhöhen das schlechte Cholesterin und schaden dem Herzen.
+
+Die andere Form der Stereoisomerie ist die Chiralität, also die Spiegelbildlichkeit. Sie ist so wichtig, dass sie ein eigenes Kapitel bekommt. Es kommt als Nächstes.
+
+Warum ist das im Labor wichtig? Isomere haben dieselbe Masse und dieselbe Summenformel. Manche einfachen Methoden können sie darum nicht unterscheiden. Man braucht Methoden wie die Chromatographie. Sie trennt Stoffe nach ihrer Struktur. Bei Drogentests und beim Neugeborenenscreening ist wichtig, welches Isomer vorliegt. Das eine kann harmlos sein, das andere ein Zeichen für eine Krankheit.
+
+Kurz gesagt: Isomere haben dieselbe Summenformel, aber eine andere Struktur. Bei Konstitutionsisomeren sind die Atome anders verbunden. Bei Stereoisomeren ist die Verbindung gleich, aber die Anordnung im Raum anders, zum Beispiel cis und trans an einer Doppelbindung.
+
+# Die Chiralität — Chirality
+
+Schau deine beiden Hände an. Sie sind Spiegelbilder voneinander. Sie haben dieselben Teile in derselben Reihenfolge. Aber du kannst die eine nicht genau auf die andere legen. Ein linker Handschuh passt nicht auf die rechte Hand. Solche Gegenstände nennt man chiral. Das Wort kommt vom griechischen Wort für Hand.
+
+Auch Moleküle können chiral sein. Der übliche Grund ist ein Kohlenstoffatom mit vier verschiedenen Gruppen. So ein Kohlenstoffatom heißt Chiralitätszentrum oder Stereozentrum. Mit vier verschiedenen Gruppen gibt es zwei mögliche Anordnungen im Raum. Sie sind Spiegelbilder voneinander. Die beiden Formen heißen Enantiomere.
+
+Enantiomere sind ein besonderes Paar. Fast alle ihre physikalischen Eigenschaften sind gleich. Sie haben denselben Schmelzpunkt, denselben Siedepunkt und dieselbe Löslichkeit. Aber einen Unterschied kann man messen. Sie drehen polarisiertes Licht in entgegengesetzte Richtungen. Das eine dreht es nach rechts, das andere um denselben Betrag nach links. Darum nennt man chirale Moleküle auch optisch aktiv.
+
+Für die beiden Formen benutzen Chemiker Buchstaben. Ein älteres System benutzt D und L. Man verwendet es noch für Zucker und Aminosäuren. Fast alle Aminosäuren in menschlichen Proteinen sind L Formen. Fast alle natürlichen Zucker sind D Formen, auch die Glukose im Blut. Ein neueres System für Medikamente benutzt R und S.
+
+Eine Mischung aus gleich viel von beiden Enantiomeren heißt Racemat. Sie dreht das Licht nicht, weil sich die beiden Wirkungen aufheben.
+
+Warum ist Chiralität in der Biologie so wichtig? Weil Enzyme und Rezeptoren selbst chiral sind. Sie bestehen aus L Aminosäuren. Ein Enzym passt zu seinem Substrat wie ein Handschuh zur Hand. Es kann ein Enantiomer annehmen und das andere völlig ignorieren. Unser Körper kann D Glukose nutzen, aber keine L Glukose.
+
+Bei Medikamenten kann das über Leben und Tod entscheiden. Das bekannteste tragische Beispiel ist Contergan, mit dem Wirkstoff Thalidomid. Es wurde um das Jahr neunzehnhundertsechzig als Schlafmittel verkauft. Das eine Enantiomer hatte die gewünschte Wirkung. Das andere verursachte schwere Fehlbildungen bei Neugeborenen. Heute muss man die beiden Formen eines chiralen Medikaments getrennt prüfen.
+
+Warum ist das im Labor wichtig? Viele Enzymtests hängen von der Chiralität ab. Das Labor misst zum Beispiel L Laktat. Diese Form bilden die menschlichen Muskeln. Manche Bakterien bilden D Laktat. Ein normaler Test erkennt es nicht. Bei Verdacht auf so eine Infektion braucht man einen besonderen Test. Glukosetests benutzen Enzyme, die nur mit D Glukose reagieren. Und auch Antikörper in Immuntests erkennen ihr Ziel über diese räumliche Passform.
+
+Kurz gesagt: Ein chirales Molekül passt nicht auf sein Spiegelbild. Meist liegt das an einem Kohlenstoffatom mit vier verschiedenen Gruppen. Die beiden Spiegelformen heißen Enantiomere. Enzyme und Rezeptoren erkennen meist nur eine davon.
+
+# Oxidation und Reduktion — Oxidation and reduction
+
+In der organischen Chemie gilt für Redoxreaktionen dieselbe Regel wie vorher. Oxidation ist Abgabe von Elektronen, Reduktion ist Aufnahme. Bei organischen Molekülen gibt es aber einen einfacheren Blick darauf.
+
+Ein organisches Molekül wird oxidiert, wenn es Sauerstoff aufnimmt oder Wasserstoff abgibt. Es wird reduziert, wenn es Sauerstoff abgibt oder Wasserstoff aufnimmt.
+
+Verfolgen wir die Oxidation eines primären Alkohols. Ethanol gibt zwei Wasserstoffatome ab. So wird es zu Ethanal, einem Aldehyd. Ethanal heißt auch Acetaldehyd. Dann nimmt Ethanal ein Sauerstoffatom auf. So wird es zu Ethansäure, also Essigsäure. Die Reihe ist also: primärer Alkohol, dann Aldehyd, dann Carbonsäure.
+
+Genau das passiert in deiner Leber nach einem Glas Wein. Das Enzym Alkoholdehydrogenase macht aus Ethanol Acetaldehyd. Acetaldehyd ist giftig. Er verursacht einen großen Teil des Katers. Ein zweites Enzym macht daraus Acetat. Die Elektronen aus beiden Schritten nimmt N A D auf. Es wird dabei zu N A D H.
+
+Ein sekundärer Alkohol verhält sich anders. Wird er oxidiert, entsteht ein Keton. Aus Propan zwei ol wird Aceton. Ein Keton lässt sich kaum weiter oxidieren. Am Kohlenstoff der Carbonylgruppe sitzt nämlich kein Wasserstoff mehr.
+
+Ein tertiärer Alkohol lässt sich auf diese Weise gar nicht oxidieren. Bei ihm ist das Kohlenstoffatom mit der Hydroxygruppe an drei andere Kohlenstoffatome gebunden.
+
+Die Reduktion läuft in die andere Richtung. Ein Aldehyd kann zu einem primären Alkohol reduziert werden. Ein Keton wird zu einem sekundären Alkohol. Auch die Anlagerung von Wasserstoff an eine Doppelbindung ist eine Reduktion. Sie heißt Hydrierung. So macht man aus flüssigen Pflanzenölen feste Fette, zum Beispiel für Margarine.
+
+Die vollständige Oxidation eines organischen Moleküls ergibt Kohlendioxid und Wasser. Das passiert, wenn Holz brennt. In deinen Zellen wird Glukose genauso oxidiert. Das geschieht aber langsam und in vielen kleinen Schritten. So kann die Zelle die Energie als A T P speichern.
+
+Aldehyde lassen sich leicht oxidieren. Sie sind also Reduktionsmittel. Ein klassischer Test nutzt das. Eine blaue Lösung mit Kupfer-Ionen wird von einem Aldehydzucker wie Glukose reduziert. Es entsteht ein ziegelroter Niederschlag. Zucker, die das können, heißen reduzierende Zucker.
+
+Warum ist das im Labor wichtig? Ältere Urintests auf Zucker nutzten diese Kupferreduktion. Moderne Tests benutzen Enzyme. Glukoseoxidase oxidiert die Glukose. Dabei entsteht Wasserstoffperoxid. Ein zweites Enzym oxidiert mit dem Wasserstoffperoxid einen Farbstoff. Die Farbe zeigt die Glukosekonzentration. Viele Leberenzymtests folgen dem Redoxpaar N A D und N A D H. Und der Test auf Blutalkohol in der Rechtsmedizin benutzt Alkoholdehydrogenase.
+
+Kurz gesagt: Ein organisches Molekül wird oxidiert, wenn es Sauerstoff aufnimmt oder Wasserstoff abgibt. Bei der Reduktion ist es umgekehrt. Primäre Alkohole werden zu Aldehyden und dann zu Säuren oxidiert, sekundäre Alkohole zu Ketonen. Viele Glukose- und Alkoholtests nutzen diese Reaktionen.
+
+# Kondensation und Hydrolyse — Condensation and hydrolysis
+
+Zwei weitere Reaktionsarten bauen fast alle großen Moleküle des Lebens auf und ab. Sie sind Gegenteile voneinander.
+
+Bei einer Kondensation verbinden sich zwei Moleküle. Dabei wird ein kleines Molekül frei. Meist ist das Wasser. Stell dir zwei Legosteine vor, die zusammenklicken. Dabei fällt ein kleines Teil ab.
+
+Kondensationen kennst du schon. Säure und Alkohol verbinden sich zu einem Ester und Wasser. Zwei Aminosäuren verbinden sich zu einer Peptidbindung und Wasser. Zwei Zuckermoleküle verbinden sich zu einem Zweifachzucker und Wasser. Die Bindung zwischen zwei Zuckern heißt glykosidische Bindung.
+
+Wiederholt man eine Kondensation viele Male, entstehen sehr große Moleküle. Sie heißen Polymere. Die einzelnen Bausteine heißen Monomere. Proteine sind Polymere aus Aminosäuren. Stärke und Glykogen sind Polymere aus Glukose. DNA ist ein Polymer aus Nukleotiden. Fette sind keine Polymere. Aber sie entstehen durch Kondensation von Glycerin mit drei Fettsäuren.
+
+Die Hydrolyse ist das Gegenteil. Das Wort bedeutet »Spaltung durch Wasser«. Ein Wassermolekül wird angelagert, und eine Bindung bricht. Das große Molekül zerfällt in seine Bausteine.
+
+Das ist Verdauung. Wenn du Brot isst, spalten Enzyme im Speichel und im Darm die Stärke zu Glukose. Proteine werden zu Aminosäuren gespalten. Fette werden zu Glycerin und Fettsäuren gespalten. Nur diese kleinen Teile gelangen ins Blut.
+
+Allein läuft eine Hydrolyse meist langsam. Im Körper beschleunigen Enzyme sie. Diese Enzyme sind nach ihrem Ziel benannt. Amylase spaltet Stärke. Proteasen spalten Proteine. Lipasen spalten Fette. Viele Enzymnamen enden auf »ase«.
+
+Ein Polymer durch Kondensation aufzubauen braucht Energie. Es durch Hydrolyse abzubauen setzt Energie frei. Das Energiemolekül der Zelle, das A T P, funktioniert so. Wird eine seiner Phosphatgruppen durch Hydrolyse abgespalten, wird Energie für die Arbeit der Zelle frei.
+
+Man kann eine Hydrolyse auch im Labor durchführen, mit starken Säuren oder Basen und Hitze. Kocht man zum Beispiel ein Fett mit Natronlauge, zerfällt es in Glycerin und Seife. Diese alte Methode heißt Verseifung.
+
+Warum ist das im Labor wichtig? Amylase und Lipase im Blut misst man, um Krankheiten der Bauchspeicheldrüse zu erkennen. Die Tests geben ihnen ein Substrat zum Spalten. Dann messen sie, wie schnell die Enzyme arbeiten. Der Triglyceridtest spaltet Fette mit Lipase in Glycerin. Dann misst man das Glycerin. Die Hydrolyse erklärt auch, warum sich manche Proben beim Stehen verändern. Enzyme in der Probe bauen weiter Stoffe ab. Darum muss man Proben schnell bearbeiten oder einfrieren.
+
+Kurz gesagt: Bei einer Kondensation verbinden sich zwei Moleküle, und Wasser wird frei. Bei der Hydrolyse wird Wasser angelagert, und eine Bindung bricht. Proteine, Kohlenhydrate und Fette werden durch Kondensation aufgebaut und durch Hydrolyse abgebaut, meist mit Hilfe von Enzymen.
+
+# Zusammenfassung organische Chemie — Organic chemistry summary
+
+Schauen wir auf Teil zwei zurück.
+
+Die organische Chemie ist die Chemie des Kohlenstoffs. Kohlenstoff bildet vier Bindungen und lange Ketten. Kohlenwasserstoffe enthalten nur Kohlenstoff und Wasserstoff. Alkane haben Einfachbindungen, Alkene Doppelbindungen, Alkine Dreifachbindungen und aromatische Verbindungen einen Benzolring. Kohlenwasserstoffe sind unpolar und mischen sich nicht mit Wasser.
+
+Funktionelle Gruppen geben Molekülen ihren Charakter. Alkohole haben eine Hydroxygruppe. Aldehyde und Ketone haben eine Carbonylgruppe, am Ende oder in der Mitte der Kette. Carbonsäuren haben eine Carboxygruppe und sind schwache Säuren. Ester entstehen aus Säure und Alkohol. Amine enthalten Stickstoff und sind Basen.
+
+Der systematische Name besteht aus der Hauptkette, der Endung für die funktionelle Gruppe und nummerierten Seitengruppen.
+
+Isomere haben dieselbe Summenformel, aber eine andere Struktur. Konstitutionsisomere sind anders verbunden. Stereoisomere unterscheiden sich im Raum, als cis und trans Formen oder als Spiegelbilder. Chirale Moleküle haben zwei Enantiomere, und Enzyme nehmen meist nur eines an.
+
+Oxidation bedeutet Sauerstoff aufnehmen oder Wasserstoff abgeben, Reduktion ist das Gegenteil. Primäre Alkohole werden zu Aldehyden und Säuren oxidiert, sekundäre zu Ketonen. Die Kondensation verbindet Moleküle und setzt Wasser frei. Die Hydrolyse spaltet sie durch Wasser. Diese Reaktionen bauen Proteine, Zucker und Fette auf und ab.
+
+Mit diesem Wissen schauen wir jetzt den menschlichen Körper an.
+
+# Teil drei: Humanbiologie — Part three: Human biology
+
+Im ersten Leitfaden hast du gelernt, wie eine einzelne Zelle funktioniert. Jetzt schauen wir, wie Milliarden Zellen zusammenarbeiten. Gleiche Zellen bilden Gewebe. Gewebe bilden Organe, zum Beispiel das Herz oder die Leber. Und Organe, die zusammenarbeiten, bilden Organsysteme.
+
+Fast jede Probe im Labor kommt aus einem dieser Systeme. Blut, Urin, Stuhl, Nervenwasser und Gewebe erzählen etwas über ihre Organe. Um einen Laborwert zu verstehen, musst du wissen, was das Organ normalerweise tut. Und was passiert, wenn es versagt.
+
+Dieser Teil beginnt mit dem Blut und dem Kreislauf. Blut ist nämlich die häufigste Probe von allen. Dann kommen das Immunsystem und das Lymphsystem, die Nieren, die Leber und die Verdauung und das Hormonsystem. Am Ende steht ein Überblick über die Lunge, das Nervensystem und die Muskeln und Knochen.
+
+# Die Zusammensetzung des Blutes — Blood composition
+
+Ein Erwachsener hat etwa fünf bis sechs Liter Blut. Blut ist ein flüssiges Gewebe. Es transportiert Sauerstoff, Nährstoffe, Hormone, Wärme und Abfallstoffe. Es verteidigt den Körper gegen Infektionen. Und es kann seine eigenen Lecks durch Gerinnung abdichten.
+
+Stellt man ein Röhrchen Blut mit Gerinnungshemmer hin oder zentrifugiert es, trennt es sich in Schichten. Unten liegen die roten Blutkörperchen. Oben ist eine klare, gelbliche Flüssigkeit, das Plasma. Dazwischen liegt eine dünne, weißliche Schicht. Sie enthält die weißen Blutkörperchen und die Blutplättchen. Man nennt sie Leukozytenfilm.
+
+Der Anteil der roten Blutkörperchen am gesamten Volumen heißt Hämatokrit. Bei Männern liegt er normal bei etwa vierzig bis zweiundfünfzig Prozent. Bei Frauen liegt er bei etwa siebenunddreißig bis achtundvierzig Prozent. Fast die Hälfte des Blutes sind also Zellen. Etwas mehr als die Hälfte ist Plasma.
+
+Plasma besteht zu etwa neunzig Prozent aus Wasser. Der Rest sind gelöste Stoffe. Die größte Gruppe sind die Proteine, etwa sechzig bis achtzig Gramm pro Liter. Das häufigste Protein ist Albumin. Es hält das Wasser in den Blutgefäßen. Es transportiert auch viele Stoffe, zum Beispiel Calcium, Bilirubin und Medikamente. Andere Proteine sind die Antikörper, die Gerinnungsfaktoren und viele Transportproteine. Im Plasma sind außerdem Elektrolyte, Glukose, Fette, Hormone, Vitamine und Abfallstoffe wie Harnstoff und Kreatinin.
+
+Die Zellen im Blut sind von drei Arten. Rote Blutkörperchen tragen Sauerstoff. Weiße Blutkörperchen wehren Infektionen ab. Blutplättchen helfen, Blutungen zu stoppen. Die nächsten Kapitel stellen jede Art vor.
+
+Warum ist das im Labor wichtig? Das Blutbild ist der häufigste Bluttest überhaupt. Es misst den Hämatokrit, die Zahl jeder Zellart und das Hämoglobin. Dafür braucht man Vollblut mit dem Gerinnungshemmer E D T A. E D T A erhält die Form der Zellen gut. Vor der Messung muss man das Röhrchen vorsichtig mischen. Die Zellen sinken nämlich mit der Zeit nach unten. Eine nicht gemischte Probe gibt falsche Zellzahlen.
+
+Kurz gesagt: Blut ist ein flüssiges Gewebe, etwa fünf bis sechs Liter. Es besteht aus Plasma und Zellen. Plasma ist vor allem Wasser mit Proteinen und gelösten Stoffen. Die Zellen sind rote Blutkörperchen, weiße Blutkörperchen und Blutplättchen. Der Hämatokrit ist der Anteil der roten Zellen.
+
+# Die Erythrozyten — Red blood cells
+
+Die roten Blutkörperchen heißen auch Erythrozyten. Sie sind die mit Abstand häufigsten Zellen im Blut. Ein Mann hat etwa viereinhalb bis sechs Millionen davon in jedem Mikroliter Blut. Eine Frau hat etwa vier bis fünfeinhalb Millionen.
+
+Ein Erythrozyt hat die Form einer Scheibe. In der Mitte ist sie dünner als am Rand. Diese Form gibt ihm eine große Oberfläche für den Gasaustausch. Er ist etwa siebeneinhalb Mikrometer breit. Das ist breiter als die engsten Kapillaren. Darum muss die Zelle sehr biegsam sein, um sich hindurchzudrücken.
+
+Reife Erythrozyten haben keinen Zellkern und keine Mitochondrien. Sie haben diese Organellen aufgegeben. So haben sie Platz für ihre wichtigste Fracht: das Hämoglobin.
+
+Hämoglobin ist ein Protein aus vier Ketten. Jede Kette trägt eine Hämgruppe mit einem Eisenatom in der Mitte. Jedes Eisenatom kann ein Sauerstoffmolekül binden. Ein Hämoglobinmolekül trägt also bis zu vier Sauerstoffmoleküle. Hämoglobin gibt dem Blut seine rote Farbe. Sauerstoffreiches Blut ist hellrot, sauerstoffarmes Blut ist dunkler.
+
+Das normale Hämoglobin liegt bei Männern bei etwa dreizehneinhalb bis siebzehneinhalb Gramm pro Deziliter. Bei Frauen liegt es bei etwa zwölf bis sechzehn.
+
+Erythrozyten leben etwa hundertzwanzig Tage. Dann werden sie steif und werden abgebaut, vor allem in der Milz. Ihr Hämoglobin wird zerlegt. Das Eisen wird wiederverwertet. Aus dem Häm entsteht ein gelber Farbstoff namens Bilirubin. Die Leber scheidet ihn aus.
+
+Jeden Tag bildet der Körper etwa zweihundert Milliarden neue rote Zellen. Junge rote Zellen enthalten noch Reste ihres Erbmaterials. Sie heißen Retikulozyten. Ihre Zahl zeigt, wie aktiv das Knochenmark arbeitet.
+
+Zu wenige rote Zellen oder zu wenig Hämoglobin nennt man Anämie, also Blutarmut. Der Patient ist müde, schwach und blass. Die häufigste Ursache weltweit ist Eisenmangel. Dann werden die roten Zellen klein und blass. Ein Mangel an Vitamin B zwölf oder Folsäure macht sie dagegen groß.
+
+Aus den Zählwerten berechnet das Gerät die Erythrozytenindizes. Das mittlere Zellvolumen, kurz M C V, ist die durchschnittliche Größe einer roten Zelle. Das mittlere Zellhämoglobin, kurz M C H, ist die durchschnittliche Menge Hämoglobin in einer Zelle. Diese Werte helfen bei der Suche nach der Ursache einer Anämie.
+
+Warum ist das im Labor wichtig? Die Erythrozytenzahl, das Hämoglobin und die Indizes gehören zu jedem Blutbild. Im gefärbten Blutausstrich sieht man unter dem Mikroskop die Form der Zellen. So erkennt man Krankheiten wie die Sichelzellanämie. Vor einer Bluttransfusion bestimmt das Labor außerdem die Blutgruppe. Sie wird durch Moleküle auf der Oberfläche der roten Zellen bestimmt.
+
+Kurz gesagt: Erythrozyten sind biegsame Scheiben ohne Zellkern. Sie sind voll mit Hämoglobin, das mit Hilfe von Eisen Sauerstoff trägt. Sie leben etwa hundertzwanzig Tage. Zu wenige rote Zellen oder zu wenig Hämoglobin heißt Anämie.
+
+# Die Leukozyten — White blood cells
+
+Die weißen Blutkörperchen heißen auch Leukozyten. Sie sind die Abwehrtruppe des Körpers. Anders als rote Zellen haben sie einen Zellkern. Sie sind seltener. Normal sind etwa viertausend bis zehntausend pro Mikroliter Blut. Zu viele heißen Leukozytose. Das ist oft ein Zeichen für eine Infektion. Zu wenige heißen Leukopenie.
+
+Weiße Blutkörperchen arbeiten meist außerhalb des Blutes. Das Blut ist für sie nur die Straße zu ihrem Einsatzort. Dort drücken sie sich durch die Gefäßwand ins Gewebe.
+
+Es gibt fünf Hauptarten. Drei davon haben sichtbare Körnchen im Zytoplasma. Sie heißen Granulozyten.
+
+Die neutrophilen Granulozyten sind die häufigste Art. Sie machen etwa fünfzig bis siebzig Prozent aller weißen Zellen aus. Sie sind die ersten Helfer bei bakteriellen Infektionen. Sie fressen Bakterien. Das nennt man Phagozytose. Ihr Kern hat mehrere Segmente. Eiter besteht vor allem aus toten Neutrophilen.
+
+Die eosinophilen Granulozyten haben Körnchen, die sich mit dem Farbstoff Eosin orangerot färben. Sie bekämpfen Parasiten wie Würmer. Bei Allergien steigen sie an. Sie machen etwa eins bis vier Prozent aus.
+
+Die basophilen Granulozyten sind am seltensten, unter einem Prozent. Ihre dunklen Körnchen enthalten Histamin. Bei allergischen Reaktionen wird es frei.
+
+Die vierte Art sind die Lymphozyten, etwa zwanzig bis vierzig Prozent. Sie sind kleine, runde Zellen mit einem großen Kern. Sie gehören zur spezifischen, erworbenen Abwehr. B Zellen bilden Antikörper. T Zellen steuern die Abwehr und töten infizierte Zellen. Lymphozyten steigen vor allem bei Virusinfektionen an.
+
+Die fünfte Art sind die Monozyten, etwa zwei bis acht Prozent. Sie sind die größten weißen Zellen. Sie verlassen das Blut und werden im Gewebe zu Makrophagen. Das bedeutet »große Fresser«. Sie räumen Bakterien, tote Zellen und Reste weg.
+
+Die Zahl jeder Art, in Prozent oder als absolute Zahl, heißt Differentialblutbild.
+
+Warum ist das im Labor wichtig? Ein Differentialblutbild macht ein Gerät oder ein Mensch am Mikroskop, mit einem gefärbten Blutausstrich. Viele Neutrophile mit vielen jungen Formen sprechen für eine bakterielle Infektion. Viele Lymphozyten sprechen für ein Virus. Ungewöhnliche, unreife Zellen im Blut können ein Zeichen für Leukämie sein. Das ist ein Krebs der blutbildenden Zellen. Diese Zellen am Mikroskop zu erkennen ist eine wichtige Fähigkeit in der Hämatologie.
+
+Kurz gesagt: Weiße Blutkörperchen verteidigen den Körper. Es gibt fünf Hauptarten: Neutrophile, Eosinophile und Basophile, das sind die Granulozyten, dazu Lymphozyten und Monozyten. Jede Art hat ihre eigene Rolle. Ihr Muster hilft, die Ursache einer Krankheit zu finden.
+
+# Thrombozyten und Gerinnung — Platelets and clotting
+
+Die Blutplättchen heißen auch Thrombozyten. Sie sind keine vollständigen Zellen. Es sind kleine Bruchstücke von Riesenzellen im Knochenmark. Diese Riesenzellen heißen Megakaryozyten. Thrombozyten haben keinen Kern und leben etwa sieben bis zehn Tage. Normales Blut enthält etwa hundertfünfzigtausend bis vierhunderttausend Thrombozyten pro Mikroliter.
+
+Ihre Aufgabe ist es, Blutungen zu stoppen. Das Stoppen einer Blutung heißt Blutstillung oder Hämostase. Sie läuft in Schritten ab.
+
+Schritt eins: Das verletzte Gefäß zieht sich zusammen. So fließt weniger Blut.
+
+Schritt zwei: Thrombozyten haften an der verletzten Gefäßwand. Sie ändern ihre Form, geben Signalstoffe ab und rufen weitere Thrombozyten. Sie verklumpen und bilden einen lockeren Pfropf. Das ist die primäre Hämostase. Sie dauert nur wenige Minuten.
+
+Schritt drei: Der Pfropf wird fest. Das ist die sekundäre Hämostase, die eigentliche Gerinnung. Eine Kette von Gerinnungsfaktoren wird aktiv, einer nach dem anderen. Das ist wie eine Reihe fallender Dominosteine. Die meisten dieser Faktoren sind Proteine aus der Leber. Sie tragen römische Zahlen. Am Ende der Kette steht das Enzym Thrombin. Es macht aus dem gelösten Plasmaprotein Fibrinogen das unlösliche Fibrin. Fibrinfäden bilden ein Netz, das Blutzellen einfängt. So entsteht ein fester Blutpfropf.
+
+Für mehrere Schritte dieser Kette braucht man Calcium. Und die Leber braucht Vitamin K, um mehrere Faktoren herzustellen.
+
+Schritt vier: Später, wenn die Wunde verheilt ist, löst sich der Pfropf wieder auf. Das nennt man Fibrinolyse.
+
+Das Gleichgewicht muss genau stimmen. Zu wenig Gerinnung führt zu Blutungen, zum Beispiel bei der Erbkrankheit Hämophilie. Zu viel Gerinnung führt zu Gerinnseln in den Gefäßen. Sie heißen Thrombosen. Sie können eine Beinvene oder eine Arterie im Herz oder Gehirn verschließen.
+
+Warum ist das im Labor wichtig? Für Gerinnungstests braucht man ein besonderes Röhrchen mit Citrat. Citrat bindet Calcium und stoppt so die Gerinnung. Später gibt das Labor wieder Calcium dazu. So startet die Gerinnung kontrolliert, und man misst die Zeit. Das Röhrchen muss genau bis zur Markierung gefüllt sein. Das Verhältnis von Blut zu Citrat ist nämlich fest, neun zu eins. Häufige Tests sind der Quick-Wert und die I N R. Damit überwacht man blutverdünnende Medikamente. Ein weiterer Test ist die a P T T. Die Thrombozytenzahl gehört zum Blutbild. Manchmal verklumpen Thrombozyten im E D T A Röhrchen. Dann ist die Zahl falsch niedrig. Eine zweite Probe im Citratröhrchen hilft dann.
+
+Kurz gesagt: Thrombozyten sind Zellbruchstücke, die einen ersten Pfropf im verletzten Gefäß bilden. Dann macht die Gerinnungskaskade aus Fibrinogen Fibrin, und der Pfropf wird fest. Gerinnungstests brauchen Citratröhrchen mit genauem Füllvolumen.
+
+# Plasma und Serum — Plasma and serum
+
+Plasma und Serum sind beide der flüssige Teil des Blutes. Sie sehen fast gleich aus. Aber sie sind nicht dasselbe. Der Unterschied ist im Labor jeden Tag wichtig.
+
+Plasma gewinnt man aus Blut, das nicht geronnen ist. Das Röhrchen enthält einen Gerinnungshemmer, zum Beispiel E D T A, Citrat oder Heparin. Nach dem Zentrifugieren liegen die Zellen unten. Die Flüssigkeit oben ist das Plasma. Plasma enthält noch alle Gerinnungsfaktoren, auch das Fibrinogen.
+
+Serum gewinnt man aus Blut, das geronnen ist. Das Röhrchen enthält keinen Gerinnungshemmer, aber oft einen Gerinnungsaktivator. Das Blut muss etwa dreißig Minuten stehen, bis der Blutkuchen fertig ist. Dann zentrifugiert man das Röhrchen. Der Blutkuchen mit den eingeschlossenen Zellen geht nach unten. Die Flüssigkeit oben ist das Serum.
+
+Die einfache Regel lautet also: Serum ist Plasma ohne Gerinnungsfaktoren. Sie wurden im Blutkuchen verbraucht. Vor allem enthält Serum kein Fibrinogen.
+
+Viele Serumröhrchen enthalten außerdem ein Gel. Beim Zentrifugieren wandert das Gel zwischen Blutkuchen und Serum. Es bildet eine Trennschicht. So berührt das Serum die Zellen nicht mehr.
+
+Jede Röhrchenart hat eine farbige Kappe. Die Farben sind je nach Hersteller und Land verschieden. Darum hat jedes Labor seine eigene Übersicht.
+
+Es gibt kleine, aber echte Unterschiede zwischen Plasma und Serum. Bei der Gerinnung geben Thrombozyten Kalium ab. Darum ist das Kalium im Serum etwas höher als im Plasma. Das Gesamteiweiß ist im Serum niedriger, weil das Fibrinogen fehlt.
+
+Warum ist das im Labor wichtig? Jeder Test braucht das richtige Probenmaterial. Die meisten Tests der klinischen Chemie benutzen Serum oder Heparinplasma. Das Blutbild braucht E D T A Vollblut. Gerinnungstests brauchen Citratplasma. Das falsche Röhrchen kann ein Ergebnis wertlos oder gefährlich falsch machen. Zentrifugiert man ein Serumröhrchen, bevor das Blut ganz geronnen ist, können sich später kleine Fibrinfäden bilden. Sie können die Nadel des Analysegeräts verstopfen. Gute Probenbearbeitung beginnt damit, die Röhrchen zu kennen.
+
+Kurz gesagt: Plasma stammt aus Blut mit Gerinnungshemmer und enthält noch die Gerinnungsfaktoren. Serum stammt aus geronnenem Blut. Ihm fehlen Fibrinogen und die anderen verbrauchten Faktoren. Jeder Test braucht ein bestimmtes Probenmaterial.
+
+# Die Blutbildung — Blood formation
+
+Alle Blutzellen entstehen im Knochenmark. Den Vorgang nennt man Blutbildung oder Hämatopoese. Bei Erwachsenen findet sie im roten Knochenmark statt. Es liegt in platten Knochen, zum Beispiel im Becken, im Brustbein, in den Rippen und in den Wirbeln. Bei Kindern bilden auch die langen Knochen von Armen und Beinen Blut.
+
+Alles beginnt mit den Blutstammzellen. Eine Stammzelle kann sich immer wieder teilen. Bei einer Teilung bleibt meist eine Tochterzelle eine Stammzelle. So gehen die Stammzellen nie aus. Die andere Tochterzelle beginnt, sich zu spezialisieren.
+
+Die spezialisierten Zellen gehen zuerst einen von zwei Wegen. Die myeloische Reihe bildet rote Zellen, Thrombozyten, Granulozyten und Monozyten. Die lymphatische Reihe bildet Lymphozyten. Auf jedem Weg teilen sich die Zellen und reifen Schritt für Schritt. Das ist wie ein Fließband in einer Fabrik. Am Ende sind sie bereit für das Blut.
+
+Wachstumsfaktoren steuern jede Reihe. Der bekannteste ist das Erythropoetin, kurz E P O. Es entsteht vor allem in den Nieren. Merken die Nieren einen Sauerstoffmangel, geben sie mehr E P O ab. Dann bildet das Knochenmark mehr rote Blutkörperchen. Darum haben Menschen im Hochgebirge mehr rote Zellen. Darum haben Patienten mit Nierenversagen auch oft eine Anämie. Ihre Nieren bilden zu wenig E P O. E P O kennt man auch als verbotenes Dopingmittel im Sport.
+
+Das Knochenmark braucht Rohstoffe. Für rote Zellen sind die wichtigsten das Eisen und die Vitamine B zwölf und Folsäure. Eisen braucht man für das Hämoglobin. Vitamin B zwölf und Folsäure braucht man für die Zellteilung. Fehlt einer dieser Stoffe, entsteht eine Anämie.
+
+Der reife Erythrozyt steht am Ende eines langen Weges. Seine Vorstufe hat noch einen Kern. Kurz bevor sie das Knochenmark verlässt, wird der Kern ausgestoßen. Die junge Zelle, der Retikulozyt, geht ins Blut. Dort reift sie in ein bis zwei Tagen fertig.
+
+Warum ist das im Labor wichtig? Bei einer Anämie prüft man oft jeden Rohstoff einzeln. Das Ferritin zeigt die Eisenspeicher. Dazu kommen Vitamin B zwölf und Folsäure. Die Retikulozytenzahl zeigt, ob das Knochenmark reagiert. Zeigt das Blut eine schwere Störung, nimmt der Arzt manchmal eine Knochenmarkprobe. Meist entnimmt er sie aus dem Beckenknochen. Das Labor untersucht dann die reifenden Zellen unter dem Mikroskop. Das ist ein wichtiger Schritt bei der Diagnose einer Leukämie.
+
+Kurz gesagt: Alle Blutzellen stammen von Stammzellen im roten Knochenmark. Sie reifen in einer myeloischen und einer lymphatischen Reihe. E P O aus den Nieren treibt die Bildung roter Zellen an. Eisen, Vitamin B zwölf und Folsäure sind wichtige Rohstoffe.
+
+# Das Herz — The heart
+
+Das Herz ist eine Muskelpumpe, etwa so groß wie eine Faust. Es liegt im Brustkorb, etwas links von der Mitte. In Ruhe schlägt es etwa sechzig bis achtzig Mal pro Minute. Das sind etwa hunderttausend Schläge am Tag.
+
+Das Herz hat vier Räume. Die beiden oberen Räume sind die Vorhöfe. Sie nehmen Blut auf. Die beiden unteren Räume sind die Kammern. Sie pumpen das Blut hinaus. Eine Wand teilt das Herz in eine rechte und eine linke Hälfte.
+
+Die beiden Hälften versorgen zwei verschiedene Kreisläufe. Die rechte Hälfte pumpt sauerstoffarmes Blut in die Lunge. Dort nimmt das Blut Sauerstoff auf und gibt Kohlendioxid ab. Das ist der kleine Kreislauf oder Lungenkreislauf. Das sauerstoffreiche Blut kommt zur linken Hälfte zurück. Die linke Hälfte pumpt es in den ganzen Körper. Das ist der große Kreislauf oder Körperkreislauf. Die linke Kammer muss das Blut durch den ganzen Körper drücken. Darum ist ihre Wand viel dicker.
+
+Vier Klappen sorgen dafür, dass das Blut nur in eine Richtung fließt. Sie sind wie Türen, die nur in eine Richtung aufgehen. Zwei Klappen liegen zwischen Vorhöfen und Kammern. Zwei liegen an den Ausgängen der Kammern.
+
+Jeder Herzschlag hat zwei Phasen. In der Systole ziehen sich die Kammern zusammen und drücken das Blut hinaus. In der Diastole entspannen sie sich und füllen sich wieder.
+
+Das Herz hat einen eigenen Taktgeber. Das ist eine kleine Gruppe von Zellen im rechten Vorhof. Sie heißt Sinusknoten. Er sendet elektrische Signale aus. Diese breiten sich im Herzen aus und lassen es schlagen. Man kann die Signale auf der Haut aufzeichnen. Das ist das Elektrokardiogramm, kurz E K G. Kalium und Calcium im Blut beeinflussen dieses elektrische System stark.
+
+In Ruhe pumpt das Herz etwa fünf Liter Blut pro Minute. Das ist das ganze Blutvolumen einmal pro Minute.
+
+Der Herzmuskel hat seine eigene Blutversorgung durch die Herzkranzgefäße. Ist eines davon verschlossen, bekommt ein Teil des Herzmuskels keinen Sauerstoff. Er stirbt ab. Das ist ein Herzinfarkt.
+
+Warum ist das im Labor wichtig? Sterben Herzmuskelzellen, geben sie Proteine ins Blut ab. Das wichtigste ist das Troponin. Ein steigender Troponinwert ist ein wichtiger Teil der Diagnose eines Herzinfarkts. Darum läuft dieser Test oft als Notfall, innerhalb einer Stunde. Ein anderer Marker heißt B N P. Der gedehnte Herzmuskel gibt ihn ab. Er hilft bei der Diagnose einer Herzschwäche. Schnelle und zuverlässige Ergebnisse können hier Leben retten.
+
+Kurz gesagt: Das Herz ist eine Pumpe mit vier Räumen. Die rechte Hälfte schickt Blut in die Lunge, die linke in den Körper. Der Sinusknoten gibt den Takt vor. Stirbt Herzmuskel ab, erscheint Troponin im Blut.
+
+# Die Blutgefäße — Blood vessels
+
+Die Blutgefäße bilden ein geschlossenes Netz aus Röhren. Es ist viele zehntausend Kilometer lang. Es gibt drei Hauptarten.
+
+Arterien führen das Blut vom Herzen weg. Sie haben dicke, elastische Wände mit Muskeln. Das Blut in ihnen steht unter hohem Druck. Bei jedem Herzschlag dehnen sie sich und federn zurück. Das spürst du als Puls. Die meisten Arterien führen sauerstoffreiches Blut. Die Ausnahme ist die Lungenarterie. Sie bringt sauerstoffarmes Blut zur Lunge.
+
+Arterien verzweigen sich in immer kleinere Gefäße und schließlich in die Kapillaren. Kapillaren sind extrem dünn. Oft sind sie nur so breit wie ein rotes Blutkörperchen. Ihre Wand besteht aus nur einer Zellschicht. Hier findet der eigentliche Austausch statt. Sauerstoff und Nährstoffe gehen ins Gewebe. Kohlendioxid und Abfallstoffe gehen ins Blut.
+
+Aus den Kapillaren sammelt sich das Blut in den Venen. Sie bringen es zum Herzen zurück. In den Venen ist der Druck niedrig. Ihre Wände sind dünner. Viele Venen, vor allem in den Beinen, haben Klappen. Die Klappen verhindern, dass das Blut zurückfließt. Beim Gehen drücken die Beinmuskeln auf die Venen. So helfen sie, das Blut nach oben zu pumpen. Das nennt man die Muskelpumpe.
+
+Der Blutdruck ist die Kraft des Blutes auf die Wände der Arterien. Man gibt ihn mit zwei Zahlen an. Die höhere Zahl ist der Druck in der Systole, wenn das Herz pumpt. Die niedrigere Zahl ist der Druck in der Diastole, wenn das Herz sich entspannt. Ein normaler Wert ist etwa hundertzwanzig zu achtzig Millimeter Quecksilbersäule. Ein dauerhaft hoher Blutdruck heißt Hypertonie. Er schadet den Gefäßen, dem Herzen, den Nieren und dem Gehirn.
+
+Auch Flüssigkeit verlässt die Kapillaren und geht ins Gewebe. Das meiste kommt zurück. Das Albumin im Blut zieht es zurück. Den Rest sammelt das Lymphsystem. Ist das Albumin sehr niedrig, bleibt Flüssigkeit im Gewebe. Es entsteht eine Schwellung. Sie heißt Ödem.
+
+Warum ist das im Labor wichtig? Die meisten Blutproben nimmt man aus einer Vene in der Ellenbeuge. Das heißt venöse Blutentnahme. Ein Stauschlauch macht die Vene leichter sichtbar. Aber er sollte nicht länger als etwa eine Minute liegen. Sonst tritt Wasser aus dem Gefäß aus. Große Moleküle und Zellen werden dann konzentriert. Proteine, Calcium und andere Werte sind dann falsch hoch. Arterielles Blut braucht man für die Blutgasanalyse. Kapillarblut aus der Fingerkuppe oder aus der Ferse eines Babys nimmt man für kleine Tests wie den Blutzucker.
+
+Kurz gesagt: Arterien führen das Blut unter hohem Druck vom Herzen weg. Venen bringen es mit niedrigem Druck zurück. Kapillaren sind die dünnen Gefäße für den Austausch. Die meisten Proben sind venöses Blut, und ein zu lange gestauter Arm verfälscht die Werte.
+
+# Die angeborene Abwehr — The innate immune system
+
+Das Immunsystem schützt den Körper vor Bakterien, Viren, Pilzen und Parasiten. Es schützt ihn auch vor eigenen Zellen, wenn sie zu Krebszellen werden. Es arbeitet in zwei Schichten. Die erste Schicht ist die angeborene Abwehr. Sie ist von Geburt an da. Sie reagiert in Minuten bis Stunden und behandelt alle Eindringlinge ähnlich. Die zweite Schicht ist die erworbene Abwehr. Sie lernt, zielt auf einen bestimmten Eindringling und merkt ihn sich. Dieses Kapitel behandelt die erste Schicht.
+
+Die erste Verteidigungslinie sind die Barrieren. Die Haut ist eine feste Mauer. Die Schleimhäute in Nase, Lunge und Darm sind mit klebrigem Schleim bedeckt. Er hält Keime fest. Tränen und Speichel enthalten ein Enzym, das Bakterien schädigt. Die Magensäure tötet die meisten Keime in der Nahrung. Und harmlose Bakterien auf der Haut und im Darm lassen gefährlichen Keimen wenig Platz.
+
+Kommen Keime durch diese Barrieren, greifen die Zellen der angeborenen Abwehr an. Neutrophile und Makrophagen fressen sie. Natürliche Killerzellen zerstören Körperzellen, die von Viren befallen sind. Alle diese Zellen erkennen allgemeine Muster, die viele Keime gemeinsam haben. Ein Beispiel sind Teile der Bakterienzellwand.
+
+Gleichzeitig beginnt im verletzten Gewebe eine Entzündung. Kleine Gefäße werden weit, und mehr Blut fließt hinein. Die Gefäßwände werden durchlässig. So kommen Flüssigkeit und weiße Blutkörperchen ins Gewebe. Das ergibt die typischen Zeichen einer Entzündung: Rötung, Wärme, Schwellung, Schmerz und gestörte Funktion. Eine Entzündung ist kein Fehler. Der Körper bringt so seine Verteidiger an den richtigen Ort.
+
+Ein weiterer Teil der angeborenen Abwehr ist das Komplementsystem. Das ist eine Gruppe von Plasmaproteinen. Sie arbeiten als Kaskade, ähnlich wie die Gerinnung. Sie können Löcher in Bakterien stanzen, Bakterien zum Fressen markieren und weitere weiße Zellen rufen.
+
+Ist die Infektion größer, reagiert der ganze Körper. Signalstoffe wandern ins Gehirn und lösen Fieber aus. Bei höherer Temperatur werden viele Keime langsamer, und die Abwehrzellen werden schneller. Die Leber bildet besondere Proteine. Sie heißen Akute-Phase-Proteine.
+
+Warum ist das im Labor wichtig? Das wichtigste Akute-Phase-Protein im Labor ist das C-reaktive Protein, kurz C R P. Bei gesunden Menschen ist es sehr niedrig. Bei einer bakteriellen Infektion kann es in ein bis zwei Tagen um mehr als das Hundertfache steigen. Es gehört zu den häufigsten Laborwerten. Ein anderer Marker ist das Procalcitonin. Es steigt besonders bei schweren bakteriellen Infektionen und bei Sepsis. Zusammen mit der Leukozytenzahl helfen diese Werte den Ärzten. Sie zeigen, wie schwer eine Infektion ist und ob eine Behandlung wirkt.
+
+Kurz gesagt: Die angeborene Abwehr reagiert schnell und gleich auf alle Eindringlinge. Sie nutzt Barrieren, Fresszellen, natürliche Killerzellen, Komplement und Entzündung. Das Labor verfolgt sie mit Markern wie dem C R P.
+
+# Die erworbene Abwehr — Adaptive immunity
+
+Die erworbene Abwehr ist langsamer, aber sehr genau. Sie erkennt einen bestimmten Eindringling und baut genau gegen ihn eine Abwehr auf. Und sie merkt ihn sich für Jahre.
+
+Der wichtigste Begriff ist das Antigen. Ein Antigen ist jede Struktur, die das Immunsystem als fremd erkennen kann. Meist ist es ein Teil eines Proteins oder eines Zuckers auf der Oberfläche eines Keims. Jeder Lymphozyt trägt Rezeptoren, die nur zu einem bestimmten Antigen passen. Das ist wie ein Schlüssel, der nur in ein Schloss passt. Der Körper hat Millionen verschiedener Lymphozyten. Jeder hat seinen eigenen Schlüssel. So ist er für fast jedes Antigen bereit.
+
+Es gibt zwei Hauptarten von Lymphozyten.
+
+B Zellen bilden Antikörper. Trifft eine B Zelle auf ihr Antigen und bekommt Hilfe von einer T Zelle, teilt sie sich viele Male. Ihre Tochterzellen werden zu Plasmazellen. Plasmazellen sind Fabriken für Antikörper. Antikörper heißen auch Immunglobuline. Es sind Proteine in Form eines Ypsilon. Die beiden Spitzen binden genau an das Antigen. Antikörper machen Gifte und Viren unschädlich. Sie verklumpen Bakterien und markieren sie für die Zerstörung.
+
+Es gibt fünf Klassen von Antikörpern. I g M bildet der Körper zuerst bei einer neuen Infektion. Es ist ein großes Molekül aus fünf Einheiten. I g G kommt später und bleibt lange. Es ist der häufigste Antikörper im Blut. Nur I g G geht durch die Plazenta und schützt das ungeborene Kind. I g A schützt die Schleimhäute. Man findet es im Speichel und in der Muttermilch. I g E spielt bei Allergien und bei der Abwehr von Parasiten eine Rolle. I g D sitzt auf der Oberfläche von B Zellen.
+
+T Zellen bilden keine Antikörper. T Helferzellen steuern die Abwehr. Sie aktivieren B Zellen und andere Zellen. Das H I V Virus greift genau diese Zellen an. Darum zerstört eine unbehandelte H I V Infektion das Immunsystem. Zytotoxische T Zellen, also Killerzellen, erkennen und zerstören Körperzellen. Das sind Zellen, die von Viren befallen oder zu Krebszellen geworden sind.
+
+Nach einer Infektion bleiben einige B Zellen und T Zellen als Gedächtniszellen übrig. Kommt derselbe Keim zurück, reagieren sie viel schneller und stärker. Oft merkt der Mensch die zweite Infektion gar nicht. Das nennt man Immunität. Die Impfung nutzt dasselbe Prinzip. Sie zeigt dem Immunsystem eine harmlose Form des Antigens. So entstehen Gedächtniszellen ohne die Krankheit.
+
+Warum ist das im Labor wichtig? Die Serologie ist der Teil des Labors, der Antikörper misst. Sie zeigt, ob ein Mensch eine Infektion oder eine Impfung hatte. Die Klasse des Antikörpers gibt einen Hinweis auf die Zeit. I g M spricht für eine frische Infektion. I g G spricht für eine alte Infektion oder für Immunität. Das Labor benutzt Antikörper auch als Werkzeug. Bei einem Immunoassay bindet ein Antikörper den gesuchten Stoff sehr genau. Das kann ein Hormon sein oder Troponin. Auch der Blutgruppentest beruht auf Antikörpern.
+
+Kurz gesagt: Die erworbene Abwehr erkennt bestimmte Antigene. B Zellen werden zu Plasmazellen und bilden Antikörper. T Zellen steuern die Abwehr und töten befallene Zellen. Gedächtniszellen sorgen für eine lange Immunität. Das Labor misst Antikörper und benutzt sie auch als Werkzeug.
+
+# Das Lymphsystem — The lymphatic system
+
+Das Lymphsystem ist ein zweites Netz von Gefäßen, neben den Blutgefäßen. Es hat zwei Hauptaufgaben. Es bringt Flüssigkeit aus dem Gewebe zurück ins Blut. Und es ist das Zuhause und die Straße der Abwehrzellen.
+
+Jeden Tag treten einige Liter Flüssigkeit aus den Kapillaren aus. Sie werden nicht direkt zurückgenommen. Winzige, dünnwandige Lymphgefäße sammeln diese Flüssigkeit. Sie beginnen blind im Gewebe. Ist die Flüssigkeit in den Gefäßen, heißt sie Lymphe. Sie ist klar und enthält weiße Blutkörperchen, vor allem Lymphozyten.
+
+Die Lymphgefäße vereinigen sich zu größeren Gefäßen. Wie Venen haben sie Klappen. Die Bewegung der Muskeln schiebt die Lymphe weiter. Am Ende mündet das größte Lymphgefäß in eine große Vene nahe dem Herzen. So kommt die Flüssigkeit zurück ins Blut.
+
+Die Lymphe aus dem Darm ist besonders. Nach einer fetten Mahlzeit trägt sie die Fette, die der Darm aufgenommen hat. Diese Fette machen sie milchig.
+
+Entlang der Gefäße liegen die Lymphknoten. Das sind kleine, bohnenförmige Organe. Es gibt mehrere hundert davon. Sie liegen in Gruppen am Hals, in den Achseln, in der Leiste und im Bauch. Jeder Lymphknoten ist ein Filter und ein Treffpunkt. Keime und fremde Teilchen aus der Lymphe bleiben dort hängen. Lymphozyten warten in den Knoten. Treffen sie ihr Antigen, vermehren sie sich. Darum schwellen Lymphknoten bei einer Infektion an. Bei Halsschmerzen kannst du sie oft am Hals tasten.
+
+Zu den lymphatischen Organen gehören nicht nur die Knoten. Das Knochenmark bildet alle Lymphozyten. Die B Zellen reifen dort auch. Der Thymus ist eine Drüse hinter dem Brustbein. Dort reifen die T Zellen. Sie lernen dort, den eigenen Körper nicht anzugreifen. Bei Kindern ist der Thymus groß, bei Erwachsenen schrumpft er. Die Milz liegt im linken Oberbauch. Sie filtert das Blut. Sie entfernt alte rote Blutkörperchen. Sie enthält viele Lymphozyten, die auf Keime im Blut reagieren. Die Mandeln und lymphatisches Gewebe im Darm bewachen die Eingänge des Körpers.
+
+Ist das Lymphsystem blockiert, zum Beispiel nach einer Operation, staut sich Flüssigkeit im Gewebe. Dann schwillt der Arm oder das Bein an.
+
+Warum ist das im Labor wichtig? Krebs der Lymphozyten heißt Lymphom. Er beginnt oft als schmerzloser, geschwollener Lymphknoten. Das Labor untersucht Gewebe aus dem Knoten. Mit der Durchflusszytometrie erkennt es die Zellarten an ihren Oberflächenmerkmalen. Auch im Blut zählt man Untergruppen der Lymphozyten. Ein Beispiel ist die Zahl der T Helferzellen bei Patienten mit H I V.
+
+Kurz gesagt: Das Lymphsystem bringt Gewebeflüssigkeit zurück ins Blut und beherbergt die Abwehrzellen. Lymphknoten filtern die Lymphe und schwellen bei Infektionen an. Der Thymus trainiert die T Zellen, und die Milz filtert das Blut.
+
+# Die Nieren — The kidneys
+
+Die beiden Nieren liegen hinten im Bauchraum, links und rechts der Wirbelsäule. Sie liegen etwa auf der Höhe der untersten Rippen. Jede Niere ist etwa so groß wie eine Faust und hat die Form einer Bohne.
+
+Die Nieren sind die Kläranlage des Körpers. Ihre Hauptaufgaben sind: Abfallstoffe ausscheiden, die Menge von Wasser und Salz steuern und den pH-Wert des Blutes stabil halten. Aber sie tun noch mehr. Sie bilden E P O, das die Bildung roter Zellen antreibt. Sie bilden Renin, das hilft, den Blutdruck zu steuern. Und sie aktivieren Vitamin D. Das braucht man für den Calciumhaushalt.
+
+Die Nieren bekommen etwa ein Fünftel des Blutes, das das Herz pumpt. Das ist mehr als ein Liter Blut pro Minute.
+
+Die Arbeitseinheit der Niere ist das Nephron. Jede Niere hat etwa eine Million Nephrone. Ein Nephron hat zwei Teile: einen Filter und ein langes Röhrchen.
+
+Der Filter ist das Glomerulum. Das ist ein winziges Knäuel aus Kapillaren. Es sitzt in einer becherförmigen Kapsel. Der Blutdruck drückt Wasser und kleine gelöste Stoffe aus den Kapillaren in die Kapsel. Blutzellen und große Proteine bleiben im Blut. Sie sind zu groß für den Filter. Die gefilterte Flüssigkeit heißt Primärharn.
+
+Die Nieren bilden jeden Tag etwa hundertachtzig Liter Primärharn. Aber wir scheiden nur etwa anderthalb Liter Urin aus. Etwa neunundneunzig Prozent müssen also zurückgeholt werden. Das passiert im langen Röhrchen, dem Tubulus. Darum geht es im nächsten Kapitel.
+
+Die Menge Flüssigkeit, die pro Minute gefiltert wird, heißt glomeruläre Filtrationsrate, kurz G F R. Bei einem gesunden jungen Erwachsenen sind das etwa hundertzwanzig Milliliter pro Minute. Sie ist das wichtigste Maß für die Nierenfunktion. Sie sinkt mit dem Alter und bei Nierenkrankheiten.
+
+Warum ist das im Labor wichtig? Die G F R kann man nicht leicht direkt messen. Darum misst das Labor das Kreatinin im Blut. Kreatinin ist ein Abfallstoff der Muskeln. Es entsteht gleichmäßig und wird fast nur durch Filtration ausgeschieden. Filtern die Nieren weniger, steigt das Kreatinin im Blut. Aus dem Kreatinin, dem Alter und dem Geschlecht berechnet das Labor eine geschätzte G F R. Ein anderer Marker ist das Cystatin C. Auch Harnstoff misst man, aber er hängt stark von der Ernährung ab. Kalium prüft man genau. Kranke Nieren können es nicht ausscheiden, und hohes Kalium ist gefährlich für das Herz.
+
+Kurz gesagt: Die Nieren filtern das Blut in etwa einer Million Nephronen pro Niere. Das Glomerulum filtert etwa hundertachtzig Liter Primärharn pro Tag. Die Nierenfunktion beschreibt man mit der G F R. Das Labor schätzt sie aus dem Kreatinin.
+
+# Die Harnbildung — Urine formation
+
+Nach der Filtration fließt der Primärharn durch den Tubulus. Das ist ein langes, gewundenes Röhrchen. Auf dem Weg ändert sich die Zusammensetzung der Flüssigkeit Schritt für Schritt. Am Ende bleibt der fertige Urin übrig.
+
+Der wichtigste Vorgang ist die Rückresorption. Nützliche Stoffe gehen aus dem Tubulus zurück ins Blut. Im ersten Teil des Tubulus wird fast die ganze Glukose zurückgeholt. Auch die Aminosäuren kommen zurück. Hier wird auch das meiste Wasser, Natrium, Bicarbonat und andere Ionen zurückgeholt. Diese Zellen arbeiten sehr hart und haben viele Mitochondrien.
+
+Dann bildet der Tubulus eine lange Schleife. Sie geht tief in die Niere hinein und wieder heraus. Sie heißt Henle-Schleife. Sie erzeugt tief in der Niere eine hohe Salzkonzentration. Mit diesem Salzgefälle kann die Niere später Wasser aus dem Urin ziehen und ihn konzentrieren.
+
+Der zweite Vorgang ist die Sekretion. Manche Stoffe werden aktiv aus dem Blut in den Tubulus gepumpt. Dazu gehören Kalium, Protonen und viele Medikamente. Durch die Abgabe von Protonen wird die Niere Säure los. So hält sie den pH-Wert des Blutes stabil.
+
+Im letzten Teil des Tubulus und in den Sammelrohren findet die Feinabstimmung statt. Hormone steuern sie. Das Hormon A D H, das antidiuretische Hormon, kommt aus der Hirnanhangsdrüse. Der Körper gibt es ab, wenn er Wasser braucht. Es macht die Sammelrohre durchlässig für Wasser. Das Wasser geht zurück in den Körper. Der Urin wird wenig und konzentriert. Trinkst du viel, gibt es wenig A D H. Dann scheidest du viel verdünnten Urin aus. Das Hormon Aldosteron kommt aus den Nebennieren. Es lässt die Niere Natrium behalten und Kalium abgeben.
+
+Der fertige Urin fließt aus den Nieren durch zwei dünne Röhren in die Blase. Diese Röhren heißen Harnleiter. Aus der Blase verlässt der Urin den Körper durch die Harnröhre.
+
+Normaler Urin ist klar und gelb. Er enthält Wasser, Harnstoff, Kreatinin, Salze und kleine Mengen anderer Abfallstoffe. Normalerweise enthält er keine Glukose, kein Blut und fast kein Eiweiß.
+
+Warum ist das im Labor wichtig? Urin ist die zweithäufigste Probe. Ein Teststreifen prüft pH-Wert, Eiweiß, Glukose, Blut, Leukozyten, Nitrit und Ketone. Glukose erscheint im Urin, wenn der Blutzucker so hoch ist, dass der Tubulus nicht alles zurückholen kann. Das passiert bei etwa hundertachtzig Milligramm pro Deziliter. Eiweiß im Urin spricht für einen Schaden am Glomerulum. Nitrit und Leukozyten sprechen für eine Blasenentzündung. Unter dem Mikroskop zeigt das Urinsediment Zellen, Kristalle und Zylinder. Für sichere Ergebnisse nimmt man am besten Mittelstrahlurin vom ersten Morgenurin. Man sollte ihn innerhalb von zwei Stunden untersuchen.
+
+Kurz gesagt: Im Tubulus werden nützliche Stoffe zurückgeholt und Abfallstoffe abgegeben. Hormone wie A D H und Aldosteron stellen Wasser und Salz ein. Urin enthält normalerweise keine Glukose und fast kein Eiweiß. Darum ist er eine wertvolle Probe.
+
+# Die Leber — The liver
+
+Die Leber ist das größte innere Organ. Sie wiegt etwa anderthalb Kilogramm. Sie liegt im rechten Oberbauch, unter dem Zwerchfell. Sie ist die chemische Fabrik des Körpers, mit Hunderten verschiedener Aufgaben.
+
+Die Leber hat eine besondere Blutversorgung. Sie bekommt sauerstoffreiches Blut aus einer Arterie. Außerdem bekommt sie das ganze Blut aus Magen und Darm, über die Pfortader. Alles, was aus der Nahrung kommt, geht also zuerst durch die Leber. Die Leber kann es speichern, umbauen oder entfernen, bevor es den Rest des Körpers erreicht.
+
+Ihre Hauptaufgaben kann man in fünf Bereiche einteilen.
+
+Erstens der Stoffwechsel. Die Leber speichert Glukose als Glykogen. Sie gibt Glukose ab, wenn der Blutzucker sinkt. Sie kann sogar neue Glukose herstellen. Sie baut Fette auf und ab und bildet Cholesterin.
+
+Zweitens die Bildung von Proteinen. Die Leber bildet die meisten Plasmaproteine. Dazu gehören Albumin und die meisten Gerinnungsfaktoren.
+
+Drittens die Entgiftung. Die Leber baut Medikamente, Alkohol und Gifte so um, dass Nieren oder Galle sie ausscheiden können. Sie macht auch aus dem giftigen Ammoniak harmlosen Harnstoff. Ammoniak entsteht beim Abbau von Proteinen.
+
+Viertens die Bildung der Galle. Die Leber bildet jeden Tag etwa einen halben bis einen Liter Galle. Die Galle wird in der Gallenblase gespeichert. Sie hilft bei der Verdauung von Fetten. Und sie trägt Abfallstoffe aus dem Körper, vor allem Bilirubin.
+
+Fünftens die Speicherung. Die Leber speichert Vitamine, zum Beispiel Vitamin B zwölf und Vitamin A, und Eisen.
+
+Erinnere dich an das Bilirubin, den gelben Farbstoff aus alten roten Blutkörperchen. Im Blut ist es an Albumin gebunden. Die Leber nimmt es auf. Sie hängt eine Zuckergruppe daran und macht es so wasserlöslich. Dann gibt sie es in die Galle ab. Klappt das nicht, sammelt sich Bilirubin im Blut. Die Haut und das Weiße der Augen werden gelb. Das nennt man Gelbsucht oder Ikterus.
+
+Warum ist das im Labor wichtig? Die Leberwerte gehören zu den häufigsten Tests. Werden Leberzellen geschädigt, geben sie Enzyme ins Blut ab. A L T, früher G P T genannt, ist recht typisch für die Leber. A S T, früher G O T genannt, gibt es auch im Herz und im Muskel. Gamma G T steigt besonders bei Alkohol und bei Gallenproblemen. Die alkalische Phosphatase steigt, wenn der Gallenfluss gestört ist. Das Bilirubin zeigt, wie gut die Leber diesen Farbstoff verarbeitet. Niedriges Albumin und eine lange Gerinnungszeit zeigen, dass die Leber zu wenig Proteine bildet. Bilirubin zerfällt im Licht. Darum muss man diese Proben vor Licht schützen.
+
+Kurz gesagt: Die Leber verarbeitet Nährstoffe, bildet Plasmaproteine und Gerinnungsfaktoren, entgiftet und bildet Galle. Geschädigte Leberzellen geben Enzyme wie A L T und A S T ab. Eine kranke Leber führt zur Gelbsucht.
+
+# Die Verdauung — The digestive system
+
+Die Verdauung zerlegt die Nahrung in Teile, die klein genug für das Blut sind. Das ist eine Reise durch ein Rohr von etwa acht bis neun Metern Länge. Es reicht vom Mund bis zum After. Unterwegs wird die Nahrung mechanisch zerkleinert, durch Kauen und Mischen. Und sie wird chemisch zerlegt, durch Enzyme mit Hilfe der Hydrolyse.
+
+Es beginnt im Mund. Die Zähne zerkleinern die Nahrung. Der Speichel macht sie feucht. Er enthält Amylase, die mit der Spaltung der Stärke beginnt.
+
+Dann geht die Nahrung durch die Speiseröhre in den Magen. Der Magen ist ein Sack aus Muskeln. Er bildet Salzsäure mit einem pH-Wert von etwa eins bis zwei. Die Säure tötet Keime und entfaltet Proteine. Das Enzym Pepsin beginnt, Proteine zu spalten. Der Magen bildet auch den Intrinsic-Faktor. Den braucht man später, um Vitamin B zwölf aufzunehmen. Die Magenwand schützt sich mit einer dicken Schleimschicht.
+
+Danach kommt der Dünndarm. Er ist der wichtigste Ort für Verdauung und Aufnahme. Er ist etwa fünf bis sechs Meter lang. Seine Innenfläche hat unzählige fingerförmige Ausstülpungen. Sie heißen Zotten. So hat der Dünndarm eine riesige Oberfläche, etwa so groß wie eine kleine Wohnung.
+
+Zwei Organe geben ihre Säfte in den ersten Teil des Dünndarms. Die Bauchspeicheldrüse bildet Amylase, Lipase und Proteasen. Dazu kommt Bicarbonat, das die Magensäure neutralisiert. Leber und Gallenblase geben Galle dazu. Galle wirkt wie Spülmittel. Sie zerteilt Fett in winzige Tröpfchen. So kann die Lipase daran arbeiten.
+
+Jetzt werden die Nährstoffe aufgenommen. Zucker und Aminosäuren gehen ins Blut. Sie fließen über die Pfortader zur Leber. Fette gehen in die Lymphe.
+
+Im Dickdarm wird Wasser und Salz zurückgeholt. Dort leben Milliarden Bakterien. Sie bauen Ballaststoffe ab und bilden einige Vitamine, zum Beispiel Vitamin K. Der Rest verlässt den Körper als Stuhl.
+
+Die Bauchspeicheldrüse hat noch eine zweite Aufgabe. Sie bildet die Hormone Insulin und Glukagon. Das ist ein Thema des nächsten Kapitels.
+
+Warum ist das im Labor wichtig? Lipase und Amylase im Blut steigen stark bei einer akuten Entzündung der Bauchspeicheldrüse. Stuhlproben prüft man auf verstecktes Blut. Es kann ein frühes Zeichen für Darmkrebs sein. Man prüft Stuhl auch auf Keime, die Durchfall verursachen. Die Elastase im Stuhl zeigt, ob die Bauchspeicheldrüse genug Enzyme bildet. Ein Atemtest kann das Magenbakterium Helicobacter finden. Es verursacht Magengeschwüre.
+
+Kurz gesagt: Die Verdauung zerlegt Nahrung mechanisch und mit Enzymen. Der Magen nutzt Säure und Pepsin. Im Dünndarm werden die meisten Nährstoffe verdaut und aufgenommen, mit Säften aus der Bauchspeicheldrüse und Galle aus der Leber. Lipase und Amylase im Blut sind Marker für Krankheiten der Bauchspeicheldrüse.
+
+# Das Hormonsystem — The endocrine system
+
+Das Hormonsystem ist die Post des Körpers. Drüsen geben Botenstoffe ins Blut ab. Diese Botenstoffe heißen Hormone. Sie reisen durch den ganzen Körper. Aber nur Zellen mit dem passenden Rezeptor lesen die Nachricht. Hormonsignale sind langsamer als Nervensignale, wirken aber länger.
+
+Viele Hormonsysteme werden durch Rückkopplung gesteuert. Denk an den Thermostat einer Heizung. Ist der Raum kalt, schaltet sich die Heizung ein. Ist er warm genug, schaltet sie sich aus. Genauso ist es mit Hormonen. Ist ein Hormonspiegel hoch, wird seine eigene Bildung gebremst. Das nennt man negative Rückkopplung.
+
+Die Steuerzentrale liegt im Gehirn. Der Hypothalamus misst die Hormonspiegel. Er sendet Signale an die Hirnanhangsdrüse. Sie heißt auch Hypophyse. Sie ist so groß wie eine Erbse und liegt direkt darunter. Die Hypophyse ist die Chefdrüse. Sie sendet Hormone aus, die andere Drüsen steuern.
+
+Die Schilddrüse sitzt vorne am Hals. Sie bildet die Hormone T drei und T vier. Diese enthalten Jod. Sie bestimmen das Tempo des Stoffwechsels in fast allen Zellen. Die Hypophyse steuert die Schilddrüse mit dem Hormon T S H. Arbeitet die Schilddrüse zu langsam, steigt das T S H, um sie anzutreiben. Arbeitet sie zu stark, sinkt das T S H. Zu wenig Schilddrüsenhormon macht müde, kälteempfindlich und schwer. Zu viel macht unruhig, warm und dünn.
+
+Die Nebennieren sitzen oben auf den Nieren. Ihre äußere Schicht bildet Cortisol, das Stresshormon. Es erhöht den Blutzucker und dämpft Entzündungen. Sie bildet auch das Aldosteron, das du aus dem Nierenkapitel kennst. Der innere Teil bildet Adrenalin für Kampf oder Flucht.
+
+Die Bauchspeicheldrüse steuert den Blutzucker. Insulin senkt ihn. Es lässt die Zellen Glukose aufnehmen. Glukagon erhöht ihn. Es lässt die Leber Glukose abgeben. Beim Typ eins Diabetes zerstört der Körper seine eigenen Insulinzellen. Beim Typ zwei Diabetes reagieren die Zellen schlecht auf Insulin, und später wird zu wenig gebildet. In beiden Fällen ist der Blutzucker zu hoch.
+
+Die Keimdrüsen, also Eierstöcke und Hoden, bilden die Geschlechtshormone Östrogen, Progesteron und Testosteron. Die Plazenta bildet das Schwangerschaftshormon h C G.
+
+Warum ist das im Labor wichtig? Hormontests sind ein großer Teil der Laborarbeit. T S H ist der Suchtest für Schilddrüsenkrankheiten. Der Nüchternblutzucker liegt normal unter etwa hundert Milligramm pro Deziliter. H b A eins c ist Hämoglobin mit angehängtem Zucker. Es zeigt den durchschnittlichen Blutzucker der letzten zwei bis drei Monate. Der Schwangerschaftstest findet h C G im Urin oder im Blut. Die Uhrzeit ist wichtig. Cortisol ist morgens am höchsten und nachts am niedrigsten. Darum muss man die Zeit der Blutentnahme notieren. Die meisten Hormone misst man mit Immunoassays.
+
+Kurz gesagt: Hormone sind Botenstoffe im Blut, gesteuert durch Rückkopplung. Hypothalamus und Hypophyse steuern Schilddrüse, Nebennieren und Keimdrüsen. Insulin und Glukagon steuern den Blutzucker. Das Labor misst viele Hormone, und die Uhrzeit der Probe ist oft wichtig.
+
+# Die Atmung — The respiratory system
+
+Die Lunge bringt Sauerstoff in den Körper und entfernt Kohlendioxid. Die Luft kommt durch Nase und Mund herein. Sie geht durch den Rachen und den Kehlkopf und dann die Luftröhre hinunter. Die Luftröhre teilt sich in zwei Hauptbronchien, einen für jeden Lungenflügel. Diese verzweigen sich immer wieder, wie ein umgedrehter Baum, in immer kleinere Röhren.
+
+Ganz am Ende liegen etwa dreihundert Millionen winzige Lungenbläschen. Sie heißen Alveolen. Ihre Wände sind extrem dünn und von Kapillaren bedeckt. Hier geht Sauerstoff durch Diffusion aus der Luft ins Blut. Kohlendioxid geht aus dem Blut in die Luft. Zusammen haben die Alveolen eine Oberfläche von etwa siebzig bis hundert Quadratmetern.
+
+Das Zwerchfell treibt die Atmung an. Es ist ein kuppelförmiger Muskel unter der Lunge. Zieht es sich zusammen, wird der Brustkorb größer, und Luft strömt herein. Entspannt es sich, strömt Luft hinaus.
+
+Das Atemzentrum im Hirnstamm steuert, wie schnell und tief wir atmen. Sein wichtigstes Signal ist nicht der Sauerstoffmangel. Es ist der Kohlendioxidspiegel und der pH-Wert des Blutes. Steigt das Kohlendioxid, atmen wir schneller.
+
+Die Atmung arbeitet eng mit dem Blutpuffer zusammen. Mehr Atmung entfernt mehr Kohlendioxid und macht das Blut weniger sauer. Weniger Atmung bewirkt das Gegenteil.
+
+Warum ist das im Labor wichtig? Die Blutgasanalyse misst Sauerstoff, Kohlendioxid und pH-Wert im arteriellen Blut. Sie zeigt, wie gut die Lunge arbeitet und ob es ein Säure-Basen-Problem gibt. Sputum ist der Schleim, den man aus der Lunge hustet. Man untersucht ihn auf Bakterien, auch auf die Erreger der Tuberkulose. Abstriche aus Rachen und Nase prüft man auf Viren, zum Beispiel mit P C R.
+
+Kurz gesagt: Die Luft fließt durch die Atemwege zu den Alveolen. Dort geht Sauerstoff ins Blut, und Kohlendioxid verlässt es. Die Atmung wird vor allem durch Kohlendioxid und pH-Wert gesteuert. Das Labor prüft die Lunge mit Blutgasen und untersucht Proben aus den Atemwegen auf Keime.
+
+# Das Nervensystem — The nervous system
+
+Das Nervensystem ist das schnelle Nachrichtennetz des Körpers. Es sammelt Informationen, verarbeitet sie und sendet Befehle. Seine Signale sind in Bruchteilen einer Sekunde unterwegs.
+
+Das zentrale Nervensystem besteht aus Gehirn und Rückenmark. Zum peripheren Nervensystem gehören alle Nerven, die sie mit dem Rest des Körpers verbinden.
+
+Die Grundzelle ist die Nervenzelle, auch Neuron genannt. Ein Neuron hat einen Zellkörper und viele kurze Äste, die Signale empfangen. Und es hat eine lange Faser, das Axon. Es leitet Signale weiter. Manche Axone sind über einen Meter lang. Viele sind von einer fettreichen Isolierschicht umhüllt. Sie heißt Myelinscheide. Sie macht das Signal viel schneller.
+
+Das Signal selbst ist elektrisch. In Ruhe ist das Innere des Neurons negativ im Vergleich zum Äußeren. Diese Ruhespannung kommt von der ungleichen Verteilung von Natrium und Kalium. Die Natrium-Kalium-Pumpe hält sie aufrecht. Feuert das Neuron, strömt Natrium hinein. Die Spannung dreht sich kurz um. Dann strömt Kalium hinaus, und die Spannung kehrt zurück. Diese Welle läuft das Axon entlang. Sie heißt Aktionspotential. Darum sind Natrium, Kalium und Calcium im Blut so wichtig für die Nerven.
+
+Am Ende des Axons muss das Signal eine kleine Lücke zur nächsten Zelle überqueren. Diese Verbindungsstelle heißt Synapse. Das elektrische Signal setzt chemische Botenstoffe frei. Sie heißen Neurotransmitter. Sie überqueren die Lücke und erregen die nächste Zelle.
+
+Ein Teil des peripheren Systems arbeitet ohne unseren Willen. Das ist das vegetative Nervensystem. Es steuert Herzschlag, Verdauung und Atmung. Es hat zwei gegensätzliche Teile. Der Sympathikus ist für Aktivität und Stress zuständig. Der Parasympathikus ist für Ruhe und Verdauung zuständig.
+
+Gehirn und Rückenmark schwimmen in einer klaren Flüssigkeit, dem Nervenwasser. Man nennt es auch Liquor. Es schützt sie wie ein Wasserkissen.
+
+Warum ist das im Labor wichtig? Liquor gewinnt man durch eine Lumbalpunktion. Dabei sticht man eine Nadel in den unteren Rücken. Liquor ist eine wertvolle Probe. Die Entnahme ist für den Patienten unangenehm und kann nicht einfach wiederholt werden. Die Probe muss sofort ins Labor. Das Labor zählt die Zellen, misst Glukose und Eiweiß und sucht nach Bakterien. Bei einer bakteriellen Hirnhautentzündung enthält der Liquor viele Neutrophile, viel Eiweiß und wenig Glukose. Das ist ein echter Notfall. Jede Minute zählt.
+
+Kurz gesagt: Das Nervensystem sendet schnelle elektrische Signale entlang der Neurone und chemische Signale über Synapsen. Natrium und Kalium erzeugen das Nervensignal. Liquor umgibt das Gehirn und ist bei Verdacht auf Hirnhautentzündung eine Notfallprobe.
+
+# Muskeln und Knochen — Muscles and bones
+
+Das Skelett gibt dem Körper seine Form, schützt die Organe und ermöglicht Bewegung. Ein Erwachsener hat etwa zweihundertsechs Knochen. Knochen ist ein lebendes Gewebe. Er besteht aus einem Gerüst aus Protein, vor allem Kollagen. Dieses Gerüst ist mit Kristallen aus Calciumphosphat gefüllt. Das Protein macht den Knochen biegsam, das Mineral macht ihn hart.
+
+Knochen wird ständig umgebaut. Besondere Zellen bauen alten Knochen ab, andere bauen neuen auf. So repariert das Skelett kleine Schäden. Außerdem dient es als Calciumspeicher. Sinkt das Calcium im Blut, holt das Parathormon Calcium aus dem Knochen. Im Alter wird mehr Knochen ab- als aufgebaut. Die Knochen können brüchig werden. Das nennt man Osteoporose.
+
+Wie du weißt, bildet das rote Knochenmark in manchen Knochen alle Blutzellen.
+
+Die Knochen treffen sich in Gelenken. Muskeln sind über Sehnen an den Knochen befestigt. Zieht sich ein Muskel zusammen, zieht er am Knochen, und das Gelenk bewegt sich.
+
+Es gibt drei Arten von Muskeln. Die Skelettmuskeln bewegen die Knochen. Wir steuern sie mit unserem Willen. Unter dem Mikroskop sehen sie gestreift aus. Der Herzmuskel ist auch gestreift. Aber er arbeitet von selbst, ohne unseren Willen. Die glatte Muskulatur findet man in den Wänden von Darm, Blutgefäßen und Blase. Auch sie arbeitet ohne unseren Willen.
+
+Für eine Muskelkontraktion braucht man ein Signal vom Nerv, Calcium in der Muskelzelle und Energie in Form von A T P. Dünne und dicke Proteinfäden gleiten aneinander vorbei. So wird der Muskel kürzer.
+
+Muskelzellen enthalten besondere Enzyme und Proteine. Das Enzym Kreatinkinase, kurz C K, hilft, schnell Energie bereitzustellen. Das Protein Myoglobin speichert Sauerstoff im Muskel.
+
+Warum ist das im Labor wichtig? Werden Muskelzellen geschädigt, gelangen C K und Myoglobin ins Blut. Das passiert zum Beispiel bei einer Verletzung, bei sehr hartem Sport oder durch manche Medikamente. Eine stark erhöhte C K zeigt einen Muskelschaden. In schweren Fällen kann Myoglobin die Nieren verstopfen. Darum prüft man auch die Nierenwerte. Für die Knochen misst das Labor Calcium, Phosphat, Vitamin D, Parathormon und die alkalische Phosphatase. Die alkalische Phosphatase steigt, wenn Knochen schnell aufgebaut wird, zum Beispiel beim Wachstum von Kindern.
+
+Kurz gesagt: Knochen sind lebendes Gewebe aus Kollagen und Calciumphosphat und speichern Calcium. Es gibt Skelettmuskeln, Herzmuskel und glatte Muskeln. Ein Muskelschaden setzt C K und Myoglobin ins Blut frei.
+
+# Zusammenfassung Biologie — Biology summary
+
+Schauen wir auf Teil drei zurück.
+
+Blut besteht aus etwa fünf bis sechs Litern Plasma und Zellen. Erythrozyten tragen Sauerstoff mit Hämoglobin und leben etwa hundertzwanzig Tage. Leukozyten verteidigen den Körper. Es gibt Neutrophile, Eosinophile, Basophile, Lymphozyten und Monozyten. Thrombozyten und die Gerinnungskaskade stoppen Blutungen. Plasma stammt aus Blut mit Gerinnungshemmer. Serum stammt aus geronnenem Blut und enthält kein Fibrinogen. Alle Blutzellen entstehen im roten Knochenmark, angetrieben von E P O.
+
+Das Herz ist eine Pumpe mit vier Räumen für zwei Kreisläufe. Arterien führen das Blut unter hohem Druck weg, Kapillaren tauschen aus, und Venen bringen es zurück.
+
+Die angeborene Abwehr reagiert schnell mit Barrieren, Fresszellen und Entzündung. Man misst sie mit dem C R P. Die erworbene Abwehr nutzt B Zellen, die Antikörper bilden, und T Zellen. Das Lymphsystem bringt Flüssigkeit zurück und beherbergt die Abwehrzellen.
+
+Die Nieren filtern das Blut in den Nephronen und holen Nützliches zurück. Man überwacht sie mit Kreatinin und G F R. Die Leber verarbeitet Nährstoffe, bildet Proteine, entgiftet und scheidet Bilirubin aus. Die Verdauung zerlegt die Nahrung mit Enzymen aus Magen und Bauchspeicheldrüse.
+
+Hormone sind Botenstoffe, die durch Rückkopplung gesteuert werden, zum Beispiel T S H, Cortisol und Insulin. Die Lunge tauscht Gase aus. Das Nervensystem nutzt Natrium und Kalium für seine Signale. Knochen speichern Calcium, und geschädigte Muskeln geben C K ab.
+
+Jetzt verlassen wir den Körper und schauen die Geräte an, die ihn messen.
+
+# Teil vier: Laborphysik — Part four: Lab physics
+
+Jeder Laborwert kommt aus einem Gerät. Das Gerät schickt Licht durch eine Probe, dreht sie in einer Zentrifuge oder misst einen winzigen elektrischen Strom. Hinter jedem dieser Schritte steckt Physik. Verstehst du die Physik, verstehst du, was das Gerät wirklich tut. Dann erkennst du auch, wenn etwas schiefgeht.
+
+Dieser Teil behandelt vier Themen. Erstens das Licht und wie eine Lösung es absorbiert und durchlässt. Zweitens das Lambert-Beer-Gesetz. Es verbindet das absorbierte Licht mit der Konzentration. Drittens das Photometer, das häufigste Messgerät im Labor. Viertens die Zentrifuge. Und zum Schluss die Grundlagen der Elektrizität: Strom, Spannung und Widerstand.
+
+# Licht und Farbe — Light and colour
+
+Licht ist eine Form von Energie, die sich als Welle ausbreitet. Der Abstand zwischen zwei Wellenbergen ist die Wellenlänge. Im Labor gibt man sie in Nanometern an. Ein Nanometer ist ein Millionstel Millimeter.
+
+Das menschliche Auge sieht Licht mit Wellenlängen von etwa vierhundert bis etwa siebenhundert Nanometern. Das ist das sichtbare Licht. Kurze Wellenlängen um vierhundert sehen violett und blau aus. Mittlere Wellenlängen sehen grün und gelb aus. Lange Wellenlängen um siebenhundert sehen rot aus. Weißes Licht, zum Beispiel Sonnenlicht, ist eine Mischung aus all diesen Farben. Ein Prisma zerlegt es in einen Regenbogen.
+
+Unter vierhundert Nanometern liegt das ultraviolette Licht. Wir können es nicht sehen. Es trägt mehr Energie. Über siebenhundert Nanometern liegt das infrarote Licht. Wir spüren es als Wärme.
+
+Trifft Licht auf einen Stoff, kann Verschiedenes passieren. Es kann einfach hindurchgehen. Das heißt Transmission. Der Stoff kann es aufnehmen. Das heißt Absorption. Es kann zurückprallen. Das heißt Reflexion. Oder Teilchen werfen es in alle Richtungen. Das heißt Streuung.
+
+Warum hat eine Lösung eine Farbe? Weil sie manche Wellenlängen absorbiert und die anderen durchlässt. Die Farbe, die wir sehen, ist das Licht, das durchkommt. Eine Lösung, die blaues Licht absorbiert, sieht gelb oder orange aus. Eine Lösung, die rotes und gelbes Licht absorbiert, sieht blau aus. Die absorbierte Farbe und die gesehene Farbe heißen Komplementärfarben. Eine blaue Lösung misst man also mit rotorangem Licht. Denn genau dieses Licht absorbiert sie.
+
+Jeder Stoff absorbiert bei bestimmten Wellenlängen am stärksten. Eine Kurve der Absorption gegen die Wellenlänge heißt Absorptionsspektrum. Sie ist wie ein Fingerabdruck des Stoffes. Für Messungen wählt man die Wellenlänge, bei der der Stoff am stärksten absorbiert. So bekommt man das stärkste Signal. Erinnere dich an N A D H aus dem Chemieteil. Es absorbiert stark bei dreihundertvierzig Nanometern, im ultravioletten Bereich. N A D tut das nicht.
+
+Der Anteil des Lichts, der durchkommt, heißt Transmission. Gehen hundert Einheiten Licht hinein und vierzig heraus, ist die Transmission vierzig Prozent.
+
+Warum ist das im Labor wichtig? Viele Patientenproben haben eine eigene Farbe. Sie kann Messungen stören. Eine rote Probe nach Hämolyse enthält Hämoglobin. Eine gelbbraune Probe von einem Patienten mit Gelbsucht enthält Bilirubin. Eine milchige Probe nach einer fetten Mahlzeit streut das Licht. Moderne Geräte messen diese Störungen bei mehreren Wellenlängen und markieren die Probe. Wenn du weißt, dass Farbe Absorption bedeutet, verstehst du diese Warnungen.
+
+Kurz gesagt: Licht ist eine Welle. Sichtbares Licht reicht von etwa vierhundert bis siebenhundert Nanometern. Ein Stoff kann Licht durchlassen, absorbieren, reflektieren oder streuen. Eine Lösung zeigt die Farbe, die sie nicht absorbiert. Jeder Stoff hat sein eigenes Absorptionsspektrum.
+
+# Das Lambert-Beer-Gesetz — The Lambert Beer law
+
+Wie viel Licht absorbiert eine Lösung? Das hängt von zwei Dingen ab. Erstens davon, wie viel Stoff in der Lösung ist. Zweitens davon, wie weit das Licht durch die Lösung geht. Das Gesetz dazu ist nach zwei Forschern benannt, Lambert und Beer.
+
+Zuerst brauchen wir ein Maß für die Absorption. Man könnte an die Transmission denken. Aber die Transmission ändert sich nicht in einer geraden Linie mit der Konzentration. Denk an Sonnenbrillen. Eine Brille lässt die Hälfte des Lichts durch. Zwei Brillen übereinander lassen die Hälfte der Hälfte durch, also ein Viertel. Drei Brillen lassen ein Achtel durch. Jede Schicht nimmt denselben Anteil weg, nicht dieselbe Menge.
+
+Darum benutzt man ein anderes Maß. Es heißt Extinktion. Man sagt auch Absorbanz. Die Extinktion ist der negative Zehnerlogarithmus der Transmission. Eine Transmission von hundert Prozent ergibt eine Extinktion von null. Eine Transmission von zehn Prozent ergibt eine Extinktion von eins. Eine Transmission von einem Prozent ergibt eine Extinktion von zwei.
+
+Jetzt das Gesetz. In Worten: Die Extinktion ist gleich dem molaren Extinktionskoeffizienten mal der Konzentration mal der Schichtdicke.
+
+Die Schichtdicke ist der Weg des Lichts durch die Probe. Im Labor haben Küvetten meist eine Schichtdicke von genau einem Zentimeter. Der molare Extinktionskoeffizient ist eine feste Eigenschaft des Stoffes bei einer bestimmten Wellenlänge. Er sagt, wie stark dieser Stoff absorbiert.
+
+Die wichtige Botschaft ist diese. Bleiben Schichtdicke und Wellenlänge gleich, ist die Extinktion direkt proportional zur Konzentration. Doppelte Konzentration bedeutet doppelte Extinktion. Diese einfache gerade Linie ist die Grundlage für einen großen Teil der klinischen Chemie.
+
+In der Praxis benutzt man oft einen Standard. Ein Standard ist eine Lösung mit bekannter Konzentration. Du misst den Standard und die Probe unter gleichen Bedingungen. Dann rechnest du mit dem Dreisatz aus dem ersten Leitfaden.
+
+Ein Rechenbeispiel. Ein Glukosestandard mit hundert Milligramm pro Deziliter hat eine Extinktion von null komma vier. Die Patientenprobe hat eine Extinktion von null komma drei. Schritt eins: Teile die Extinktion der Probe durch die Extinktion des Standards. Null komma drei geteilt durch null komma vier ist null komma sieben fünf. Schritt zwei: Multipliziere das mit der Konzentration des Standards. Null komma sieben fünf mal hundert ist fünfundsiebzig. Die Probe enthält also fünfundsiebzig Milligramm Glukose pro Deziliter.
+
+Das Gesetz hat Grenzen. Es gilt nur für verdünnte, klare Lösungen. Bei hohen Konzentrationen biegt sich die gerade Linie. Die meisten Photometer arbeiten am besten bei Extinktionen unter etwa eins bis zwei. Eine sehr konzentrierte Probe muss man darum verdünnen und neu messen. Das Ergebnis multipliziert man dann mit dem Verdünnungsfaktor.
+
+Warum ist das im Labor wichtig? Glukose, Cholesterin, Kreatinin, Gesamteiweiß, Hämoglobin und Hunderte anderer Tests berechnet man mit dem Lambert-Beer-Gesetz. Jedes Gerät hat einen Messbereich. Liegt ein Ergebnis darüber, markiert das Gerät es, und man verdünnt die Probe. Jetzt weißt du warum. Über diesem Bereich ist die gerade Linie nicht mehr gerade.
+
+Kurz gesagt: Die Extinktion ist der negative Logarithmus der Transmission. Das Lambert-Beer-Gesetz sagt: Extinktion ist gleich Extinktionskoeffizient mal Konzentration mal Schichtdicke. Bei fester Küvette und Wellenlänge ist die Extinktion also proportional zur Konzentration, innerhalb des Messbereichs.
+
+# Die Photometrie — Photometry
+
+Ein Photometer ist ein Gerät, das misst, wie viel Licht eine Probe absorbiert. Es ist das Arbeitspferd im Labor der klinischen Chemie. Große Analysegeräte sind im Kern sehr schnelle, automatische Photometer.
+
+Ein Photometer hat vier Hauptteile, in einer Reihe.
+
+Erstens die Lichtquelle. Für sichtbares Licht ist das oft eine Halogenlampe. Für ultraviolettes Licht braucht man eine besondere Lampe. Viele moderne Geräte benutzen Leuchtdioden.
+
+Zweitens die Auswahl der Wellenlänge. Sie wählt die Wellenlänge, die du brauchst. Ein einfaches Filterphotometer benutzt farbige Glasfilter. Ein Spektralphotometer benutzt ein Prisma oder ein Gitter. Es zerlegt das Licht wie einen Regenbogen. Ein schmaler Spalt wählt dann eine Wellenlänge aus. Das ausgewählte Licht heißt monochromatisch. Das bedeutet »einfarbig«.
+
+Drittens die Küvette. Dieser kleine Behälter hält die Probe im Lichtweg. Sie muss sauber sein, ohne Kratzer und ohne Fingerabdrücke. Und sie muss richtig herum stehen. Normales Glas und normaler Kunststoff absorbieren ultraviolettes Licht. Für Messungen bei dreihundertvierzig Nanometern brauchst du darum Küvetten aus Quarz oder aus besonderem Kunststoff.
+
+Viertens der Detektor. Er macht aus dem durchgehenden Licht ein elektrisches Signal. Das Gerät berechnet dann die Transmission und die Extinktion.
+
+Vor dem Messen stellt man das Photometer mit einem Leerwert auf null. Der Leerwert enthält alles außer dem gesuchten Stoff, also das Reagenz und das Lösungsmittel. So zieht man die Eigenfarbe des Reagenzes und die Absorption der Küvette ab. Übrig bleibt nur die Extinktion durch den gesuchten Stoff. Oft benutzt man auch einen Probenleerwert. Damit zieht man die Eigenfarbe der Patientenprobe ab.
+
+Es gibt zwei Hauptarten der Messung.
+
+Bei einer Endpunktmessung lässt man die Reaktion vollständig ablaufen. Dann misst man die Extinktion einmal. So misst man die meisten Stoffe, zum Beispiel Glukose oder Cholesterin.
+
+Bei einer kinetischen Messung misst man die Extinktion mehrmals über eine bestimmte Zeit. Das Gerät berechnet, wie schnell sie sich ändert. So misst man Enzyme. Je schneller sich die Extinktion ändert, desto mehr Enzym ist in der Probe. Die Enzymaktivität gibt man in Units pro Liter an.
+
+Eine verwandte Methode ist die Turbidimetrie. Hier lassen Antikörper den gesuchten Stoff zu winzigen Teilchen verklumpen. Die Teilchen streuen das Licht. Das Gerät misst den Lichtverlust durch diese Trübung. Das C R P misst man oft auf diese Weise.
+
+Warum ist das im Labor wichtig? Du arbeitest jeden Tag mit Photometern und Analysegeräten. Gute Ergebnisse brauchen saubere Küvetten, die richtige Wellenlänge, einen frischen Leerwert, die richtige Temperatur und regelmäßige Kontrollen. Jeden Tag misst man Kontrollproben mit bekannten Werten. Liegt eine Kontrolle außerhalb des Bereichs, darf man keine Patientenwerte freigeben. Erst muss man den Fehler finden.
+
+Kurz gesagt: Ein Photometer besteht aus Lichtquelle, Auswahl der Wellenlänge, Küvette und Detektor. Ein Leerwert zieht den Hintergrund ab. Die Endpunktmessung misst einmal am Ende. Die kinetische Messung verfolgt die Änderung über die Zeit. Sie dient zur Messung von Enzymen.
+
+# Die Zentrifugation — Centrifugation
+
+Eine Zentrifuge trennt die Teile einer Probe, indem sie die Probe sehr schnell dreht. In einem ruhenden Röhrchen sinken schwere Teilchen langsam nach unten. Das macht die Schwerkraft. In einer Zentrifuge werden sie viel stärker nach außen gedrückt. So sinken sie in Minuten statt in Stunden.
+
+Denk an ein Karussell auf dem Jahrmarkt. Je schneller es sich dreht, desto stärker wirst du nach außen gedrückt. Und je weiter du von der Mitte weg sitzt, desto stärker ist der Druck.
+
+Zwei Dinge bestimmen also die Kraft in einer Zentrifuge: die Drehzahl und der Abstand von der Mitte.
+
+Die Drehzahl gibt man in Umdrehungen pro Minute an. Diese Zahl zeigt die Zentrifuge auf ihrem Display. Aber die Drehzahl allein sagt nichts über die Kraft. Eine kleine und eine große Zentrifuge drücken bei dreitausend Umdrehungen pro Minute sehr verschieden stark. Ihr Radius ist nämlich verschieden.
+
+Darum benutzt man die relative Zentrifugalbeschleunigung, kurz R Z B. Sie sagt, wievielmal stärker die Kraft ist als die normale Schwerkraft. Man gibt sie als Vielfaches von g an. Das g steht für die Erdbeschleunigung. Eine R Z B von tausend g bedeutet: Die Probe spürt eine Kraft, die tausendmal stärker ist als die Schwerkraft.
+
+Die Formel, die beide Werte verbindet, lautet in Worten so. Die R Z B ist gleich eins komma eins eins acht mal zehn hoch minus fünf, mal dem Radius in Zentimetern, mal der Drehzahl zum Quadrat.
+
+Ein Rechenbeispiel. Eine Zentrifuge hat einen Radius von zehn Zentimetern. Sie läuft mit dreitausend Umdrehungen pro Minute. Schritt eins: Quadriere die Drehzahl. Dreitausend mal dreitausend ist neun Millionen. Schritt zwei: Multipliziere mit dem Radius, also mit zehn. Das ergibt neunzig Millionen. Schritt drei: Multipliziere mit eins komma eins eins acht mal zehn hoch minus fünf. Das Ergebnis ist etwa tausend. Die R Z B ist also etwa tausend g.
+
+Beachte: Die Drehzahl steht im Quadrat. Verdoppelst du die Drehzahl, wird die Kraft viermal so groß. Darum sollten Anleitungen immer R Z B und Zeit angeben, nicht nur die Drehzahl.
+
+Sicherheit ist sehr wichtig. Die Zentrifuge muss ausbalanciert sein. Gleich schwere Röhrchen müssen sich gegenüberstehen. Ein unausgeglichener Rotor wackelt. Er kann beschädigt werden und sogar zerbrechen. Die Röhrchen sollten verschlossen sein. So entstehen keine gefährlichen Aerosole. Der Deckel bleibt zu, bis der Rotor ganz stillsteht. Bremse einen Rotor nie mit der Hand.
+
+Warum ist das im Labor wichtig? Fast jede Blutprobe für die klinische Chemie wird zentrifugiert, um Serum oder Plasma zu gewinnen. Eine typische Einstellung ist etwa zehn Minuten bei etwa zweitausend g. Aber jedes Labor und jeder Röhrchenhersteller gibt eigene genaue Werte an. Zu wenig Kraft lässt Zellen oder Thrombozyten im Plasma. Zu viel Kraft oder zu lange Zeit kann Zellen schädigen und Kalium freisetzen. Auch das Urinsediment gewinnt man durch Zentrifugation. Dafür braucht man eine viel kleinere Kraft. So bleiben empfindliche Bestandteile erhalten.
+
+Kurz gesagt: Eine Zentrifuge trennt Teilchen durch Drehen. Die echte Kraft ist die R Z B, ein Vielfaches der Schwerkraft. Sie hängt vom Radius und vom Quadrat der Drehzahl ab. Balanciere immer den Rotor aus, verschließe die Röhrchen und halte dich an die angegebene R Z B und Zeit.
+
+# Grundlagen der Elektrizität — Electricity basics
+
+Elektrizität ist die Bewegung elektrischer Ladung. In Metalldrähten bewegen sich Elektronen. In Lösungen wie Blut oder Salzwasser bewegen sich Ionen. Drei Grundgrößen beschreiben die Elektrizität: Strom, Spannung und Widerstand.
+
+Eine Wasserleitung ist ein gutes Bild. Die Spannung ist wie der Wasserdruck. Der Strom ist wie die Wassermenge, die pro Sekunde fließt. Der Widerstand ist wie eine enge Stelle im Rohr. Sie macht das Fließen schwerer.
+
+Der Strom ist die Menge Ladung, die pro Sekunde an einer Stelle vorbeifließt. Man misst ihn in Ampere. Eine kleine Lampe braucht einen Bruchteil eines Ampere. Ein Wasserkocher braucht etwa zehn Ampere.
+
+Die Spannung ist die Kraft, die die Ladungen antreibt. Sie ist der Unterschied im elektrischen Druck zwischen zwei Punkten. Man misst sie in Volt. Eine Batterie hat etwa anderthalb Volt. Eine Steckdose in Europa hat zweihundertdreißig Volt. Denk an das galvanische Element aus dem Chemieteil. Seine Spannung kommt aus einer Redoxreaktion.
+
+Der Widerstand beschreibt, wie stark ein Material den Strom bremst. Man misst ihn in Ohm. Metalle wie Kupfer haben einen kleinen Widerstand. Sie sind gute Leiter. Kunststoff, Gummi und Glas haben einen sehr großen Widerstand. Sie sind Isolatoren. Reines Wasser leitet schlecht. Wasser mit gelösten Ionen leitet gut. Darum leiten Leitungswasser und Körperflüssigkeiten Strom.
+
+Die drei Größen verbindet das ohmsche Gesetz. In Worten: Die Spannung ist gleich Widerstand mal Strom. Kennst du zwei davon, kannst du die dritte berechnen.
+
+Ein Rechenbeispiel. Ein Gerät arbeitet mit zwölf Volt und hat einen Widerstand von vier Ohm. Wie groß ist der Strom? Der Strom ist gleich Spannung geteilt durch Widerstand. Zwölf geteilt durch vier ist drei. Der Strom ist also drei Ampere.
+
+Die elektrische Leistung sagt, wie viel Energie pro Sekunde verbraucht wird. Sie ist Spannung mal Strom. Man misst sie in Watt. In unserem Beispiel ergeben zwölf Volt mal drei Ampere sechsunddreißig Watt.
+
+Für die Sicherheit merk dir: Der menschliche Körper leitet Strom, vor allem mit nasser Haut. Kaputte Kabel, Flüssigkeiten neben Geräten und geöffnete Gerätegehäuse sind echte Gefahren. Geräte im Labor sind geerdet und werden regelmäßig geprüft.
+
+Warum ist das im Labor wichtig? Elektrizität dient nicht nur als Energie für die Geräte. Man misst auch mit ihr. Blutzellzähler nutzen das Impedanzprinzip. Die Zellen gehen einzeln durch eine winzige Öffnung in einer Salzlösung. Jede Zelle leitet schlecht. Darum erhöht sie kurz den Widerstand. Das Gerät zählt diese Impulse. Die Größe jedes Impulses zeigt die Größe der Zelle. Die Elektrophorese nutzt eine Spannung, um geladene Proteine durch ein Gel zu bewegen. So trennt sie die Proteine nach Ladung und Größe. Und ionenselektive Elektroden messen Spannungen, um Ionenkonzentrationen zu finden.
+
+Kurz gesagt: Strom ist fließende Ladung und wird in Ampere gemessen. Spannung ist die antreibende Kraft und wird in Volt gemessen. Widerstand bremst den Strom und wird in Ohm gemessen. Das ohmsche Gesetz sagt: Spannung ist gleich Widerstand mal Strom. Zellzähler und Elektrophorese nutzen diese Prinzipien.
+
+# Zusammenfassung Physik — Physics summary
+
+Schauen wir auf Teil vier zurück.
+
+Licht ist eine Welle. Sichtbares Licht liegt zwischen etwa vierhundert und siebenhundert Nanometern. Ultraviolettes Licht liegt darunter. Ein Stoff kann Licht durchlassen, absorbieren, reflektieren oder streuen. Eine Lösung zeigt die Farbe, die sie nicht absorbiert.
+
+Die Extinktion ist der negative Logarithmus der Transmission. Das Lambert-Beer-Gesetz sagt: Extinktion ist gleich Extinktionskoeffizient mal Konzentration mal Schichtdicke. Bei fester Küvette und Wellenlänge ist die Extinktion also proportional zur Konzentration. Mit einem Standard und dem Dreisatz berechnest du eine unbekannte Konzentration.
+
+Ein Photometer hat Lichtquelle, Auswahl der Wellenlänge, Küvette und Detektor. Ein Leerwert zieht den Hintergrund ab. Endpunktmessungen passen für die meisten Stoffe, kinetische Messungen für Enzyme.
+
+Eine Zentrifuge trennt Teilchen durch Drehen. Die echte Kraft, die R Z B, hängt vom Radius und vom Quadrat der Drehzahl ab. Balanciere immer den Rotor aus.
+
+Elektrischen Strom misst man in Ampere, Spannung in Volt und Widerstand in Ohm. Das ohmsche Gesetz verbindet sie: Spannung ist gleich Widerstand mal Strom. Zellzähler, Elektrophorese und Elektroden messen mit Elektrizität.
+
+# Abschluss — Final summary
+
+Du bist am Ende des zweiten Leitfadens angekommen. Schauen wir auf das ganze Bild.
+
+In Teil eins hast du deine Chemie vertieft. Säuren geben Protonen ab, Basen nehmen sie auf. Der pH-Wert ist eine logarithmische Skala. Puffer halten ihn stabil, vor allem der Bicarbonatpuffer im Blut. Die Titration misst Konzentrationen. Gleichgewicht und Le Chatelier erklären, wie Reaktionen ins Gleichgewicht kommen. Die Kinetik erklärt, wie schnell sie laufen. Die Elektrolyte Natrium, Kalium, Calcium, Chlorid und Bicarbonat halten den Körper in Gang. Elektroden messen sie.
+
+In Teil zwei hast du die Sprache der organischen Chemie gelernt. Kohlenwasserstoffe bilden das Gerüst. Funktionelle Gruppen geben den Charakter: Alkohole, Aldehyde, Ketone, Säuren, Ester und Amine. Isomere haben dieselben Atome in anderer Anordnung. Chirale Moleküle gibt es als Spiegelbilder. Oxidation, Reduktion, Kondensation und Hydrolyse bauen die Moleküle des Lebens auf und ab.
+
+In Teil drei bist du durch den Körper gereist. Blut mit seinen Zellen und dem Plasma, Herz und Gefäße, Immunsystem und Lymphsystem, Nieren, Leber und Darm, Hormone, Lunge, Nerven, Muskeln und Knochen. Für jedes System kennst du jetzt mindestens einen Labortest, der seine Geschichte erzählt.
+
+In Teil vier hast du in die Geräte geschaut. Du kennst das Photometer und das Lambert-Beer-Gesetz, die Zentrifuge mit ihrer R Z B und die Grundlagen der Elektrizität.
+
+Alle vier Teile treffen sich in jedem einzelnen Laborwert. Ein Kaliumwert zum Beispiel hängt von vielen Dingen ab. Von der Biologie der roten Blutkörperchen, von sorgfältigem Zentrifugieren und von einer ionenselektiven Elektrode. Und vom Wissen, was Nieren und Herz mit dem Kalium machen.
+
+Hör dir die Kapitel so oft an, wie du möchtest. Jedes Mal wird dir mehr davon vertraut vorkommen. Viel Erfolg in deiner Ausbildung!

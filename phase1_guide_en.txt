@@ -1,0 +1,903 @@
+Foundations for the medical laboratory: chemistry, cell biology and lab maths.
+
+# Using this guide
+
+This audio guide covers the foundation science for the training as a medical technologist for laboratory analysis. The guide has three parts. Part one is general chemistry. Part two is cell biology. Part three is lab maths.
+
+Every topic starts from zero. You do not need any previous knowledge. Each chapter explains one idea in plain language. Then it shows why the idea matters in a real laboratory.
+
+A short note on how numbers and symbols appear. Because this is audio, there are no formulas and no symbols. Water is simply called water, not by its chemical formula. Units are spoken in full, for example millimoles per liter. When you later see these things written down, you will recognise them.
+
+The best way to use this guide is to listen to one chapter at a time. If something is not clear, listen to the chapter again. Each chapter builds on the ones before it, so the order matters.
+
+Let us begin with the smallest building block of everything: the atom.
+
+# Part one: Chemistry
+
+Chemistry is the science of substances. It asks what things are made of, how they are built, and how they change. In the medical laboratory, almost every result is a chemical measurement. Sodium, potassium, glucose, cholesterol and proteins are all substances. They dissolve in blood, they react with test reagents, and they have a concentration. If you understand the chemistry behind a test, you understand what the number on the report really means.
+
+This part goes step by step. First the atom and the periodic table. Then the ways atoms hold together. Then counting particles with the mole, and calculating with chemical equations. Then solutions and concentrations. And finally, the most important types of chemical reactions.
+
+# Atomic structure
+
+Everything around you is made of atoms. The table, the air, water, and your own body. An atom is the smallest particle of a chemical element that still has the properties of that element.
+
+Atoms are unimaginably small. About ten million atoms fit side by side across one millimeter.
+
+An atom has two regions. In the center is the nucleus. Around the nucleus is the electron shell, a large cloud where the electrons move.
+
+The nucleus contains two kinds of particles. Protons carry a positive electric charge. Neutrons carry no charge; they are neutral. Protons and neutrons have almost the same mass. Together they are called nucleons.
+
+The electrons carry a negative charge. They are extremely light, nearly two thousand times lighter than a proton. This means that almost all the mass of an atom sits in the nucleus.
+
+The nucleus is also tiny compared with the whole atom. Imagine an atom as big as a football stadium. The nucleus would then be the size of a pea in the middle of the field. Everything else is mostly empty space with a few very light electrons.
+
+Now the most important rule. The number of protons decides which element an atom is. An atom with one proton is always hydrogen. An atom with six protons is always carbon. An atom with eight protons is always oxygen. An atom with eleven protons is always sodium. This number is called the atomic number.
+
+Protons and neutrons together give the mass number. A normal carbon atom has six protons and six neutrons, so its mass number is twelve.
+
+A neutral atom has exactly as many electrons as protons. The positive and negative charges then cancel each other out. Sodium, for example, has eleven protons and eleven electrons. Later we will see that atoms can gain or lose electrons. Then they become charged particles called ions.
+
+Why does this matter in the lab? In blood we measure elements such as sodium, potassium, calcium and iron. In the blood these atoms are charged because they have given away electrons. To understand electrolytes, you first need to understand the atom.
+
+In short: an atom has a tiny nucleus with positive protons and neutral neutrons, and a shell with negative electrons. The number of protons, the atomic number, decides the element. Protons plus neutrons give the mass number.
+
+# The periodic table
+
+An element is a pure substance made of only one kind of atom. Today we know about one hundred and eighteen elements. All of them are arranged in one famous table: the periodic table of the elements.
+
+Each element has its own box. In the box you find a short symbol of one or two letters, the atomic number, and the atomic mass. The symbols often come from Latin names, so they do not always match the English name.
+
+The table is sorted by atomic number. You read it from left to right, row by row, like a book. Hydrogen, with atomic number one, is at the top left. Helium, with two, is at the top right. Then lithium with three starts the next row, and so on.
+
+The rows are called periods. There are seven periods. The columns are called groups. And here is the clever part: elements in the same group behave in a similar way. So the column tells you the chemical behavior of an element.
+
+Some groups have special names. The first column contains lithium, sodium and potassium. These are the alkali metals. They are soft metals that react violently with water. The second column contains magnesium and calcium. These are the alkaline earth metals. The second to last column contains fluorine, chlorine, bromine and iodine. These are the halogens. They are very reactive and form salts with metals. The last column contains helium, neon and argon. These are the noble gases. They almost never react.
+
+The eight long columns are the main groups. The short columns in the middle are the transition metals, also called subgroups. Iron, copper and zinc are found there.
+
+There is also a general pattern. Metals are on the left and in the middle. Non-metals are on the upper right.
+
+Why does this matter in the lab? Sodium and potassium are both in the first main group. That is why both form ions with one positive charge in the blood. Calcium and magnesium are both in the second main group. That is why both form ions with two positive charges. So the periodic table already predicts the charge of the most important electrolytes. The atomic masses in the boxes are also the starting point for many lab calculations.
+
+In short: the periodic table sorts the elements by atomic number. Rows are periods, columns are groups. Elements in the same group behave in a similar way.
+
+# Electron shells
+
+Electrons do not move around the nucleus in a random way. In a simple model, they are arranged in layers called shells. This is the shell model, also called the Bohr model.
+
+Each shell has a fixed capacity. The first shell, closest to the nucleus, holds at most two electrons. The second shell holds at most eight. For the light elements, the third shell also takes eight before the next shell starts. Later in the table the third shell can hold up to eighteen, but for now eight is enough.
+
+The shells fill from the inside out. Think of the rows of seats in a bus: when one row is full, the next row starts.
+
+Here are two examples. Sodium has eleven electrons. Two go into the first shell, eight into the second, and one is left for the third shell. Chlorine has seventeen electrons. Two, then eight, then seven in the third shell.
+
+The outermost shell is the most important one. It is called the outer shell or valence shell. Its electrons are called valence electrons. Only these electrons take part in chemical reactions.
+
+For the main groups, there is an easy rule. The group number tells you the number of valence electrons. Sodium is in group one and has one valence electron. Chlorine is in group seven and has seven. And the period number tells you the number of shells. Sodium and chlorine are both in period three, so both have three shells.
+
+Why do the noble gases not react? Because their outer shell is full. Neon and argon have eight outer electrons. This state is called the noble gas configuration, and it is very stable. Other atoms try to reach the same state by giving, taking or sharing electrons. This is called the octet rule. Octet means eight.
+
+Sodium has one extra electron in its outer shell. It gives this electron away easily. Then its full second shell becomes the outer shell, just like neon. Chlorine is missing one electron. It takes one easily, and then it has eight outer electrons, just like argon. You can already guess that sodium and chlorine are a perfect match. In fact, almost all of chemistry is a game about full outer shells.
+
+Why does this matter in the lab? The valence electrons explain why sodium in the blood always has one positive charge and why chloride always has one negative charge. They also explain how large molecules such as glucose, proteins and DNA hold together.
+
+In short: electrons sit in shells, two in the first and eight in the second. The outer electrons are the valence electrons. Atoms try to reach a full outer shell of eight, like the noble gases.
+
+# Isotopes
+
+We said that the number of protons decides the element. But the number of neutrons can vary. Atoms of the same element with different numbers of neutrons are called isotopes.
+
+Isotopes have the same atomic number but a different mass number. Take carbon. Almost all carbon has six protons and six neutrons. This is carbon twelve. About one percent has seven neutrons. This is carbon thirteen. A tiny amount has eight neutrons. This is carbon fourteen. All three are carbon, because all three have six protons.
+
+Do isotopes behave differently in chemical reactions? Almost not at all. Chemistry depends on the electrons, and isotopes of the same element have the same number of electrons. The main difference is the mass.
+
+Some isotopes are unstable. Their nucleus breaks down over time and sends out radiation. These isotopes are called radioactive. Carbon fourteen is radioactive, and it is used to find the age of old wood and bones. Carbon twelve and carbon thirteen are stable.
+
+Isotopes also explain a small puzzle in the periodic table. The atomic mass of chlorine is listed as thirty-five point five. How can a mass be a half number? Because natural chlorine is a mixture of two isotopes: chlorine thirty-five and chlorine thirty-seven. The lighter isotope is much more common. The atomic mass in the table is the average of all natural isotopes, weighted by how common they are. That is why atomic masses are often not whole numbers.
+
+Why does this matter in the lab? A good example is the breath test for Helicobacter, a bacterium that lives in the stomach. The patient drinks a solution of urea that contains the stable isotope carbon thirteen. If the bacterium is present, it splits the urea. The patient then breathes out carbon dioxide that contains carbon thirteen. A measuring device detects this heavier carbon dioxide in the breath. The test is safe because carbon thirteen is not radioactive. In nuclear medicine, radioactive isotopes are used on purpose, for example radioactive iodine for the thyroid gland.
+
+In short: isotopes have the same number of protons but a different number of neutrons. They behave the same chemically but have different masses. Some isotopes are radioactive.
+
+# Ions and ionic bonds
+
+Atoms want a full outer shell. One way to get it is to give or take electrons. When an atom gains or loses electrons, it becomes electrically charged. A charged atom is called an ion.
+
+Sodium gives away its single outer electron. It now has eleven protons but only ten electrons. That means one positive charge more than negative charges. It is now a sodium ion with a single positive charge. A positive ion is called a cation.
+
+Chlorine takes one electron. It now has seventeen protons and eighteen electrons. It carries one negative charge. As an ion, we no longer call it chlorine but chloride. A negative ion is called an anion.
+
+Opposite charges attract each other strongly. The attraction between cations and anions is called the ionic bond. In a crystal of table salt, millions of sodium ions and chloride ions sit in a fixed, regular pattern, always alternating. This pattern is called the ionic lattice or crystal lattice. The chemical name of table salt is sodium chloride.
+
+In an ionic bond, an electron is transferred completely from one atom to another. It is like giving a gift: the electron changes its owner. This typically happens between a metal and a non-metal. Metals on the left of the periodic table give electrons away. Non-metals on the right take electrons.
+
+Compounds made of ions are called salts. Salts have typical properties. They are solid at room temperature and have a high melting point. They are hard but brittle. Many salts dissolve well in water. In water the ions separate and move freely. Because these moving ions carry charge, a salt solution conducts electricity. A substance that forms ions in water and conducts electricity is called an electrolyte.
+
+Why does this matter in the lab? Blood plasma is full of ions. Sodium, potassium, calcium, magnesium and chloride are the most important electrolytes. Sodium in serum is normally about one hundred thirty-five to one hundred forty-five millimoles per liter. Potassium is normally about three point five to five millimoles per liter. In the laboratory, these ions are often measured with ion-selective electrodes, sensors that react to one specific ion. Even small changes in potassium can be dangerous for the heart, so these results must be correct.
+
+In short: ions are charged atoms. Cations are positive, anions are negative. The attraction between them is the ionic bond. Salts dissolved in water are electrolytes.
+
+# Covalent bonds
+
+What happens when two non-metals meet? Both want to take electrons, and neither wants to give any away. The solution is to share. Two atoms share pairs of electrons. This is the covalent bond.
+
+Take two hydrogen atoms. Each has only one electron, but each needs two to fill its first shell. So they put their electrons together. The pair of electrons now belongs to both atoms at the same time. It is called a shared or bonding electron pair. Each atom counts the pair as its own, so each hydrogen now has two electrons, just like helium.
+
+A group of atoms held together by covalent bonds is called a molecule. Two hydrogen atoms form a hydrogen molecule.
+
+A simple comparison: an ionic bond is like giving a gift away. A covalent bond is like a garden that two neighbours share and both can use.
+
+Now water. Oxygen has six outer electrons and needs two more to reach eight. So one oxygen atom shares one electron pair with each of two hydrogen atoms. In the end, oxygen has eight electrons around it, and each hydrogen has two. Everyone is satisfied. This is the water molecule.
+
+Two atoms can also share more than one pair. One shared pair is a single bond. Two shared pairs form a double bond. The two atoms in an oxygen molecule are held by a double bond. Three shared pairs form a triple bond. The two atoms in a nitrogen molecule are held by a triple bond. This triple bond is extremely strong. That is why the nitrogen in the air hardly reacts with anything.
+
+Covalent bonds are typical for non-metals. They form the backbone of all organic chemistry, the chemistry of carbon. Carbon has four outer electrons, so it forms four bonds. It can build long chains and rings. That is why carbon is the basis of life.
+
+Why does this matter in the lab? Almost all molecules of life are built with covalent bonds: glucose, fats, proteins and DNA. Their skeleton is made of carbon, hydrogen, oxygen and nitrogen. And a practical example: liquid nitrogen is very cold and almost never reacts. That is why cells and samples are stored in liquid nitrogen for long periods.
+
+In short: in a covalent bond, atoms share electron pairs. Atoms joined in this way form molecules. There are single, double and triple bonds.
+
+# Polar bonds
+
+In a covalent bond, two atoms share an electron pair. But they do not always share fairly. Some atoms pull harder on the shared electrons than others. This pulling power is called electronegativity.
+
+Fluorine has the highest electronegativity of all elements. Then come oxygen and nitrogen. Carbon and hydrogen pull much less strongly.
+
+When two identical atoms are bonded, both pull equally. The electron pair sits exactly in the middle. This bond is non-polar. The hydrogen molecule is an example. Bonds between carbon and hydrogen are also nearly non-polar.
+
+In water it is different. Oxygen pulls the shared electrons towards itself. So the oxygen end becomes slightly negative, and the hydrogen ends become slightly positive. These are not full charges, only partial charges. A bond with partial charges is called a polar bond.
+
+It helps to think of this as a scale, not a switch. Identical atoms give a non-polar bond. A moderate difference in electronegativity gives a polar covalent bond. A very large difference gives an ionic bond, where the electron is not shared at all but transferred.
+
+The water molecule is also bent, not straight. Because of this shape, it has a negative side and a positive side. A molecule with a positive and a negative side is called a dipole. Water is a dipole, and this fact explains a great deal about life and the laboratory.
+
+There is a very useful rule: like dissolves like. Polar substances dissolve well in polar solvents such as water. Salt and sugar dissolve well in water. Such water-loving substances are called hydrophilic. Fats and oils are almost non-polar. They do not dissolve in water; they float on top. Such water-avoiding substances are called hydrophobic. Fats do dissolve in non-polar solvents, though.
+
+Why does this matter in the lab? Cholesterol and triglycerides are fats. Blood is mostly water, so fats cannot simply float freely in it. The body packs them into transport particles made of fat and protein, called lipoproteins. After a very fatty meal, serum can look milky and cloudy. This is called lipemic serum. It can disturb measurements in the photometer, which works with light. So the polarity of molecules has a direct effect on the quality of a sample.
+
+In short: electronegativity is the pull of an atom on shared electrons. Unequal sharing creates a polar bond with partial charges. Water is a dipole, and like dissolves like.
+
+# Hydrogen bonds
+
+A water molecule is very small and light. Similar small molecules are gases at room temperature. So why is water a liquid? The answer is hydrogen bonds.
+
+In water, each hydrogen atom is slightly positive. The oxygen atom is slightly negative and also has free electron pairs that are not used in bonds. The positive hydrogen of one water molecule is attracted to the negative oxygen of a neighbouring molecule. This attraction is called a hydrogen bond.
+
+A hydrogen bond is not a real chemical bond like a covalent bond. It is much weaker. It does not act inside one molecule, but between molecules, or between different parts of a large molecule. Hydrogen bonds form mainly when hydrogen is attached to oxygen or nitrogen.
+
+One hydrogen bond is weak. But there are very many of them, and together they are strong. Think of hook-and-loop tape: each little hook is weak, but thousands of hooks hold firmly together.
+
+The effects are enormous. Water boils only at one hundred degrees Celsius, although its molecules are tiny. Much energy is needed to break all the hydrogen bonds. Ice is lighter than liquid water, so it floats. In ice, hydrogen bonds hold the molecules in an open lattice with a lot of space.
+
+Hydrogen bonds are also essential in biology. DNA consists of two strands. The two strands are held together by hydrogen bonds between their bases. The base adenine pairs with thymine through two hydrogen bonds. The base guanine pairs with cytosine through three hydrogen bonds. Proteins also keep their three-dimensional shape partly through hydrogen bonds.
+
+Why does this matter in the lab? In molecular biology there is a method called PCR, the polymerase chain reaction. In each cycle, the DNA is heated to about ninety-four degrees Celsius. The hydrogen bonds break, and the two strands separate. The covalent bonds inside each strand stay intact. This separation is called denaturation. Proteins and enzymes can also be denatured by heat. They lose their shape and with it their function. Think of an egg white that turns solid when you cook it. That is why samples and reagents with enzymes must be kept at the correct temperature.
+
+In short: hydrogen bonds are weak attractions between molecules, but together they are strong. They make water a liquid and hold the two strands of DNA together. Heat breaks them, which is called denaturation.
+
+# The mole
+
+How many eggs are in a dozen? Twelve. A dozen is a counting unit. It simply means twelve pieces. Chemists also have a counting unit. It is called the mole.
+
+Atoms and molecules are so small that nobody can count them one by one. Even one drop of water contains an unimaginable number of water molecules. So chemists need a huge counting unit. One mole is about six point zero two times ten to the power of twenty-three particles. That is a six followed by roughly twenty-three digits.
+
+This number is called the Avogadro constant, or Avogadro's number, after an Italian scientist. It was chosen so that twelve grams of carbon twelve contain exactly one mole of atoms.
+
+How big is this number really? Imagine one mole of rice grains. You could cover the whole surface of the Earth with a layer of rice many meters deep. And yet one mole of water is only a small sip.
+
+The quantity we measure in moles is called the amount of substance. Its symbol is the small letter n, and its unit is the mole. If we say we have two moles of water, we mean two times Avogadro's number of water molecules.
+
+Why do chemists count particles instead of simply weighing things? Because reactions happen particle by particle. One sodium ion meets one chloride ion. One molecule reacts with another molecule. For chemistry, the number of particles is more important than their weight. Two substances with the same mass can contain very different numbers of particles, because their particles have different masses.
+
+Shops sell eggs by the dozen, and chemists count particles by the mole. Both are counting units that make the numbers manageable.
+
+Smaller units are also common. One millimole is one thousandth of a mole. One micromole is one millionth of a mole.
+
+Why does this matter in the lab? Many lab results are given in millimoles per liter. Sodium, potassium, glucose, urea and creatinine are often reported this way. Such a value tells you how many particles of the substance are in one liter of blood plasma. Once you understand the mole, you understand the unit of most results on a lab report.
+
+In short: the mole is a counting unit for particles. One mole is about six point zero two times ten to the power of twenty-three particles. The amount of substance is measured in moles.
+
+# Molar mass
+
+We cannot count particles directly, but we can weigh. So we need a bridge between mass and amount of substance. This bridge is the molar mass.
+
+The molar mass is the mass of one mole of a substance. Its unit is grams per mole. And the nice thing is: you can read it from the periodic table. The atomic mass in each box is also the molar mass of that element in grams per mole.
+
+Here are the values you will use most often. Hydrogen is about one. Carbon is twelve. Nitrogen is fourteen. Oxygen is sixteen. Sodium is twenty-three. Chlorine is thirty-five point five. Potassium is thirty-nine. Calcium is forty.
+
+For molecules, you add up the masses of all atoms in the molecule. Water has two hydrogen atoms and one oxygen atom. Two times one plus sixteen gives eighteen. So the molar mass of water is eighteen grams per mole. Eighteen grams of water, about one tablespoon, are one mole of water.
+
+Sodium chloride is twenty-three plus thirty-five point five. That gives fifty-eight point five grams per mole.
+
+Now the most important formula of this chapter. The amount of substance equals the mass divided by the molar mass. In symbols: n equals m divided by capital M.
+
+An example. You have nine grams of water. Nine divided by eighteen gives zero point five. So you have half a mole of water.
+
+You can also go the other way. The mass equals the amount of substance times the molar mass. Two moles of sodium chloride weigh two times fifty-eight point five grams. That is one hundred seventeen grams.
+
+Now a molecule from the lab: glucose, also called grape sugar or blood sugar. One glucose molecule has six carbon atoms, twelve hydrogen atoms and six oxygen atoms. Six times twelve gives seventy-two. Twelve times one gives twelve. Six times sixteen gives ninety-six. Together that is one hundred eighty grams per mole.
+
+Why does this matter in the lab? Glucose is reported in two different units. In Germany it is often given in milligrams per deciliter. Internationally it is given in millimoles per liter. Let us convert. A patient has ninety milligrams per deciliter. One liter has ten deciliters, so that is nine hundred milligrams per liter. Nine hundred divided by one hundred eighty gives five. The result is five millimoles per liter. The molar mass is the key to this conversion. A useful shortcut for glucose: divide milligrams per deciliter by eighteen to get millimoles per liter.
+
+In short: the molar mass is the mass of one mole, in grams per mole. You find it by adding the atomic masses from the periodic table. Amount of substance equals mass divided by molar mass.
+
+# Chemical equations
+
+When hydrogen gas burns, it reacts with oxygen from the air. The product is water. Chemists write such a change as a chemical equation.
+
+The starting substances are written on the left. They are called reactants. The new substances are written on the right. They are called products. Between them is an arrow, which you read as reacts to form, or gives.
+
+But a correct chemical equation must also be balanced. This is because of the law of conservation of mass. In a chemical reaction, no atoms are lost and no new atoms are created. The atoms are only rearranged into new combinations. So for every type of atom, the number on the left must equal the number on the right.
+
+Let us balance the hydrogen reaction step by step. A hydrogen molecule has two hydrogen atoms. An oxygen molecule has two oxygen atoms. A water molecule has two hydrogen atoms and one oxygen atom.
+
+If we write one hydrogen molecule plus one oxygen molecule gives one water molecule, the oxygen does not match. There are two oxygen atoms on the left, but only one on the right. So we put a two in front of water. Now there are two water molecules on the right, with two oxygen atoms and four hydrogen atoms. On the left we still have only two hydrogen atoms. So we put a two in front of hydrogen as well.
+
+The balanced equation reads: two molecules of hydrogen and one molecule of oxygen give two molecules of water. Left side: four hydrogen atoms and two oxygen atoms. Right side: four hydrogen atoms and two oxygen atoms. Balanced.
+
+The numbers in front of the substances are called coefficients. Here is a very important rule. When balancing, you may only change the coefficients. You must never change the small numbers inside a formula. Changing those would change the substance itself. Water with one extra oxygen atom is no longer water, but hydrogen peroxide, a bleaching agent.
+
+A second example is the burning of methane, the main part of natural gas. A methane molecule has one carbon atom and four hydrogen atoms. One molecule of methane reacts with two molecules of oxygen. This gives one molecule of carbon dioxide and two molecules of water. Count for yourself: on both sides there is one carbon, four hydrogen and four oxygen atoms.
+
+A good method for balancing is this. Start with the element that appears in the fewest substances. Balance hydrogen and oxygen at the end. Then count every type of atom once more on both sides.
+
+Why does this matter in the lab? Every lab test is based on a chemical reaction. The package inserts of test kits describe these reactions with chemical equations. If you can read them, you understand what happens inside the analyser.
+
+In short: a chemical equation shows reactants on the left and products on the right. Atoms are never lost, so the equation must be balanced. Only the coefficients may be changed.
+
+# Stoichiometry
+
+The word sounds complicated, but the idea is simple. Stoichiometry means calculating with chemical equations. It answers questions like: how much product can I make, and how much of each reactant do I need?
+
+The coefficients in an equation do not only count molecules. They also count moles. Two molecules of hydrogen and one molecule of oxygen give two molecules of water. In the same way, two moles of hydrogen and one mole of oxygen give two moles of water. The ratio is always two to one to two. This is called the mole ratio.
+
+With the molar masses we can also calculate in grams. Two moles of hydrogen weigh four grams. One mole of oxygen weighs thirty-two grams. Together that is thirty-six grams. Two moles of water weigh exactly thirty-six grams as well. The mass is conserved.
+
+Now an everyday situation. You are at a barbecue. You have ten sausages and eight bread rolls. How many hot dogs can you make? Eight. Then the rolls are gone, and two sausages are left over. The rolls limit the result.
+
+In chemistry, the substance that runs out first is called the limiting reagent, or limiting reactant. The other substance is present in excess.
+
+A chemical example. You have four moles of hydrogen and one mole of oxygen. One mole of oxygen needs only two moles of hydrogen. So oxygen is the limiting reagent. Two moles of water are formed, and two moles of hydrogen are left over in excess.
+
+How do you find the limiting reagent? Divide the amount of each reactant by its coefficient in the equation. The reactant with the smallest result is the limiting one. For hydrogen: four divided by two gives two. For oxygen: one divided by one gives one. One is smaller, so oxygen is limiting.
+
+The maximum amount of product that can be formed is called the theoretical yield. It always depends on the limiting reagent. In practice, the real yield is often a little lower.
+
+The limiting reagent is like the narrow neck of a bottle. The narrow neck decides how fast the bottle empties, no matter how wide the rest is.
+
+Why does this matter in the lab? This is one of the key ideas of clinical chemistry. In a test kit, the reagents are always present in large excess. The substance from the patient sample is the limiting reagent. So the amount of product depends only on the sample. A lot of glucose in the sample means a lot of product and a strong colour. Little glucose means a weak colour. This is how the analyser can calculate the concentration from the colour. If the sample concentration is extremely high, the reagent can run out. Then the sample must be diluted and measured again.
+
+In short: coefficients give the mole ratio of a reaction. The limiting reagent runs out first and decides how much product forms. In lab tests the reagents are in excess, so the sample is the limiting reagent.
+
+# States of matter
+
+A substance can be solid, liquid or gas. These are the three states of matter. Water, for example, exists as ice, as liquid water and as water vapour.
+
+What is the difference at the level of particles? The particle model explains it. In a solid, the particles sit in fixed positions. They only vibrate a little. That is why a solid has a fixed shape and a fixed volume. In a liquid, the particles are still close together, but they can slide past each other. That is why a liquid flows and takes the shape of its container, but keeps its volume. In a gas, the particles fly around freely and are far apart from each other. A gas fills any space completely and is easy to compress.
+
+Temperature is a measure of how fast the particles move. The warmer a substance is, the faster its particles move. When particles move fast enough, they break free from their neighbours. That is why the state of matter changes with temperature.
+
+The changes between the states have names. Solid to liquid is melting. Liquid to solid is freezing or solidifying. Liquid to gas is evaporation, or boiling when it happens throughout the liquid. Gas to liquid is condensation. There is also a special case: a solid can turn directly into a gas, without becoming liquid first. This is called sublimation. The reverse, gas directly to solid, is called deposition.
+
+Water melts at zero degrees Celsius and boils at one hundred degrees Celsius at normal air pressure. At the top of a high mountain, water boils at a lower temperature, because the air pressure is lower.
+
+Dry ice is a good example of sublimation. Dry ice is solid carbon dioxide at about minus seventy-eight degrees Celsius. It does not melt into a liquid. It turns directly into gas.
+
+Why does this matter in the lab? Many samples are frozen to keep them stable. They are stored at minus twenty or minus eighty degrees Celsius. Cells are stored in liquid nitrogen at about minus one hundred ninety-six degrees Celsius. Frozen samples are shipped to other laboratories on dry ice. But repeated freezing and thawing can damage a sample. That is why samples are often split into small portions before freezing. These portions are called aliquots. And whenever you work with dry ice or liquid nitrogen, you wear protective gloves and safety glasses, because they cause cold burns.
+
+In short: the three states are solid, liquid and gas. They differ in how freely the particles move. Temperature controls the state. Melting, freezing, evaporation, condensation and sublimation are the changes between them.
+
+# Solutions and solubility
+
+A solution is a mixture in which you can no longer see the separate parts. It is clear, although it can be coloured. A mixture that looks the same everywhere is called homogeneous.
+
+A solution has two parts. The substance that does the dissolving is the solvent. The substance that is dissolved is the solute. In salt water, water is the solvent and salt is the solute. Water is the most important solvent of all, in the body and in the lab.
+
+What happens when salt dissolves? Remember that water is a dipole. Water molecules turn their negative oxygen side towards the positive sodium ions. They turn their positive hydrogen side towards the negative chloride ions. In this way they pull the ions out of the crystal, one by one. Each ion is then surrounded by a small shell of water molecules. This is called a hydration shell.
+
+You cannot dissolve an unlimited amount of a substance. Every substance has a solubility. This is the maximum amount that can dissolve in a given amount of solvent at a given temperature. When this limit is reached, the solution is saturated. If you add more, it stays undissolved at the bottom as a sediment.
+
+Temperature affects solubility. Most solids dissolve better in warm water. Gases, however, dissolve better in cold water. That is why a warm soft drink loses its fizz faster than a cold one.
+
+Not every mixture is a solution. If solid particles float in a liquid, the mixture is a suspension. A suspension looks cloudy, and the particles settle over time or in a centrifuge. If tiny droplets of one liquid float in another liquid, the mixture is an emulsion. Milk is an emulsion of fat droplets in water.
+
+Blood is a good example of all of this. Whole blood is a suspension, because blood cells float in plasma. A centrifuge separates the heavy cells at the bottom from the clear, yellowish plasma at the top. If the blood has clotted before centrifugation, the liquid on top is called serum instead of plasma. Plasma and serum themselves are solutions. They contain dissolved salts, glucose, proteins and many other substances.
+
+Why does this matter in the lab? Almost all analyses happen in solutions. Reagents are solutions, calibrators are solutions, and serum is a solution. When you prepare a reagent, you must make sure that everything is completely dissolved. Undissolved particles give wrong results. Gases in blood, such as oxygen and carbon dioxide, are dissolved too. That is why blood gas samples must be measured quickly and without air bubbles.
+
+In short: a solution consists of a solvent and a dissolved solute. Solubility is the maximum amount that can dissolve. Whole blood is a suspension, while plasma and serum are solutions.
+
+# Concentration
+
+Concentration tells you how much of a dissolved substance is present in a certain volume of solution. There are several ways to express it.
+
+The most important in chemistry is the molar concentration, also called amount of substance concentration. It is the amount of substance divided by the volume of the solution. In symbols: c equals n divided by V. Its unit is moles per liter. A solution with one mole per liter is also called a one molar solution.
+
+The second type is the mass concentration. It is the mass of the solute divided by the volume of the solution. Its unit is grams per liter.
+
+What does one mole per liter mean? It means that one liter of solution contains one mole of the solute. Note carefully: one liter of solution, not one liter of water.
+
+An example. You want to make one liter of sodium chloride solution with zero point one moles per liter. How much salt do you need? You need zero point one moles. The molar mass is fifty-eight point five grams per mole. Zero point one times fifty-eight point five gives five point eight five grams.
+
+Now the practical side. You weigh five point eight five grams of salt. You put it into a volumetric flask. This is a glass flask with a long narrow neck and a line on the neck. You dissolve the salt in some water. Then you fill up with water exactly to the line. Now you have exactly one liter of solution. If you simply add the salt to one liter of water, the final volume will be a little more than one liter. Then the concentration is no longer exact. So the rule is: first dissolve, then fill up to the mark.
+
+You can convert between molar concentration and mass concentration with the molar mass. Mass concentration equals molar concentration times molar mass.
+
+A hospital example is physiological saline. It contains nine grams of sodium chloride per liter. How many moles per liter is that? Nine divided by fifty-eight point five gives about zero point one five four moles per liter. That is one hundred fifty-four millimoles per liter. Sodium in blood is about one hundred forty millimoles per liter. So this infusion is very similar to the salt level of blood.
+
+Why does this matter in the lab? Every lab value has a unit. Sodium and potassium are measured in millimoles per liter. Total protein is measured in grams per liter. Glucose appears in milligrams per deciliter or millimoles per liter. A value without a unit is worthless. And a value with the wrong unit can harm a patient. Always read the unit together with the number.
+
+In short: molar concentration is moles per liter, and mass concentration is grams per liter. The molar mass converts between them. When preparing a solution, dissolve first and then fill up to the mark.
+
+# Percent concentrations
+
+Percent means per hundred. Seventy percent means seventy parts out of one hundred parts. But in chemistry there are several kinds of percent, and you must always say which one you mean.
+
+The first is mass percent, also called weight percent. It means grams of substance in one hundred grams of mixture. Ten mass percent sugar means ten grams of sugar in one hundred grams of sugar water.
+
+The second is volume percent. It means milliliters of substance in one hundred milliliters of mixture. Alcohol for disinfection is usually given in volume percent. Seventy volume percent ethanol means seventy milliliters of ethanol in one hundred milliliters of mixture.
+
+The third is mass per volume percent. It means grams of substance in one hundred milliliters of solution. This one is very common in the laboratory and in medicine.
+
+Physiological saline is often called zero point nine percent saline. This is mass per volume. It means zero point nine grams of salt in one hundred milliliters. In one liter that makes nine grams, which fits exactly with the previous chapter.
+
+For very small amounts, percent is not practical. Then we use smaller units. Per mille means per thousand. Parts per million, often just called p p m, means parts per million. One part per million is one milligram in one kilogram. In a dilute water solution, that is about one milligram per liter. One percent equals ten thousand parts per million.
+
+For even smaller amounts there are parts per billion, called p p b. One part per billion is one microgram per kilogram.
+
+An everyday example is fluoride in drinking water. In Germany, drinking water may contain at most one point five milligrams of fluoride per liter. That is about one point five parts per million.
+
+Why does this matter in the lab? Disinfectants, staining solutions and buffers are often given in percent. If you use the wrong type of percent, your solution will be wrong. In toxicology and in trace element analysis, laboratories measure very small amounts, for example lead or mercury in blood. There, parts per million and parts per billion are useful, although lab reports usually use micrograms per liter.
+
+In short: percent means per hundred, but there is mass percent, volume percent and mass per volume percent. Parts per million and parts per billion describe very small amounts.
+
+# Precipitation reactions
+
+Imagine two test tubes, each with a clear, colourless liquid. One contains sodium chloride solution. The other contains silver nitrate solution. When you pour them together, the liquid immediately turns white and cloudy. What happened?
+
+This is a precipitation reaction. In both solutions there are dissolved ions. In the first: sodium ions and chloride ions. In the second: silver ions and nitrate ions. When the solutions are mixed, silver ions meet chloride ions. Together they form silver chloride. And silver chloride hardly dissolves in water. It falls out of the solution as a solid.
+
+This solid is called the precipitate. A salt that dissolves only very little is called poorly soluble or sparingly soluble. The other ions, sodium and nitrate, stay dissolved. They take no part in the reaction. They are called spectator ions.
+
+Precipitation reactions are useful as detection tests. If you add silver nitrate to a sample and it turns white, chloride is present. Such a test is called a detection reaction or qualitative test. Another classic example: barium ions and sulfate ions form a white precipitate of barium sulfate.
+
+How do you separate a precipitate from the liquid? You can filter it. The solid stays in the filter paper and the liquid passes through. Or you can centrifuge. Then the solid collects at the bottom of the tube, and you can pour or pipette off the liquid.
+
+Why does this matter in the lab? One example is the urine sediment. Urine is centrifuged, and the sediment at the bottom is examined under the microscope. Sometimes crystals are visible, for example calcium oxalate crystals. They form by precipitation, when calcium ions and oxalate ions meet in the urine. If this happens in the kidney, kidney stones can form. Proteins can also be precipitated, for example with strong acids or organic solvents. This protein precipitation is often used to prepare samples for sensitive instruments.
+
+In short: in a precipitation reaction, dissolved ions combine to form a poorly soluble solid, the precipitate. Ions that do not react are spectator ions. Precipitates are separated by filtering or centrifuging.
+
+# Oxidation numbers
+
+In many reactions, electrons move from one atom to another. To keep track of this, chemists use oxidation numbers. An oxidation number is a kind of bookkeeping for electrons. You pretend that all bonds are ionic, and then you ask: what charge would each atom have?
+
+There are a few simple rules.
+
+Rule one: an element on its own, not combined with other elements, always has the oxidation number zero. For example a piece of iron, or an oxygen molecule.
+
+Rule two: a simple ion has its charge as its oxidation number. The sodium ion has plus one. The chloride ion has minus one. The calcium ion has plus two.
+
+Rule three: fluorine always has minus one. Oxygen almost always has minus two. Hydrogen almost always has plus one when it is bonded to non-metals.
+
+Rule four: in a neutral molecule, the oxidation numbers of all atoms add up to zero. In an ion made of several atoms, they add up to the charge of the ion.
+
+Let us try water. Two hydrogen atoms have plus one each, which makes plus two. Oxygen has minus two. The sum is zero. Correct.
+
+Now carbon dioxide. Two oxygen atoms together have minus four. The molecule is neutral, so the sum must be zero. That means carbon has plus four.
+
+In methane, carbon is bonded to four hydrogen atoms with plus one each. So carbon has minus four. You can see that the same element can have different oxidation numbers in different compounds. Carbon in methane has minus four, and carbon in carbon dioxide has plus four.
+
+For people who know accounting, oxidation numbers are like debit and credit. In the end, the balance must be correct.
+
+An important example is iron. Iron occurs with the oxidation number plus two and plus three. They are often called iron two and iron three. They behave differently.
+
+Why does this matter in the lab? Haemoglobin, the red pigment in red blood cells, contains iron. Only iron with the oxidation number plus two can bind and transport oxygen. If it is changed to plus three, methaemoglobin is formed. Methaemoglobin cannot carry oxygen. In some poisonings, its proportion rises sharply. Blood gas analysers in the lab can measure this proportion. Both forms of iron are also important in iron metabolism, which is a common lab topic.
+
+In short: oxidation numbers are a bookkeeping tool for electrons. Elements alone have zero, oxygen usually minus two, hydrogen usually plus one. In a neutral molecule, all oxidation numbers add up to zero.
+
+# Redox reactions
+
+With oxidation numbers, we can now understand one of the most important types of reaction: the redox reaction.
+
+The word has two parts: reduction and oxidation. Oxidation means that a particle loses electrons. Its oxidation number goes up. Reduction means that a particle gains electrons. Its oxidation number goes down.
+
+A popular memory aid in English is oil rig. Oxidation is loss, reduction is gain, always talking about electrons.
+
+Why do oxidation and reduction always happen together? Because electrons cannot simply disappear. If one atom gives away electrons, another atom must take them. It is like a parcel: there is always a sender and a receiver. That is why we speak of redox reactions. A redox reaction is an electron transfer.
+
+Think of sodium and chlorine. Sodium starts with zero and ends with plus one. It loses an electron, so sodium is oxidised. Chlorine starts with zero and ends with minus one. It gains an electron, so chlorine is reduced.
+
+Now two terms that often cause confusion. The oxidising agent is the substance that oxidises another substance. To do this, it takes electrons. So the oxidising agent is itself reduced. The reducing agent gives electrons to another substance. So the reducing agent is itself oxidised. In our example, chlorine is the oxidising agent and sodium is the reducing agent. Take a moment with this, because it is easy to mix up.
+
+Redox reactions are everywhere. Iron rusts because oxygen oxidises it. A candle burns through a redox reaction. Batteries deliver electricity through redox reactions. And your body gets its energy in the same way. In the mitochondria of your cells, glucose is slowly oxidised to carbon dioxide and water. This process is called cellular respiration. The oxygen you breathe in is the final receiver of the electrons.
+
+Why does this matter in the lab? Many lab tests are redox reactions. A classic example is the enzymatic glucose test. The enzyme glucose oxidase oxidises the glucose from the sample. This produces hydrogen peroxide. A second enzyme, peroxidase, uses the hydrogen peroxide to oxidise a colourless dye. The dye becomes coloured. A photometer measures how strong the colour is. The more glucose, the stronger the colour.
+
+Many other tests use a molecule called N A D H. It can be oxidised and reduced. Its reduced form absorbs light at three hundred forty nanometers, and its oxidised form does not. So the analyser can follow the reaction by measuring the light absorption at this wavelength.
+
+In short: oxidation is loss of electrons, reduction is gain of electrons. Both always happen together in a redox reaction. The oxidising agent is reduced, and the reducing agent is oxidised.
+
+# Acids and bases
+
+Acids and bases are among the most important substances in chemistry and medicine. They can also be dangerous, so in the lab you always handle them with gloves and safety glasses.
+
+What is an acid? An acid is a substance that gives away a proton. Here, proton means a hydrogen ion. A hydrogen atom without its single electron is nothing more than a proton. So an acid is a proton donor.
+
+A base is the opposite. It takes up a proton. A base is a proton acceptor.
+
+This definition is named after the scientists Bronsted and Lowry. It is the one used in most textbooks today.
+
+When hydrochloric acid is added to water, it gives its proton to a water molecule. This creates hydronium ions. These ions make the solution acidic. A base such as sodium hydroxide solution contains hydroxide ions. These make the solution basic. Another word for basic is alkaline. A solution of a strong base in water is also called a lye or caustic solution.
+
+Some acids give away their protons almost completely in water. They are called strong acids, for example hydrochloric acid and sulfuric acid. Other acids give away only a small part of their protons. They are called weak acids, for example acetic acid in vinegar and carbonic acid in fizzy water.
+
+When an acid and a base react with each other, they cancel each other out. This is called neutralisation. It produces a salt and water. Hydrochloric acid and sodium hydroxide react to form sodium chloride and water.
+
+There is an important safety rule when diluting acids. Always add the acid to the water, never the water to the acid. If you pour water into concentrated acid, the mixture can heat up suddenly and splash. Remember: acid into water, not water into acid.
+
+Why does this matter in the lab? Acids and bases are used in many reagents, for cleaning and for adjusting solutions. Your stomach contains hydrochloric acid to digest food. The blood must stay very slightly basic. The kidneys and lungs work together to remove acids from the body. And many lab tests only work correctly in a certain acid or base range. How we measure this is the topic of the next chapter.
+
+In short: an acid gives away protons, a base takes up protons. Acid and base neutralise each other and form a salt and water. Always add acid to water, never the reverse.
+
+# pH and buffers
+
+How do we measure how acidic or basic a solution is? With the pH value. The pH scale usually runs from zero to fourteen. Seven is neutral, like pure water. Below seven, the solution is acidic. Above seven, it is basic.
+
+Some examples. Stomach acid has a pH of about one to two. Lemon juice has about two. Coffee has about five. Pure water has seven. Blood has about seven point four. Soap has about nine to ten. Strong sodium hydroxide solution has about fourteen.
+
+There is an important detail. The pH scale is logarithmic. One step on the scale means a factor of ten. A solution with pH three is ten times more acidic than a solution with pH four. It is one hundred times more acidic than a solution with pH five. Small changes in pH are therefore big changes in chemistry.
+
+The pH value describes the concentration of hydronium ions. The more hydronium ions, the lower the pH. A low pH means acidic. That sounds strange at first, but it comes from the mathematics behind the scale.
+
+The pH can be measured with indicator paper, which changes colour, or more exactly with a pH meter, an electronic device with a glass electrode.
+
+Now buffers. A buffer is a solution that keeps the pH stable. If you add a small amount of acid or base, the buffer catches it, and the pH hardly changes. A buffer is usually a mixture of a weak acid and its matching base. The weak acid neutralises added base. The matching base neutralises added acid.
+
+Why does this matter in the lab? The pH of the blood is very tightly controlled. It normally lies between seven point three five and seven point four five. If it is lower, the condition is called acidosis. If it is higher, it is called alkalosis. Both can be life threatening. The blood keeps its pH stable with buffers. The most important blood buffer is the system of carbonic acid and bicarbonate, also called hydrogen carbonate. The lungs remove carbon dioxide, and the kidneys remove acids and keep bicarbonate.
+
+In the lab, blood pH is measured in the blood gas analysis, together with oxygen, carbon dioxide and bicarbonate. Urine pH is checked with a test strip. And almost every reagent in clinical chemistry contains a buffer, because enzymes only work properly at the right pH.
+
+In short: the pH scale runs from zero to fourteen, with seven as neutral. Each step is a factor of ten. Buffers keep the pH stable. Normal blood pH lies between seven point three five and seven point four five.
+
+# Chemistry summary
+
+This chapter brings together the main ideas of part one.
+
+Everything is made of atoms. An atom has a nucleus with protons and neutrons, and a shell with electrons. The number of protons decides the element. The periodic table sorts the elements by this number. Elements in the same group behave in a similar way.
+
+Electrons sit in shells. The outer electrons, the valence electrons, decide how an atom reacts. Atoms try to reach a full outer shell, like the noble gases. Isotopes are atoms of the same element with a different number of neutrons.
+
+Atoms reach a full shell in different ways. Metals give electrons to non-metals, and ions are formed. Their attraction is the ionic bond, as in table salt. Non-metals share electron pairs in a covalent bond, as in water. When atoms pull unequally on the shared electrons, the bond is polar. Water is a polar molecule, a dipole. Between water molecules, hydrogen bonds act. They also hold the two strands of DNA together.
+
+Chemists count particles in moles. One mole is about six point zero two times ten to the power of twenty-three particles. The molar mass converts grams into moles. Chemical equations must be balanced, because atoms are never lost. The limiting reagent decides how much product forms. In lab tests the sample is the limiting reagent.
+
+Matter can be solid, liquid or gas. In solutions, a solute is dissolved in a solvent. Concentrations are given in moles per liter, grams per liter, percent or parts per million.
+
+Finally, the reaction types. In a precipitation, a poorly soluble solid forms. In a redox reaction, electrons are transferred; oxidation is loss and reduction is gain. In an acid base reaction, protons are transferred. The pH value measures acidity, and buffers keep it stable.
+
+# Part two: Cell biology
+
+Biology is the science of living things. Cell biology studies the smallest unit of life: the cell. Every disease begins with a change in cells. When cells are damaged, they release substances into the blood, or they stop producing others. These changes appear as lab results. Blood cells themselves are counted and examined in the haematology lab. Bacteria are single cells, and they are identified in the microbiology lab. And the genetic material of cells is analysed in the molecular biology lab.
+
+This part goes step by step. First the two basic types of cells. Then the parts inside a cell, the organelles. Then the cell membrane and how substances move across it. Then how cells divide. And finally DNA, RNA and how a cell builds proteins.
+
+# Prokaryotes and eukaryotes
+
+The cell is the smallest unit of life. Everything that lives is made of cells. A bacterium consists of a single cell. Your body consists of many trillions of cells.
+
+There are two basic types of cells: prokaryotic cells and eukaryotic cells. Organisms made of them are called prokaryotes and eukaryotes.
+
+Prokaryotes are simple cells without a nucleus. The bacteria are the most important group. Their DNA floats freely inside the cell, usually as one closed ring. This region is called the nucleoid. Many bacteria also have small extra rings of DNA, called plasmids. Plasmids often carry genes for resistance to antibiotics, and bacteria can pass them to each other.
+
+Eukaryotes are larger cells with a real nucleus. Their DNA is packed and protected inside the nucleus. Humans, animals, plants and fungi are eukaryotes. Yeasts are also eukaryotes.
+
+A prokaryote is like a one-room flat, where everything happens in a single room. A eukaryote is like a large house with many separate rooms.
+
+The rooms of the eukaryotic cell are called organelles. These are small compartments surrounded by a membrane, each with a special job. Prokaryotes have almost no such compartments.
+
+There are more differences. Prokaryotes are much smaller. A bacterium is about one to five micrometers long. A human cell is about ten to one hundred micrometers. Both cell types have ribosomes for making proteins, but the ribosomes of bacteria are smaller. Almost all bacteria have a firm cell wall outside their membrane. Human and animal cells have no cell wall. Many bacteria can also move with a whip-like tail, called a flagellum.
+
+Viruses, by the way, are not cells at all. They have no metabolism of their own and can only multiply inside a host cell.
+
+Why does this matter in the lab? In microbiology we identify bacteria. Their cell wall is very important. With the Gram stain, bacteria on a slide are stained. Depending on the structure of their cell wall, they appear blue violet or red. They are then called Gram positive or Gram negative. This gives the doctor a fast first hint about the infection. In addition, many antibiotics attack exactly the cell wall or the smaller ribosomes of bacteria. That is why they harm bacteria but hardly harm human cells.
+
+In short: prokaryotes, such as bacteria, have no nucleus and few internal structures. Eukaryotes, such as human cells, have a nucleus and many organelles. Differences in the cell wall and ribosomes are the targets of antibiotics.
+
+# The organelles
+
+Let us take a tour through a typical human cell. You can imagine it as a small factory.
+
+On the outside is the cell membrane. It is the border of the cell. Inside is a jelly-like fluid called the cytoplasm. The organelles float in it. The cytoplasm also contains a network of protein fibres, the cytoskeleton, which gives the cell its shape.
+
+In the center lies the nucleus. It contains the DNA, the genetic information. It is the control center of the cell. The nucleus is surrounded by a double membrane, the nuclear envelope. This envelope has small openings called nuclear pores. Inside the nucleus there is often a dense area called the nucleolus, where ribosomes are assembled. The nucleus is like the library of the factory, where all the building plans are kept. The plans stay in the library, but the work happens outside.
+
+The ribosomes are small particles where proteins are built. They float freely in the cytoplasm or sit on a network of membranes.
+
+This network is called the endoplasmic reticulum. One part is covered with ribosomes. It looks rough under the electron microscope and is called the rough endoplasmic reticulum. It produces proteins that leave the cell or go into membranes. The other part has no ribosomes and is called the smooth endoplasmic reticulum. It produces fats, also called lipids, and helps to detoxify substances, especially in liver cells.
+
+Next comes the Golgi apparatus. It looks like a stack of flat sacs. It modifies proteins, sorts them, packs them into small bubbles called vesicles, and sends them to their destination. It is the post office of the cell: products are packed, labelled and sent out.
+
+The mitochondria are the power plants of the cell. Here cellular respiration takes place. Glucose and oxygen are used to produce energy in the form of a molecule called A T P. A T P works like a rechargeable battery that every part of the cell can use. Mitochondria have their own small DNA, inherited only from the mother.
+
+The lysosomes are small vesicles full of digestive enzymes. They break down old cell parts and foreign material. They are the recycling and waste disposal service of the cell.
+
+Plant cells have some extra structures: a cell wall, a large central vacuole, and chloroplasts for photosynthesis. In the medical lab, however, we work mainly with human cells.
+
+Why does this matter in the lab? Blood cells show very different equipment. Red blood cells are called erythrocytes. Mature erythrocytes have no nucleus and no mitochondria. They are basically small bags full of haemoglobin. Young red blood cells still contain remains of ribosomes. They are called reticulocytes, and their number shows how active the bone marrow is. White blood cells are called leukocytes. They have a nucleus. In a differential blood count, the different types of leukocytes are recognised mainly by the shape of their nucleus. Platelets, called thrombocytes, are small fragments of cells without a nucleus.
+
+In short: the nucleus stores the DNA, and ribosomes build proteins. The endoplasmic reticulum and the Golgi apparatus produce and ship them. Mitochondria produce energy as A T P, and lysosomes digest waste.
+
+# The cell membrane
+
+The cell membrane is the border of the cell. It is extremely thin, flexible, and yet a clear barrier, a bit like the skin of a soap bubble.
+
+The membrane is made mainly of phospholipids. A phospholipid has a head and two tails. The head is hydrophilic: it likes water. The tails are hydrophobic: they avoid water. Remember the rule from chemistry: like dissolves like.
+
+Because of this, phospholipids arrange themselves in two layers. The heads point outwards, towards the water on both sides. The tails point inwards, towards each other, away from the water. This structure is called the lipid bilayer.
+
+Many proteins float in the lipid bilayer. Some form channels or carriers that let certain substances through. Some are pumps. Some are receptors that receive signals, like antennas. Some carry sugar chains on the outside that work like name tags. The blood groups, for example, are defined by such markers on the surface of red blood cells. Cholesterol in the membrane makes it more stable. Scientists describe the membrane as a fluid mosaic, because the proteins can move within it like boats on a lake.
+
+The membrane is selectively permeable. This means it lets some substances through and blocks others. It works like a border control: it decides what may pass.
+
+Small, non-polar molecules pass through the membrane easily. Oxygen and carbon dioxide are examples. Water also passes, partly through special water channels. Ions and large polar molecules, such as glucose, cannot pass through the lipid layer directly. They need special proteins to cross.
+
+Why does this matter in the lab? The surface markers of the membrane are the basis of blood group testing in the transfusion lab. Antibodies in the test recognise the markers on the red blood cells, and the cells clump together. The same principle is used in flow cytometry, where cells are identified by the proteins on their membrane. And a damaged membrane lets the contents of the cell leak out. That is why enzymes from inside cells appear in the blood when organs are damaged, for example liver enzymes in liver disease.
+
+In short: the cell membrane is a lipid bilayer of phospholipids with proteins in it. It is selectively permeable. Surface markers on the membrane define, for example, the blood groups.
+
+# Diffusion and osmosis
+
+Particles in a liquid or gas move all the time, randomly, in all directions. Because of this, they spread out by themselves. They move from a place of high concentration to a place of low concentration, until the concentration is the same everywhere. This is called diffusion. A drop of ink in a glass of water spreads out this way, without stirring.
+
+The difference in concentration between two places is called the concentration gradient. Diffusion always goes down the gradient, from high to low. It needs no energy. That is why it is a form of passive transport.
+
+Small non-polar molecules, like oxygen and carbon dioxide, diffuse directly through the membrane. In the lungs, oxygen diffuses from the air into the blood, because there is more oxygen in the air than in the blood.
+
+Larger or charged particles cannot pass the lipid layer directly. They go through channel proteins or carrier proteins in the membrane. This is still passive, because it follows the gradient. It is called facilitated diffusion. Glucose enters many cells this way.
+
+Now a special case: osmosis. Imagine a membrane that lets water through but not the dissolved particles. Such a membrane is called semi-permeable. On one side there is a lot of salt, on the other side only a little. The salt cannot move through the membrane. So the water moves instead. Water flows towards the side with the higher concentration of dissolved particles. In this way it dilutes that side. Osmosis is the diffusion of water through a semi-permeable membrane.
+
+Three terms describe a solution compared with the inside of a cell. Isotonic means the same concentration as inside the cell. The cell stays normal. Hypotonic means a lower concentration than inside the cell. Water flows into the cell, and the cell swells. Hypertonic means a higher concentration than inside the cell. Water flows out of the cell, and the cell shrinks.
+
+Why does this matter in the lab? Red blood cells react strongly to osmosis. In an isotonic solution such as physiological saline, they stay normal. In pure water, which is hypotonic, water flows into the cells. They swell and burst. This is called haemolysis. In a strongly salty, hypertonic solution, they lose water and shrink into a spiky shape. A haemolysed sample looks reddish, because haemoglobin has escaped into the serum. Haemolysis falsifies many results, especially potassium, because red blood cells contain a lot of potassium. That is why blood samples must never come into contact with water, and why they must be handled gently.
+
+In short: diffusion is the movement of particles from high to low concentration, without energy. Osmosis is the diffusion of water through a semi-permeable membrane, towards the higher concentration. Red blood cells burst in pure water; this is haemolysis.
+
+# Active transport
+
+Sometimes a cell needs to move a substance against the gradient. That means from low concentration to high concentration. This does not happen by itself. It costs energy. It is called active transport.
+
+The energy comes from A T P, which the mitochondria produce. Special proteins in the membrane use this energy. They work like pumps.
+
+A simple picture: diffusion is like water flowing downhill. Active transport is like a pump that moves water uphill.
+
+The most important pump is the sodium potassium pump. It sits in the membrane of almost every cell in the body. With each cycle, it pumps three sodium ions out of the cell and two potassium ions into the cell. For this, it uses one molecule of A T P.
+
+Because of this pump, there is a lot of potassium and little sodium inside the cell. Outside, in the blood plasma, it is the other way round: a lot of sodium and little potassium. Inside the cells, the potassium concentration is about thirty times higher than in the plasma.
+
+Why does the cell need this difference? For almost everything. Nerve cells need it to send signals. Muscles need it to contract. The heart needs it for every single beat. The difference also helps to control the water balance of the cell. The sodium potassium pump uses a large part of the energy of the whole body.
+
+There is another form of active transport for large particles. These cannot pass through pumps or channels. Instead, the membrane forms small bubbles. In endocytosis, the cell takes in material by wrapping it in a piece of membrane, which becomes a vesicle inside the cell. White blood cells eat bacteria this way. This special case is called phagocytosis. In exocytosis, a vesicle from inside the cell fuses with the membrane and releases its content to the outside. Gland cells release hormones this way.
+
+Why does this matter in the lab? This is a true classic of laboratory work. A blood sample stays too long before it is processed. Or it is kept in the fridge before the serum is separated from the cells. Then the cells run out of energy, or the pump works too slowly in the cold. Potassium leaks out of the cells into the serum. On the report, the potassium value is then falsely high. This is called pseudohyperkalaemia. The patient is healthy, but the result is wrong. A wrong high potassium value can lead to wrong treatment. That is why there are clear rules for the transport, storage and processing time of blood samples.
+
+In short: active transport moves substances against the gradient and needs energy from A T P. The sodium potassium pump moves three sodium ions out and two potassium ions in. Old or cold samples can show falsely high potassium.
+
+# The cell cycle
+
+Cells do not live forever. They grow, divide and are replaced. Your skin renews itself all the time. In the bone marrow, millions of new blood cells are formed every second. The cycle from one cell division to the next is called the cell cycle.
+
+The cell cycle has two main parts. The long part is the interphase. The short part is the division itself, called the mitotic phase or M phase.
+
+The interphase has three stages. First comes the G one phase. G stands for gap. The cell grows and does its normal work. Then comes the S phase. S stands for synthesis. Here the cell copies its entire DNA, so that later each daughter cell gets a complete copy. Then comes the G two phase. The cell prepares for division and checks the copied DNA for errors.
+
+Then follows the M phase. First the nucleus divides. This is mitosis. Then the cytoplasm divides. This is called cytokinesis. At the end, there are two daughter cells.
+
+There are also checkpoints. At several points in the cycle the cell checks whether everything is in order. Is the cell big enough? Is the DNA undamaged? Is the copy complete? If the DNA is damaged, the cycle stops. The cell tries to repair the error. If the repair fails, the cell dies in a controlled way. This is called apoptosis, or programmed cell death. It protects the body from damaged cells.
+
+What happens if the control fails? Then a cell can divide without control. This is the basic idea of cancer. A tumour cell ignores the checkpoints and keeps dividing. Its daughter cells inherit the same faults.
+
+Many cells do not divide at all anymore. Nerve cells and most heart muscle cells leave the cycle permanently. They stay in a resting phase called G zero.
+
+Why does this matter in the lab? In histology and cytology, tissue and cells are examined under the microscope. Many cells in division can indicate fast growth, for example in a tumour. The blood count also reflects the cell cycle. In some leukaemias, many immature cells appear in the blood. They are called blasts. Their division is out of control. And in cell culture, scientists use the cell cycle to grow cells in the lab.
+
+In short: the cell cycle consists of interphase, with the G one, S and G two phases, and the M phase with mitosis and cytokinesis. DNA is copied in the S phase. Checkpoints control the cycle, and when they fail, cancer can develop.
+
+# Mitosis
+
+Every normal human body cell has forty-six chromosomes. A chromosome is a long DNA molecule, tightly wound up with proteins. The chromosomes come in pairs. Twenty-three come from the mother, and twenty-three come from the father. The two chromosomes of a pair are called homologous chromosomes. A cell with this double set is called diploid.
+
+Before a cell divides, it has copied its DNA in the S phase. Each chromosome then consists of two identical halves, called sister chromatids. They are held together at a narrow point called the centromere. That is why chromosomes in pictures often look like the letter X.
+
+Mitosis is the division of the nucleus that produces two genetically identical daughter cells. It is used for growth, for replacing old cells and for repairing tissue. Both daughter cells have forty-six chromosomes again, exactly like the mother cell.
+
+Mitosis has four phases.
+
+In prophase, the chromosomes condense. They become short, thick and visible under the microscope. The nuclear envelope breaks down. A structure of protein fibres, the spindle apparatus, starts to form.
+
+In metaphase, the chromosomes line up in one plane in the middle of the cell. The spindle fibres attach to each chromosome at the centromere.
+
+In anaphase, the sister chromatids are pulled apart. One chromatid of each chromosome moves to each pole of the cell.
+
+In telophase, a new nuclear envelope forms around each of the two sets of chromosomes. The chromosomes unwind again.
+
+A simple way to remember the order is the first letters: P, M, A, T, for prophase, metaphase, anaphase and telophase.
+
+After mitosis, cytokinesis divides the cytoplasm. Two separate daughter cells are formed, each with a complete, identical set of chromosomes.
+
+Why does this matter in the lab? In cytogenetics, a karyogram is made. A karyogram is an ordered picture of all chromosomes of a person, sorted by size and shape. For this, cells are stopped in metaphase, because the chromosomes are most condensed and easiest to see at that moment. Usually white blood cells from a blood sample are grown in culture for this purpose. Changes in the number or structure of chromosomes can then be detected.
+
+In short: mitosis produces two genetically identical diploid daughter cells. Its phases are prophase, metaphase, anaphase and telophase. For a karyogram, cells are examined in metaphase.
+
+# Meiosis
+
+Meiosis is the second type of nuclear division. It takes place only in the reproductive organs, the ovaries and testes. It produces the sex cells, also called gametes: egg cells and sperm cells.
+
+Meiosis has two divisions, one after the other. They are called meiosis one and meiosis two. From one cell, four cells are formed. Each of them has only twenty-three chromosomes, one from each pair. A cell with a single set of chromosomes is called haploid.
+
+Why does the body need this? At fertilisation, an egg cell and a sperm cell fuse. Twenty-three plus twenty-three gives forty-six again. Without halving the number first, the number of chromosomes would double in every generation.
+
+In meiosis one, the homologous chromosomes are separated. Each daughter cell gets one chromosome from each pair. Before this happens, something special takes place. The chromosomes from the mother and from the father lie close together and exchange pieces. This is called crossing over. In meiosis two, the sister chromatids are separated, similar to mitosis.
+
+Because of crossing over, and because the pairs are distributed randomly, the four gametes are genetically different. That is why brothers and sisters are not identical, unless they are identical twins. Meiosis creates genetic variety.
+
+Let us compare. Mitosis: one division, two identical daughter cells, diploid, for growth and repair. Meiosis: two divisions, four different daughter cells, haploid, for reproduction.
+
+Why does this matter in the lab? Sometimes meiosis goes wrong. A chromosome pair does not separate properly. This is called non-disjunction. Then one gamete has one chromosome too many, and another has one too few. If such a gamete is fertilised, the child has a wrong number of chromosomes. The best known example is trisomy twenty-one, also called Down syndrome. The child has three copies of chromosome twenty-one instead of two. In a karyogram, this can be seen directly. Prenatal tests can also detect it from DNA fragments in the mother's blood.
+
+In short: meiosis has two divisions and produces four genetically different haploid gametes. Crossing over mixes the genetic material. Errors in meiosis can lead to conditions such as trisomy twenty-one.
+
+# DNA and RNA
+
+DNA is the molecule that stores the genetic information. Its full name is deoxyribonucleic acid. It is a very long chain made of many small building blocks called nucleotides.
+
+Each nucleotide has three parts: a sugar, a phosphate group and a base. In DNA the sugar is called deoxyribose. The sugars and phosphates link together and form the backbone of the chain. The bases stick out to the side.
+
+There are four bases in DNA: adenine, thymine, guanine and cytosine. They are often abbreviated by their first letters. The order of these bases is the information. You can think of DNA as a text. This text uses an alphabet of only four letters.
+
+DNA consists of two strands. They are wound around each other like a twisted ladder. This shape is called the double helix. The sugar phosphate backbones are the sides of the ladder, and the base pairs are the steps.
+
+The bases of the two strands fit together in a fixed way. Adenine always pairs with thymine. Guanine always pairs with cytosine. This is called complementary base pairing. The pairs are held together by hydrogen bonds. Because of this rule, if you know one strand, you also know the other. It is like a built-in backup. This is also how the cell copies its DNA before division: the strands separate, and each one serves as a template for a new partner strand. This copying is called replication.
+
+A section of DNA that contains the instructions for one protein is called a gene. A gene is like one recipe in a big cookbook. The human genome, the complete DNA of a cell, contains about twenty thousand genes. In the nucleus, the DNA is wrapped around proteins and packed into chromosomes.
+
+Then there is RNA, ribonucleic acid. It is similar to DNA, but there are three important differences. First, RNA contains the sugar ribose instead of deoxyribose. Second, RNA has the base uracil instead of thymine. Third, RNA is usually single stranded. RNA is also short lived. DNA is the permanent archive; RNA is a temporary working copy for a specific task. DNA is like the original cookbook in the library, and RNA is a photocopy of one recipe.
+
+There are several types of RNA with different jobs. Messenger RNA carries a copy of a gene to the ribosomes. Transfer RNA brings amino acids to the ribosomes. Ribosomal RNA is part of the ribosomes themselves.
+
+Why does this matter in the lab? In molecular diagnostics, DNA and RNA are detected directly. With PCR, a small piece of DNA is copied millions of times, until it can be measured. This is used to find pathogens, hereditary diseases and mutations, for example in cancer. Many viruses have RNA instead of DNA. Then the RNA is first rewritten into DNA, and then multiplied. This is how the coronavirus tests worked.
+
+In short: DNA is a double helix of nucleotides with the bases adenine, thymine, guanine and cytosine. Adenine pairs with thymine, and guanine with cytosine. RNA is single stranded, contains ribose, and has uracil instead of thymine.
+
+# Transcription
+
+The DNA is inside the nucleus. But the ribosomes that build proteins are outside, in the cytoplasm. How does the information get from the DNA to the ribosome?
+
+Think of the cookbook again. You do not carry the whole book into the kitchen. You make a copy of exactly the recipe you need. And that is exactly what the cell does. It makes a copy of one gene in the form of messenger RNA. This copying process is called transcription, which means writing out.
+
+Here is how it works. An enzyme called RNA polymerase binds to the start of a gene. This starting region is called the promoter. The polymerase opens the DNA double helix over a short section. Then it reads one of the two strands, base by base. This strand is the template strand.
+
+For each base on the template, the polymerase adds the matching RNA base. Opposite guanine it places cytosine. Opposite cytosine it places guanine. Opposite thymine it places adenine. And opposite adenine it places uracil, because RNA has no thymine.
+
+In this way a single strand of RNA grows, with a sequence that is complementary to the template. Behind the polymerase, the DNA closes again. At the end of the gene, the polymerase stops and releases the new RNA.
+
+In eukaryotes, this first RNA is not finished yet. A gene contains parts that are needed and parts that are not. The useful parts are called exons. The parts in between are called introns. The introns are cut out, and the exons are joined together. This process is called splicing. It is a bit like cutting the adverts out of a magazine article, so that only the story remains.
+
+The finished messenger RNA also receives a protective cap at the front and a tail at the end. Then it leaves the nucleus through the nuclear pores and travels to the ribosomes in the cytoplasm.
+
+Not every gene is transcribed all the time. Cells switch genes on and off depending on what they need. A liver cell and a nerve cell have the same DNA, but they use different genes. This is called gene expression.
+
+Why does this matter in the lab? You can measure which genes are active in a cell by measuring its messenger RNA. An active gene is transcribed often, so there is a lot of its RNA. This is used in cancer diagnostics and in some types of leukaemia. To measure RNA with PCR, it is first rewritten into DNA by an enzyme called reverse transcriptase. This method is called reverse transcription PCR.
+
+In short: in transcription, RNA polymerase copies a gene from the DNA into messenger RNA in the nucleus. In eukaryotes, introns are removed by splicing. The finished messenger RNA travels to the ribosomes.
+
+# Translation
+
+Now we are at the ribosome. Here the message of the RNA is translated into a protein. This process is called translation.
+
+A protein is a long chain of amino acids. There are twenty different amino acids in human proteins. The order of the amino acids decides how the chain folds, and the folded shape decides the function of the protein.
+
+But RNA has only four bases. How can four characters describe twenty amino acids? With words of three letters. Three bases in a row form a codon. Each codon stands for one specific amino acid. With four bases and three positions there are sixty-four possible combinations. That is enough for all twenty amino acids, with several codons for most of them, and some control signals. This translation table is called the genetic code. It is almost the same in all living things.
+
+The genetic code is like a dictionary. Each codon is a three-letter word that stands for one amino acid.
+
+There is a start codon. Its sequence is adenine, uracil, guanine. Translation begins there. And there are three stop codons. There the protein ends.
+
+The cell also needs translators. These are the transfer RNAs. Each transfer RNA carries a specific amino acid at one end. At the other end it has three bases that match a codon. This matching triplet is called the anticodon.
+
+The process works like this. The ribosome attaches to the messenger RNA and looks for the start codon. A matching transfer RNA brings the first amino acid. Then the ribosome moves forward by three bases. The next transfer RNA brings the next amino acid. The ribosome links the amino acids together with a peptide bond. This continues until a stop codon appears. Then the finished chain is released. It folds into its three-dimensional shape and becomes a working protein.
+
+Now the whole path is complete. DNA is the cookbook. Transcription copies one recipe, the messenger RNA. Translation at the ribosome is the cooking. The result is the finished dish: the protein. Biologists call this flow of information the central dogma of molecular biology: from DNA to RNA to protein.
+
+Why does this matter in the lab? A small error in the code can have big effects. A change in the DNA is called a mutation. In sickle cell disease, only one single base is changed. Because of this, one wrong amino acid sits at one position in the haemoglobin. The red blood cells take on a sickle shape and can block small blood vessels. Such mutations can be detected with molecular methods. And proteins themselves are measured in the lab every day. Enzymes, many hormones, antibodies and clotting factors are all proteins.
+
+In short: in translation, the ribosome reads the messenger RNA in codons of three bases. Transfer RNAs bring the matching amino acids. The result is a protein. The central dogma is: from DNA to RNA to protein.
+
+# Cell biology summary
+
+This chapter brings together the main ideas of part two.
+
+The cell is the smallest unit of life. Prokaryotes, such as bacteria, have no nucleus. Eukaryotes, such as human cells, have a nucleus and many organelles. The nucleus stores the DNA. Ribosomes build proteins. The endoplasmic reticulum and the Golgi apparatus produce, pack and ship them. Mitochondria produce energy as A T P. Lysosomes digest waste.
+
+The cell membrane is a lipid bilayer with proteins. It is selectively permeable. In diffusion, particles move from high to low concentration without energy. Osmosis is the diffusion of water towards the higher concentration. Red blood cells burst in pure water, which is called haemolysis. Active transport moves substances against the gradient and needs energy. The sodium potassium pump keeps potassium inside the cells, which is why old samples can show falsely high potassium.
+
+The cell cycle consists of interphase and the M phase. The DNA is copied in the S phase. Checkpoints control the cycle. Mitosis produces two identical diploid cells for growth and repair. Meiosis produces four different haploid gametes for reproduction.
+
+DNA is a double helix with four bases. Adenine pairs with thymine, guanine with cytosine. A gene is the instruction for a protein. In transcription, the gene is copied into messenger RNA. In translation, the ribosome reads the RNA in codons and builds a chain of amino acids. From DNA to RNA to protein.
+
+# Part three: Lab maths
+
+Laboratory work is full of small calculations. You convert units, prepare solutions, dilute samples and correct results. None of this is difficult mathematics. But it must be done correctly every single time, because a mistake goes straight onto a patient report.
+
+This part covers four tools. First the international system of units. Then converting between units. Then ratios, proportions, the rule of three and percentages. And finally dilutions, with the formula that every lab worker uses: c one times V one equals c two times V two.
+
+# The S I system
+
+In the past, almost every country had its own units. There were feet, ells, pounds and miles, and they were all slightly different. Today science uses one common system. It is called the International System of Units, or S I for short, from its French name.
+
+The S I system has seven base units. The meter for length. The kilogram for mass. The second for time. The ampere for electric current. The kelvin for temperature. The mole for amount of substance. And the candela for light intensity.
+
+Notice that the mole is one of the seven base units. That shows how important counting particles is in science.
+
+All other units are built from these seven. Speed is meters per second. Molar concentration in strict S I units is moles per cubic meter. These are called derived units.
+
+The liter is not an official S I unit, but it is accepted for use with the S I system. One liter is exactly one cubic decimeter. That is a cube with an edge length of ten centimeters. In the lab, we work almost always with liters and milliliters. One milliliter is the same as one cubic centimeter.
+
+Now the prefixes. They make a unit bigger or smaller, always in steps based on ten.
+
+Kilo means one thousand. One kilogram is one thousand grams.
+
+Deci means one tenth. One deciliter is one tenth of a liter.
+
+Centi means one hundredth. One centimeter is one hundredth of a meter.
+
+Milli means one thousandth. One milliliter is one thousandth of a liter.
+
+Then it gets small. Micro means one millionth. Nano means one billionth, that is one thousandth of a millionth. Pico means one trillionth, that is one millionth of a millionth. Between milli, micro, nano and pico there is always a factor of one thousand.
+
+There are no exceptions. Kilo is always exactly one thousand.
+
+A note on temperature. The S I unit is the kelvin. Zero kelvin is absolute zero, the coldest possible temperature. In everyday life and in the lab, we mostly use degrees Celsius. One step of one kelvin is the same size as one degree Celsius. To convert degrees Celsius into kelvin, add two hundred seventy-three. So zero degrees Celsius is about two hundred seventy-three kelvin. Body temperature, thirty-seven degrees Celsius, is about three hundred ten kelvin.
+
+Why does this matter in the lab? Lab values have very different sizes. Sodium is measured in millimoles per liter. Some hormones are measured in picomoles per liter, which is one billionth of that. Pipettes work in microliters. Wavelengths in the photometer are given in nanometers. If you know the prefixes well, you will make far fewer mistakes.
+
+In short: the S I system has seven base units, including the mole and the kelvin. The prefixes kilo, deci, centi, milli, micro, nano and pico change the size of a unit by fixed factors of ten.
+
+# Unit conversion
+
+Converting units is daily work in the lab. The most important idea is this: when you convert, only the unit changes, not the amount. Half a liter of water stays half a liter of water, whatever you call it. You can say zero point five liters or five hundred milliliters. It is the same amount.
+
+There is one simple rule. When the unit gets smaller, the number gets bigger. When the unit gets bigger, the number gets smaller.
+
+Let us practise. From liters to milliliters, the unit gets smaller, by a factor of one thousand. So the number gets one thousand times bigger. Zero point two five liters are two hundred fifty milliliters.
+
+From milliliters to liters, the unit gets bigger. So you divide by one thousand. Fifty milliliters are zero point zero five liters.
+
+How many microliters are two milliliters? From milli to micro is a factor of one thousand. The unit gets smaller, so multiply by one thousand. Two milliliters are two thousand microliters.
+
+How many micromoles per liter are five millimoles per liter? Again a factor of one thousand, and the unit gets smaller. So it is five thousand micromoles per liter.
+
+Now a classic from the lab. Many results are given in milligrams per deciliter, while some instruments show milligrams per liter. One liter has ten deciliters. So to go from per deciliter to per liter, multiply by ten. A cholesterol value of two hundred milligrams per deciliter is two thousand milligrams per liter. That is two grams per liter.
+
+Be careful with units in the denominator, the part after per. If the volume unit gets bigger, more substance fits into it, so the number gets bigger. That is why milligrams per deciliter times ten gives milligrams per liter.
+
+When converting between mass units and mole units, you need the molar mass. Remember the glucose example: milligrams per deciliter times ten gives milligrams per liter. Divided by the molar mass of one hundred eighty gives millimoles per liter.
+
+A very good habit is the plausibility check. After every calculation, ask yourself: is this result realistic? An adult has about five liters of blood. If your result says five thousand liters, you have made a mistake.
+
+A second good habit: write down the units in every step of the calculation. Units can be multiplied and divided just like numbers. If the units at the end are not the ones you expect, the calculation is wrong.
+
+Why does this matter in the lab? A mistake by a factor of one thousand can be dangerous for a patient. A drug level reported in milligrams instead of micrograms is a huge difference. So always check units twice. And always check if the value fits the patient and the method.
+
+In short: converting changes the unit, not the amount. Smaller unit, bigger number. Bigger unit, smaller number. Write the units in every step, and always do a plausibility check.
+
+# Ratios and proportions
+
+A ratio compares two amounts. For example, one part juice and three parts water. We say the ratio is one to three.
+
+A proportion says that two ratios are equal. If two amounts are proportional, they change together in the same way. If one doubles, the other doubles too. If one is halved, the other is halved too. In the lab, most relationships are proportional. Twice as many tests need twice as much reagent. Twice as much substance in the same volume gives twice the concentration.
+
+The rule of three is the most important tool for proportional problems. In Germany, every trainee learns it. It has three steps. First: what do I know? Second: what applies to one single unit? Third: what applies to the amount I am looking for?
+
+An example. Five grams of salt are dissolved in one hundred milliliters of solution. How much salt is in thirty milliliters?
+
+Step one: one hundred milliliters contain five grams.
+
+Step two: one milliliter contains five divided by one hundred. That is zero point zero five grams.
+
+Step three: thirty milliliters contain thirty times zero point zero five. That is one point five grams.
+
+The idea is: first go down to one, then go up to the number you need.
+
+A second example from the lab. A package insert says that one hundred tests need twenty milliliters of reagent. How much do you need for thirty-five tests? One test needs twenty divided by one hundred, which is zero point two milliliters. Thirty-five tests need thirty-five times zero point two. That is seven milliliters.
+
+There is also an inverse proportion. Here, when one amount goes up, the other goes down. For example: if two analysers need six hours for a batch of samples, three analysers need only four hours. In the rule of three, you then divide where you would normally multiply. Inverse proportions are less common in the lab, but they do appear. The dilution formula in the next chapters is one of them: the more you dilute, the lower the concentration.
+
+A special note about how dilutions are written. In the lab, a dilution of one to ten usually means one part of sample in ten parts in total. That is one part sample plus nine parts of diluent. Some people write this as one plus nine. This is a common source of confusion. Always check what the standard operating procedure of your lab means.
+
+Why does this matter in the lab? With the rule of three you scale reagent amounts up and down. You calculate how much substance you need for a smaller volume of solution. You check calculations quickly in your head. It is the basic tool for almost all practical lab maths.
+
+In short: a ratio compares two amounts. In a proportion, amounts change together. The rule of three works in three steps: what you know, what applies to one unit, and what applies to the amount you need.
+
+# Percentages
+
+Percent means per hundred, or hundredths. Twenty percent is twenty hundredths, or zero point two.
+
+Every percentage problem has three quantities. The base value is the whole, which is one hundred percent. The percentage is the number with the word percent. And the percentage value is the part.
+
+To find a part, multiply the base value by the percentage and divide by one hundred. Twenty percent of fifty is fifty times twenty divided by one hundred. That gives ten.
+
+To find the percentage, divide the part by the whole and multiply by one hundred. If thirty out of one hundred twenty cells are lymphocytes, the percentage is thirty divided by one hundred twenty, times one hundred. That gives twenty-five percent.
+
+To find the whole, divide the part by the percentage and multiply by one hundred. If fifteen milliliters are thirty percent of a solution, the whole solution is fifteen divided by thirty, times one hundred. That gives fifty milliliters.
+
+All three are really just the rule of three. If you forget the formulas, go back to the three steps. One hundred percent is the whole. One percent is the whole divided by one hundred. Then multiply up to the percentage you need.
+
+You see percentages everywhere: on food labels, in bank interest and in shop discounts. The calculation is always the same.
+
+Why does this matter in the lab? In a differential blood count, white blood cells are counted and given as percentages. For example, sixty percent neutrophils and thirty percent lymphocytes. To get the absolute number, multiply the percentage by the total number of white blood cells. If a patient has eight thousand white blood cells per microliter, and thirty percent are lymphocytes, there are two thousand four hundred lymphocytes per microliter. Percentages are also used for solutions, as we saw in the chemistry part, and for the precision of measurements. The coefficient of variation in quality control is given in percent.
+
+In short: percent means hundredths. Part equals whole times percentage divided by one hundred. Percentage equals part divided by whole times one hundred. When in doubt, use the rule of three.
+
+# Dilution
+
+In the lab, dilutions are made all the time. You start with a concentrated solution, called the stock solution. From it, you make a weaker solution, called the working solution.
+
+When you dilute, you add solvent. The volume gets bigger. The concentration gets smaller. But one thing stays the same: the amount of dissolved substance. No substance is added and no substance is lost.
+
+From this follows the most important formula in the lab. C one times V one equals c two times V two.
+
+C one is the concentration of the stock solution. V one is the volume of stock solution that you take. C two is the concentration you want. V two is the final volume you want.
+
+Why is this formula true? Concentration times volume is the amount of substance. The amount of substance stays the same before and after dilution. So both sides of the equation must be equal. If you understand this, you do not need to memorise the formula; you can always rebuild it.
+
+An example. You have a stock solution with one mole per liter. You need one hundred milliliters with zero point one moles per liter. How much stock solution do you take?
+
+Rearrange the formula: V one equals c two times V two, divided by c one. That is zero point one times one hundred, divided by one. The result is ten milliliters.
+
+So you take ten milliliters of stock solution and fill up with water to a total of one hundred milliliters. That means you add ninety milliliters of water, not one hundred. The final volume is one hundred milliliters.
+
+A second example from practice. You have ethanol with ninety-six percent. You need one hundred milliliters of seventy percent ethanol for disinfection. Seventy times one hundred, divided by ninety-six, gives about seventy-three. So you take about seventy-three milliliters of ethanol and fill up with water to one hundred milliliters.
+
+There are two important rules. Both concentrations must be in the same unit. And both volumes must be in the same unit. Otherwise the result is wrong. If one concentration is in moles per liter and the other in millimoles per liter, convert first.
+
+You can also use the formula to find any other value. Maybe you know how much stock you used and the final volume. Then you can calculate the new concentration: c two equals c one times V one, divided by V two.
+
+Why does this matter in the lab? Standards, calibrators, controls and reagents are often prepared by dilution. Every wrong dilution leads to wrong results in every sample measured with it. That is why careful pipetting and correct calculation are essential skills in your training.
+
+In short: during a dilution the amount of substance stays the same. C one times V one equals c two times V two. Use the same units on both sides, and remember that V two is the final volume, not the volume of water you add.
+
+# Serial dilution
+
+The dilution factor tells you how strongly a solution has been diluted. It is the final volume divided by the volume of the original sample. If you take ten milliliters and fill up to one hundred milliliters, the dilution factor is ten. This is the same as a dilution of one to ten.
+
+The dilution factor is also the original concentration divided by the new concentration.
+
+Here is a key situation in the lab. Sometimes a patient value is too high for the measuring range of the analyser. Then the sample is diluted, for example one to ten. The analyser now measures a value within its range. But this value is the concentration of the diluted sample. To get the true value of the patient, you must multiply by the dilution factor. If the analyser measures fifty, and the dilution was one to ten, the true value is five hundred. If you forget this step, the report shows a value ten times too low. Many modern analysers do this automatically, but you must always know what happened.
+
+Sometimes a sample is extremely concentrated. For example, urine with millions of bacteria per milliliter. A single dilution is not enough. Then you dilute several times in a row. This is called a serial dilution.
+
+Here is how it works. You prepare a row of tubes, each with nine milliliters of diluent. You add one milliliter of sample to the first tube and mix well. This is a dilution of one to ten. Then you take one milliliter from the first tube and add it to the second tube, and mix. The total dilution is now one to one hundred. In the third tube it is one to one thousand.
+
+The factors multiply. Ten times ten times ten is one thousand. With every step, one more zero is added. After six steps, the dilution is one to one million. This is the same pattern as the powers of ten.
+
+Two practical rules are important. Mix every tube well before you take the next portion. And use a new pipette tip for every step. Otherwise you carry sample over into the next tube, and the whole series is wrong.
+
+There are also serial dilutions with a factor of two, where each tube contains half the concentration of the one before. They are common in serology.
+
+Why does this matter in the lab? In microbiology, bacteria are counted this way. A portion of a dilution is spread on an agar plate. The next day you count the colonies. Each colony grew from one bacterium. Then you multiply by the dilution factor to get the number of bacteria in the original sample. In serology, a serial dilution is used to determine the titer. The titer is the highest dilution at which a reaction is still positive. A high titer means a lot of antibodies in the blood.
+
+In short: the dilution factor is the final volume divided by the sample volume. After measuring a diluted sample, multiply by the dilution factor. In a serial dilution the factors multiply. Mix well, and use a new tip for every step.
+
+# Final summary
+
+You have now heard the complete foundation for the start of your training. Here is the big picture once more.
+
+Chemistry explains what substances are and how they react. Atoms consist of protons, neutrons and electrons. The outer electrons decide how atoms bond: by transferring electrons in ionic bonds, or by sharing them in covalent bonds. Polar molecules like water dissolve salts but not fats. Chemists count particles in moles and convert grams to moles with the molar mass. Equations must be balanced, and the limiting reagent decides the amount of product. Concentrations are given in moles per liter, grams per liter, percent or parts per million. The main reaction types are precipitation, redox and acid base reactions.
+
+Cell biology explains where the substances in the blood come from. Bacteria are prokaryotes without a nucleus. Human cells are eukaryotes with a nucleus and organelles. The membrane controls what enters and leaves the cell, by diffusion, osmosis and active transport. Cells divide by mitosis, while sex cells are made by meiosis. DNA stores the information, RNA carries a copy to the ribosomes, and the ribosomes build proteins.
+
+Lab maths turns all of this into correct numbers. Know the S I units and prefixes. Convert units carefully and check that the result is plausible. Use the rule of three and percentages. And for every dilution: c one times V one equals c two times V two, and multiply by the dilution factor at the end.
+
+Listen to the chapters again whenever you need them. Each time you hear them, the ideas become clearer and more connected. Good luck with your training.

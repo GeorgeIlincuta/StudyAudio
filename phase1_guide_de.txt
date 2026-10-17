@@ -1,0 +1,905 @@
+Grundlagen für das medizinische Labor: Chemie, Zellbiologie und Laborrechnen.
+
+# Hinweise zum Leitfaden — Using this guide
+
+Dieser Hörleitfaden erklärt die naturwissenschaftlichen Grundlagen für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Er hat drei Teile. Teil eins ist die allgemeine Chemie. Teil zwei ist die Zellbiologie. Teil drei ist das Rechnen im Labor.
+
+Jedes Thema beginnt bei null. Du brauchst kein Vorwissen. Jedes Kapitel erklärt eine Idee in einfacher Sprache. Danach zeigt es, warum diese Idee im Labor wichtig ist. Am Ende jedes Kapitels gibt es eine kurze Zusammenfassung.
+
+Ein kurzer Hinweis zu Zahlen und Zeichen. Weil dies ein Hörtext ist, gibt es keine Formeln und keine Symbole. Wasser heißt einfach Wasser. Einheiten werden ganz ausgesprochen, zum Beispiel Millimol pro Liter.
+
+Am besten hörst du immer nur ein Kapitel. Wenn etwas unklar ist, hör das Kapitel noch einmal. Die Kapitel bauen aufeinander auf. Darum ist die Reihenfolge wichtig.
+
+Wir beginnen mit dem kleinsten Baustein von allem: dem Atom.
+
+# Teil eins: Chemie — Part one: Chemistry
+
+Die Chemie ist die Wissenschaft von den Stoffen. Sie fragt: Woraus bestehen die Dinge? Wie sind sie gebaut? Und wie verändern sie sich?
+
+Im medizinischen Labor ist fast jedes Ergebnis eine chemische Messung. Natrium, Kalium, Glukose, Cholesterin und Eiweiße sind Stoffe. Sie sind im Blut gelöst. Sie reagieren mit den Reagenzien eines Tests. Und sie haben eine Konzentration. Wer die Chemie hinter einem Test versteht, versteht auch die Zahl auf dem Befund.
+
+Dieser Teil geht Schritt für Schritt vor. Zuerst kommen das Atom und das Periodensystem. Dann die Bindungen zwischen Atomen. Dann das Zählen von Teilchen mit dem Mol und das Rechnen mit Reaktionsgleichungen. Dann Lösungen und Konzentrationen. Und zum Schluss die wichtigsten Arten von chemischen Reaktionen.
+
+# Der Atombau — Atomic structure
+
+Alles um dich herum besteht aus Atomen. Der Tisch, die Luft, das Wasser und auch dein Körper. Ein Atom ist das kleinste Teilchen eines chemischen Elements. Es hat noch die Eigenschaften dieses Elements.
+
+Atome sind unvorstellbar klein. Etwa zehn Millionen Atome passen nebeneinander auf einen Millimeter.
+
+Ein Atom hat zwei Bereiche. In der Mitte liegt der Atomkern. Um den Kern herum liegt die Atomhülle. Dort bewegen sich die Elektronen.
+
+Im Atomkern gibt es zwei Arten von Teilchen. Die Protonen sind positiv geladen. Die Neutronen haben keine Ladung, sie sind neutral. Protonen und Neutronen sind ungefähr gleich schwer.
+
+Die Elektronen sind negativ geladen. Sie sind sehr leicht, fast zweitausendmal leichter als ein Proton. Darum steckt fast die ganze Masse eines Atoms im Kern.
+
+Der Kern ist aber winzig im Vergleich zum ganzen Atom. Stell dir ein Atom so groß wie ein Fußballstadion vor. Dann ist der Kern so groß wie eine Erbse in der Mitte des Spielfelds. Der Rest ist fast leerer Raum mit ein paar sehr leichten Elektronen.
+
+Jetzt kommt die wichtigste Regel. Die Zahl der Protonen bestimmt, welches Element ein Atom ist. Ein Atom mit einem Proton ist immer Wasserstoff. Ein Atom mit sechs Protonen ist immer Kohlenstoff. Ein Atom mit acht Protonen ist immer Sauerstoff. Ein Atom mit elf Protonen ist immer Natrium. Diese Zahl heißt die Ordnungszahl oder Protonenzahl.
+
+Protonen und Neutronen zusammen ergeben die Massenzahl. Ein normales Kohlenstoffatom hat sechs Protonen und sechs Neutronen. Seine Massenzahl ist also zwölf.
+
+Ein neutrales Atom hat genauso viele Elektronen wie Protonen. Dann heben sich die positiven und die negativen Ladungen auf. Natrium hat zum Beispiel elf Protonen und elf Elektronen. Später sehen wir: Atome können Elektronen abgeben oder aufnehmen. Dann werden sie zu geladenen Teilchen, den Ionen.
+
+Warum ist das im Labor wichtig? Im Blut messen wir Elemente wie Natrium, Kalium, Calcium und Eisen. Im Blut sind diese Atome geladen, denn sie haben Elektronen abgegeben. Wer die Elektrolyte verstehen will, muss zuerst das Atom verstehen.
+
+Kurz gesagt: Ein Atom hat einen winzigen Kern mit positiven Protonen und neutralen Neutronen. Außen liegt die Hülle mit negativen Elektronen. Die Zahl der Protonen bestimmt das Element. Protonen und Neutronen zusammen ergeben die Massenzahl.
+
+# Das Periodensystem — The periodic table
+
+Ein Element ist ein reiner Stoff aus nur einer Atomsorte. Heute kennen wir etwa hundertachtzehn Elemente. Alle stehen in einer berühmten Tabelle: dem Periodensystem der Elemente.
+
+Jedes Element hat ein eigenes Kästchen. Darin steht ein kurzes Symbol aus einem oder zwei Buchstaben. Außerdem stehen dort die Ordnungszahl und die Atommasse. Die Symbole kommen oft aus dem Lateinischen. Darum passen sie nicht immer zum deutschen Namen.
+
+Die Tabelle ist nach der Ordnungszahl sortiert. Man liest sie von links nach rechts, Zeile für Zeile, wie ein Buch. Wasserstoff mit der Ordnungszahl eins steht oben links. Helium mit zwei steht oben rechts. Dann beginnt Lithium mit drei die nächste Zeile, und so weiter.
+
+Die Zeilen heißen Perioden. Es gibt sieben Perioden. Die Spalten heißen Gruppen. Und jetzt kommt das Geniale: Elemente in derselben Gruppe verhalten sich ähnlich. Die Spalte verrät also das chemische Verhalten eines Elements.
+
+Einige Gruppen haben besondere Namen. In der ersten Spalte stehen Lithium, Natrium und Kalium. Das sind die Alkalimetalle. Sie sind weiche Metalle und reagieren heftig mit Wasser. In der zweiten Spalte stehen Magnesium und Calcium. Das sind die Erdalkalimetalle. In der vorletzten Spalte stehen Fluor, Chlor, Brom und Iod. Das sind die Halogene. Sie sind sehr reaktiv und bilden mit Metallen Salze. In der letzten Spalte stehen Helium, Neon und Argon. Das sind die Edelgase. Sie reagieren fast nie.
+
+Die acht langen Spalten sind die Hauptgruppen. Die kurzen Spalten in der Mitte sind die Nebengruppen. Dort stehen zum Beispiel Eisen, Kupfer und Zink.
+
+Es gibt auch ein allgemeines Muster. Die Metalle stehen links und in der Mitte. Die Nichtmetalle stehen rechts oben.
+
+Warum ist das im Labor wichtig? Natrium und Kalium stehen beide in der ersten Hauptgruppe. Darum bilden beide im Blut Ionen mit einer positiven Ladung. Calcium und Magnesium stehen beide in der zweiten Hauptgruppe. Darum bilden beide Ionen mit zwei positiven Ladungen. Das Periodensystem sagt also die Ladung der wichtigsten Elektrolyte voraus. Die Atommassen in den Kästchen sind außerdem der Startpunkt für viele Laborrechnungen.
+
+Kurz gesagt: Das Periodensystem ordnet die Elemente nach der Ordnungszahl. Die Zeilen sind Perioden, die Spalten sind Gruppen. Elemente in derselben Gruppe verhalten sich ähnlich.
+
+# Die Elektronenschalen — Electron shells
+
+Die Elektronen bewegen sich nicht wild durcheinander um den Kern. In einem einfachen Modell sind sie in Schichten angeordnet. Diese Schichten heißen Schalen. Das ist das Schalenmodell.
+
+Jede Schale hat eine feste Kapazität. Die erste Schale liegt am nächsten am Kern. Sie fasst höchstens zwei Elektronen. Die zweite Schale fasst höchstens acht. Bei den leichten Elementen nimmt auch die dritte Schale zuerst acht Elektronen auf. Später kann sie bis zu achtzehn fassen. Für den Anfang reicht aber die Zahl acht.
+
+Die Schalen werden von innen nach außen gefüllt. Das ist wie bei den Sitzreihen in einem Bus. Ist eine Reihe voll, beginnt die nächste.
+
+Hier sind zwei Beispiele. Natrium hat elf Elektronen. Zwei sind in der ersten Schale, acht in der zweiten. Eins bleibt übrig für die dritte Schale. Chlor hat siebzehn Elektronen. Zwei, dann acht, dann sieben in der dritten Schale.
+
+Die äußerste Schale ist die wichtigste. Sie heißt die Außenschale. Ihre Elektronen heißen Valenzelektronen oder Außenelektronen. Nur diese Elektronen machen bei chemischen Reaktionen mit.
+
+Bei den Hauptgruppen gibt es eine einfache Regel. Die Nummer der Hauptgruppe ist die Zahl der Valenzelektronen. Natrium steht in der ersten Gruppe und hat ein Valenzelektron. Chlor steht in der siebten Gruppe und hat sieben. Und die Nummer der Periode ist die Zahl der Schalen. Natrium und Chlor stehen beide in der dritten Periode. Beide haben also drei Schalen.
+
+Warum reagieren die Edelgase nicht? Weil ihre Außenschale voll ist. Neon und Argon haben acht Außenelektronen. Diesen Zustand nennt man die Edelgaskonfiguration. Er ist sehr stabil. Andere Atome wollen denselben Zustand erreichen. Dafür geben sie Elektronen ab, nehmen welche auf oder teilen sie. Das ist die Oktettregel. Oktett bedeutet acht.
+
+Natrium hat ein Elektron zu viel in der Außenschale. Es gibt dieses Elektron leicht ab. Dann ist seine volle zweite Schale außen, genau wie bei Neon. Chlor fehlt ein Elektron. Es nimmt leicht eins auf. Dann hat es acht Außenelektronen, genau wie Argon. Natrium und Chlor passen also perfekt zusammen. Fast die ganze Chemie ist ein Spiel um volle Außenschalen.
+
+Warum ist das im Labor wichtig? Die Valenzelektronen erklären, warum Natrium im Blut immer einfach positiv geladen ist. Und warum Chlorid immer einfach negativ geladen ist. Sie erklären auch, wie große Moleküle wie Glukose, Proteine und die DNA zusammenhalten.
+
+Kurz gesagt: Die Elektronen sitzen in Schalen, zwei in der ersten und acht in der zweiten. Die äußeren Elektronen sind die Valenzelektronen. Atome wollen eine volle Außenschale mit acht Elektronen, wie die Edelgase.
+
+# Die Isotope — Isotopes
+
+Die Zahl der Protonen bestimmt das Element. Aber die Zahl der Neutronen kann sich ändern. Atome desselben Elements mit verschieden vielen Neutronen heißen Isotope.
+
+Isotope haben die gleiche Ordnungszahl, aber eine andere Massenzahl. Nehmen wir Kohlenstoff. Fast aller Kohlenstoff hat sechs Protonen und sechs Neutronen. Das ist Kohlenstoff zwölf. Etwa ein Prozent hat sieben Neutronen. Das ist Kohlenstoff dreizehn. Eine winzige Menge hat acht Neutronen. Das ist Kohlenstoff vierzehn. Alle drei sind Kohlenstoff, denn alle haben sechs Protonen.
+
+Verhalten sich Isotope bei Reaktionen unterschiedlich? Fast gar nicht. Die Chemie hängt von den Elektronen ab. Und Isotope desselben Elements haben gleich viele Elektronen. Der Hauptunterschied ist die Masse.
+
+Manche Isotope sind instabil. Ihr Kern zerfällt mit der Zeit und sendet Strahlung aus. Diese Isotope heißen radioaktiv. Kohlenstoff vierzehn ist radioaktiv. Damit bestimmt man das Alter von altem Holz oder alten Knochen. Kohlenstoff zwölf und Kohlenstoff dreizehn sind dagegen stabil.
+
+Isotope erklären auch ein kleines Rätsel im Periodensystem. Bei Chlor steht die Atommasse fünfunddreißig komma fünf. Wie kann eine Masse eine halbe Zahl sein? Natürliches Chlor ist eine Mischung aus zwei Isotopen: Chlor fünfunddreißig und Chlor siebenunddreißig. Das leichtere Isotop ist viel häufiger. Die Atommasse in der Tabelle ist der Durchschnitt aller natürlichen Isotope. Dabei zählt jedes Isotop nach seiner Häufigkeit. Darum sind Atommassen oft keine ganzen Zahlen.
+
+Warum ist das im Labor wichtig? Ein gutes Beispiel ist der Atemtest auf Helicobacter. Das ist ein Bakterium, das im Magen lebt. Der Patient trinkt eine Lösung mit Harnstoff. Dieser Harnstoff enthält das stabile Isotop Kohlenstoff dreizehn. Ist das Bakterium da, spaltet es den Harnstoff. Dann atmet der Patient Kohlendioxid mit Kohlenstoff dreizehn aus. Ein Messgerät findet dieses schwerere Kohlendioxid in der Atemluft. Der Test ist sicher, denn Kohlenstoff dreizehn ist nicht radioaktiv. In der Nuklearmedizin nutzt man dagegen absichtlich radioaktive Isotope, zum Beispiel radioaktives Iod für die Schilddrüse.
+
+Kurz gesagt: Isotope haben gleich viele Protonen, aber verschieden viele Neutronen. Chemisch verhalten sie sich gleich, aber ihre Masse ist verschieden. Manche Isotope sind radioaktiv.
+
+# Ionen und Ionenbindung — Ions and ionic bonds
+
+Atome wollen eine volle Außenschale. Ein Weg dahin ist, Elektronen abzugeben oder aufzunehmen. Dann ist das Atom elektrisch geladen. Ein geladenes Atom heißt Ion.
+
+Natrium gibt sein einziges Außenelektron ab. Jetzt hat es elf Protonen, aber nur zehn Elektronen. Es hat also eine positive Ladung mehr. Es ist jetzt ein Natrium-Ion mit einer positiven Ladung. Ein positives Ion heißt Kation.
+
+Chlor nimmt ein Elektron auf. Jetzt hat es siebzehn Protonen und achtzehn Elektronen. Es trägt eine negative Ladung. Als Ion heißt es nicht mehr Chlor, sondern Chlorid. Ein negatives Ion heißt Anion.
+
+Entgegengesetzte Ladungen ziehen sich stark an. Diese Anziehung zwischen Kationen und Anionen heißt Ionenbindung. In einem Kristall aus Kochsalz sitzen Millionen von Natrium-Ionen und Chlorid-Ionen. Sie bilden ein festes, regelmäßiges Muster und wechseln sich immer ab. Dieses Muster heißt Ionengitter. Der chemische Name von Kochsalz ist Natriumchlorid.
+
+Bei der Ionenbindung wechselt ein Elektron ganz von einem Atom zum anderen. Das ist wie ein Geschenk, das den Besitzer wechselt. Das passiert typisch zwischen einem Metall und einem Nichtmetall. Metalle links im Periodensystem geben Elektronen ab. Nichtmetalle rechts nehmen Elektronen auf.
+
+Verbindungen aus Ionen heißen Salze. Salze haben typische Eigenschaften. Bei Raumtemperatur sind sie fest und haben einen hohen Schmelzpunkt. Sie sind hart, aber spröde. Viele Salze lösen sich gut in Wasser. Im Wasser trennen sich die Ionen und bewegen sich frei. Diese beweglichen Ionen tragen Ladung. Darum leitet eine Salzlösung den Strom. Ein Stoff, der in Wasser Ionen bildet und Strom leitet, heißt Elektrolyt.
+
+Warum ist das im Labor wichtig? Das Blutplasma ist voller Ionen. Natrium, Kalium, Calcium, Magnesium und Chlorid sind die wichtigsten Elektrolyte. Natrium liegt im Serum normal bei etwa hundertfünfunddreißig bis hundertfünfundvierzig Millimol pro Liter. Kalium liegt normal bei etwa drei komma fünf bis fünf Millimol pro Liter. Im Labor misst man diese Ionen oft mit ionenselektiven Elektroden. Das sind Sensoren, die nur auf ein bestimmtes Ion reagieren. Schon kleine Änderungen beim Kalium können für das Herz gefährlich sein. Darum müssen diese Werte stimmen.
+
+Kurz gesagt: Ionen sind geladene Atome. Kationen sind positiv, Anionen sind negativ. Ihre Anziehung ist die Ionenbindung. Salze, die in Wasser gelöst sind, sind Elektrolyte.
+
+# Die Atombindung — Covalent bonds
+
+Was passiert, wenn zwei Nichtmetalle sich treffen? Beide wollen Elektronen aufnehmen. Keines will Elektronen abgeben. Die Lösung heißt teilen. Zwei Atome teilen sich Elektronenpaare. Das ist die Atombindung. Man sagt auch kovalente Bindung.
+
+Nehmen wir zwei Wasserstoffatome. Jedes hat nur ein Elektron. Für eine volle erste Schale braucht jedes aber zwei. Also legen sie ihre Elektronen zusammen. Das Elektronenpaar gehört jetzt beiden Atomen gleichzeitig. Es heißt gemeinsames oder bindendes Elektronenpaar. Jedes Atom zählt das Paar für sich selbst. So hat jeder Wasserstoff zwei Elektronen, genau wie Helium.
+
+Eine Gruppe von Atomen, die durch Atombindungen verbunden sind, heißt Molekül. Zwei Wasserstoffatome bilden ein Wasserstoffmolekül.
+
+Ein einfacher Vergleich: Die Ionenbindung ist wie ein Geschenk, das man weitergibt. Die Atombindung ist wie ein Garten, den zwei Nachbarn gemeinsam haben. Beide dürfen ihn benutzen.
+
+Jetzt das Wasser. Sauerstoff hat sechs Außenelektronen. Er braucht noch zwei bis zur Acht. Also teilt ein Sauerstoffatom je ein Elektronenpaar mit zwei Wasserstoffatomen. Am Ende hat der Sauerstoff acht Elektronen um sich. Jeder Wasserstoff hat zwei. Alle sind zufrieden. Das ist das Wassermolekül.
+
+Zwei Atome können auch mehr als ein Paar teilen. Ein gemeinsames Paar ist eine Einfachbindung. Zwei gemeinsame Paare bilden eine Doppelbindung. Die beiden Atome im Sauerstoffmolekül sind durch eine Doppelbindung verbunden. Drei gemeinsame Paare bilden eine Dreifachbindung. Die beiden Atome im Stickstoffmolekül sind so verbunden. Diese Dreifachbindung ist extrem stark. Darum reagiert der Stickstoff in der Luft kaum.
+
+Atombindungen sind typisch für Nichtmetalle. Sie bilden das Gerüst der ganzen organischen Chemie, also der Chemie des Kohlenstoffs. Kohlenstoff hat vier Außenelektronen und bildet darum vier Bindungen. Er kann lange Ketten und Ringe bauen. Darum ist Kohlenstoff die Grundlage des Lebens.
+
+Warum ist das im Labor wichtig? Fast alle Moleküle des Lebens sind mit Atombindungen gebaut: Glukose, Fette, Proteine und die DNA. Ihr Gerüst besteht aus Kohlenstoff, Wasserstoff, Sauerstoff und Stickstoff. Und ein praktisches Beispiel: Flüssiger Stickstoff ist sehr kalt und reagiert fast nie. Darum lagert man Zellen und Proben lange Zeit in flüssigem Stickstoff.
+
+Kurz gesagt: Bei der Atombindung teilen sich Atome Elektronenpaare. So verbundene Atome bilden Moleküle. Es gibt Einfachbindungen, Doppelbindungen und Dreifachbindungen.
+
+# Polare Bindungen — Polar bonds
+
+Bei einer Atombindung teilen zwei Atome ein Elektronenpaar. Aber sie teilen nicht immer fair. Manche Atome ziehen stärker an den gemeinsamen Elektronen als andere. Diese Zugkraft heißt Elektronegativität.
+
+Fluor hat die höchste Elektronegativität von allen Elementen. Danach kommen Sauerstoff und Stickstoff. Kohlenstoff und Wasserstoff ziehen viel schwächer.
+
+Sind zwei gleiche Atome verbunden, ziehen beide gleich stark. Das Elektronenpaar liegt genau in der Mitte. Diese Bindung ist unpolar. Ein Beispiel ist das Wasserstoffmolekül. Auch Bindungen zwischen Kohlenstoff und Wasserstoff sind fast unpolar.
+
+Im Wasser ist es anders. Der Sauerstoff zieht die gemeinsamen Elektronen zu sich. Darum wird die Seite mit dem Sauerstoff ein bisschen negativ. Die Seiten mit dem Wasserstoff werden ein bisschen positiv. Das sind keine vollen Ladungen, sondern Teilladungen. Eine Bindung mit Teilladungen heißt polare Bindung.
+
+Man kann sich das als Skala vorstellen, nicht als Schalter. Gleiche Atome ergeben eine unpolare Bindung. Ein mittlerer Unterschied ergibt eine polare Atombindung. Ein sehr großer Unterschied ergibt eine Ionenbindung. Dann wird das Elektron nicht mehr geteilt, sondern ganz übertragen.
+
+Das Wassermolekül ist außerdem gewinkelt, nicht gerade. Wegen dieser Form hat es eine negative und eine positive Seite. Ein Molekül mit einer positiven und einer negativen Seite heißt Dipol. Wasser ist ein Dipol. Diese Tatsache erklärt sehr viel über das Leben und über das Labor.
+
+Es gibt eine sehr nützliche Regel: Ähnliches löst sich in Ähnlichem. Polare Stoffe lösen sich gut in polaren Lösungsmitteln wie Wasser. Salz und Zucker lösen sich gut in Wasser. Solche wasserliebenden Stoffe heißen hydrophil. Fette und Öle sind fast unpolar. Sie lösen sich nicht in Wasser und schwimmen oben. Solche wassermeidenden Stoffe heißen hydrophob. In unpolaren Lösungsmitteln lösen sich Fette aber gut.
+
+Warum ist das im Labor wichtig? Cholesterin und Triglyceride sind Fette. Blut besteht vor allem aus Wasser. Darum können Fette nicht einfach frei im Blut schwimmen. Der Körper packt sie in Transportteilchen aus Fett und Eiweiß. Sie heißen Lipoproteine. Nach einem sehr fetten Essen kann das Serum milchig und trüb aussehen. Das nennt man ein lipämisches Serum. Es kann Messungen im Photometer stören, denn das Photometer arbeitet mit Licht. Die Polarität von Molekülen beeinflusst also direkt die Qualität einer Probe.
+
+Kurz gesagt: Die Elektronegativität ist die Zugkraft eines Atoms an gemeinsamen Elektronen. Ungleiches Teilen ergibt eine polare Bindung mit Teilladungen. Wasser ist ein Dipol. Ähnliches löst sich in Ähnlichem.
+
+# Die Wasserstoffbrücken — Hydrogen bonds
+
+Ein Wassermolekül ist sehr klein und leicht. Ähnlich kleine Moleküle sind bei Raumtemperatur Gase. Warum ist Wasser dann flüssig? Die Antwort heißt Wasserstoffbrücken.
+
+Im Wasser ist jedes Wasserstoffatom ein bisschen positiv. Das Sauerstoffatom ist ein bisschen negativ. Außerdem hat es freie Elektronenpaare, die nicht in Bindungen stecken. Der positive Wasserstoff eines Wassermoleküls zieht den negativen Sauerstoff eines Nachbarmoleküls an. Diese Anziehung heißt Wasserstoffbrücke oder Wasserstoffbrückenbindung.
+
+Eine Wasserstoffbrücke ist keine echte chemische Bindung wie die Atombindung. Sie ist viel schwächer. Sie wirkt nicht innerhalb eines Moleküls, sondern zwischen Molekülen. Oder zwischen verschiedenen Teilen eines großen Moleküls. Wasserstoffbrücken entstehen vor allem, wenn Wasserstoff an Sauerstoff oder Stickstoff gebunden ist.
+
+Eine einzelne Wasserstoffbrücke ist schwach. Aber es gibt sehr viele davon. Zusammen sind sie stark. Denk an ein Klettband: Jeder kleine Haken ist schwach, aber tausende Haken halten fest zusammen.
+
+Die Folgen sind enorm. Wasser siedet erst bei hundert Grad Celsius, obwohl seine Moleküle so klein sind. Man braucht viel Energie, um alle Wasserstoffbrücken zu brechen. Eis ist leichter als flüssiges Wasser. Darum schwimmt Eis oben. Im Eis halten die Wasserstoffbrücken die Moleküle in einem offenen Gitter mit viel Platz.
+
+Auch in der Biologie sind Wasserstoffbrücken sehr wichtig. Die DNA besteht aus zwei Strängen. Die beiden Stränge halten durch Wasserstoffbrücken zwischen ihren Basen zusammen. Die Base Adenin paart sich mit Thymin über zwei Wasserstoffbrücken. Die Base Guanin paart sich mit Cytosin über drei Wasserstoffbrücken. Auch Proteine halten ihre räumliche Form zum Teil durch Wasserstoffbrücken.
+
+Warum ist das im Labor wichtig? In der Molekularbiologie gibt es eine Methode mit dem Namen PCR. Das ist die Polymerase-Kettenreaktion. In jedem Zyklus erhitzt man die DNA auf etwa vierundneunzig Grad Celsius. Dann brechen die Wasserstoffbrücken, und die zwei Stränge trennen sich. Die Atombindungen in jedem Strang bleiben aber ganz. Diese Trennung heißt Denaturierung. Auch Proteine und Enzyme kann man durch Hitze denaturieren. Sie verlieren ihre Form und damit ihre Funktion. Denk an Eiweiß, das beim Kochen fest wird. Darum muss man Proben und Reagenzien mit Enzymen bei der richtigen Temperatur lagern.
+
+Kurz gesagt: Wasserstoffbrücken sind schwache Anziehungen zwischen Molekülen, aber zusammen sind sie stark. Sie machen Wasser flüssig und halten die zwei Stränge der DNA zusammen. Hitze bricht sie. Das nennt man Denaturierung.
+
+# Das Mol — The mole
+
+Wie viele Eier sind in einem Dutzend? Zwölf. Ein Dutzend ist eine Zähleinheit. Es bedeutet einfach zwölf Stück. Auch die Chemie hat eine Zähleinheit. Sie heißt das Mol.
+
+Atome und Moleküle sind so klein, dass niemand sie einzeln zählen kann. Schon ein Tropfen Wasser enthält unvorstellbar viele Wassermoleküle. Darum braucht die Chemie eine riesige Zähleinheit. Ein Mol sind etwa sechs komma null zwei mal zehn hoch dreiundzwanzig Teilchen. Das ist eine Sechs mit ungefähr dreiundzwanzig Stellen dahinter.
+
+Diese Zahl heißt die Avogadro-Konstante oder Avogadro-Zahl. Sie ist nach einem italienischen Wissenschaftler benannt. Sie wurde so gewählt, dass zwölf Gramm Kohlenstoff zwölf genau ein Mol Atome enthalten.
+
+Wie groß ist diese Zahl wirklich? Stell dir ein Mol Reiskörner vor. Damit könnte man die ganze Erde mit einer Schicht von vielen Metern bedecken. Ein Mol Wasser ist aber nur ein kleiner Schluck.
+
+Die Größe, die man in Mol misst, heißt die Stoffmenge. Ihr Formelzeichen ist der kleine Buchstabe n. Ihre Einheit ist das Mol. Zwei Mol Wasser bedeuten also zweimal die Avogadro-Zahl an Wassermolekülen.
+
+Warum zählt man in der Chemie Teilchen und wiegt nicht einfach? Weil Reaktionen Teilchen für Teilchen passieren. Ein Natrium-Ion trifft ein Chlorid-Ion. Ein Molekül reagiert mit einem anderen Molekül. Für die Chemie ist die Zahl der Teilchen wichtiger als ihr Gewicht. Zwei Stoffe mit gleicher Masse können sehr verschieden viele Teilchen enthalten. Ihre Teilchen sind nämlich verschieden schwer.
+
+Im Geschäft kauft man Eier im Dutzend, und in der Chemie zählt man Teilchen in Mol. Beides sind Zähleinheiten, damit die Zahlen handlich bleiben.
+
+Auch kleinere Einheiten sind üblich. Ein Millimol ist ein Tausendstel Mol. Ein Mikromol ist ein Millionstel Mol.
+
+Warum ist das im Labor wichtig? Viele Laborwerte gibt man in Millimol pro Liter an. Natrium, Kalium, Glukose, Harnstoff und Kreatinin misst man oft so. Ein solcher Wert sagt, wie viele Teilchen des Stoffes in einem Liter Blutplasma sind. Wer das Mol versteht, versteht die Einheit der meisten Werte auf einem Befund.
+
+Kurz gesagt: Das Mol ist eine Zähleinheit für Teilchen. Ein Mol sind etwa sechs komma null zwei mal zehn hoch dreiundzwanzig Teilchen. Die Stoffmenge misst man in Mol.
+
+# Die molare Masse — Molar mass
+
+Teilchen kann man nicht direkt zählen, aber man kann wiegen. Darum braucht man eine Brücke zwischen der Masse und der Stoffmenge. Diese Brücke ist die molare Masse.
+
+Die molare Masse ist die Masse von einem Mol eines Stoffes. Ihre Einheit ist Gramm pro Mol. Und das Schöne ist: Man kann sie im Periodensystem ablesen. Die Atommasse in jedem Kästchen ist auch die molare Masse des Elements in Gramm pro Mol.
+
+Diese Werte brauchst du am häufigsten. Wasserstoff hat etwa eins. Kohlenstoff hat zwölf. Stickstoff hat vierzehn. Sauerstoff hat sechzehn. Natrium hat dreiundzwanzig. Chlor hat fünfunddreißig komma fünf. Kalium hat neununddreißig. Calcium hat vierzig.
+
+Bei Molekülen addiert man die Massen aller Atome im Molekül. Wasser hat zwei Wasserstoffatome und ein Sauerstoffatom. Zweimal eins plus sechzehn ergibt achtzehn. Die molare Masse von Wasser ist also achtzehn Gramm pro Mol. Achtzehn Gramm Wasser sind ein Mol Wasser. Das ist ungefähr ein Esslöffel.
+
+Natriumchlorid ist dreiundzwanzig plus fünfunddreißig komma fünf. Das ergibt achtundfünfzig komma fünf Gramm pro Mol.
+
+Jetzt kommt die wichtigste Formel dieses Kapitels. Die Stoffmenge ist die Masse geteilt durch die molare Masse. Mit Zeichen: n ist gleich m durch großes M.
+
+Ein Beispiel. Du hast neun Gramm Wasser. Neun geteilt durch achtzehn ergibt null komma fünf. Du hast also ein halbes Mol Wasser.
+
+Es geht auch umgekehrt. Die Masse ist die Stoffmenge mal die molare Masse. Zwei Mol Natriumchlorid wiegen zweimal achtundfünfzig komma fünf Gramm. Das sind hundertsiebzehn Gramm.
+
+Jetzt ein Molekül aus dem Labor: die Glukose. Man sagt auch Traubenzucker oder Blutzucker. Ein Glukosemolekül hat sechs Kohlenstoffatome, zwölf Wasserstoffatome und sechs Sauerstoffatome. Sechs mal zwölf ergibt zweiundsiebzig. Zwölf mal eins ergibt zwölf. Sechs mal sechzehn ergibt sechsundneunzig. Zusammen sind das hundertachtzig Gramm pro Mol.
+
+Warum ist das im Labor wichtig? Glukose wird in zwei verschiedenen Einheiten angegeben. In Deutschland oft in Milligramm pro Deziliter. International in Millimol pro Liter. Rechnen wir um. Ein Patient hat neunzig Milligramm pro Deziliter. Ein Liter hat zehn Deziliter. Das sind also neunhundert Milligramm pro Liter. Neunhundert geteilt durch hundertachtzig ergibt fünf. Das Ergebnis ist fünf Millimol pro Liter. Die molare Masse ist der Schlüssel für diese Umrechnung. Eine nützliche Abkürzung für Glukose: Milligramm pro Deziliter geteilt durch achtzehn ergibt Millimol pro Liter.
+
+Kurz gesagt: Die molare Masse ist die Masse von einem Mol, in Gramm pro Mol. Man findet sie, indem man die Atommassen aus dem Periodensystem addiert. Die Stoffmenge ist die Masse geteilt durch die molare Masse.
+
+# Die Reaktionsgleichung — Chemical equations
+
+Wenn Wasserstoffgas brennt, reagiert es mit dem Sauerstoff aus der Luft. Dabei entsteht Wasser. In der Chemie schreibt man so eine Veränderung als Reaktionsgleichung.
+
+Die Ausgangsstoffe stehen links. Sie heißen Edukte. Die neuen Stoffe stehen rechts. Sie heißen Produkte. Dazwischen steht ein Pfeil. Man liest ihn als: reagiert zu.
+
+Eine richtige Reaktionsgleichung muss aber auch ausgeglichen sein. Der Grund ist das Gesetz von der Erhaltung der Masse. Bei einer chemischen Reaktion gehen keine Atome verloren. Es entstehen auch keine neuen Atome. Die Atome werden nur neu kombiniert. Darum muss von jeder Atomsorte links genauso viel stehen wie rechts.
+
+Gleichen wir die Reaktion von Wasserstoff Schritt für Schritt aus. Ein Wasserstoffmolekül hat zwei Wasserstoffatome. Ein Sauerstoffmolekül hat zwei Sauerstoffatome. Ein Wassermolekül hat zwei Wasserstoffatome und ein Sauerstoffatom.
+
+Wir schreiben zuerst: ein Wasserstoffmolekül und ein Sauerstoffmolekül ergeben ein Wassermolekül. Dann stimmt der Sauerstoff nicht. Links sind zwei Sauerstoffatome, rechts nur eins. Also schreiben wir eine Zwei vor das Wasser. Jetzt sind rechts zwei Wassermoleküle mit zwei Sauerstoffatomen und vier Wasserstoffatomen. Links haben wir aber nur zwei Wasserstoffatome. Also schreiben wir auch eine Zwei vor den Wasserstoff.
+
+Die ausgeglichene Gleichung lautet: Zwei Moleküle Wasserstoff und ein Molekül Sauerstoff ergeben zwei Moleküle Wasser. Links: vier Wasserstoffatome und zwei Sauerstoffatome. Rechts: vier Wasserstoffatome und zwei Sauerstoffatome. Die Gleichung ist ausgeglichen.
+
+Die Zahlen vor den Stoffen heißen Koeffizienten oder Vorfaktoren. Jetzt kommt eine sehr wichtige Regel. Beim Ausgleichen darf man nur die Koeffizienten ändern. Die kleinen Zahlen in einer Formel darf man nie ändern. Sonst ändert man den Stoff selbst. Wasser mit einem Sauerstoffatom mehr ist kein Wasser mehr. Es ist Wasserstoffperoxid, ein Bleichmittel.
+
+Ein zweites Beispiel ist die Verbrennung von Methan. Methan ist der Hauptteil von Erdgas. Ein Methanmolekül hat ein Kohlenstoffatom und vier Wasserstoffatome. Ein Molekül Methan reagiert mit zwei Molekülen Sauerstoff. Dabei entstehen ein Molekül Kohlendioxid und zwei Moleküle Wasser. Zähl selbst nach: Auf beiden Seiten gibt es einen Kohlenstoff, vier Wasserstoff und vier Sauerstoff.
+
+Eine gute Methode zum Ausgleichen geht so. Beginne mit dem Element, das in den wenigsten Stoffen vorkommt. Gleiche Wasserstoff und Sauerstoff am Ende aus. Dann zähle jede Atomsorte auf beiden Seiten noch einmal.
+
+Warum ist das im Labor wichtig? Jeder Labortest beruht auf einer chemischen Reaktion. In den Packungsbeilagen der Testkits stehen diese Reaktionen als Reaktionsgleichungen. Wer sie lesen kann, versteht, was im Analysegerät passiert.
+
+Kurz gesagt: Eine Reaktionsgleichung zeigt links die Edukte und rechts die Produkte. Atome gehen nie verloren. Darum muss die Gleichung ausgeglichen sein. Man darf nur die Koeffizienten ändern.
+
+# Die Stöchiometrie — Stoichiometry
+
+Das Wort klingt kompliziert, aber die Idee ist einfach. Stöchiometrie bedeutet: Rechnen mit Reaktionsgleichungen. Sie beantwortet Fragen wie diese. Wie viel Produkt kann ich herstellen? Und wie viel brauche ich von jedem Ausgangsstoff?
+
+Die Koeffizienten in einer Gleichung zählen nicht nur Moleküle. Sie zählen auch Mol. Zwei Moleküle Wasserstoff und ein Molekül Sauerstoff ergeben zwei Moleküle Wasser. Genauso ergeben zwei Mol Wasserstoff und ein Mol Sauerstoff zwei Mol Wasser. Das Verhältnis ist immer zwei zu eins zu zwei. Das heißt Stoffmengenverhältnis.
+
+Mit den molaren Massen kann man auch in Gramm rechnen. Zwei Mol Wasserstoff wiegen vier Gramm. Ein Mol Sauerstoff wiegt zweiunddreißig Gramm. Zusammen sind das sechsunddreißig Gramm. Zwei Mol Wasser wiegen ebenfalls genau sechsunddreißig Gramm. Die Masse bleibt erhalten.
+
+Jetzt eine Situation aus dem Alltag. Du bist auf einem Grillfest. Du hast zehn Würstchen und acht Brötchen. Wie viele Hotdogs kannst du machen? Acht. Dann sind die Brötchen alle, und zwei Würstchen bleiben übrig. Die Brötchen begrenzen das Ergebnis.
+
+In der Chemie heißt der Stoff, der zuerst verbraucht ist, der limitierende Reaktant. Der andere Stoff ist im Überschuss.
+
+Ein chemisches Beispiel. Du hast vier Mol Wasserstoff und ein Mol Sauerstoff. Ein Mol Sauerstoff braucht nur zwei Mol Wasserstoff. Also ist der Sauerstoff der limitierende Reaktant. Es entstehen zwei Mol Wasser. Zwei Mol Wasserstoff bleiben im Überschuss übrig.
+
+Wie findet man den limitierenden Reaktanten? Man teilt die Stoffmenge jedes Ausgangsstoffes durch seinen Koeffizienten in der Gleichung. Der Stoff mit dem kleinsten Ergebnis ist limitierend. Beim Wasserstoff: vier geteilt durch zwei ergibt zwei. Beim Sauerstoff: eins geteilt durch eins ergibt eins. Eins ist kleiner, also ist der Sauerstoff limitierend.
+
+Die größte mögliche Menge an Produkt heißt die theoretische Ausbeute. Sie hängt immer vom limitierenden Reaktanten ab. In der Praxis ist die echte Ausbeute oft ein bisschen kleiner.
+
+Der limitierende Reaktant ist wie der enge Hals einer Flasche. Der enge Hals bestimmt, wie schnell die Flasche leer wird, egal wie breit der Rest ist.
+
+Warum ist das im Labor wichtig? Das ist eine der wichtigsten Ideen der klinischen Chemie. In einem Testkit sind die Reagenzien immer in großem Überschuss. Der Stoff aus der Patientenprobe ist der limitierende Reaktant. Darum hängt die Menge an Produkt nur von der Probe ab. Viel Glukose in der Probe bedeutet viel Produkt und eine starke Farbe. Wenig Glukose bedeutet eine schwache Farbe. So kann das Analysegerät aus der Farbe die Konzentration berechnen. Ist die Konzentration in der Probe extrem hoch, kann das Reagenz ausgehen. Dann muss man die Probe verdünnen und noch einmal messen.
+
+Kurz gesagt: Die Koeffizienten geben das Stoffmengenverhältnis einer Reaktion an. Der limitierende Reaktant ist zuerst verbraucht und bestimmt die Menge an Produkt. Bei Labortests sind die Reagenzien im Überschuss. Darum ist die Probe der limitierende Reaktant.
+
+# Die Aggregatzustände — States of matter
+
+Ein Stoff kann fest, flüssig oder gasförmig sein. Das sind die drei Aggregatzustände. Wasser zum Beispiel kennen wir als Eis, als flüssiges Wasser und als Wasserdampf.
+
+Was ist der Unterschied bei den Teilchen? Das erklärt das Teilchenmodell. In einem Feststoff sitzen die Teilchen an festen Plätzen. Sie schwingen nur ein bisschen. Darum hat ein Feststoff eine feste Form und ein festes Volumen. In einer Flüssigkeit sind die Teilchen noch nah zusammen. Aber sie können aneinander vorbeigleiten. Darum fließt eine Flüssigkeit und nimmt die Form ihres Gefäßes an. Ihr Volumen bleibt aber gleich. In einem Gas fliegen die Teilchen frei herum und sind weit voneinander entfernt. Ein Gas füllt jeden Raum ganz aus und lässt sich leicht zusammendrücken.
+
+Die Temperatur ist ein Maß dafür, wie schnell sich die Teilchen bewegen. Je wärmer ein Stoff ist, desto schneller bewegen sich seine Teilchen. Wenn sie schnell genug sind, lösen sie sich von ihren Nachbarn. Darum ändert sich der Aggregatzustand mit der Temperatur.
+
+Die Übergänge zwischen den Zuständen haben Namen. Von fest zu flüssig heißt schmelzen. Von flüssig zu fest heißt erstarren oder gefrieren. Von flüssig zu gasförmig heißt verdampfen. Passiert das in der ganzen Flüssigkeit, heißt es sieden. Von gasförmig zu flüssig heißt kondensieren. Und es gibt einen Sonderfall. Ein Feststoff kann direkt zum Gas werden, ohne vorher flüssig zu werden. Das heißt sublimieren. Der umgekehrte Weg, vom Gas direkt zum Feststoff, heißt resublimieren.
+
+Wasser schmilzt bei null Grad Celsius und siedet bei hundert Grad Celsius, bei normalem Luftdruck. Auf einem hohen Berg siedet Wasser bei einer niedrigeren Temperatur, weil der Luftdruck dort niedriger ist.
+
+Trockeneis ist ein gutes Beispiel für das Sublimieren. Trockeneis ist festes Kohlendioxid mit etwa minus achtundsiebzig Grad Celsius. Es schmilzt nicht zu einer Flüssigkeit. Es wird direkt zu Gas.
+
+Warum ist das im Labor wichtig? Viele Proben werden eingefroren, damit sie stabil bleiben. Man lagert sie bei minus zwanzig oder minus achtzig Grad Celsius. Zellen lagert man in flüssigem Stickstoff bei etwa minus hundertsechsundneunzig Grad Celsius. Gefrorene Proben verschickt man auf Trockeneis an andere Labore. Aber häufiges Einfrieren und Auftauen kann eine Probe schädigen. Darum teilt man Proben vor dem Einfrieren oft in kleine Portionen auf. Diese Portionen heißen Aliquots. Und bei Trockeneis und flüssigem Stickstoff trägt man immer Schutzhandschuhe und eine Schutzbrille. Beide können Kälteverbrennungen verursachen.
+
+Kurz gesagt: Die drei Aggregatzustände sind fest, flüssig und gasförmig. Sie unterscheiden sich darin, wie frei sich die Teilchen bewegen. Die Temperatur bestimmt den Zustand. Schmelzen, erstarren, verdampfen, kondensieren und sublimieren sind die Übergänge.
+
+# Lösungen und Löslichkeit — Solutions and solubility
+
+Eine Lösung ist eine Mischung, in der man die einzelnen Teile nicht mehr sieht. Sie ist klar, kann aber farbig sein. Eine Mischung, die überall gleich aussieht, heißt homogen.
+
+Eine Lösung hat zwei Teile. Der Stoff, der löst, heißt das Lösungsmittel. Der Stoff, der gelöst wird, heißt der gelöste Stoff. In Salzwasser ist Wasser das Lösungsmittel und Salz der gelöste Stoff. Wasser ist das wichtigste Lösungsmittel überhaupt, im Körper und im Labor.
+
+Was passiert, wenn sich Salz löst? Denk daran: Wasser ist ein Dipol. Die Wassermoleküle drehen ihre negative Sauerstoffseite zu den positiven Natrium-Ionen. Ihre positive Wasserstoffseite drehen sie zu den negativen Chlorid-Ionen. So ziehen sie die Ionen einzeln aus dem Kristall. Jedes Ion ist dann von einer kleinen Hülle aus Wassermolekülen umgeben. Diese Hülle heißt Hydrathülle.
+
+Man kann nicht unbegrenzt viel von einem Stoff lösen. Jeder Stoff hat eine Löslichkeit. Das ist die größte Menge, die sich in einer bestimmten Menge Lösungsmittel lösen kann, bei einer bestimmten Temperatur. Ist diese Grenze erreicht, ist die Lösung gesättigt. Gibt man noch mehr dazu, bleibt es ungelöst am Boden liegen. Das ist der Bodensatz.
+
+Die Temperatur beeinflusst die Löslichkeit. Die meisten Feststoffe lösen sich besser in warmem Wasser. Gase lösen sich dagegen besser in kaltem Wasser. Darum verliert ein warmes Erfrischungsgetränk seine Kohlensäure schneller als ein kaltes.
+
+Nicht jede Mischung ist eine Lösung. Wenn feste Teilchen in einer Flüssigkeit schwimmen, ist die Mischung eine Suspension. Eine Suspension sieht trüb aus. Die Teilchen setzen sich mit der Zeit ab, oder in einer Zentrifuge. Wenn winzige Tropfen einer Flüssigkeit in einer anderen Flüssigkeit schwimmen, ist die Mischung eine Emulsion. Milch ist eine Emulsion aus Fetttröpfchen in Wasser.
+
+Blut ist ein gutes Beispiel für all das. Vollblut ist eine Suspension, denn Blutzellen schwimmen im Plasma. Eine Zentrifuge trennt die schweren Zellen unten vom klaren, gelblichen Plasma oben. Ist das Blut vor dem Zentrifugieren geronnen, heißt die Flüssigkeit oben Serum statt Plasma. Plasma und Serum selbst sind Lösungen. Darin sind Salze, Glukose, Eiweiße und viele andere Stoffe gelöst.
+
+Warum ist das im Labor wichtig? Fast alle Analysen laufen in Lösungen ab. Reagenzien sind Lösungen, Kalibratoren sind Lösungen, und Serum ist eine Lösung. Wenn du ein Reagenz ansetzt, muss alles vollständig gelöst sein. Ungelöste Teilchen ergeben falsche Ergebnisse. Auch Gase im Blut, wie Sauerstoff und Kohlendioxid, sind gelöst. Darum misst man Blutgasproben schnell und ohne Luftblasen.
+
+Kurz gesagt: Eine Lösung besteht aus einem Lösungsmittel und einem gelösten Stoff. Die Löslichkeit ist die größte Menge, die sich lösen kann. Vollblut ist eine Suspension. Plasma und Serum sind Lösungen.
+
+# Die Konzentration — Concentration
+
+Die Konzentration sagt, wie viel gelöster Stoff in einem bestimmten Volumen Lösung ist. Es gibt mehrere Arten, sie anzugeben.
+
+Die wichtigste in der Chemie ist die Stoffmengenkonzentration. Sie ist die Stoffmenge geteilt durch das Volumen der Lösung. Mit Zeichen: c ist gleich n durch V. Ihre Einheit ist Mol pro Liter. Eine Lösung mit einem Mol pro Liter nennt man auch einmolar.
+
+Die zweite Art ist die Massenkonzentration. Sie ist die Masse des gelösten Stoffes geteilt durch das Volumen der Lösung. Ihre Einheit ist Gramm pro Liter.
+
+Was bedeutet ein Mol pro Liter? Es bedeutet: Ein Liter Lösung enthält ein Mol des gelösten Stoffes. Achtung: ein Liter Lösung, nicht ein Liter Wasser.
+
+Ein Beispiel. Du willst einen Liter Natriumchloridlösung mit null komma eins Mol pro Liter herstellen. Wie viel Salz brauchst du? Du brauchst null komma eins Mol. Die molare Masse ist achtundfünfzig komma fünf Gramm pro Mol. Null komma eins mal achtundfünfzig komma fünf ergibt fünf komma acht fünf Gramm.
+
+Jetzt die Praxis. Du wiegst fünf komma acht fünf Gramm Salz ab. Du gibst es in einen Messkolben. Das ist ein Glaskolben mit einem langen, schmalen Hals und einem Strich darauf. Du löst das Salz in etwas Wasser. Dann füllst du genau bis zum Strich mit Wasser auf. Jetzt hast du genau einen Liter Lösung. Gibst du das Salz einfach in einen Liter Wasser, ist das Endvolumen etwas mehr als ein Liter. Dann stimmt die Konzentration nicht mehr genau. Die Regel lautet also: erst lösen, dann bis zur Marke auffüllen.
+
+Mit der molaren Masse kann man zwischen Stoffmengenkonzentration und Massenkonzentration umrechnen. Die Massenkonzentration ist die Stoffmengenkonzentration mal die molare Masse.
+
+Ein Beispiel aus dem Krankenhaus ist die physiologische Kochsalzlösung. Sie enthält neun Gramm Natriumchlorid pro Liter. Wie viel Mol pro Liter sind das? Neun geteilt durch achtundfünfzig komma fünf ergibt etwa null komma eins fünf vier Mol pro Liter. Das sind hundertvierundfünfzig Millimol pro Liter. Natrium im Blut liegt bei etwa hundertvierzig Millimol pro Liter. Diese Infusion ist also dem Salzgehalt des Blutes sehr ähnlich.
+
+Warum ist das im Labor wichtig? Jeder Laborwert hat eine Einheit. Natrium und Kalium misst man in Millimol pro Liter. Das Gesamteiweiß misst man in Gramm pro Liter. Glukose findet man in Milligramm pro Deziliter oder in Millimol pro Liter. Ein Wert ohne Einheit ist wertlos. Und ein Wert mit falscher Einheit kann einem Patienten schaden. Lies die Einheit also immer zusammen mit der Zahl.
+
+Kurz gesagt: Die Stoffmengenkonzentration wird in Mol pro Liter angegeben, die Massenkonzentration in Gramm pro Liter. Die molare Masse verbindet beide. Beim Herstellen einer Lösung gilt: erst lösen, dann bis zur Marke auffüllen.
+
+# Prozent und ppm — Percent concentrations
+
+Prozent heißt von hundert. Siebzig Prozent bedeutet siebzig Teile von hundert Teilen. In der Chemie gibt es aber mehrere Arten von Prozent. Man muss immer sagen, welche man meint.
+
+Die erste Art ist der Massenanteil, auch Massenprozent genannt. Er bedeutet Gramm Stoff in hundert Gramm Mischung. Zehn Massenprozent Zucker bedeutet zehn Gramm Zucker in hundert Gramm Zuckerwasser.
+
+Die zweite Art ist der Volumenanteil, auch Volumenprozent genannt. Er bedeutet Milliliter Stoff in hundert Milliliter Mischung. Alkohol zum Desinfizieren wird meist in Volumenprozent angegeben. Siebzig Volumenprozent Ethanol bedeutet siebzig Milliliter Ethanol in hundert Milliliter Mischung.
+
+Die dritte Art ist Masse pro Volumen. Sie bedeutet Gramm Stoff in hundert Milliliter Lösung. Diese Art ist im Labor und in der Medizin sehr häufig.
+
+Physiologische Kochsalzlösung nennt man oft null komma neun prozentige Kochsalzlösung. Das ist Masse pro Volumen. Es bedeutet null komma neun Gramm Salz in hundert Milliliter. In einem Liter sind das neun Gramm. Das passt genau zum letzten Kapitel.
+
+Für sehr kleine Mengen ist Prozent nicht praktisch. Dann nimmt man kleinere Einheiten. Promille bedeutet von tausend. Und p p m bedeutet Teile pro Million. Ein p p m ist ein Milligramm in einem Kilogramm. In einer verdünnten wässrigen Lösung ist das etwa ein Milligramm pro Liter. Ein Prozent sind zehntausend p p m.
+
+Für noch kleinere Mengen gibt es p p b. Das bedeutet Teile pro Milliarde. Ein p p b ist ein Mikrogramm pro Kilogramm.
+
+Ein Beispiel aus dem Alltag ist Fluorid im Trinkwasser. In Deutschland darf Trinkwasser höchstens eins komma fünf Milligramm Fluorid pro Liter enthalten. Das sind etwa eins komma fünf p p m.
+
+Warum ist das im Labor wichtig? Desinfektionsmittel, Färbelösungen und Puffer werden oft in Prozent angegeben. Wer die falsche Art von Prozent nimmt, stellt eine falsche Lösung her. In der Toxikologie und bei Spurenelementen misst man sehr kleine Mengen, zum Beispiel Blei oder Quecksilber im Blut. Dort sind p p m und p p b nützlich. Auf Laborbefunden steht aber meistens Mikrogramm pro Liter.
+
+Kurz gesagt: Prozent heißt von hundert. Es gibt Massenprozent, Volumenprozent und Masse pro Volumen. Teile pro Million und Teile pro Milliarde beschreiben sehr kleine Mengen.
+
+# Die Fällungsreaktion — Precipitation reactions
+
+Stell dir zwei Reagenzgläser vor, jedes mit einer klaren, farblosen Flüssigkeit. Im einen ist Natriumchloridlösung. Im anderen ist Silbernitratlösung. Wenn du beide zusammengießt, wird die Flüssigkeit sofort weiß und trüb. Was ist passiert?
+
+Das ist eine Fällungsreaktion. In beiden Lösungen sind Ionen gelöst. In der ersten Natrium-Ionen und Chlorid-Ionen. In der zweiten Silber-Ionen und Nitrat-Ionen. Beim Mischen treffen Silber-Ionen auf Chlorid-Ionen. Zusammen bilden sie Silberchlorid. Und Silberchlorid löst sich kaum in Wasser. Es fällt als Feststoff aus der Lösung aus.
+
+Dieser Feststoff heißt der Niederschlag. Ein Salz, das sich nur sehr wenig löst, heißt schwerlöslich. Die anderen Ionen, Natrium und Nitrat, bleiben gelöst. Sie nehmen an der Reaktion nicht teil. Sie heißen Zuschauer-Ionen.
+
+Fällungsreaktionen sind nützlich als Nachweise. Gibt man Silbernitrat zu einer Probe und es wird weiß, ist Chlorid vorhanden. So ein Test heißt Nachweisreaktion. Ein anderes klassisches Beispiel: Barium-Ionen und Sulfat-Ionen bilden einen weißen Niederschlag aus Bariumsulfat.
+
+Wie trennt man einen Niederschlag von der Flüssigkeit? Man kann ihn filtrieren. Der Feststoff bleibt im Filterpapier, die Flüssigkeit läuft durch. Oder man zentrifugiert. Dann sammelt sich der Feststoff unten im Röhrchen. Die Flüssigkeit kann man dann abgießen oder abpipettieren.
+
+Warum ist das im Labor wichtig? Ein Beispiel ist das Harnsediment. Man zentrifugiert Urin und untersucht den Bodensatz unter dem Mikroskop. Manchmal sieht man dort Kristalle, zum Beispiel aus Calciumoxalat. Sie entstehen durch eine Fällung. Calcium-Ionen und Oxalat-Ionen treffen sich im Urin und fallen aus. Passiert das in der Niere, können Nierensteine entstehen. Auch Eiweiße kann man ausfällen, zum Beispiel mit starken Säuren oder organischen Lösungsmitteln. Diese Eiweißfällung nutzt man oft, um Proben für empfindliche Messgeräte vorzubereiten.
+
+Kurz gesagt: Bei einer Fällungsreaktion verbinden sich gelöste Ionen zu einem schwerlöslichen Feststoff, dem Niederschlag. Ionen, die nicht reagieren, sind Zuschauer-Ionen. Einen Niederschlag trennt man durch Filtrieren oder Zentrifugieren ab.
+
+# Die Oxidationszahlen — Oxidation numbers
+
+Bei vielen Reaktionen wandern Elektronen von einem Atom zum anderen. Um das zu verfolgen, gibt es die Oxidationszahlen. Eine Oxidationszahl ist eine Art Buchhaltung für Elektronen. Man tut so, als wären alle Bindungen Ionenbindungen. Dann fragt man: Welche Ladung hätte jedes Atom?
+
+Es gibt ein paar einfache Regeln.
+
+Regel eins: Ein Element allein, ohne andere Elemente, hat immer die Oxidationszahl null. Zum Beispiel ein Stück Eisen oder ein Sauerstoffmolekül.
+
+Regel zwei: Ein einfaches Ion hat seine Ladung als Oxidationszahl. Das Natrium-Ion hat plus eins. Das Chlorid-Ion hat minus eins. Das Calcium-Ion hat plus zwei.
+
+Regel drei: Fluor hat immer minus eins. Sauerstoff hat fast immer minus zwei. Wasserstoff hat fast immer plus eins, wenn er an Nichtmetalle gebunden ist.
+
+Regel vier: In einem neutralen Molekül ist die Summe aller Oxidationszahlen null. In einem Ion aus mehreren Atomen ist die Summe gleich der Ladung des Ions.
+
+Probieren wir es mit Wasser. Zwei Wasserstoffatome haben je plus eins. Das macht plus zwei. Der Sauerstoff hat minus zwei. Die Summe ist null. Es stimmt.
+
+Jetzt Kohlendioxid. Zwei Sauerstoffatome haben zusammen minus vier. Das Molekül ist neutral, die Summe muss also null sein. Darum hat der Kohlenstoff plus vier.
+
+Im Methan ist der Kohlenstoff an vier Wasserstoffatome mit je plus eins gebunden. Darum hat der Kohlenstoff dort minus vier. Dasselbe Element kann also in verschiedenen Verbindungen verschiedene Oxidationszahlen haben. Kohlenstoff im Methan hat minus vier. Kohlenstoff im Kohlendioxid hat plus vier.
+
+Wer Buchhaltung kennt, kann sich Oxidationszahlen wie Soll und Haben vorstellen. Am Ende muss die Bilanz stimmen.
+
+Ein wichtiges Beispiel ist das Eisen. Eisen kommt mit der Oxidationszahl plus zwei und plus drei vor. Man sagt oft Eisen zwei und Eisen drei. Die beiden Formen verhalten sich verschieden.
+
+Warum ist das im Labor wichtig? Das Hämoglobin ist der rote Farbstoff in den roten Blutkörperchen. Es enthält Eisen. Nur Eisen mit der Oxidationszahl plus zwei kann Sauerstoff binden und transportieren. Wird es zu plus drei, entsteht Methämoglobin. Methämoglobin kann keinen Sauerstoff tragen. Bei manchen Vergiftungen steigt sein Anteil stark an. Blutgasgeräte im Labor können diesen Anteil messen. Beide Formen des Eisens sind auch im Eisenstoffwechsel wichtig. Das ist ein häufiges Thema im Labor.
+
+Kurz gesagt: Oxidationszahlen sind eine Buchhaltung für Elektronen. Ein Element allein hat null, Sauerstoff meist minus zwei, Wasserstoff meist plus eins. In einem neutralen Molekül ist die Summe aller Oxidationszahlen null.
+
+# Die Redoxreaktion — Redox reactions
+
+Mit den Oxidationszahlen können wir jetzt eine der wichtigsten Reaktionsarten verstehen: die Redoxreaktion.
+
+Das Wort hat zwei Teile: Reduktion und Oxidation. Oxidation bedeutet: Ein Teilchen gibt Elektronen ab. Seine Oxidationszahl steigt. Reduktion bedeutet: Ein Teilchen nimmt Elektronen auf. Seine Oxidationszahl sinkt.
+
+Ein Merksatz hilft: Oxidation ist Abgabe, Reduktion ist Aufnahme. Gemeint sind immer Elektronen.
+
+Warum passieren Oxidation und Reduktion immer zusammen? Weil Elektronen nicht einfach verschwinden. Gibt ein Atom Elektronen ab, muss ein anderes Atom sie aufnehmen. Es ist wie bei einem Paket. Es gibt immer einen Absender und einen Empfänger. Darum spricht man von Redoxreaktionen. Eine Redoxreaktion ist eine Elektronenübertragung.
+
+Denk an Natrium und Chlor. Natrium beginnt mit null und endet mit plus eins. Es gibt ein Elektron ab, also wird Natrium oxidiert. Chlor beginnt mit null und endet mit minus eins. Es nimmt ein Elektron auf, also wird Chlor reduziert.
+
+Jetzt zwei Begriffe, die oft verwirren. Das Oxidationsmittel ist der Stoff, der einen anderen Stoff oxidiert. Dazu nimmt es Elektronen auf. Das Oxidationsmittel wird also selbst reduziert. Das Reduktionsmittel gibt Elektronen an einen anderen Stoff ab. Es wird also selbst oxidiert. In unserem Beispiel ist Chlor das Oxidationsmittel und Natrium das Reduktionsmittel. Nimm dir hier ruhig einen Moment Zeit, denn man verwechselt das leicht.
+
+Redoxreaktionen gibt es überall. Eisen rostet, weil Sauerstoff es oxidiert. Eine Kerze brennt durch eine Redoxreaktion. Batterien liefern Strom durch Redoxreaktionen. Und dein Körper gewinnt seine Energie auf die gleiche Weise. In den Mitochondrien deiner Zellen wird Glukose langsam zu Kohlendioxid und Wasser oxidiert. Diesen Vorgang nennt man Zellatmung. Der Sauerstoff, den du einatmest, ist der letzte Empfänger der Elektronen.
+
+Warum ist das im Labor wichtig? Viele Labortests sind Redoxreaktionen. Ein klassisches Beispiel ist der enzymatische Glukosetest. Das Enzym Glukoseoxidase oxidiert die Glukose aus der Probe. Dabei entsteht Wasserstoffperoxid. Ein zweites Enzym, die Peroxidase, nutzt das Wasserstoffperoxid. Damit oxidiert es einen farblosen Farbstoff. Der Farbstoff wird farbig. Ein Photometer misst, wie stark die Farbe ist. Je mehr Glukose, desto stärker die Farbe.
+
+Viele andere Tests nutzen ein Molekül mit dem Namen N A D H. Es kann oxidiert und reduziert werden. Seine reduzierte Form nimmt Licht bei dreihundertvierzig Nanometern auf, seine oxidierte Form nicht. So kann das Analysegerät die Reaktion verfolgen. Es misst einfach die Lichtaufnahme bei dieser Wellenlänge.
+
+Kurz gesagt: Oxidation ist Abgabe von Elektronen, Reduktion ist Aufnahme von Elektronen. Beides passiert immer zusammen in einer Redoxreaktion. Das Oxidationsmittel wird reduziert, das Reduktionsmittel wird oxidiert.
+
+# Säuren und Basen — Acids and bases
+
+Säuren und Basen gehören zu den wichtigsten Stoffen in Chemie und Medizin. Sie können auch gefährlich sein. Darum arbeitet man im Labor mit ihnen immer mit Handschuhen und Schutzbrille.
+
+Was ist eine Säure? Eine Säure ist ein Stoff, der ein Proton abgibt. Mit Proton ist hier ein Wasserstoff-Ion gemeint. Ein Wasserstoffatom ohne sein einziges Elektron ist ja nur noch ein Proton. Eine Säure ist also ein Protonenspender. Der Fachbegriff ist Protonendonator.
+
+Eine Base ist das Gegenteil. Sie nimmt ein Proton auf. Eine Base ist ein Protonenempfänger. Der Fachbegriff ist Protonenakzeptor.
+
+Diese Definition ist nach den Forschern Brönsted und Lowry benannt. Die meisten Lehrbücher benutzen sie heute.
+
+Gibt man Salzsäure in Wasser, gibt sie ihr Proton an ein Wassermolekül ab. So entstehen Oxonium-Ionen. Diese Ionen machen die Lösung sauer. Eine Base wie Natronlauge enthält Hydroxid-Ionen. Sie machen die Lösung basisch. Ein anderes Wort für basisch ist alkalisch. Eine Lösung einer starken Base in Wasser nennt man auch Lauge.
+
+Manche Säuren geben ihre Protonen in Wasser fast vollständig ab. Sie heißen starke Säuren, zum Beispiel Salzsäure und Schwefelsäure. Andere Säuren geben nur einen kleinen Teil ihrer Protonen ab. Sie heißen schwache Säuren. Beispiele sind die Essigsäure im Essig und die Kohlensäure im Sprudelwasser.
+
+Wenn eine Säure und eine Base miteinander reagieren, heben sie sich auf. Das heißt Neutralisation. Dabei entstehen ein Salz und Wasser. Salzsäure und Natronlauge reagieren zu Natriumchlorid und Wasser.
+
+Beim Verdünnen von Säuren gibt es eine wichtige Sicherheitsregel. Gib immer die Säure ins Wasser, nie das Wasser in die Säure. Gießt man Wasser in konzentrierte Säure, kann die Mischung plötzlich heiß werden und spritzen. Der Merksatz lautet: Erst das Wasser, dann die Säure, sonst geschieht das Ungeheure.
+
+Warum ist das im Labor wichtig? Säuren und Basen stecken in vielen Reagenzien. Man braucht sie auch zum Reinigen und zum Einstellen von Lösungen. Dein Magen enthält Salzsäure, um die Nahrung zu verdauen. Das Blut muss ganz leicht basisch bleiben. Nieren und Lunge arbeiten zusammen, um Säuren aus dem Körper zu entfernen. Und viele Labortests funktionieren nur in einem bestimmten sauren oder basischen Bereich. Wie man das misst, zeigt das nächste Kapitel.
+
+Kurz gesagt: Eine Säure gibt Protonen ab, eine Base nimmt Protonen auf. Säure und Base neutralisieren sich und bilden ein Salz und Wasser. Gib immer die Säure ins Wasser, nie umgekehrt.
+
+# Der pH-Wert und Puffer — pH and buffers
+
+Wie misst man, wie sauer oder basisch eine Lösung ist? Mit dem pH-Wert. Die pH-Skala geht meistens von null bis vierzehn. Sieben ist neutral, wie reines Wasser. Unter sieben ist die Lösung sauer. Über sieben ist sie basisch.
+
+Ein paar Beispiele. Magensäure hat einen pH-Wert von etwa eins bis zwei. Zitronensaft hat etwa zwei. Kaffee hat etwa fünf. Reines Wasser hat sieben. Blut hat etwa sieben komma vier. Seife hat etwa neun bis zehn. Starke Natronlauge hat etwa vierzehn.
+
+Ein wichtiges Detail: Die pH-Skala ist logarithmisch. Ein Schritt auf der Skala bedeutet einen Faktor zehn. Eine Lösung mit pH-Wert drei ist zehnmal saurer als eine Lösung mit pH-Wert vier. Sie ist hundertmal saurer als eine Lösung mit pH-Wert fünf. Kleine Änderungen im pH-Wert sind also große Änderungen in der Chemie.
+
+Der pH-Wert beschreibt die Konzentration der Oxonium-Ionen. Je mehr Oxonium-Ionen, desto niedriger der pH-Wert. Ein niedriger pH-Wert bedeutet also sauer. Das klingt zuerst seltsam. Es kommt aber von der Mathematik hinter der Skala.
+
+Man misst den pH-Wert mit Indikatorpapier, das die Farbe ändert. Genauer geht es mit einem pH-Meter. Das ist ein elektronisches Gerät mit einer Glaselektrode.
+
+Jetzt zu den Puffern. Ein Puffer ist eine Lösung, die den pH-Wert stabil hält. Gibt man eine kleine Menge Säure oder Base dazu, fängt der Puffer sie ab. Der pH-Wert ändert sich dann kaum. Ein Puffer ist meistens eine Mischung aus einer schwachen Säure und ihrer passenden Base. Die schwache Säure neutralisiert zugegebene Base. Die passende Base neutralisiert zugegebene Säure.
+
+Warum ist das im Labor wichtig? Der pH-Wert des Blutes ist sehr eng geregelt. Er liegt normal zwischen sieben komma drei fünf und sieben komma vier fünf. Ist er niedriger, nennt man das eine Azidose. Ist er höher, nennt man das eine Alkalose. Beides kann lebensgefährlich sein. Das Blut hält seinen pH-Wert mit Puffern stabil. Der wichtigste Puffer im Blut ist das System aus Kohlensäure und Hydrogencarbonat. Man sagt auch Bicarbonat. Die Lunge atmet Kohlendioxid ab. Die Nieren scheiden Säuren aus und halten Hydrogencarbonat zurück.
+
+Im Labor misst man den pH-Wert des Blutes bei der Blutgasanalyse. Dabei misst man auch Sauerstoff, Kohlendioxid und Hydrogencarbonat. Den pH-Wert des Urins prüft man mit einem Teststreifen. Und fast jedes Reagenz in der klinischen Chemie enthält einen Puffer. Enzyme arbeiten nämlich nur beim richtigen pH-Wert gut.
+
+Kurz gesagt: Die pH-Skala geht von null bis vierzehn, sieben ist neutral. Jeder Schritt ist ein Faktor zehn. Puffer halten den pH-Wert stabil. Der normale pH-Wert des Blutes liegt zwischen sieben komma drei fünf und sieben komma vier fünf.
+
+# Zusammenfassung Chemie — Chemistry summary
+
+Dieses Kapitel fasst die wichtigsten Ideen aus Teil eins zusammen.
+
+Alles besteht aus Atomen. Ein Atom hat einen Kern mit Protonen und Neutronen und eine Hülle mit Elektronen. Die Zahl der Protonen bestimmt das Element. Das Periodensystem ordnet die Elemente nach dieser Zahl. Elemente in derselben Gruppe verhalten sich ähnlich.
+
+Die Elektronen sitzen in Schalen. Die äußeren Elektronen, die Valenzelektronen, bestimmen, wie ein Atom reagiert. Atome wollen eine volle Außenschale, wie die Edelgase. Isotope sind Atome desselben Elements mit einer anderen Zahl von Neutronen.
+
+Atome erreichen eine volle Schale auf verschiedenen Wegen. Metalle geben Elektronen an Nichtmetalle ab, und es entstehen Ionen. Ihre Anziehung ist die Ionenbindung, wie im Kochsalz. Nichtmetalle teilen sich Elektronenpaare in einer Atombindung, wie im Wasser. Ziehen die Atome ungleich stark an den Elektronen, ist die Bindung polar. Wasser ist ein polares Molekül, ein Dipol. Zwischen Wassermolekülen wirken Wasserstoffbrücken. Sie halten auch die zwei Stränge der DNA zusammen.
+
+Teilchen zählt man in Mol. Ein Mol sind etwa sechs komma null zwei mal zehn hoch dreiundzwanzig Teilchen. Die molare Masse rechnet Gramm in Mol um. Reaktionsgleichungen müssen ausgeglichen sein, denn Atome gehen nie verloren. Der limitierende Reaktant bestimmt, wie viel Produkt entsteht. Bei Labortests ist die Probe der limitierende Reaktant.
+
+Stoffe können fest, flüssig oder gasförmig sein. In einer Lösung ist ein Stoff in einem Lösungsmittel gelöst. Konzentrationen gibt man in Mol pro Liter, Gramm pro Liter, Prozent oder Teilen pro Million an.
+
+Zum Schluss die Reaktionsarten. Bei einer Fällung entsteht ein schwerlöslicher Feststoff. Bei einer Redoxreaktion werden Elektronen übertragen. Oxidation ist Abgabe, Reduktion ist Aufnahme. Bei einer Säure-Base-Reaktion werden Protonen übertragen. Der pH-Wert misst, wie sauer eine Lösung ist, und Puffer halten ihn stabil.
+
+# Teil zwei: Zellbiologie — Part two: Cell biology
+
+Die Biologie ist die Wissenschaft vom Leben. Die Zellbiologie untersucht die kleinste Einheit des Lebens: die Zelle. Jede Krankheit beginnt mit einer Veränderung in Zellen. Werden Zellen geschädigt, geben sie Stoffe ins Blut ab. Oder sie hören auf, andere Stoffe herzustellen. Diese Veränderungen sieht man in den Laborwerten. Die Blutzellen selbst zählt und untersucht man im Hämatologie-Labor. Bakterien sind einzelne Zellen. Man bestimmt sie im Mikrobiologie-Labor. Und das Erbgut der Zellen untersucht man im molekularbiologischen Labor.
+
+Dieser Teil geht Schritt für Schritt vor. Zuerst kommen die zwei Grundtypen von Zellen. Dann die Teile in einer Zelle, die Organellen. Dann die Zellmembran und wie Stoffe sie überqueren. Dann, wie Zellen sich teilen. Und zum Schluss die DNA, die RNA und wie eine Zelle Proteine baut.
+
+# Prokaryoten und Eukaryoten — Prokaryotes and eukaryotes
+
+Die Zelle ist die kleinste Einheit des Lebens. Alles, was lebt, besteht aus Zellen. Ein Bakterium besteht aus einer einzigen Zelle. Dein Körper besteht aus vielen Billionen Zellen.
+
+Es gibt zwei Grundtypen von Zellen: prokaryotische Zellen und eukaryotische Zellen. Lebewesen aus diesen Zellen heißen Prokaryoten und Eukaryoten.
+
+Prokaryoten sind einfache Zellen ohne Zellkern. Die wichtigste Gruppe sind die Bakterien. Ihre DNA schwimmt frei im Inneren der Zelle, meistens als ein geschlossener Ring. Diesen Bereich nennt man das Nukleoid. Viele Bakterien haben außerdem kleine zusätzliche DNA-Ringe. Sie heißen Plasmide. Plasmide tragen oft Gene für eine Resistenz gegen Antibiotika. Bakterien können sie untereinander weitergeben.
+
+Eukaryoten sind größere Zellen mit einem echten Zellkern. Ihre DNA ist im Zellkern verpackt und geschützt. Menschen, Tiere, Pflanzen und Pilze sind Eukaryoten. Auch Hefen sind Eukaryoten.
+
+Ein Prokaryot ist wie eine kleine Einzimmerwohnung. Alles passiert in einem einzigen Raum. Ein Eukaryot ist wie ein großes Haus mit vielen getrennten Zimmern.
+
+Die Zimmer der eukaryotischen Zelle heißen Organellen. Das sind kleine Räume mit einer eigenen Membran. Jede Organelle hat eine besondere Aufgabe. Prokaryoten haben fast keine solchen Räume.
+
+Es gibt noch mehr Unterschiede. Prokaryoten sind viel kleiner. Ein Bakterium ist etwa ein bis fünf Mikrometer lang. Eine menschliche Zelle misst etwa zehn bis hundert Mikrometer. Beide Zelltypen haben Ribosomen, um Proteine herzustellen. Die Ribosomen der Bakterien sind aber kleiner. Fast alle Bakterien haben eine feste Zellwand außerhalb ihrer Membran. Menschliche und tierische Zellen haben keine Zellwand. Viele Bakterien können sich außerdem mit einer Geißel bewegen. Das ist ein langer, peitschenartiger Faden.
+
+Viren sind übrigens gar keine Zellen. Sie haben keinen eigenen Stoffwechsel. Sie können sich nur in einer Wirtszelle vermehren.
+
+Warum ist das im Labor wichtig? In der Mikrobiologie bestimmt man Bakterien. Ihre Zellwand ist dabei sehr wichtig. Mit der Gramfärbung färbt man Bakterien auf einem Objektträger an. Je nach Bau ihrer Zellwand erscheinen sie blauviolett oder rot. Man nennt sie dann grampositiv oder gramnegativ. Das gibt dem Arzt schnell einen ersten Hinweis auf die Infektion. Außerdem greifen viele Antibiotika genau die Zellwand oder die kleineren Ribosomen der Bakterien an. Darum schaden sie den Bakterien, aber kaum den menschlichen Zellen.
+
+Kurz gesagt: Prokaryoten wie die Bakterien haben keinen Zellkern und kaum innere Räume. Eukaryoten wie die menschlichen Zellen haben einen Zellkern und viele Organellen. Unterschiede bei Zellwand und Ribosomen sind die Angriffspunkte der Antibiotika.
+
+# Die Organellen — The organelles
+
+Machen wir einen Rundgang durch eine typische menschliche Zelle. Du kannst sie dir wie eine kleine Fabrik vorstellen.
+
+Außen liegt die Zellmembran. Sie ist die Grenze der Zelle. Innen ist eine geleeartige Flüssigkeit, das Zytoplasma. Darin schwimmen die Organellen. Im Zytoplasma gibt es außerdem ein Netz aus Eiweißfasern. Es heißt Zytoskelett und gibt der Zelle ihre Form.
+
+In der Mitte liegt der Zellkern. Er enthält die DNA, also die Erbinformation. Er ist die Steuerzentrale der Zelle. Der Zellkern ist von einer doppelten Membran umgeben, der Kernhülle. Diese Hülle hat kleine Öffnungen, die Kernporen. Im Kern gibt es oft einen dichten Bereich, das Kernkörperchen. Dort werden die Ribosomen zusammengebaut. Der Zellkern ist wie die Bibliothek der Fabrik mit allen Bauplänen. Die Pläne bleiben in der Bibliothek, aber die Arbeit passiert draußen.
+
+Die Ribosomen sind kleine Teilchen, an denen Proteine gebaut werden. Sie schwimmen frei im Zytoplasma oder sitzen auf einem Netz aus Membranen.
+
+Dieses Netz heißt das endoplasmatische Retikulum. Ein Teil ist mit Ribosomen besetzt. Unter dem Elektronenmikroskop sieht er rau aus. Darum heißt er raues endoplasmatisches Retikulum. Er stellt Proteine her, die die Zelle verlassen oder in Membranen eingebaut werden. Der andere Teil hat keine Ribosomen. Er heißt glattes endoplasmatisches Retikulum. Er stellt Fette her, die man auch Lipide nennt. Außerdem hilft er beim Entgiften von Stoffen, besonders in Leberzellen.
+
+Danach kommt der Golgi-Apparat. Er sieht aus wie ein Stapel flacher Säckchen. Er verändert Proteine, sortiert sie und verpackt sie in kleine Bläschen. Diese Bläschen heißen Vesikel. Dann schickt er sie an ihr Ziel. Er ist die Poststelle der Zelle: Die Produkte werden verpackt, beschriftet und verschickt.
+
+Die Mitochondrien sind die Kraftwerke der Zelle. Hier läuft die Zellatmung ab. Aus Glukose und Sauerstoff entsteht Energie in Form eines Moleküls mit dem Namen A T P. Das A T P ist wie ein Akku, den jeder Teil der Zelle benutzen kann. Mitochondrien haben ihre eigene kleine DNA. Man erbt sie nur von der Mutter.
+
+Die Lysosomen sind kleine Bläschen voller Verdauungsenzyme. Sie bauen alte Zellteile und fremdes Material ab. Sie sind die Müllabfuhr und das Recycling der Zelle.
+
+Pflanzenzellen haben noch einige zusätzliche Teile: eine Zellwand, eine große Vakuole und Chloroplasten für die Photosynthese. Im medizinischen Labor arbeiten wir aber vor allem mit menschlichen Zellen.
+
+Warum ist das im Labor wichtig? Die Blutzellen sind sehr unterschiedlich ausgestattet. Rote Blutkörperchen heißen Erythrozyten. Reife Erythrozyten haben keinen Zellkern und keine Mitochondrien. Sie sind im Grunde kleine Säckchen voller Hämoglobin. Junge rote Blutkörperchen enthalten noch Reste von Ribosomen. Sie heißen Retikulozyten. Ihre Zahl zeigt, wie aktiv das Knochenmark ist. Weiße Blutkörperchen heißen Leukozyten. Sie haben einen Zellkern. Beim Differentialblutbild erkennt man die Arten der Leukozyten vor allem an der Form ihres Kerns. Blutplättchen heißen Thrombozyten. Das sind kleine Zellbruchstücke ohne Zellkern.
+
+Kurz gesagt: Der Zellkern speichert die DNA, und die Ribosomen bauen Proteine. Das endoplasmatische Retikulum und der Golgi-Apparat stellen sie her und verschicken sie. Die Mitochondrien erzeugen Energie als A T P. Die Lysosomen bauen Abfall ab.
+
+# Die Zellmembran — The cell membrane
+
+Die Zellmembran ist die Grenze der Zelle. Sie ist extrem dünn und beweglich und trotzdem eine klare Barriere. Sie ist ein bisschen wie die Haut einer Seifenblase.
+
+Die Membran besteht vor allem aus Phospholipiden. Ein Phospholipid hat einen Kopf und zwei Schwänze. Der Kopf ist hydrophil, er mag Wasser. Die Schwänze sind hydrophob, sie meiden Wasser. Denk an die Regel aus der Chemie: Ähnliches löst sich in Ähnlichem.
+
+Darum ordnen sich die Phospholipide in zwei Schichten an. Die Köpfe zeigen nach außen, zum Wasser auf beiden Seiten. Die Schwänze zeigen nach innen, zueinander und weg vom Wasser. Dieser Aufbau heißt Lipiddoppelschicht.
+
+In der Lipiddoppelschicht schwimmen viele Proteine. Manche bilden Kanäle oder Träger, die bestimmte Stoffe durchlassen. Manche sind Pumpen. Manche sind Rezeptoren, die Signale empfangen, wie Antennen. Manche tragen außen Zuckerketten, die wie Namensschilder wirken. Die Blutgruppen zum Beispiel werden durch solche Merkmale auf der Oberfläche der roten Blutkörperchen bestimmt. Cholesterin in der Membran macht sie stabiler. Man beschreibt die Membran als flüssiges Mosaik. Die Proteine können sich darin bewegen wie Boote auf einem See.
+
+Die Membran ist selektiv durchlässig. Man sagt auch selektiv permeabel. Das bedeutet: Sie lässt manche Stoffe durch und hält andere zurück. Sie arbeitet wie eine Grenzkontrolle. Sie entscheidet, was durch darf.
+
+Kleine, unpolare Moleküle kommen leicht durch die Membran. Beispiele sind Sauerstoff und Kohlendioxid. Auch Wasser kommt durch, zum Teil durch besondere Wasserkanäle. Ionen und große polare Moleküle wie Glukose kommen nicht direkt durch die Lipidschicht. Sie brauchen besondere Proteine, um durchzukommen.
+
+Warum ist das im Labor wichtig? Die Merkmale auf der Membran sind die Grundlage der Blutgruppenbestimmung im Transfusionslabor. Antikörper im Test erkennen die Merkmale auf den roten Blutkörperchen. Dann verklumpen die Zellen. Das gleiche Prinzip nutzt die Durchflusszytometrie. Dort erkennt man Zellen an den Proteinen auf ihrer Membran. Und eine beschädigte Membran lässt den Inhalt der Zelle auslaufen. Darum erscheinen Enzyme aus dem Zellinneren im Blut, wenn Organe geschädigt sind. Ein Beispiel sind die Leberenzyme bei einer Lebererkrankung.
+
+Kurz gesagt: Die Zellmembran ist eine Lipiddoppelschicht aus Phospholipiden mit Proteinen darin. Sie ist selektiv durchlässig. Merkmale auf der Membran bestimmen zum Beispiel die Blutgruppen.
+
+# Diffusion und Osmose — Diffusion and osmosis
+
+Teilchen in einer Flüssigkeit oder einem Gas bewegen sich ständig. Sie bewegen sich zufällig in alle Richtungen. Darum verteilen sie sich von selbst. Sie wandern von einem Ort mit hoher Konzentration zu einem Ort mit niedriger Konzentration. Das geht so lange, bis die Konzentration überall gleich ist. Das nennt man Diffusion. Ein Tropfen Tinte in einem Glas Wasser verteilt sich so, auch ohne Rühren.
+
+Der Unterschied der Konzentration zwischen zwei Orten heißt Konzentrationsgefälle. Diffusion geht immer mit dem Gefälle, von hoch nach niedrig. Sie braucht keine Energie. Darum ist sie eine Form von passivem Transport.
+
+Kleine unpolare Moleküle wie Sauerstoff und Kohlendioxid diffundieren direkt durch die Membran. In der Lunge diffundiert Sauerstoff aus der Luft ins Blut. In der Luft ist nämlich mehr Sauerstoff als im Blut.
+
+Größere oder geladene Teilchen kommen nicht direkt durch die Lipidschicht. Sie gehen durch Kanalproteine oder Trägerproteine in der Membran. Das ist immer noch passiv, denn es folgt dem Gefälle. Man nennt es erleichterte Diffusion. Glukose kommt so in viele Zellen.
+
+Jetzt ein Sonderfall: die Osmose. Stell dir eine Membran vor, die Wasser durchlässt, aber keine gelösten Teilchen. So eine Membran heißt halbdurchlässig oder semipermeabel. Auf einer Seite ist viel Salz, auf der anderen nur wenig. Das Salz kann nicht durch die Membran. Darum wandert stattdessen das Wasser. Das Wasser fließt zu der Seite mit der höheren Konzentration an gelösten Teilchen. So verdünnt es diese Seite. Osmose ist also die Diffusion von Wasser durch eine halbdurchlässige Membran.
+
+Drei Begriffe vergleichen eine Lösung mit dem Inneren einer Zelle. Isoton bedeutet: gleiche Konzentration wie in der Zelle. Die Zelle bleibt normal. Hypoton bedeutet: niedrigere Konzentration als in der Zelle. Wasser fließt in die Zelle, und die Zelle schwillt an. Hyperton bedeutet: höhere Konzentration als in der Zelle. Wasser fließt aus der Zelle, und die Zelle schrumpft.
+
+Warum ist das im Labor wichtig? Rote Blutkörperchen reagieren stark auf Osmose. In einer isotonen Lösung wie der physiologischen Kochsalzlösung bleiben sie normal. In reinem Wasser, das hypoton ist, fließt Wasser in die Zellen. Sie schwellen an und platzen. Das nennt man Hämolyse. In einer sehr salzigen, hypertonen Lösung verlieren sie Wasser. Sie schrumpfen zu einer stacheligen Form. Eine hämolytische Probe sieht rötlich aus, weil Hämoglobin ins Serum gelangt ist. Hämolyse verfälscht viele Werte, besonders das Kalium. Rote Blutkörperchen enthalten nämlich viel Kalium. Darum dürfen Blutproben nie mit Wasser in Kontakt kommen. Und man muss sie vorsichtig behandeln.
+
+Kurz gesagt: Diffusion ist die Bewegung von Teilchen von hoher zu niedriger Konzentration, ohne Energie. Osmose ist die Diffusion von Wasser durch eine halbdurchlässige Membran zur höheren Konzentration. Rote Blutkörperchen platzen in reinem Wasser. Das ist die Hämolyse.
+
+# Der aktive Transport — Active transport
+
+Manchmal muss eine Zelle einen Stoff gegen das Gefälle transportieren. Also von niedriger zu hoher Konzentration. Das passiert nicht von allein. Es kostet Energie. Man nennt es aktiven Transport.
+
+Die Energie kommt aus dem A T P, das die Mitochondrien herstellen. Besondere Proteine in der Membran nutzen diese Energie. Sie arbeiten wie Pumpen.
+
+Ein einfaches Bild: Diffusion ist wie Wasser, das bergab fließt. Aktiver Transport ist wie eine Pumpe, die Wasser bergauf bringt.
+
+Die wichtigste Pumpe ist die Natrium-Kalium-Pumpe. Sie sitzt in der Membran fast jeder Zelle des Körpers. Bei jedem Durchgang pumpt sie drei Natrium-Ionen aus der Zelle hinaus. Gleichzeitig pumpt sie zwei Kalium-Ionen in die Zelle hinein. Dafür verbraucht sie ein Molekül A T P.
+
+Wegen dieser Pumpe ist in der Zelle viel Kalium und wenig Natrium. Außen, im Blutplasma, ist es umgekehrt: viel Natrium und wenig Kalium. In den Zellen ist die Kaliumkonzentration etwa dreißigmal höher als im Plasma.
+
+Wozu braucht die Zelle diesen Unterschied? Für fast alles. Nervenzellen brauchen ihn, um Signale zu senden. Muskeln brauchen ihn, um sich zusammenzuziehen. Das Herz braucht ihn für jeden einzelnen Schlag. Der Unterschied hilft auch, den Wasserhaushalt der Zelle zu steuern. Die Natrium-Kalium-Pumpe verbraucht einen großen Teil der Energie des ganzen Körpers.
+
+Für große Teilchen gibt es noch eine andere Form von aktivem Transport. Sie passen nicht durch Pumpen oder Kanäle. Stattdessen bildet die Membran kleine Bläschen. Bei der Endozytose nimmt die Zelle Material auf. Sie umhüllt es mit einem Stück Membran, und daraus wird ein Bläschen in der Zelle. Weiße Blutkörperchen fressen so Bakterien. Diesen Sonderfall nennt man Phagozytose. Bei der Exozytose verschmilzt ein Bläschen aus der Zelle mit der Membran. Dann gibt es seinen Inhalt nach außen ab. Drüsenzellen geben so ihre Hormone ab.
+
+Warum ist das im Labor wichtig? Das ist ein echter Klassiker der Laborarbeit. Eine Blutprobe bleibt zu lange liegen, bevor man sie bearbeitet. Oder man stellt sie in den Kühlschrank, bevor das Serum von den Zellen getrennt ist. Dann geht den Zellen die Energie aus, oder die Pumpe arbeitet in der Kälte zu langsam. Kalium läuft aus den Zellen ins Serum. Auf dem Befund ist der Kaliumwert dann falsch hoch. Das nennt man Pseudohyperkaliämie. Der Patient ist gesund, aber der Wert ist falsch. Ein falsch hoher Kaliumwert kann zu einer falschen Behandlung führen. Darum gibt es klare Regeln für Transport, Lagerung und Bearbeitungszeit von Blutproben.
+
+Kurz gesagt: Aktiver Transport bewegt Stoffe gegen das Gefälle und braucht Energie aus A T P. Die Natrium-Kalium-Pumpe bringt drei Natrium-Ionen hinaus und zwei Kalium-Ionen hinein. Alte oder kalte Proben können falsch hohe Kaliumwerte zeigen.
+
+# Der Zellzyklus — The cell cycle
+
+Zellen leben nicht ewig. Sie wachsen, teilen sich und werden ersetzt. Deine Haut erneuert sich ständig. Im Knochenmark entstehen jede Sekunde Millionen neue Blutzellen. Der Kreislauf von einer Zellteilung bis zur nächsten heißt Zellzyklus.
+
+Der Zellzyklus hat zwei Hauptteile. Der lange Teil ist die Interphase. Der kurze Teil ist die Teilung selbst. Sie heißt Mitosephase oder M-Phase.
+
+Die Interphase hat drei Abschnitte. Zuerst kommt die G-eins-Phase. G steht für das englische Wort für Lücke. Die Zelle wächst und macht ihre normale Arbeit. Dann kommt die S-Phase. S steht für Synthese. Hier kopiert die Zelle ihre gesamte DNA. So bekommt später jede Tochterzelle eine vollständige Kopie. Dann kommt die G-zwei-Phase. Die Zelle bereitet sich auf die Teilung vor und prüft die kopierte DNA auf Fehler.
+
+Dann folgt die M-Phase. Zuerst teilt sich der Zellkern. Das ist die Mitose. Dann teilt sich das Zytoplasma. Das heißt Zytokinese. Am Ende gibt es zwei Tochterzellen.
+
+Außerdem gibt es Kontrollpunkte. An mehreren Stellen im Zyklus prüft die Zelle, ob alles in Ordnung ist. Ist die Zelle groß genug? Ist die DNA unbeschädigt? Ist die Kopie vollständig? Ist die DNA beschädigt, stoppt der Zyklus. Die Zelle versucht, den Fehler zu reparieren. Klappt die Reparatur nicht, stirbt die Zelle kontrolliert. Das nennt man Apoptose oder programmierten Zelltod. Er schützt den Körper vor beschädigten Zellen.
+
+Was passiert, wenn die Kontrolle versagt? Dann kann sich eine Zelle unkontrolliert teilen. Das ist die Grundidee von Krebs. Eine Tumorzelle ignoriert die Kontrollpunkte und teilt sich immer weiter. Ihre Tochterzellen erben dieselben Fehler.
+
+Viele Zellen teilen sich gar nicht mehr. Nervenzellen und die meisten Herzmuskelzellen verlassen den Zyklus für immer. Sie bleiben in einer Ruhephase. Sie heißt G-null-Phase.
+
+Warum ist das im Labor wichtig? In der Histologie und der Zytologie untersucht man Gewebe und Zellen unter dem Mikroskop. Viele Zellen in Teilung können auf ein schnelles Wachstum hinweisen, zum Beispiel bei einem Tumor. Auch das Blutbild zeigt den Zellzyklus. Bei manchen Leukämien erscheinen viele unreife Zellen im Blut. Sie heißen Blasten. Ihre Teilung ist außer Kontrolle. Und in der Zellkultur nutzt man den Zellzyklus, um Zellen im Labor zu vermehren.
+
+Kurz gesagt: Der Zellzyklus besteht aus der Interphase mit der G-eins-Phase, der S-Phase und der G-zwei-Phase, und aus der M-Phase mit Mitose und Zytokinese. Die DNA wird in der S-Phase kopiert. Kontrollpunkte steuern den Zyklus. Versagen sie, kann Krebs entstehen.
+
+# Die Mitose — Mitosis
+
+Jede normale menschliche Körperzelle hat sechsundvierzig Chromosomen. Ein Chromosom ist ein langes DNA-Molekül, das mit Proteinen eng aufgewickelt ist. Die Chromosomen kommen in Paaren vor. Dreiundzwanzig stammen von der Mutter, dreiundzwanzig vom Vater. Die zwei Chromosomen eines Paares heißen homologe Chromosomen. Eine Zelle mit diesem doppelten Satz heißt diploid.
+
+Bevor sich eine Zelle teilt, hat sie in der S-Phase ihre DNA kopiert. Jedes Chromosom besteht dann aus zwei gleichen Hälften. Sie heißen Schwesterchromatiden. Sie hängen an einer engen Stelle zusammen. Diese Stelle heißt Zentromer. Darum sehen Chromosomen auf Bildern oft aus wie der Buchstabe X.
+
+Die Mitose ist die Teilung des Zellkerns, bei der zwei genetisch gleiche Tochterzellen entstehen. Sie dient dem Wachstum, dem Ersatz alter Zellen und der Reparatur von Gewebe. Beide Tochterzellen haben wieder sechsundvierzig Chromosomen, genau wie die Mutterzelle.
+
+Die Mitose hat vier Phasen.
+
+In der Prophase verdichten sich die Chromosomen. Sie werden kurz und dick und unter dem Mikroskop sichtbar. Die Kernhülle löst sich auf. Ein Gerüst aus Eiweißfasern beginnt sich zu bilden. Es heißt Spindelapparat.
+
+In der Metaphase ordnen sich die Chromosomen in einer Ebene in der Mitte der Zelle an. Die Spindelfasern heften sich am Zentromer an jedes Chromosom.
+
+In der Anaphase werden die Schwesterchromatiden auseinandergezogen. Von jedem Chromosom wandert eine Chromatide zu jedem Pol der Zelle.
+
+In der Telophase bildet sich um jeden der zwei Chromosomensätze eine neue Kernhülle. Die Chromosomen entspiralisieren sich wieder.
+
+Die Reihenfolge merkt man sich am besten mit den Anfangsbuchstaben: P, M, A, T. Das steht für Prophase, Metaphase, Anaphase und Telophase.
+
+Nach der Mitose teilt die Zytokinese das Zytoplasma. Es entstehen zwei getrennte Tochterzellen. Jede hat einen vollständigen, gleichen Chromosomensatz.
+
+Warum ist das im Labor wichtig? In der Zytogenetik erstellt man ein Karyogramm. Ein Karyogramm ist ein geordnetes Bild aller Chromosomen eines Menschen. Die Chromosomen sind nach Größe und Form sortiert. Dafür stoppt man Zellen in der Metaphase. In diesem Moment sind die Chromosomen am stärksten verdichtet und am besten sichtbar. Meist vermehrt man dafür weiße Blutkörperchen aus einer Blutprobe in einer Kultur. Dann kann man Änderungen in der Zahl oder im Bau der Chromosomen erkennen.
+
+Kurz gesagt: Bei der Mitose entstehen zwei genetisch gleiche, diploide Tochterzellen. Ihre Phasen sind Prophase, Metaphase, Anaphase und Telophase. Für ein Karyogramm untersucht man Zellen in der Metaphase.
+
+# Die Meiose — Meiosis
+
+Die Meiose ist die zweite Art der Kernteilung. Sie findet nur in den Fortpflanzungsorganen statt, also in den Eierstöcken und Hoden. Dabei entstehen die Geschlechtszellen. Man nennt sie auch Keimzellen oder Gameten. Das sind Eizellen und Spermien.
+
+Die Meiose hat zwei Teilungen hintereinander. Sie heißen erste und zweite Reifeteilung. Aus einer Zelle entstehen vier Zellen. Jede hat nur dreiundzwanzig Chromosomen, eins aus jedem Paar. Eine Zelle mit einem einfachen Chromosomensatz heißt haploid.
+
+Warum braucht der Körper das? Bei der Befruchtung verschmelzen eine Eizelle und ein Spermium. Dreiundzwanzig plus dreiundzwanzig ergibt wieder sechsundvierzig. Ohne die Halbierung würde sich die Zahl der Chromosomen in jeder Generation verdoppeln.
+
+In der ersten Reifeteilung werden die homologen Chromosomen getrennt. Jede Tochterzelle bekommt ein Chromosom aus jedem Paar. Vorher passiert etwas Besonderes. Die Chromosomen von Mutter und Vater legen sich eng aneinander und tauschen Stücke aus. Das nennt man Crossing-over. In der zweiten Reifeteilung werden die Schwesterchromatiden getrennt, ähnlich wie bei der Mitose.
+
+Wegen des Crossing-over und weil die Paare zufällig verteilt werden, sind die vier Keimzellen genetisch verschieden. Darum sind Geschwister nicht gleich, außer eineiige Zwillinge. Die Meiose sorgt für genetische Vielfalt.
+
+Vergleichen wir. Mitose: eine Teilung, zwei gleiche Tochterzellen, diploid, für Wachstum und Reparatur. Meiose: zwei Teilungen, vier verschiedene Tochterzellen, haploid, für die Fortpflanzung.
+
+Warum ist das im Labor wichtig? Manchmal geht bei der Meiose etwas schief. Ein Chromosomenpaar trennt sich nicht richtig. Das nennt man Fehlverteilung oder Nondisjunction. Dann hat eine Keimzelle ein Chromosom zu viel und eine andere eins zu wenig. Wird so eine Keimzelle befruchtet, hat das Kind eine falsche Zahl von Chromosomen. Das bekannteste Beispiel ist die Trisomie einundzwanzig, auch Down-Syndrom genannt. Das Kind hat drei Kopien vom Chromosom einundzwanzig statt zwei. Im Karyogramm sieht man das direkt. Vorgeburtliche Tests können es auch aus DNA-Stücken im Blut der Mutter erkennen.
+
+Kurz gesagt: Die Meiose hat zwei Teilungen und erzeugt vier genetisch verschiedene, haploide Keimzellen. Das Crossing-over mischt das Erbgut. Fehler bei der Meiose können zu Krankheiten wie der Trisomie einundzwanzig führen.
+
+# DNA und RNA — DNA and RNA
+
+Die DNA ist das Molekül, das die Erbinformation speichert. Ihr voller Name ist Desoxyribonukleinsäure. Sie ist eine sehr lange Kette aus vielen kleinen Bausteinen. Diese Bausteine heißen Nukleotide.
+
+Jedes Nukleotid hat drei Teile: einen Zucker, eine Phosphatgruppe und eine Base. In der DNA heißt der Zucker Desoxyribose. Zucker und Phosphate verbinden sich und bilden das Rückgrat der Kette. Die Basen stehen zur Seite ab.
+
+Die DNA hat vier Basen: Adenin, Thymin, Guanin und Cytosin. Man kürzt sie oft mit ihren Anfangsbuchstaben ab. Die Reihenfolge dieser Basen ist die Information. Man kann sich die DNA wie einen Text vorstellen. Dieser Text hat ein Alphabet mit nur vier Buchstaben.
+
+Die DNA besteht aus zwei Strängen. Sie sind umeinander gewunden wie eine verdrehte Strickleiter. Diese Form heißt Doppelhelix. Das Rückgrat aus Zucker und Phosphat bildet die Seiten der Leiter. Die Basenpaare sind die Sprossen.
+
+Die Basen der beiden Stränge passen auf eine feste Weise zusammen. Adenin paart sich immer mit Thymin. Guanin paart sich immer mit Cytosin. Das nennt man komplementäre Basenpaarung. Die Paare halten durch Wasserstoffbrücken zusammen. Wegen dieser Regel kennt man den zweiten Strang, wenn man den ersten kennt. Das ist wie eine eingebaute Sicherheitskopie. So kopiert die Zelle auch ihre DNA vor der Teilung. Die Stränge trennen sich, und jeder dient als Vorlage für einen neuen Partnerstrang. Dieses Kopieren heißt Replikation.
+
+Ein Abschnitt der DNA, der die Anleitung für ein Protein enthält, heißt Gen. Ein Gen ist wie ein Rezept in einem großen Kochbuch. Das menschliche Genom, also die gesamte DNA einer Zelle, enthält etwa zwanzigtausend Gene. Im Zellkern ist die DNA um Proteine gewickelt und in Chromosomen verpackt.
+
+Dann gibt es die RNA, die Ribonukleinsäure. Sie ist der DNA ähnlich, aber es gibt drei wichtige Unterschiede. Erstens enthält die RNA den Zucker Ribose statt Desoxyribose. Zweitens hat die RNA die Base Uracil statt Thymin. Drittens ist die RNA meistens einzelsträngig. Die RNA lebt außerdem nur kurz. Die DNA ist das dauerhafte Archiv. Die RNA ist eine vorübergehende Arbeitskopie für eine bestimmte Aufgabe.
+
+Es gibt mehrere Arten von RNA mit verschiedenen Aufgaben. Die Boten-RNA bringt eine Kopie eines Gens zu den Ribosomen. Die Transfer-RNA bringt Aminosäuren zu den Ribosomen. Die ribosomale RNA ist selbst ein Teil der Ribosomen.
+
+Warum ist das im Labor wichtig? In der molekularen Diagnostik weist man DNA und RNA direkt nach. Mit der PCR kopiert man ein kleines Stück DNA millionenfach, bis man es messen kann. So findet man Krankheitserreger, Erbkrankheiten und Mutationen, zum Beispiel bei Krebs. Viele Viren haben RNA statt DNA. Dann schreibt man die RNA zuerst in DNA um und vermehrt sie danach. So funktionierten die Coronatests.
+
+Kurz gesagt: Die DNA ist eine Doppelhelix aus Nukleotiden mit den Basen Adenin, Thymin, Guanin und Cytosin. Adenin paart sich mit Thymin, Guanin mit Cytosin. Die RNA ist einzelsträngig, enthält Ribose und hat Uracil statt Thymin.
+
+# Die Transkription — Transcription
+
+Die DNA liegt im Zellkern. Die Ribosomen, die Proteine bauen, liegen aber draußen im Zytoplasma. Wie kommt die Information von der DNA zum Ribosom?
+
+Denk an ein Kochbuch. Man nimmt nicht das ganze Buch mit in die Küche. Man macht eine Kopie genau von dem Rezept, das man braucht. Und genau das macht die Zelle. Sie kopiert ein Gen in Form von Boten-RNA. Dieses Kopieren heißt Transkription. Das bedeutet Abschrift.
+
+So funktioniert es. Ein Enzym mit dem Namen RNA-Polymerase bindet an den Anfang eines Gens. Diese Startregion heißt Promotor. Die Polymerase öffnet die DNA-Doppelhelix auf einem kurzen Stück. Dann liest sie einen der beiden Stränge, Base für Base. Dieser Strang ist die Vorlage. Er heißt Matrizenstrang.
+
+Zu jeder Base der Vorlage baut die Polymerase die passende RNA-Base ein. Gegenüber von Guanin setzt sie Cytosin. Gegenüber von Cytosin setzt sie Guanin. Gegenüber von Thymin setzt sie Adenin. Und gegenüber von Adenin setzt sie Uracil, denn die RNA hat kein Thymin.
+
+So wächst ein einzelner RNA-Strang. Seine Reihenfolge ist komplementär zur Vorlage. Hinter der Polymerase schließt sich die DNA wieder. Am Ende des Gens hält die Polymerase an und gibt die neue RNA frei.
+
+Bei Eukaryoten ist diese erste RNA noch nicht fertig. Ein Gen enthält Teile, die man braucht, und Teile, die man nicht braucht. Die nützlichen Teile heißen Exons. Die Teile dazwischen heißen Introns. Die Introns werden herausgeschnitten, und die Exons werden verbunden. Das nennt man Spleißen. Das ist ein bisschen wie bei einem Zeitungsartikel, aus dem man die Werbung herausschneidet.
+
+Die fertige Boten-RNA bekommt außerdem vorne eine Schutzkappe und hinten einen Schwanz. Dann verlässt sie den Zellkern durch die Kernporen. Sie wandert zu den Ribosomen im Zytoplasma.
+
+Nicht jedes Gen wird ständig abgeschrieben. Zellen schalten Gene an und aus, je nachdem, was sie brauchen. Eine Leberzelle und eine Nervenzelle haben die gleiche DNA. Aber sie benutzen verschiedene Gene. Das nennt man Genexpression.
+
+Warum ist das im Labor wichtig? Man kann messen, welche Gene in einer Zelle gerade aktiv sind. Dafür misst man ihre Boten-RNA. Ein aktives Gen wird oft abgeschrieben, darum gibt es viel von seiner RNA. Das nutzt man in der Krebsdiagnostik und bei manchen Leukämien. Um RNA mit der PCR zu messen, schreibt man sie zuerst in DNA um. Das macht ein Enzym mit dem Namen reverse Transkriptase.
+
+Kurz gesagt: Bei der Transkription kopiert die RNA-Polymerase ein Gen von der DNA in Boten-RNA. Das passiert im Zellkern. Bei Eukaryoten werden die Introns durch Spleißen entfernt. Die fertige Boten-RNA wandert zu den Ribosomen.
+
+# Die Translation — Translation
+
+Jetzt sind wir am Ribosom. Hier wird die Botschaft der RNA in ein Protein übersetzt. Dieser Vorgang heißt Translation, also Übersetzung.
+
+Ein Protein ist eine lange Kette aus Aminosäuren. In menschlichen Proteinen gibt es zwanzig verschiedene Aminosäuren. Die Reihenfolge der Aminosäuren bestimmt, wie sich die Kette faltet. Und die gefaltete Form bestimmt die Funktion des Proteins.
+
+Aber die RNA hat nur vier Basen. Wie können vier Zeichen zwanzig Aminosäuren beschreiben? Mit Wörtern aus drei Buchstaben. Drei Basen hintereinander bilden ein Codon. Jedes Codon steht für eine bestimmte Aminosäure. Mit vier Basen und drei Stellen gibt es vierundsechzig Kombinationen. Das reicht für alle zwanzig Aminosäuren. Für die meisten gibt es sogar mehrere Codons. Und es bleiben noch Steuerzeichen übrig. Diese Übersetzungstabelle heißt der genetische Code. Er ist bei fast allen Lebewesen gleich.
+
+Der genetische Code ist wie ein Wörterbuch. Jedes Codon ist ein Wort aus drei Buchstaben, das für eine Aminosäure steht.
+
+Es gibt ein Startcodon. Seine Reihenfolge ist Adenin, Uracil, Guanin. Dort beginnt die Translation. Und es gibt drei Stoppcodons. Dort endet das Protein.
+
+Die Zelle braucht außerdem Übersetzer. Das sind die Transfer-RNAs. Jede Transfer-RNA trägt an einem Ende eine bestimmte Aminosäure. Am anderen Ende hat sie drei Basen, die zu einem Codon passen. Dieses passende Dreierstück heißt Anticodon.
+
+Der Ablauf ist so. Das Ribosom setzt sich auf die Boten-RNA und sucht das Startcodon. Eine passende Transfer-RNA bringt die erste Aminosäure. Dann rutscht das Ribosom drei Basen weiter. Die nächste Transfer-RNA bringt die nächste Aminosäure. Das Ribosom verbindet die Aminosäuren mit einer Peptidbindung. Das geht so weiter, bis ein Stoppcodon kommt. Dann wird die fertige Kette freigegeben. Sie faltet sich in ihre räumliche Form und wird ein funktionierendes Protein.
+
+Jetzt ist der ganze Weg vollständig. Die DNA ist das Kochbuch. Die Transkription kopiert ein Rezept, die Boten-RNA. Die Translation am Ribosom ist das Kochen. Das Ergebnis ist das fertige Gericht: das Protein. Biologen nennen diesen Informationsfluss das zentrale Dogma der Molekularbiologie: von der DNA über die RNA zum Protein.
+
+Warum ist das im Labor wichtig? Ein kleiner Fehler im Code kann große Folgen haben. Eine Veränderung in der DNA heißt Mutation. Bei der Sichelzellkrankheit ist nur eine einzige Base verändert. Darum sitzt an einer Stelle im Hämoglobin eine falsche Aminosäure. Die roten Blutkörperchen bekommen eine Sichelform und können kleine Blutgefäße verstopfen. Solche Mutationen kann man mit molekularen Methoden nachweisen. Und Proteine selbst misst man im Labor jeden Tag. Enzyme, viele Hormone, Antikörper und Gerinnungsfaktoren sind alles Proteine.
+
+Kurz gesagt: Bei der Translation liest das Ribosom die Boten-RNA in Codons aus drei Basen. Transfer-RNAs bringen die passenden Aminosäuren. Das Ergebnis ist ein Protein. Das zentrale Dogma lautet: von der DNA über die RNA zum Protein.
+
+# Zusammenfassung Zellbiologie — Cell biology summary
+
+Dieses Kapitel fasst die wichtigsten Ideen aus Teil zwei zusammen.
+
+Die Zelle ist die kleinste Einheit des Lebens. Prokaryoten wie die Bakterien haben keinen Zellkern. Eukaryoten wie die menschlichen Zellen haben einen Zellkern und viele Organellen. Der Zellkern speichert die DNA. Die Ribosomen bauen Proteine. Das endoplasmatische Retikulum und der Golgi-Apparat stellen sie her, verpacken sie und verschicken sie. Die Mitochondrien erzeugen Energie als A T P. Die Lysosomen bauen Abfall ab.
+
+Die Zellmembran ist eine Lipiddoppelschicht mit Proteinen. Sie ist selektiv durchlässig. Bei der Diffusion wandern Teilchen ohne Energie von hoher zu niedriger Konzentration. Osmose ist die Diffusion von Wasser zur höheren Konzentration. Rote Blutkörperchen platzen in reinem Wasser. Das heißt Hämolyse. Aktiver Transport bewegt Stoffe gegen das Gefälle und braucht Energie. Die Natrium-Kalium-Pumpe hält das Kalium in den Zellen. Darum können alte Proben falsch hohe Kaliumwerte zeigen.
+
+Der Zellzyklus besteht aus der Interphase und der M-Phase. Die DNA wird in der S-Phase kopiert. Kontrollpunkte steuern den Zyklus. Die Mitose erzeugt zwei gleiche, diploide Zellen für Wachstum und Reparatur. Die Meiose erzeugt vier verschiedene, haploide Keimzellen für die Fortpflanzung.
+
+Die DNA ist eine Doppelhelix mit vier Basen. Adenin paart sich mit Thymin, Guanin mit Cytosin. Ein Gen ist die Anleitung für ein Protein. Bei der Transkription wird das Gen in Boten-RNA kopiert. Bei der Translation liest das Ribosom die RNA in Codons und baut eine Kette aus Aminosäuren. Von der DNA über die RNA zum Protein.
+
+# Teil drei: Laborrechnen — Part three: Lab maths
+
+Die Arbeit im Labor ist voller kleiner Rechnungen. Man rechnet Einheiten um, stellt Lösungen her, verdünnt Proben und korrigiert Ergebnisse. Nichts davon ist schwierige Mathematik. Aber es muss jedes Mal richtig sein. Ein Fehler landet nämlich direkt auf dem Befund eines Patienten.
+
+Dieser Teil behandelt vier Werkzeuge. Zuerst das internationale Einheitensystem. Dann das Umrechnen von Einheiten. Dann Verhältnisse, Proportionen, den Dreisatz und die Prozentrechnung. Und zum Schluss die Verdünnung mit der Formel, die jeder im Labor benutzt: c eins mal V eins ist gleich c zwei mal V zwei.
+
+# Das S I System — The S I system
+
+Früher hatte fast jedes Land eigene Maße. Es gab Fuß, Elle, Pfund und Meile, und alle waren ein bisschen verschieden. Heute benutzt die Wissenschaft ein gemeinsames System. Es heißt das Internationale Einheitensystem. Man sagt kurz S I, nach dem französischen Namen.
+
+Das S I System hat sieben Basiseinheiten. Der Meter für die Länge. Das Kilogramm für die Masse. Die Sekunde für die Zeit. Das Ampere für die elektrische Stromstärke. Das Kelvin für die Temperatur. Das Mol für die Stoffmenge. Und die Candela für die Lichtstärke.
+
+Das Mol ist also eine der sieben Basiseinheiten. Das zeigt, wie wichtig das Zählen von Teilchen in der Wissenschaft ist.
+
+Alle anderen Einheiten setzt man aus diesen sieben zusammen. Die Geschwindigkeit ist Meter pro Sekunde. Die Stoffmengenkonzentration ist streng genommen Mol pro Kubikmeter. Das sind abgeleitete Einheiten.
+
+Der Liter ist keine offizielle S I Einheit, aber er ist erlaubt. Ein Liter ist genau ein Kubikdezimeter. Das ist ein Würfel mit zehn Zentimetern Kantenlänge. Im Labor arbeiten wir fast immer mit Litern und Millilitern. Ein Milliliter ist dasselbe wie ein Kubikzentimeter.
+
+Jetzt zu den Vorsilben. Sie machen eine Einheit größer oder kleiner, immer in Schritten mit der Zahl zehn.
+
+Kilo bedeutet tausend. Ein Kilogramm sind tausend Gramm.
+
+Dezi bedeutet ein Zehntel. Ein Deziliter ist ein Zehntel Liter.
+
+Zenti bedeutet ein Hundertstel. Ein Zentimeter ist ein Hundertstel Meter.
+
+Milli bedeutet ein Tausendstel. Ein Milliliter ist ein Tausendstel Liter.
+
+Dann wird es klein. Mikro bedeutet ein Millionstel. Nano bedeutet ein Milliardstel, also ein Tausendstel von einem Millionstel. Piko bedeutet ein Billionstel, also ein Millionstel von einem Millionstel. Zwischen Milli, Mikro, Nano und Piko liegt immer ein Faktor tausend.
+
+Dabei gibt es keine Ausnahme. Kilo ist immer genau tausend.
+
+Ein Hinweis zur Temperatur. Die S I Einheit ist das Kelvin. Null Kelvin ist der absolute Nullpunkt, die kälteste Temperatur überhaupt. Im Alltag und im Labor benutzen wir meistens Grad Celsius. Ein Schritt von einem Kelvin ist genauso groß wie ein Grad Celsius. Um Grad Celsius in Kelvin umzurechnen, addiert man zweihundertdreiundsiebzig. Null Grad Celsius sind also etwa zweihundertdreiundsiebzig Kelvin. Die Körpertemperatur von siebenunddreißig Grad Celsius sind etwa dreihundertzehn Kelvin.
+
+Warum ist das im Labor wichtig? Laborwerte haben sehr verschiedene Größen. Natrium misst man in Millimol pro Liter. Manche Hormone misst man in Pikomol pro Liter. Das ist ein Milliardstel davon. Pipetten arbeiten in Mikrolitern. Wellenlängen im Photometer gibt man in Nanometern an. Wer die Vorsilben gut kennt, macht viel weniger Fehler.
+
+Kurz gesagt: Das S I System hat sieben Basiseinheiten, darunter das Mol und das Kelvin. Die Vorsilben Kilo, Dezi, Zenti, Milli, Mikro, Nano und Piko ändern die Größe einer Einheit um feste Zehnerfaktoren.
+
+# Einheiten umrechnen — Unit conversion
+
+Das Umrechnen von Einheiten ist im Labor tägliche Arbeit. Die wichtigste Idee ist diese: Beim Umrechnen ändert sich nur die Einheit, nicht die Menge. Ein halber Liter Wasser bleibt ein halber Liter Wasser, egal wie man ihn nennt. Man kann null komma fünf Liter sagen oder fünfhundert Milliliter. Es ist dieselbe Menge.
+
+Es gibt eine einfache Regel. Wird die Einheit kleiner, wird die Zahl größer. Wird die Einheit größer, wird die Zahl kleiner.
+
+Üben wir. Von Liter zu Milliliter wird die Einheit kleiner, um den Faktor tausend. Also wird die Zahl tausendmal größer. Null komma zwei fünf Liter sind zweihundertfünfzig Milliliter.
+
+Von Milliliter zu Liter wird die Einheit größer. Also teilt man durch tausend. Fünfzig Milliliter sind null komma null fünf Liter.
+
+Wie viele Mikroliter sind zwei Milliliter? Von Milli zu Mikro ist ein Faktor tausend. Die Einheit wird kleiner, also mal tausend. Zwei Milliliter sind zweitausend Mikroliter.
+
+Wie viele Mikromol pro Liter sind fünf Millimol pro Liter? Wieder ein Faktor tausend, und die Einheit wird kleiner. Es sind also fünftausend Mikromol pro Liter.
+
+Jetzt ein Klassiker aus dem Labor. Viele Werte stehen in Milligramm pro Deziliter. Manche Geräte zeigen aber Milligramm pro Liter. Ein Liter hat zehn Deziliter. Um von pro Deziliter zu pro Liter zu kommen, multipliziert man also mit zehn. Ein Cholesterinwert von zweihundert Milligramm pro Deziliter sind zweitausend Milligramm pro Liter. Das sind zwei Gramm pro Liter.
+
+Vorsicht bei Einheiten im Nenner, also hinter dem Wort pro. Wird die Volumeneinheit größer, passt mehr Stoff hinein. Dann wird die Zahl größer. Darum ergibt Milligramm pro Deziliter mal zehn Milligramm pro Liter.
+
+Zwischen Masseneinheiten und Stoffmengeneinheiten braucht man die molare Masse. Denk an das Beispiel mit der Glukose. Milligramm pro Deziliter mal zehn ergibt Milligramm pro Liter. Geteilt durch die molare Masse hundertachtzig ergibt das Millimol pro Liter.
+
+Eine sehr gute Gewohnheit ist die Plausibilitätsprüfung. Frag dich nach jeder Rechnung: Ist das Ergebnis realistisch? Ein Erwachsener hat etwa fünf Liter Blut. Sagt dein Ergebnis fünftausend Liter, hast du einen Fehler gemacht.
+
+Eine zweite gute Gewohnheit: Schreib in jedem Rechenschritt die Einheiten mit. Einheiten kann man genauso multiplizieren und teilen wie Zahlen. Stimmen die Einheiten am Ende nicht, ist die Rechnung falsch.
+
+Warum ist das im Labor wichtig? Ein Fehler um den Faktor tausend kann für einen Patienten gefährlich sein. Ein Medikamentenspiegel in Milligramm statt in Mikrogramm ist ein riesiger Unterschied. Darum prüft man Einheiten immer zweimal. Und man prüft immer, ob der Wert zum Patienten und zur Methode passt.
+
+Kurz gesagt: Beim Umrechnen ändert sich die Einheit, nicht die Menge. Kleinere Einheit, größere Zahl. Größere Einheit, kleinere Zahl. Schreib die Einheiten in jedem Schritt mit und mach immer eine Plausibilitätsprüfung.
+
+# Verhältnis und Dreisatz — Ratios and proportions
+
+Ein Verhältnis vergleicht zwei Mengen. Zum Beispiel ein Teil Saft und drei Teile Wasser. Man sagt: Das Verhältnis ist eins zu drei.
+
+Eine Proportion sagt: Zwei Verhältnisse sind gleich. Wenn zwei Mengen proportional sind, ändern sie sich auf die gleiche Weise. Verdoppelt sich die eine, verdoppelt sich auch die andere. Halbiert sich die eine, halbiert sich auch die andere. Im Labor sind die meisten Zusammenhänge proportional. Doppelt so viele Tests brauchen doppelt so viel Reagenz. Doppelt so viel Stoff im gleichen Volumen ergibt die doppelte Konzentration.
+
+Der Dreisatz ist das wichtigste Werkzeug für proportionale Aufgaben. In Deutschland lernt ihn jeder Auszubildende. Er hat drei Schritte. Erstens: Was weiß ich? Zweitens: Was gilt für eine einzige Einheit? Drittens: Was gilt für die gesuchte Menge?
+
+Ein Beispiel. Fünf Gramm Salz sind in hundert Milliliter Lösung gelöst. Wie viel Salz ist in dreißig Milliliter?
+
+Schritt eins: Hundert Milliliter enthalten fünf Gramm.
+
+Schritt zwei: Ein Milliliter enthält fünf geteilt durch hundert. Das sind null komma null fünf Gramm.
+
+Schritt drei: Dreißig Milliliter enthalten dreißig mal null komma null fünf. Das sind eins komma fünf Gramm.
+
+Die Idee ist: Erst runter auf eins, dann hoch auf die gesuchte Zahl.
+
+Ein zweites Beispiel aus dem Labor. In einer Packungsbeilage steht: Hundert Tests brauchen zwanzig Milliliter Reagenz. Wie viel brauchst du für fünfunddreißig Tests? Ein Test braucht zwanzig geteilt durch hundert, also null komma zwei Milliliter. Fünfunddreißig Tests brauchen fünfunddreißig mal null komma zwei. Das sind sieben Milliliter.
+
+Es gibt auch eine umgekehrte Proportion. Hier wird die eine Menge kleiner, wenn die andere größer wird. Ein Beispiel: Zwei Analysegeräte brauchen sechs Stunden für eine Serie von Proben. Drei Geräte brauchen dann nur vier Stunden. Im Dreisatz teilt man dann dort, wo man sonst multipliziert. Umgekehrte Proportionen sind im Labor seltener, aber es gibt sie. Die Verdünnungsformel in den nächsten Kapiteln ist ein Beispiel. Je stärker man verdünnt, desto kleiner wird die Konzentration.
+
+Ein besonderer Hinweis zur Schreibweise von Verdünnungen. Im Labor bedeutet eine Verdünnung eins zu zehn meistens: ein Teil Probe in insgesamt zehn Teilen. Also ein Teil Probe plus neun Teile Verdünnungsmittel. Manche schreiben dafür auch eins plus neun. Das führt oft zu Verwechslungen. Prüfe immer, was die Arbeitsanweisung deines Labors meint.
+
+Warum ist das im Labor wichtig? Mit dem Dreisatz rechnet man Reagenzmengen hoch und runter. Man berechnet, wie viel Stoff man für ein kleineres Volumen Lösung braucht. Und man prüft Rechnungen schnell im Kopf. Der Dreisatz ist das Grundwerkzeug für fast alle praktischen Laborrechnungen.
+
+Kurz gesagt: Ein Verhältnis vergleicht zwei Mengen. Bei einer Proportion ändern sich die Mengen gemeinsam. Der Dreisatz hat drei Schritte: Was weiß ich, was gilt für eine Einheit, und was gilt für die gesuchte Menge?
+
+# Die Prozentrechnung — Percentages
+
+Prozent bedeutet von hundert, also Hundertstel. Zwanzig Prozent sind zwanzig Hundertstel oder null komma zwei.
+
+Jede Prozentaufgabe hat drei Größen. Der Grundwert ist das Ganze, also hundert Prozent. Der Prozentsatz ist die Zahl mit dem Wort Prozent. Und der Prozentwert ist der Teil.
+
+Um einen Teil zu finden, multipliziert man den Grundwert mit dem Prozentsatz und teilt durch hundert. Zwanzig Prozent von fünfzig sind fünfzig mal zwanzig geteilt durch hundert. Das ergibt zehn.
+
+Um den Prozentsatz zu finden, teilt man den Teil durch das Ganze und multipliziert mit hundert. Ein Beispiel: Dreißig von hundertzwanzig Zellen sind Lymphozyten. Der Prozentsatz ist dreißig geteilt durch hundertzwanzig, mal hundert. Das ergibt fünfundzwanzig Prozent.
+
+Um das Ganze zu finden, teilt man den Teil durch den Prozentsatz und multipliziert mit hundert. Ein Beispiel: Fünfzehn Milliliter sind dreißig Prozent einer Lösung. Die ganze Lösung ist fünfzehn geteilt durch dreißig, mal hundert. Das ergibt fünfzig Milliliter.
+
+Alle drei Rechnungen sind eigentlich nur ein Dreisatz. Wenn du die Formeln vergisst, geh zurück zu den drei Schritten. Hundert Prozent sind das Ganze. Ein Prozent ist das Ganze geteilt durch hundert. Dann multiplizierst du hoch auf den gesuchten Prozentsatz.
+
+Prozente siehst du überall: auf Lebensmitteln, bei Zinsen und bei Rabatten. Die Rechnung ist immer dieselbe.
+
+Warum ist das im Labor wichtig? Beim Differentialblutbild zählt man die weißen Blutkörperchen und gibt sie in Prozent an. Zum Beispiel sechzig Prozent Neutrophile und dreißig Prozent Lymphozyten. Um die absolute Zahl zu bekommen, multipliziert man den Prozentsatz mit der Gesamtzahl der weißen Blutkörperchen. Ein Patient hat achttausend weiße Blutkörperchen pro Mikroliter, und dreißig Prozent sind Lymphozyten. Dann sind es zweitausendvierhundert Lymphozyten pro Mikroliter. Prozente benutzt man auch für Lösungen, wie im Chemieteil. Und für die Genauigkeit von Messungen. Der Variationskoeffizient in der Qualitätskontrolle wird in Prozent angegeben.
+
+Kurz gesagt: Prozent bedeutet Hundertstel. Der Teil ist das Ganze mal Prozentsatz geteilt durch hundert. Der Prozentsatz ist der Teil geteilt durch das Ganze mal hundert. Im Zweifel hilft der Dreisatz.
+
+# Die Verdünnung — Dilution
+
+Im Labor verdünnt man ständig. Man beginnt mit einer konzentrierten Lösung, der Stammlösung. Daraus stellt man eine schwächere Lösung her, die Gebrauchslösung.
+
+Beim Verdünnen gibt man Lösungsmittel dazu. Das Volumen wird größer. Die Konzentration wird kleiner. Aber eine Sache bleibt gleich: die Menge des gelösten Stoffes. Es kommt kein Stoff dazu, und es geht kein Stoff verloren.
+
+Daraus folgt die wichtigste Formel im Labor. C eins mal V eins ist gleich c zwei mal V zwei.
+
+C eins ist die Konzentration der Stammlösung. V eins ist das Volumen der Stammlösung, das man nimmt. C zwei ist die gewünschte Konzentration. V zwei ist das gewünschte Endvolumen.
+
+Warum stimmt diese Formel? Konzentration mal Volumen ist die Stoffmenge. Die Stoffmenge ist vor und nach dem Verdünnen gleich. Darum müssen beide Seiten der Gleichung gleich sein. Wer das versteht, muss die Formel nicht auswendig lernen. Man kann sie immer neu herleiten.
+
+Ein Beispiel. Du hast eine Stammlösung mit einem Mol pro Liter. Du brauchst hundert Milliliter mit null komma eins Mol pro Liter. Wie viel Stammlösung nimmst du?
+
+Stell die Formel um: V eins ist gleich c zwei mal V zwei, geteilt durch c eins. Das ist null komma eins mal hundert, geteilt durch eins. Das Ergebnis ist zehn Milliliter.
+
+Du nimmst also zehn Milliliter Stammlösung und füllst mit Wasser auf insgesamt hundert Milliliter auf. Du gibst also neunzig Milliliter Wasser dazu, nicht hundert. Das Endvolumen ist hundert Milliliter.
+
+Ein zweites Beispiel aus der Praxis. Du hast Ethanol mit sechsundneunzig Prozent. Du brauchst hundert Milliliter Ethanol mit siebzig Prozent zum Desinfizieren. Siebzig mal hundert, geteilt durch sechsundneunzig, ergibt etwa dreiundsiebzig. Du nimmst also etwa dreiundsiebzig Milliliter Ethanol und füllst mit Wasser auf hundert Milliliter auf.
+
+Es gibt zwei wichtige Regeln. Beide Konzentrationen müssen dieselbe Einheit haben. Und beide Volumen müssen dieselbe Einheit haben. Sonst ist das Ergebnis falsch. Ist eine Konzentration in Mol pro Liter und die andere in Millimol pro Liter, musst du zuerst umrechnen.
+
+Mit der Formel kann man auch jeden anderen Wert finden. Kennt man die Menge der Stammlösung und das Endvolumen, kann man die neue Konzentration berechnen. Dann ist c zwei gleich c eins mal V eins, geteilt durch V zwei.
+
+Warum ist das im Labor wichtig? Standards, Kalibratoren, Kontrollen und Reagenzien stellt man oft durch Verdünnen her. Jede falsche Verdünnung führt zu falschen Ergebnissen bei allen Proben, die damit gemessen werden. Darum sind sorgfältiges Pipettieren und richtiges Rechnen wichtige Fähigkeiten in deiner Ausbildung.
+
+Kurz gesagt: Beim Verdünnen bleibt die Stoffmenge gleich. C eins mal V eins ist gleich c zwei mal V zwei. Benutze auf beiden Seiten dieselben Einheiten. Und denk daran: V zwei ist das Endvolumen, nicht die Menge Wasser, die du dazugibst.
+
+# Verdünnungsfaktor und Verdünnungsreihe — Serial dilution
+
+Der Verdünnungsfaktor sagt, wie stark eine Lösung verdünnt wurde. Er ist das Endvolumen geteilt durch das Volumen der ursprünglichen Probe. Nimmt man zehn Milliliter und füllt auf hundert Milliliter auf, ist der Verdünnungsfaktor zehn. Das ist dasselbe wie eine Verdünnung eins zu zehn.
+
+Der Verdünnungsfaktor ist auch die ursprüngliche Konzentration geteilt durch die neue Konzentration.
+
+Jetzt eine wichtige Situation im Labor. Manchmal ist ein Patientenwert zu hoch für den Messbereich des Analysegeräts. Dann verdünnt man die Probe, zum Beispiel eins zu zehn. Das Gerät misst jetzt einen Wert in seinem Messbereich. Aber dieser Wert ist die Konzentration der verdünnten Probe. Um den wahren Wert des Patienten zu bekommen, muss man mit dem Verdünnungsfaktor multiplizieren. Misst das Gerät fünfzig und war die Verdünnung eins zu zehn, ist der wahre Wert fünfhundert. Vergisst man diesen Schritt, steht auf dem Befund ein zehnmal zu kleiner Wert. Viele moderne Geräte rechnen das automatisch. Du musst aber immer wissen, was passiert ist.
+
+Manchmal ist eine Probe extrem konzentriert. Zum Beispiel Urin mit Millionen von Bakterien pro Milliliter. Eine einzige Verdünnung reicht dann nicht. Dann verdünnt man mehrmals hintereinander. Das heißt Verdünnungsreihe.
+
+So funktioniert es. Du stellst eine Reihe von Röhrchen auf, jedes mit neun Millilitern Verdünnungsmittel. In das erste Röhrchen gibst du einen Milliliter Probe und mischst gut. Das ist eine Verdünnung eins zu zehn. Dann nimmst du einen Milliliter aus dem ersten Röhrchen, gibst ihn in das zweite und mischst. Die Gesamtverdünnung ist jetzt eins zu hundert. Im dritten Röhrchen ist sie eins zu tausend.
+
+Die Faktoren werden multipliziert. Zehn mal zehn mal zehn ist tausend. Mit jedem Schritt kommt eine Null dazu. Nach sechs Schritten ist die Verdünnung eins zu einer Million. Das ist das gleiche Muster wie bei den Zehnerpotenzen.
+
+Zwei praktische Regeln sind wichtig. Misch jedes Röhrchen gut, bevor du die nächste Portion nimmst. Und nimm für jeden Schritt eine neue Pipettenspitze. Sonst verschleppst du Probe in das nächste Röhrchen, und die ganze Reihe ist falsch.
+
+Es gibt auch Verdünnungsreihen mit dem Faktor zwei. Dort hat jedes Röhrchen die halbe Konzentration des vorherigen. Sie sind in der Serologie häufig.
+
+Warum ist das im Labor wichtig? In der Mikrobiologie zählt man so Bakterien. Man streicht eine Portion einer Verdünnung auf eine Agarplatte aus. Am nächsten Tag zählt man die Kolonien. Jede Kolonie ist aus einem Bakterium gewachsen. Dann multipliziert man mit dem Verdünnungsfaktor. So erhält man die Zahl der Bakterien in der ursprünglichen Probe. In der Serologie bestimmt man mit einer Verdünnungsreihe den Titer. Der Titer ist die höchste Verdünnung, bei der eine Reaktion noch positiv ist. Ein hoher Titer bedeutet viele Antikörper im Blut.
+
+Kurz gesagt: Der Verdünnungsfaktor ist das Endvolumen geteilt durch das Probenvolumen. Nach der Messung einer verdünnten Probe multipliziert man mit dem Verdünnungsfaktor. Bei einer Verdünnungsreihe werden die Faktoren multipliziert. Gut mischen und für jeden Schritt eine neue Spitze nehmen.
+
+# Abschluss — Final summary
+
+Du hast jetzt die vollständigen Grundlagen für den Start deiner Ausbildung gehört. Hier ist noch einmal das große Bild.
+
+Die Chemie erklärt, was Stoffe sind und wie sie reagieren. Atome bestehen aus Protonen, Neutronen und Elektronen. Die äußeren Elektronen bestimmen, wie Atome sich verbinden. Entweder geben sie Elektronen ab, wie bei der Ionenbindung. Oder sie teilen sie, wie bei der Atombindung. Polare Moleküle wie Wasser lösen Salze, aber keine Fette. Teilchen zählt man in Mol. Mit der molaren Masse rechnet man Gramm in Mol um. Reaktionsgleichungen müssen ausgeglichen sein. Der limitierende Reaktant bestimmt die Menge an Produkt. Konzentrationen gibt man in Mol pro Liter, Gramm pro Liter, Prozent oder Teilen pro Million an. Die wichtigsten Reaktionsarten sind Fällung, Redoxreaktion und Säure-Base-Reaktion.
+
+Die Zellbiologie erklärt, woher die Stoffe im Blut kommen. Bakterien sind Prokaryoten ohne Zellkern. Menschliche Zellen sind Eukaryoten mit Zellkern und Organellen. Die Membran steuert, was in die Zelle hinein und aus ihr heraus kommt. Das geschieht durch Diffusion, Osmose und aktiven Transport. Zellen teilen sich durch Mitose. Keimzellen entstehen durch Meiose. Die DNA speichert die Information. Die RNA bringt eine Kopie zu den Ribosomen. Und die Ribosomen bauen die Proteine.
+
+Das Laborrechnen macht aus all dem richtige Zahlen. Kenne die S I Einheiten und die Vorsilben. Rechne Einheiten sorgfältig um und prüfe, ob das Ergebnis plausibel ist. Benutze den Dreisatz und die Prozentrechnung. Und bei jeder Verdünnung gilt: c eins mal V eins ist gleich c zwei mal V zwei. Am Ende multiplizierst du mit dem Verdünnungsfaktor.
+
+Hör die Kapitel noch einmal, wann immer du sie brauchst. Mit jedem Hören werden die Ideen klarer und hängen besser zusammen. Viel Erfolg in deiner Ausbildung!
