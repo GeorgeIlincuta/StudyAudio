@@ -33,7 +33,20 @@ from guideaudio.reader import (
     text_marks,
     text_timeline,
 )
+from guideaudio.retag import RetagError, retag_file
 from guideaudio.synth import ClipSpec, synthesize_clips
+
+
+def engine_identity() -> tuple[str, int]:
+    """The paced engine's cache id and sample rate, without loading the model (retag only needs the cache keys)."""
+    from types import SimpleNamespace
+
+    from guideaudio.config import SAMPLE_RATE
+    from guideaudio.pace import PacedEngine
+    from guideaudio.tts.supertonic import SupertonicEngine
+
+    paced = PacedEngine(SimpleNamespace(engine_id=SupertonicEngine.engine_id, sample_rate=SAMPLE_RATE), PaceConfig())
+    return paced.engine_id, paced.sample_rate
 
 
 def build_engine():
@@ -65,6 +78,11 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
     parser.add_argument(
         "--title", default=None,
         help="title shown in the player (default: the guide's first line)",
+    )
+    parser.add_argument(
+        "--retag", action="store_true",
+        help="rewrite only the tag (title, chapters, read-along text) of the existing output file from the cache; "
+             "no synthesis, the audio is not touched",
     )
     parser.add_argument(
         "--limit", type=int, default=None,
@@ -161,6 +179,21 @@ def main(argv: list[str] | None = None) -> int:
     # Checked now, not after an hour of synthesis: a bad output path should
     # fail in a second, before synthesis even starts.
     output.parent.mkdir(parents=True, exist_ok=True)
+
+    if args.retag:
+        engine_id, sample_rate = engine_identity()
+        try:
+            chapters_written, lines_written = retag_file(
+                output, title, timeline, marks, lines, args.cache_dir, engine_id, sample_rate, language
+            )
+        except RetagError as error:
+            print(f"retag failed: {error}", file=sys.stderr)
+            return 1
+        except (OSError, wave.Error) as error:
+            print(f"retag failed: {error} — nothing changed", file=sys.stderr)
+            return 1
+        print(f"retagged {output}: title {title!r}, {chapters_written} chapters, {lines_written} text lines")
+        return 0
 
     engine = build_engine()
 

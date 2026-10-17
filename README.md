@@ -44,6 +44,21 @@ The Supertonic model downloads automatically on the first run (GermanAudio alrea
 The language comes from the `_en` / `_de` file name ending, or from `--lang en` / `--lang de`. Every sentence
 is synthesized in that language, so the English guide gets English pronunciation.
 
+## Read-along text
+
+Every guide MP3 carries its text with sentence timings, which the Hörplayer shows with the spoken sentence
+highlighted: one ID3 `SYLT` frame (UTF-16, `deu` or `eng`, millisecond timestamps, type lyrics) with one entry per
+spoken sentence — the sentence as written, a leading line break on the first sentence of each paragraph, and
+`# Title — Subtitle` for headings (at the same time as their `CHAP`).
+
+To add or refresh the title, chapters and text of an existing MP3 without re-synthesizing (the audio stays
+byte-for-byte the same; it refuses and changes nothing if a clip is missing from the cache or the text no longer
+matches the audio):
+
+```
+python -m guideaudio phase1_guide_de.txt --retag
+```
+
 ## Guide format
 
 - Plain UTF-8 text. The first line is the title, ending with a period.
