@@ -92,6 +92,9 @@ def test_build_writes_title_and_chapters_for_the_player(tmp_path):
     assert tags["TIT2"].text == ["Grundlagen für das Labor"]
     assert [c.sub_frames["TIT2"].text[0] for c in chapters] == ["Der Atombau — Atomic structure"]
     assert tags.getall("CTOC")[0].sub_frames["TIT2"].text == ["Inhalt"]
+    texts = [t for t, _ in tags.getall("SYLT")[0].text]
+    assert texts == ["Grundlagen für das Labor.", "# Der Atombau — Atomic structure", "\nAlles besteht aus Atomen."]
+    assert tags.getall("SYLT")[0].lang == "deu"
 
 
 def test_english_table_of_contents_is_labelled_in_english(tmp_path):

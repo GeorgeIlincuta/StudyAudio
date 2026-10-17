@@ -188,6 +188,26 @@ def text_timeline(
     return timeline
 
 
+def text_lines(blocks: list[Block]) -> dict[int, str]:
+    """The read-along text of every spoken clip in `text_timeline`, keyed by timeline index.
+
+    Sentences as written; the first sentence of a paragraph after the first starts with a line break, and a heading
+    is "# " + its full title — the Hörplayer's SYLT conventions.
+    """
+    lines: dict[int, str] = {}
+    index = 0
+    for block in blocks:
+        if isinstance(block, Heading):
+            lines[index] = f"# {block.title}"
+            index += 2
+            continue
+        for position, sentence in enumerate(block.sentences):
+            new_paragraph = position == 0 and bool(lines)
+            lines[index] = f"\n{sentence}" if new_paragraph else sentence
+            index += 2
+    return lines
+
+
 def text_marks(blocks: list[Block]) -> Marks:
     """Where each heading's spoken clip sits in `text_timeline`, keyed by timeline index."""
     marks: Marks = {}

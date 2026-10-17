@@ -11,7 +11,7 @@ import wave
 from pathlib import Path
 
 from guideaudio.assemble import encode_mp3, render
-from guideaudio.chapters import mark_positions, write_tags
+from guideaudio.chapters import Chapter, item_starts, line_positions, write_tags
 from guideaudio.check import CheckReport, check_text
 from guideaudio.config import (
     CACHE_DIR,
@@ -29,6 +29,7 @@ from guideaudio.reader import (
     limit_sentences,
     read_text,
     split_text,
+    text_lines,
     text_marks,
     text_timeline,
 )
@@ -152,6 +153,7 @@ def main(argv: list[str] | None = None) -> int:
     voice = VoiceConfig().for_language(language)
     timeline = text_timeline(blocks, language, voice, TextPauseConfig())
     marks = text_marks(blocks)
+    lines = text_lines(blocks)
 
     # A preview gets its own default name, so it never replaces the full track.
     default_name = f"{args.input.stem}_preview.mp3" if args.limit is not None else f"{args.input.stem}.mp3"
@@ -206,14 +208,13 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     try:
-        chapters, total = mark_positions(
-            timeline, marks, args.cache_dir, engine.engine_id, engine.sample_rate
-        )
-        write_tags(output, title, chapters, total, engine.sample_rate, language)
+        starts, total = item_starts(timeline, args.cache_dir, engine.engine_id, engine.sample_rate)
+        chapters = [Chapter(marks[i], starts[i]) for i in sorted(marks)]
+        write_tags(output, title, chapters, total, engine.sample_rate, language, line_positions(starts, lines))
     except (OSError, wave.Error) as error:
         print(f"track written, but adding the title and chapters failed: {error}", file=sys.stderr)
         return 1
-    print(f"  title {title!r}, {len(chapters)} chapters")
+    print(f"  title {title!r}, {len(chapters)} chapters, {len(lines)} text lines")
 
     size_mb = output.stat().st_size / 1_000_000
     print(f"done: {output} ({size_mb:.1f} MB)")
