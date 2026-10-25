@@ -3,6 +3,7 @@
     python -m guideaudio phase1_guide_en.txt --check
     python -m guideaudio phase1_guide_de.txt --limit 20 -o out/preview_de.mp3
     python -m guideaudio phase1_guide_de.txt
+    python -m guideaudio encyclopedia_bakterien_de.txt --markdown
 """
 
 import argparse
@@ -33,6 +34,7 @@ from guideaudio.reader import (
     text_marks,
     text_timeline,
 )
+from guideaudio.markdown import render_markdown
 from guideaudio.retag import RetagError, retag_file
 from guideaudio.synth import ClipSpec, synthesize_clips
 
@@ -83,6 +85,10 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
         "--retag", action="store_true",
         help="rewrite only the tag (title, chapters, read-along text) of the existing output file from the cache; "
              "no synthesis, the audio is not touched",
+    )
+    parser.add_argument(
+        "--markdown", action="store_true",
+        help="write the text as a Markdown reference book (default: out/<input name>.md) instead of audio",
     )
     parser.add_argument(
         "--limit", type=int, default=None,
@@ -186,6 +192,12 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     blocks = split_text(text)
+    if args.markdown:
+        output = args.output or OUT_DIR / f"{args.input.stem}.md"
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_text(render_markdown(blocks, language, args.input.name), encoding="utf-8")
+        print(f"done: {output}")
+        return 0
     title = args.title or guide_title(blocks) or args.input.stem
     if args.limit is not None:
         blocks = limit_sentences(blocks, args.limit)

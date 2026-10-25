@@ -88,6 +88,15 @@ check prints the template it found:
 42 entries, each with the sections: Einordnung → Mikroskop und Kultur → Die Tests → Die Krankheiten → Resistenz und Therapie → Kurz gesagt
 ```
 
+`--markdown` writes the same text as a Markdown reference book instead of audio (default `out/<input name>.md`, or
+`-o`): a title page, contents grouped by part, an overview table per part, every entry numbered with its section
+labels as headings, the practice and summary paragraphs as boxes, and an A–Z register. Spellings made for the voice
+go back to their written form ("M R S A" → MRSA). It works for any guide; one without entries just gets no register.
+
+```
+python -m guideaudio encyclopedia_bakterien_de.txt --markdown
+```
+
 ## Even pace
 
 Supertonic speaks short sentences up to 60% faster than long ones ("Teil eins ist die allgemeine Chemie." came out

@@ -176,6 +176,16 @@ Kurz gesagt: Häufig im Urin.
 """
 
 
+def test_markdown_writes_the_book_without_synthesizing(tmp_path, stub_engine):
+    output = tmp_path / "book.md"
+
+    assert run(write(tmp_path, "encyclopedia_bakterien_de.txt", ENCYCLOPEDIA_DE), tmp_path,
+               "--markdown", "-o", str(output)) == 0
+
+    assert "## 🦠 Escherichia coli" in output.read_text(encoding="utf-8")
+    assert stub_engine.calls == []
+
+
 def test_check_of_an_encyclopedia_lists_its_sections(tmp_path, capsys):
     assert run(write(tmp_path, "encyclopedia_bakterien_de.txt", ENCYCLOPEDIA_DE), tmp_path, "--check") == 0
 
