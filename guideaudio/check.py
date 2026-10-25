@@ -13,6 +13,7 @@ import re
 from dataclasses import dataclass, field
 
 from guideaudio.config import CheckConfig
+from guideaudio.encyclopedia import check_entries
 from guideaudio.reader import TITLE_SEPARATOR, Heading, Paragraph, split_text
 
 # Tested against the real model in GermanAudio; anything else fails synthesis.
@@ -40,6 +41,9 @@ class CheckReport:
     chapters: list[ChapterStats] = field(default_factory=list)
     words: int = 0
     sentences: int = 0
+    # Only filled for an encyclopedia: the section labels every entry follows, and the entries' titles.
+    sections: list[str] = field(default_factory=list)
+    entries: list[str] = field(default_factory=list)
 
     @property
     def ok(self) -> bool:
@@ -81,7 +85,9 @@ def _heading_problems(heading: Heading, language: str, config: CheckConfig) -> t
     return errors, warnings
 
 
-def check_text(text: str, language: str, config: CheckConfig = CheckConfig()) -> CheckReport:
+def check_text(
+    text: str, language: str, config: CheckConfig = CheckConfig(), encyclopedia: bool = False
+) -> CheckReport:
     report = CheckReport()
     lines = text.splitlines()
 
@@ -134,4 +140,8 @@ def check_text(text: str, language: str, config: CheckConfig = CheckConfig()) ->
 
     if not report.chapters:
         report.warnings.append("no chapter headings; the player will show the guide as one block")
+    if encyclopedia:
+        entries = check_entries(split_text(text), language)
+        report.sections, report.entries = entries.sections, entries.entries
+        report.warnings += entries.warnings
     return report

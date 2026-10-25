@@ -1,0 +1,232 @@
+=====================================================================
+PROMPT 4: AUDIO ENCYCLOPEDIA (CATEGORISED PROFILES)
+Copy everything between the two lines of dashes into a new Claude chat.
+Fill in the [BRACKETS]. Run it once per language.
+=====================================================================
+----------------------------------------------------------------------
+I'm preparing for [the Ausbildung zur Medizinischen Technologin für
+Laboratoriumsanalytik]. I want an audio encyclopedia on one topic, so I
+can listen to it while walking and later jump straight to any entry in
+my player. A local app reads the text aloud.
+
+TOPIC: [for example: the bacteria an MTL meets most often in the lab]
+ITEMS: [optional: paste a list of the items you want covered, or write
+"you choose the most important ones for my work"]
+WHAT I ALREADY KNOW: [for example: general microbiology from my earlier
+guides: cell structure, Gram stain, culture media, antibiogram]
+LANGUAGE: [English / German]
+LENGTH: about [180] minutes of audio. Allow about 110 words per minute:
+60 minutes is about 6,500 words, 180 minutes about 20,000. Stay within
+10% of the target.
+
+- English: plain, clear English only. No German words.
+- German: German at B1 level only. No English words in the text. Short,
+  clear sentences, mostly 8 to 18 words. Use the present tense wherever
+  possible. Latin or scientific names are allowed and always written
+  out in full.
+
+WHAT AN AUDIO ENCYCLOPEDIA IS
+
+It is a reference work to listen to, not a course and not a story. It
+has two jobs. First, it must show the whole topic as a clear, logical
+classification, so the listener always knows where an item belongs.
+Second, it must give every important item its own detailed profile
+(an "entry") that always has the same sections in the same order. A
+listener who hears one entry knows exactly how every other entry is
+built and can jump into any of them.
+
+STEP ONE: THE PLAN (send this first, then wait for my "OK")
+
+Before writing any text, send me a plan with these four parts, as a
+short plain list. I may change it.
+
+1. The classification. Sort the items into parts and, where useful,
+   groups inside the parts. Use the system that professionals in the
+   field actually use to tell items apart (for bacteria: Gram stain,
+   then shape, then key tests). Each part must be one clear category;
+   no part may be a "miscellaneous" bin. Give the decision rule that
+   separates the parts in one sentence each.
+2. The entries. List every entry under its part. One entry per item.
+   Give an item its own entry when it matters on its own in practice;
+   merge only items that really are handled together. Aim for 30 to 50
+   entries for a long encyclopedia.
+3. The section template. Choose four to six section labels that fit
+   this topic, in a fixed order, plus the two fixed closing paragraphs
+   (see below). Each label is one to four words. Example for bacteria
+   in German: Einordnung, Mikroskop und Kultur, Die Tests, Die
+   Krankheiten, Resistenz und Therapie. Example for drugs: Einordnung,
+   Wirkung, Anwendung, Nebenwirkungen, Im Labor. The first label is
+   always the classification label (German "Einordnung", English
+   "Overview"): where the item sits on the map and what makes it
+   recognisable.
+4. The overview and reference chapters. List the non-entry chapters
+   (see the structure below), including the quick-reference chapters
+   you will write at the end and what each one covers.
+
+STEP TWO: THE TEXT
+
+Structure of the whole encyclopedia, in this order:
+
+- The title line.
+- A chapter on how to use the encyclopedia: what it covers, how the
+  parts are ordered, and the section labels every entry uses, read out
+  in order, so the listener knows the template before the first entry.
+  Tell the listener they can jump to any entry.
+- A map chapter: the whole classification in words, from the top
+  category down to every group, naming the entries in each group. This
+  is the most important overview; make it concrete and complete.
+- For each part: a short intro chapter that explains how to recognise
+  this category and tell its groups apart (a spoken decision path:
+  "First ask … If yes … If no …"), then the entries of the part, then a
+  short summary chapter of the part.
+- Topic chapters where a theme cuts across many entries (for bacteria:
+  resistance mechanisms, specimen types, lab safety). These are written
+  as normal prose, not as entries.
+- A final quick-reference part for revision: comparison chapters that
+  re-sort the knowledge in a new way (for example: the key tests and
+  what each one decides; which item belongs with which tool or method;
+  the most common mix-ups between similar items and the one feature
+  that separates them). Then a final summary of the whole encyclopedia.
+
+How every entry is built (this is checked by the app):
+
+- The entry's first paragraph starts with the first label and a colon,
+  for example "Einordnung: Staphylococcus aureus ist …". Every section
+  is one or more paragraphs; only its first paragraph starts with the
+  label and a colon. Further paragraphs in the same section start with
+  normal prose.
+- All entries use exactly the same labels, spelled exactly the same, in
+  exactly the same order. Never skip a section, never rename one, never
+  add a one-off label. If a section has little to say for one item, say
+  that briefly and say why. That is useful information too.
+- After the template sections come the two fixed closing paragraphs.
+  First a paragraph that starts with the practice question (German:
+  "Warum ist das im Labor wichtig?"; English: "Why does this matter in
+  the lab?"), with a concrete, realistic situation from daily work.
+  Then the last paragraph, which starts with "Kurz gesagt:" (English:
+  "In short:") and sums up the entry in two to four sentences that name
+  the item's most distinctive features.
+- Non-entry chapters (how to use, map, part intros, part summaries,
+  topic chapters, quick reference, final summary) must NOT start with a
+  label and a colon. Start them with normal prose. They may end with a
+  "Kurz gesagt:" paragraph.
+- Inside any paragraph, never start a paragraph with a short phrase and
+  a colon unless it is one of the template labels or "Kurz gesagt:".
+  The app treats "Short phrase: …" at the start of a paragraph as a
+  section label.
+
+What makes the data good (most important):
+
+- Specific, not generic. Every section gives facts that belong to this
+  item and no other: its typical look, its numbers, its names, its
+  identifying tests, its typical sources and situations. Avoid
+  sentences that would fit any entry ("it can cause infections",
+  "it is important in the lab").
+- Distinctive. Each entry names the one or two features that set the
+  item apart from its closest neighbours, and says which neighbour it
+  is most often confused with and how to tell them apart.
+- Diverse. Cover different kinds of facts across the sections: how to
+  recognise it, where it comes from, what it does, how it is handled or
+  treated, what can go wrong, and one memorable fact (a history note, a
+  name origin, an unusual property) that makes the entry easy to
+  remember. Do not repeat the same fact in several entries; mention it
+  once where it belongs and refer back to it.
+- Practical. Include the details a professional actually uses at work:
+  thresholds and typical values with "about" or "normally", the right
+  sample, transport or handling rules, typical pitfalls, safety and
+  legal duties such as reporting obligations. Say when values or rules
+  differ between labs or change over time.
+- Correct. Facts must be correct and current. When something is
+  uncertain or varies, say so in plain words. Do not invent numbers.
+- Connected. When an entry builds on another, say so ("du kennst das
+  Enzym schon von Proteus"), so the encyclopedia feels like one map,
+  not a pile of cards.
+
+Length of chapters: every chapter, entry or not, should be about 300 to
+650 words, which is 3 to 6 minutes of audio. If an item needs more,
+split the topic, not the entry: put the cross-cutting part into a topic
+chapter. Part intros and part summaries may be shorter.
+
+Use simple everyday comparisons (kitchen, house, post office, cookbook,
+bus) when they help. Do not use comparisons from computers, programming
+or IT.
+
+HOW THE APP READS THE TEXT (this decides the format)
+
+- Plain UTF-8 text, no markdown: no *, bullet points or numbered lists.
+  The only special character is # at the start of a chapter heading line
+  (see below).
+- An empty line starts a new paragraph, which gets a 1.5 s pause. Every
+  sentence gets a 0.6 s pause after it. A line break without an empty
+  line is ignored.
+- Sentences are split at . ! ? or … followed by a space. So every
+  sentence must end with one of those.
+- Every chapter starts with a heading line: # , then a short title of
+  one to four words. No chapter number, no period at the end. Put an
+  empty line before it. For an entry, the title is the item's name.
+  English encyclopedia, title only:
+
+  # Staphylococcus aureus
+
+  German encyclopedia, German title, space, em dash (—), space, English
+  translation (only the German part is read aloud; the player shows the
+  English under it):
+
+  # Die Pneumokokken — Streptococcus pneumoniae
+
+  Part intro headings count too: "# Teil zwei: Grampositive Stäbchen"
+  is four words. "Teil zwei:" already uses two of the four.
+
+LIMITS OF THE VOICE GENERATOR (Supertonic text-to-speech)
+
+The text is read aloud exactly as written. An unknown character makes that
+sentence fail. An abbreviation also puts a false pause in the middle of a
+sentence. So:
+
+- No digits at all. Write numbers as words: "seven point four" or
+  "sieben komma vier", "one hundred forty millimoles per liter" or
+  "hundertvierzig Millimol pro Liter".
+- No abbreviations with a period: not "e.g.", "i.e.", "etc.", "approx.",
+  "Dr.", "z. B.", "usw.", "bzw.", "ca.", "Nr." or "d. h.". Write them
+  out. Never shorten a genus to one letter with a period: write
+  "Escherichia coli", never "E. coli".
+- Letter abbreviations that should be spelled out get spaces between the
+  letters: "M R S A", "E S B L", "P C R" is also fine as "P C R". Common
+  ones like DNA, RNA and pH can stay as they are.
+- No chemical formulas, subscripts or superscripts. No unit symbols (not
+  mg/L, °C, µl or %): write "milligrams per liter", "degrees Celsius",
+  "Prozent".
+- No arrows, Greek letters, ±, ×, ≈, =, +, brackets, slashes or emoji.
+  Write Greek letters as words: "Beta-Hämolyse".
+- No accented letters other than ä ö ü Ä Ö Ü ß: write "Guillain-Barre",
+  not with an accent.
+- Don't write "..." in the middle of a sentence; it ends the sentence
+  there.
+- Keep sentences under 25 words.
+- Characters tested and accepted: letters, ä ö ü Ä Ö Ü ß, and
+  , . : ; - – — … ! ? ' " “ ” ‘ ’ » « € % &
+
+OUTPUT
+
+First the plan (step one), then wait. After my "OK", plain text only,
+no code block and no commentary. The first line is the title, ending
+with a period. Because the text is long, write it in parts of about
+[6] chapters each. After each part I'll say "continue".
+----------------------------------------------------------------------
+
+AFTER THE CHAT (for you, not for Claude)
+
+Run these in the StudyAudio folder (C:\LOCAL FILES\Claude Code\Python\StudyAudio) (see README.md).
+
+1. Paste all parts into one file and save it as UTF-8. Start the name with
+   encyclopedia_ and end it with the language, for example
+   encyclopedia_bakterien_de.txt. The encyclopedia_ prefix makes the app
+   check the entries and tag the MP3 as an encyclopedia.
+2. Check it:     python -m guideaudio encyclopedia_bakterien_de.txt --check
+   Besides the normal text rules it prints the section template it found,
+   for example "42 entries, each with the sections: Einordnung → … →
+   Kurz gesagt", and warns about every entry whose sections differ. Ask
+   Claude to fix those entries, or fix them yourself.
+3. Preview:      python -m guideaudio encyclopedia_bakterien_de.txt --limit 20
+4. Build it:     python -m guideaudio encyclopedia_bakterien_de.txt
+   (Writes out/encyclopedia_bakterien_de.mp3 with the genre Enzyklopädie.)

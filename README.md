@@ -51,8 +51,9 @@ highlighted: one ID3 `SYLT` frame (UTF-16, `deu` or `eng`, millisecond timestamp
 spoken sentence — the sentence as written, a leading line break on the first sentence of each paragraph, and
 `# Title — Subtitle` for headings (at the same time as their `CHAP`).
 
-Each build also writes the genre (`TCON`): `Leitfaden`, or `Geschichte` for an input named `story_*.txt`. The
-Hörplayer picks the file's icon from it. `--retag` writes it too.
+Each build also writes the genre (`TCON`): `Leitfaden`, `Geschichte` for an input named `story_*.txt`, or
+`Enzyklopädie` for an input named `encyclopedia_*.txt`. The Hörplayer picks the file's icon from it. `--retag`
+writes it too.
 
 To add or refresh the title, chapters and text of an existing MP3 without re-synthesizing (the audio stays
 byte-for-byte the same; it refuses and changes nothing if a clip is missing from the cache or the text no longer
@@ -70,6 +71,22 @@ python -m guideaudio phase1_guide_de.txt --retag
   (only the German part is spoken; the player shows the English part underneath). One to four words, no period.
 - No digits, unit symbols, formulas, brackets, slashes or abbreviations with a period. The full list is in
   `prompt_audio_guide.txt`.
+
+## Encyclopedias
+
+An encyclopedia is a guide made of entries: one per item of a topic (one bacterium, one drug), sorted into parts by
+a classification, with overview, quick-reference and summary chapters around them. Write it with
+`prompt_audio_encyclopedia.txt` and name it `encyclopedia_<topic>_de.txt` or `_en.txt`.
+
+Every entry walks through the same sections, each starting a paragraph with its label and a colon
+(`Einordnung: …`, `Die Tests: …`) and ending with `Kurz gesagt: …` (`In short: …` in English). The labels are
+not configured: the first chapter whose first paragraph starts with a label sets them, and `--check` warns about
+every later entry with other labels or another order. Chapters that start with plain prose are not entries. The
+check prints the template it found:
+
+```
+42 entries, each with the sections: Einordnung → Mikroskop und Kultur → Die Tests → Die Krankheiten → Resistenz und Therapie → Kurz gesagt
+```
 
 ## Even pace
 

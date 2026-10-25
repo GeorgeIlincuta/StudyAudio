@@ -143,7 +143,8 @@ def test_second_build_reuses_the_cache(tmp_path, stub_engine, capsys):
 @pytest.mark.parametrize(
     ("name", "expected"),
     [("phase1_guide_de.txt", "Leitfaden"), ("story_grundlagen_phase1_de.txt", "Geschichte"),
-     ("Story_X_en.txt", "Geschichte"), ("my_story_de.txt", "Leitfaden")],
+     ("Story_X_en.txt", "Geschichte"), ("my_story_de.txt", "Leitfaden"),
+     ("encyclopedia_bakterien_de.txt", "Enzyklopädie"), ("my_encyclopedia_de.txt", "Leitfaden")],
 )
 def test_guide_genre_from_the_file_name(name, expected):
     from pathlib import Path
@@ -159,3 +160,23 @@ def test_build_writes_the_genre(tmp_path):
     story = tmp_path / "story.mp3"
     run(write(tmp_path, "story_labor_de.txt", GUIDE_DE), tmp_path, "-o", str(story))
     assert ID3(story)["TCON"].text == ["Geschichte"]
+
+    encyclopedia = tmp_path / "encyclopedia.mp3"
+    run(write(tmp_path, "encyclopedia_labor_de.txt", GUIDE_DE), tmp_path, "-o", str(encyclopedia))
+    assert ID3(encyclopedia)["TCON"].text == ["Enzyklopädie"]
+
+
+ENCYCLOPEDIA_DE = """Bakterien.
+
+# Escherichia coli — Escherichia coli
+
+Einordnung: Ein Darmbakterium.
+
+Kurz gesagt: Häufig im Urin.
+"""
+
+
+def test_check_of_an_encyclopedia_lists_its_sections(tmp_path, capsys):
+    assert run(write(tmp_path, "encyclopedia_bakterien_de.txt", ENCYCLOPEDIA_DE), tmp_path, "--check") == 0
+
+    assert "1 entries, each with the sections: Einordnung → Kurz gesagt" in capsys.readouterr().out

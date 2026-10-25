@@ -97,11 +97,20 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
 
 GUIDE_GENRE = "Leitfaden"
 STORY_GENRE = "Geschichte"
+ENCYCLOPEDIA_GENRE = "Enzyklopädie"
 
 
 def guide_genre(path: Path) -> str:
-    """The player's file type, written as the ID3 genre: "story_..." inputs are stories, everything else a guide."""
-    return STORY_GENRE if Path(path).name.lower().startswith("story_") else GUIDE_GENRE
+    """The player's file type, written as the ID3 genre, from the input's name prefix.
+
+    "story_..." is a story, "encyclopedia_..." an encyclopedia, everything else a guide.
+    """
+    name = Path(path).name.lower()
+    if name.startswith("story_"):
+        return STORY_GENRE
+    if name.startswith("encyclopedia_"):
+        return ENCYCLOPEDIA_GENRE
+    return GUIDE_GENRE
 
 
 def detect_language(path: Path) -> str | None:
@@ -133,6 +142,8 @@ def _print_report(report: CheckReport, config: CheckConfig, show_chapters: bool)
                 note = "   (long)"
             print(f"  {chapter.words:5d} words  {chapter.title}{note}")
         print()
+    if report.sections:
+        print(f"{len(report.entries)} entries, each with the sections: {' → '.join(report.sections)}")
     minutes = round(report.words / config.words_per_minute)
     print(
         f"{len(report.chapters)} chapters, {report.sentences} sentences, "
@@ -163,7 +174,8 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     config = CheckConfig()
-    report = check_text(text, language, config)
+    genre = guide_genre(args.input)
+    report = check_text(text, language, config, encyclopedia=genre == ENCYCLOPEDIA_GENRE)
     print(f"{args.input} ({language})")
     _print_report(report, config, show_chapters=args.check)
     if not report.ok:
@@ -181,7 +193,6 @@ def main(argv: list[str] | None = None) -> int:
     timeline = text_timeline(blocks, language, voice, TextPauseConfig())
     marks = text_marks(blocks)
     lines = text_lines(blocks)
-    genre = guide_genre(args.input)
 
     # A preview gets its own default name, so it never replaces the full track.
     default_name = f"{args.input.stem}_preview.mp3" if args.limit is not None else f"{args.input.stem}.mp3"
