@@ -38,7 +38,7 @@ Zwei Kokken.
 
 
 def render(text=ENCYCLOPEDIA_DE, language="de"):
-    return render_markdown(split_text(text), language, "encyclopedia_test_de.txt")
+    return render_markdown(split_text(text), language, "encyclopedia_bakterien_de.txt")
 
 
 def test_voice_spellings_go_back_to_written_form():
@@ -46,6 +46,17 @@ def test_voice_spellings_go_back_to_written_form():
     assert readable("Gruppe A, B und C") == "Gruppe A, B und C"
     assert readable("Das H B s-Antigen, Anti-H B c und der C T-Wert.") == "Das HBs-Antigen, Anti-HBc und der Ct-Wert."
     assert readable("Die H I V und P C R") == "Die HIV und PCR"
+    assert (readable("Das H b A eins c, das h C G, die e G F R, p C O zwei, p O zwei, N T-pro B N P und C K-M B.")
+            == "Das HbA1c, das hCG, die eGFR, pCO2, pO2, NT-proBNP und CK-MB.")
+
+
+def test_entry_icon_follows_the_subject_of_the_file():
+    text = ENCYCLOPEDIA_DE.replace("Die Tests:", "Probe und Messung:")
+    md = render_markdown(split_text(text), "de", "encyclopedia_klinische_chemie_de.txt")
+
+    assert "## 🧪 Staphylococcus aureus" in md and "`01` 🧪 [Staphylococcus aureus]" in md
+    assert "#### 🧪 Probe und Messung" in md
+    assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 
 def test_entries_are_numbered_with_icon_sections_and_boxes():

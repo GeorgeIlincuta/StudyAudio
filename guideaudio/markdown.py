@@ -29,14 +29,20 @@ WORDS = {
 SECTION_ICONS = {
     "Einordnung": "🧭", "Overview": "🧭", "Mikroskop und Kultur": "🔬", "Die Tests": "🧪",
     "Die Krankheiten": "🩺", "Resistenz und Therapie": "💊", "Wirkung": "⚙️", "Anwendung": "🩹",
-    "Nebenwirkungen": "⚠️", "Im Labor": "🧫",
+    "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
+    "Die Werte": "📊", "Fehlerquellen": "⚠️",
 }
+# Entry icon by a word in the file name; other subjects get the plain bookmark.
+ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪"}
 PART_ICONS = ["🟣", "🔵", "🔴", "🟠", "🟡", "⚪", "🛡️", "🧫", "⚡", "🟤", "⚫", "🟢"]
 
 
 def readable(text: str) -> str:
     """Undo the spellings made for the voice: "M R S A" -> "MRSA", "I g M" -> "IgM", "H B s" -> "HBs"."""
     text = re.sub(r"\bI g ([MGAE])\b", r"Ig\1", text).replace("Maldi-Tof", "MALDI-TOF").replace("C T-Wert", "Ct-Wert")
+    for spoken, written in (("H b A eins c", "HbA1c"), ("h C G", "hCG"), ("e G F R", "eGFR"),
+                            ("p C O zwei", "pCO2"), ("p O zwei", "pO2"), ("N T-pro B N P", "NT-proBNP")):
+        text = text.replace(spoken, written)
     return re.sub(r"\b[A-Z](?: [A-Z])+(?: [a-z]\b)?\b", lambda m: m.group().replace(" ", ""), text)
 
 
@@ -114,6 +120,7 @@ def _heading_block(heading: Heading, level: str, icon: str) -> str:
 
 def render_markdown(blocks: list[Block], language: str, source_name: str) -> str:
     words, summary = WORDS[language], SUMMARY_LABELS[language]
+    entry_icon = next((icon for word, icon in ENTRY_ICONS.items() if word in source_name.lower()), "🔖")
     front: list[_Chapter] = []
     parts: list[_Part] = []
     for chapter in _chapters(blocks):
@@ -150,7 +157,7 @@ def render_markdown(blocks: list[Block], language: str, source_name: str) -> str
 
     def toc_line(chapter: _Chapter, plain: str) -> str:
         if chapter.number is not None:
-            marker = f"`{chapter.number:02d}` 🦠 "
+            marker = f"`{chapter.number:02d}` {entry_icon} "
         else:
             marker = "📝 " if is_summary(chapter) else plain
         return f"- {marker}[{readable(chapter.heading.spoken_title)}](#{anchor(chapter.heading.spoken_title)})"
@@ -158,7 +165,7 @@ def render_markdown(blocks: list[Block], language: str, source_name: str) -> str
     def chapter_md(chapter: _Chapter, part: _Part | None, icon: str, plain_icon: str) -> str:
         if chapter.number is not None:
             group = f" · **{icon} {_part_name(part)}**" if part else ""
-            return (_heading_block(chapter.heading, "##", "🦠")
+            return (_heading_block(chapter.heading, "##", entry_icon)
                     + f"\n> `{words['entry']} {chapter.number:02d}`{group}\n\n" + _body(chapter, language))
         if is_summary(chapter):
             quoted = "\n>\n".join(f"> {readable(p)}" for p in chapter.paragraphs)
