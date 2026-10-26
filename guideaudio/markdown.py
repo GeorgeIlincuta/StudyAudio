@@ -31,13 +31,13 @@ SECTION_ICONS = {
     "Die Krankheiten": "🩺", "Resistenz und Therapie": "💊", "Wirkung": "⚙️", "Anwendung": "🩹",
     "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
     "Die Werte": "📊", "Fehlerquellen": "⚠️", "Entstehung": "🌱", "Im Ausstrich": "🔬",
-    "Wirkweise": "⚙️",
+    "Wirkweise": "⚙️", "Hintergrund": "💡", "Probe und Methode": "🧪", "Der Befund": "📋",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
-               "haematologie": "🩸", "haemostase": "🩹"}
+               "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
-CD_NUMBERS = {"dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
+CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
 # Spoken numbers of the clotting factors as Roman numerals, longest first so "dreizehn" is not read as "drei".
 FACTOR_NUMERALS = {"dreizehn": "XIII", "zwölf": "XII", "zehn": "X", "neun": "IX", "acht": "VIII", "sieben": "VII",
@@ -47,13 +47,20 @@ PART_ICONS = ["🟣", "🔵", "🔴", "🟠", "🟡", "⚪", "🛡️", "🧫", 
 
 def readable(text: str) -> str:
     """Undo the spellings made for the voice: "M R S A" -> "MRSA", "I g M" -> "IgM", "H B s" -> "HBs"."""
-    text = re.sub(r"\bI g ([MGAE])\b", r"Ig\1", text).replace("Maldi-Tof", "MALDI-TOF").replace("C T-Wert", "Ct-Wert")
+    text = re.sub(r"\bI g ([MGAED])\b", r"Ig\1", text).replace("Maldi-Tof", "MALDI-TOF").replace("C T-Wert", "Ct-Wert")
     for spoken, written in (("H b A eins c", "HbA1c"), ("h C G", "hCG"), ("e G F R", "eGFR"),
                             ("p C O zwei", "pCO2"), ("p O zwei", "pO2"), ("N T-pro B N P", "NT-proBNP"),
                             ("J A K zwei", "JAK2"), ("H b A zwei", "HbA2"), ("a P T T", "aPTT"), ("v W F", "vWF"),
                             ("Anti-X a", "Anti-Xa"), ("t P A", "tPA"), ("A D A M T S dreizehn", "ADAMTS13"),
-                            ("P F vier", "PF4"), ("P A I eins", "PAI-1"), ("d R V V T", "dRVVT")):
+                            ("P F vier", "PF4"), ("P A I eins", "PAI-1"), ("d R V V T", "dRVVT"),
+                            ("A B null", "AB0"), ("d s D N A", "dsDNA"), ("C eins", "C1"), ("C drei d", "C3d"),
+                            ("C drei", "C3"), ("C vier", "C4"), ("H E p-zwei", "HEp-2"), ("P R drei", "PR3"),
+                            ("Scl-siebzig", "Scl-70"), ("D Q zwei", "DQ2"), ("D Q acht", "DQ8"),
+                            ("S m", "Sm"), ("B siebenundzwanzig", "B27"),
+                            ("F y a", "Fya"), ("F y b", "Fyb"), ("J k a", "Jka"), ("J k b", "Jkb"),
+                            ("A eins", "A1"), ("A zwei", "A2")):
         text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
+    text = re.sub(r"\b(Blutgruppen?|Gruppe) null\b", r"\1 0", text)
     text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)
     numeral = "|".join(FACTOR_NUMERALS)
     factor = rf"(?:{numeral})\b(?: a\b)?"

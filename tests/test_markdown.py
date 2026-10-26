@@ -61,6 +61,15 @@ def test_voice_spellings_go_back_to_written_form():
     assert (readable("Des Faktors zehn a, die Faktoren fünf a und acht a, Faktor acht und Protein C.")
             == "Des Faktors Xa, die Faktoren Va und VIIIa, Faktor VIII und Protein C.")
     assert readable("Die L D H bei Hämolyse und das H b A.") == "Die LDH bei Hämolyse und das HbA."
+    assert (readable("Das A B null-System, Blutgruppe null, Anti-d s D N A, Anti-C C P, C drei, C vier und C eins-Esterase.")
+            == "Das AB0-System, Blutgruppe 0, Anti-dsDNA, Anti-CCP, C3, C4 und C1-Esterase.")
+    assert (readable("H E p-zwei-Zellen, C drei d, P R drei, Scl-siebzig und H L A-D Q zwei oder D Q acht.")
+            == "HEp-2-Zellen, C3d, PR3, Scl-70 und HLA-DQ2 oder DQ8.")
+    assert (readable("Anti-S m und S S-A, H L A-B siebenundzwanzig, C D achtunddreißig und C D acht.")
+            == "Anti-Sm und SS-A, HLA-B27, CD38 und CD8.")
+    assert (readable("Anti-F y a, F y b, J k a und J k b, die Gruppen A eins und A zwei und H L A-A zwei.")
+            == "Anti-Fya, Fyb, Jka und Jkb, die Gruppen A1 und A2 und HLA-A2.")
+    assert readable("Die C D vier-Zellen, I g D und Gruppe A.") == "Die CD4-Zellen, IgD und Gruppe A."
     assert readable("Der Hemmstoff heißt P A I eins, der Aktivator t P A.") == "Der Hemmstoff heißt PAI-1, der Aktivator tPA."
 
 
@@ -76,6 +85,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     clot = text.replace("Probe und Messung:", "Wirkweise:")
     md = render_markdown(split_text(clot), "de", "encyclopedia_haemostaseologie_de.txt")
     assert "## 🩹 Staphylococcus aureus" in md and "#### ⚙️ Wirkweise" in md
+    immune = text.replace("Probe und Messung:", "Der Befund:")
+    md = render_markdown(split_text(immune), "de", "encyclopedia_immunologie_transfusion_de.txt")
+    assert "## 🛡️ Staphylococcus aureus" in md and "#### 📋 Der Befund" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 

@@ -250,7 +250,7 @@ Man misst im Citratplasma. Bestimmt werden die Menge des Eiweißes, das sogenann
 
 #### 📊 Die Werte
 
-Normal sind etwa fünfzig bis hundertfünfzig Prozent. Menschen mit der Blutgruppe null haben von Natur aus etwa ein Viertel weniger. Unter dreißig Prozent spricht man sicher von einem von-Willebrand-Syndrom. Wichtig ist das Verhältnis von Aktivität zu Antigen. Liegt es unter null Komma sieben, arbeitet der Faktor schlecht. Das spricht für einen Typ zwei.
+Normal sind etwa fünfzig bis hundertfünfzig Prozent. Menschen mit der Blutgruppe 0 haben von Natur aus etwa ein Viertel weniger. Unter dreißig Prozent spricht man sicher von einem von-Willebrand-Syndrom. Wichtig ist das Verhältnis von Aktivität zu Antigen. Liegt es unter null Komma sieben, arbeitet der Faktor schlecht. Das spricht für einen Typ zwei.
 
 #### ⚠️ Fehlerquellen
 
@@ -260,7 +260,7 @@ Der von-Willebrand-Faktor ist ein Akute-Phase-Eiweiß. Er steigt bei Stress, Ent
 > **🏥 Warum ist das im Labor wichtig?** Viele Frauen mit starker Regelblutung haben ein unerkanntes von-Willebrand-Syndrom. Auch vor Operationen fällt es oft erst durch Nachfragen auf. Die Globaltests sind dabei häufig normal. Nur eine gezielte Bestimmung findet den Mangel. Die Probe muss dafür richtig behandelt werden.
 
 > [!NOTE]
-> **📌 Kurz gesagt:** Der von-Willebrand-Faktor heftet Plättchen an die Wunde und schützt den Faktor VIII. Normal sind etwa fünfzig bis hundertfünfzig Prozent, bei Blutgruppe null etwas weniger. Er steigt bei Stress und Entzündung. Gekühltes Vollblut täuscht einen Mangel vor.
+> **📌 Kurz gesagt:** Der von-Willebrand-Faktor heftet Plättchen an die Wunde und schützt den Faktor VIII. Normal sind etwa fünfzig bis hundertfünfzig Prozent, bei Blutgruppe 0 etwas weniger. Er steigt bei Stress und Entzündung. Gekühltes Vollblut täuscht einen Mangel vor.
 
 <p align="right"><a href="#contents">↑ Inhalt</a></p>
 
@@ -1071,7 +1071,7 @@ Unter dreißig Prozent gilt das Syndrom als sicher. Zwischen dreißig und fünfz
 
 #### ⚠️ Fehlerquellen
 
-Stress, Sport, Entzündung, Schwangerschaft und die Pille erhöhen den Faktor und verdecken einen Mangel. Ein schreiendes Kind bei der Abnahme reicht schon. Blutgruppe null senkt die Werte von Natur aus. Gekühltes Vollblut täuscht einen Mangel vor. Eine erworbene Form gibt es bei Herzklappenfehlern, bei Kunstherzen und bei manchen Krankheiten des Knochenmarks.
+Stress, Sport, Entzündung, Schwangerschaft und die Pille erhöhen den Faktor und verdecken einen Mangel. Ein schreiendes Kind bei der Abnahme reicht schon. Blutgruppe 0 senkt die Werte von Natur aus. Gekühltes Vollblut täuscht einen Mangel vor. Eine erworbene Form gibt es bei Herzklappenfehlern, bei Kunstherzen und bei manchen Krankheiten des Knochenmarks.
 
 > [!TIP]
 > **🏥 Warum ist das im Labor wichtig?** Viele Betroffene wissen nichts von ihrer Krankheit. Sie fällt erst bei einer Operation oder Geburt auf. Bei Typ eins hilft oft das Medikament Desmopressin. Es setzt den Faktor aus der Gefäßwand frei. Vor seiner Gabe prüft man im Labor, ob der Patient darauf anspricht. Eine sorgfältige Präanalytik ist hier wichtiger als jedes Gerät.

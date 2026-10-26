@@ -850,7 +850,7 @@ Bei Erwachsenen liegt der Referenzbereich bei etwa vierzig bis hundertdreißig E
 
 #### ⚠️ Fehlerquellen
 
-EDTA und Citrat binden Zink und Magnesium. Dadurch hemmen sie das Enzym. Eine Probe mit EDTA-Verunreinigung zeigt eine falsch niedrige alkalische Phosphatase. Nach einer fettreichen Mahlzeit steigt bei manchen Menschen die Darmform an. Das betrifft vor allem Menschen mit den Blutgruppen null und B. Deshalb ist eine nüchterne Abnahme besser.
+EDTA und Citrat binden Zink und Magnesium. Dadurch hemmen sie das Enzym. Eine Probe mit EDTA-Verunreinigung zeigt eine falsch niedrige alkalische Phosphatase. Nach einer fettreichen Mahlzeit steigt bei manchen Menschen die Darmform an. Das betrifft vor allem Menschen mit den Blutgruppen 0 und B. Deshalb ist eine nüchterne Abnahme besser.
 
 > [!TIP]
 > **🏥 Warum ist das im Labor wichtig?** Du siehst eine Probe mit hohem Kalium, sehr niedrigem Calcium und kaum messbarer alkalischer Phosphatase. Alle drei Werte passen zu einer EDTA-Verunreinigung. Du gibst die Werte nicht frei, sondern forderst eine neue Probe an.
