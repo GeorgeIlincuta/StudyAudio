@@ -31,13 +31,17 @@ SECTION_ICONS = {
     "Die Krankheiten": "🩺", "Resistenz und Therapie": "💊", "Wirkung": "⚙️", "Anwendung": "🩹",
     "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
     "Die Werte": "📊", "Fehlerquellen": "⚠️", "Entstehung": "🌱", "Im Ausstrich": "🔬",
+    "Wirkweise": "⚙️",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
-               "haematologie": "🩸"}
+               "haematologie": "🩸", "haemostase": "🩹"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
+# Spoken numbers of the clotting factors as Roman numerals, longest first so "dreizehn" is not read as "drei".
+FACTOR_NUMERALS = {"dreizehn": "XIII", "zwölf": "XII", "zehn": "X", "neun": "IX", "acht": "VIII", "sieben": "VII",
+                   "fünf": "V", "drei": "III", "zwei": "II", "vier": "IV", "elf": "XI", "eins": "I"}
 PART_ICONS = ["🟣", "🔵", "🔴", "🟠", "🟡", "⚪", "🛡️", "🧫", "⚡", "🟤", "⚫", "🟢"]
 
 
@@ -46,9 +50,17 @@ def readable(text: str) -> str:
     text = re.sub(r"\bI g ([MGAE])\b", r"Ig\1", text).replace("Maldi-Tof", "MALDI-TOF").replace("C T-Wert", "Ct-Wert")
     for spoken, written in (("H b A eins c", "HbA1c"), ("h C G", "hCG"), ("e G F R", "eGFR"),
                             ("p C O zwei", "pCO2"), ("p O zwei", "pO2"), ("N T-pro B N P", "NT-proBNP"),
-                            ("J A K zwei", "JAK2"), ("H b A zwei", "HbA2")):
-        text = text.replace(spoken, written)
-    text = re.sub(r"\bH b(?: ([AFS])\b)?", r"Hb\1", text)
+                            ("J A K zwei", "JAK2"), ("H b A zwei", "HbA2"), ("a P T T", "aPTT"), ("v W F", "vWF"),
+                            ("Anti-X a", "Anti-Xa"), ("t P A", "tPA"), ("A D A M T S dreizehn", "ADAMTS13"),
+                            ("P F vier", "PF4"), ("P A I eins", "PAI-1"), ("d R V V T", "dRVVT")):
+        text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
+    text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)
+    numeral = "|".join(FACTOR_NUMERALS)
+    factor = rf"(?:{numeral})\b(?: a\b)?"
+    text = re.sub(rf"\bFaktor(?:s|en)?[- ]{factor}(?:(?:, | und | bis ){factor})*",
+                  lambda m: re.sub(rf"({numeral})\b( a\b)?",
+                                   lambda n: FACTOR_NUMERALS[n.group(1)] + ("a" if n.group(2) else ""), m.group()),
+                  text)
     text = re.sub(rf"\bC D ({'|'.join(CD_NUMBERS)})\b", lambda m: f"CD{CD_NUMBERS[m.group(1)]}", text)
     return re.sub(r"\b[A-Z](?: [A-Z])+(?: [a-z]\b)?\b", lambda m: m.group().replace(" ", ""), text)
 

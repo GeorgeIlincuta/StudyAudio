@@ -52,6 +52,16 @@ def test_voice_spellings_go_back_to_written_form():
             == "Das Hb, HbA, HbF und HbS, die Hb-Elektrophorese, das MCHC, BCR-ABL und JAK2.")
     assert (readable("H b A zwei, C D drei, C D dreiunddreißig, C D vierunddreißig und C D-Nummern.")
             == "HbA2, CD3, CD33, CD34 und CD-Nummern.")
+    assert (readable("Die a P T T, der v W F, die Anti-X a-Aktivität, t P A, A D A M T S dreizehn und P F vier.")
+            == "Die aPTT, der vWF, die Anti-Xa-Aktivität, tPA, ADAMTS13 und PF4.")
+    assert (readable("Faktor acht, Faktor zehn a, der Faktor-fünf-Leiden, Faktor dreizehn und Faktor drei.")
+            == "Faktor VIII, Faktor Xa, der Faktor-V-Leiden, Faktor XIII und Faktor III.")
+    assert (readable("Die Faktoren zwei, sieben, neun und zehn, die Faktoren acht bis zwölf, P A I eins und d R V V T.")
+            == "Die Faktoren II, VII, IX und X, die Faktoren VIII bis XII, PAI-1 und dRVVT.")
+    assert (readable("Des Faktors zehn a, die Faktoren fünf a und acht a, Faktor acht und Protein C.")
+            == "Des Faktors Xa, die Faktoren Va und VIIIa, Faktor VIII und Protein C.")
+    assert readable("Die L D H bei Hämolyse und das H b A.") == "Die LDH bei Hämolyse und das HbA."
+    assert readable("Der Hemmstoff heißt P A I eins, der Aktivator t P A.") == "Der Hemmstoff heißt PAI-1, der Aktivator tPA."
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
@@ -63,6 +73,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     blood = text.replace("Probe und Messung:", "Im Ausstrich:")
     md = render_markdown(split_text(blood), "de", "encyclopedia_haematologie_de.txt")
     assert "## 🩸 Staphylococcus aureus" in md and "#### 🔬 Im Ausstrich" in md
+    clot = text.replace("Probe und Messung:", "Wirkweise:")
+    md = render_markdown(split_text(clot), "de", "encyclopedia_haemostaseologie_de.txt")
+    assert "## 🩹 Staphylococcus aureus" in md and "#### ⚙️ Wirkweise" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 

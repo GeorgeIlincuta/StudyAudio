@@ -596,7 +596,7 @@ Die Familien haben oft Namen, die ihr Aussehen beschreiben. Die Coronaviren trag
 | `17` | [**Das Hepatitis-C-Virus**](#das-hepatitis-c-virus) | Das Hepatitis-C-Virus ist ein Flavivirus, das fast nur über Blut übertragen wird. |
 | `18` | [**FSME-Virus**](#f-s-m-e-virus) | Das FSME-Virus ist ein Flavivirus, das der Holzbock sofort beim Stich überträgt. |
 | `19` | [**Dengue und Zika**](#dengue-und-zika) | Dengue und Zika sind Flaviviren aus den Tropen, die tagaktive Aedes-Mücken übertragen. |
-| `20` | [**Das HIV**](#das-h-i-v) | Das HIV ist ein Retrovirus, das sein Erbgut fest in die Wirtszelle einbaut und die CD vier-Helferzellen zerstört. |
+| `20` | [**Das HIV**](#das-h-i-v) | Das HIV ist ein Retrovirus, das sein Erbgut fest in die Wirtszelle einbaut und die CD4-Helferzellen zerstört. |
 | `21` | [**Das Hepatitis-D-Virus**](#das-hepatitis-d-virus) | Das Hepatitis-D-Virus ist ein unvollständiges RNA-Virus, das die Hülle des Hepatitis-B-Virus benutzt und nur zusammen mit ihm vorkommt. |
 | `22` | [**Die Hantaviren**](#die-hantaviren) | Hantaviren leben in Rötelmäusen und anderen Nagetieren, und der Mensch atmet sie mit Staub aus Mäusekot ein. |
 
@@ -932,11 +932,11 @@ Das Virus wird beim Sex, über Blut und von der Mutter auf das Kind übertragen.
 
 #### 🩺 Die Krankheiten
 
-Das Virus befällt die T-Helferzellen, die das Merkmal CD vier tragen. Zwei bis vier Wochen nach der Ansteckung kommt oft eine akute Krankheit mit Fieber, Lymphknoten und Ausschlag, ähnlich dem Pfeifferschen Drüsenfieber. Danach folgen viele Jahre ohne Beschwerden. In dieser Zeit sinkt die Zahl der Helferzellen langsam. Fällt sie unter etwa zweihundert Zellen pro Mikroliter, beginnt das Stadium Aids. Dann bekommen die Patienten Infektionen, die bei Gesunden nicht vorkommen. Man nennt sie opportunistische Infektionen. Beispiele sind die Lungenentzündung durch den Pilz Pneumocystis, Toxoplasmose im Gehirn, Zytomegalievirus am Auge und Tuberkulose.
+Das Virus befällt die T-Helferzellen, die das Merkmal CD4 tragen. Zwei bis vier Wochen nach der Ansteckung kommt oft eine akute Krankheit mit Fieber, Lymphknoten und Ausschlag, ähnlich dem Pfeifferschen Drüsenfieber. Danach folgen viele Jahre ohne Beschwerden. In dieser Zeit sinkt die Zahl der Helferzellen langsam. Fällt sie unter etwa zweihundert Zellen pro Mikroliter, beginnt das Stadium Aids. Dann bekommen die Patienten Infektionen, die bei Gesunden nicht vorkommen. Man nennt sie opportunistische Infektionen. Beispiele sind die Lungenentzündung durch den Pilz Pneumocystis, Toxoplasmose im Gehirn, Zytomegalievirus am Auge und Tuberkulose.
 
 #### ▸ Der Nachweis
 
-Der Suchtest ist heute ein Kombinationstest. Er sucht gleichzeitig Antikörper gegen HIV und das Virusantigen p vierundzwanzig aus dem Kapsid. Das Antigen erscheint früher als die Antikörper. So wird der Test schon etwa sechs Wochen nach der Ansteckung sicher positiv. Ein positiver Suchtest ist aber noch keine Diagnose. Er muss immer mit einem Bestätigungstest geprüft werden, meist einem Immunoblot, und oft zusätzlich mit der PCR. Erst dann darf man den Befund als HIV-positiv mitteilen. Unter Therapie misst man die Viruslast mit der quantitativen PCR und die Zahl der CD vier-Zellen mit der Durchflusszytometrie. Vor der Therapie testet man das Virus auf Resistenzen.
+Der Suchtest ist heute ein Kombinationstest. Er sucht gleichzeitig Antikörper gegen HIV und das Virusantigen p vierundzwanzig aus dem Kapsid. Das Antigen erscheint früher als die Antikörper. So wird der Test schon etwa sechs Wochen nach der Ansteckung sicher positiv. Ein positiver Suchtest ist aber noch keine Diagnose. Er muss immer mit einem Bestätigungstest geprüft werden, meist einem Immunoblot, und oft zusätzlich mit der PCR. Erst dann darf man den Befund als HIV-positiv mitteilen. Unter Therapie misst man die Viruslast mit der quantitativen PCR und die Zahl der CD4-Zellen mit der Durchflusszytometrie. Vor der Therapie testet man das Virus auf Resistenzen.
 
 #### ▸ Impfung und Therapie
 
@@ -946,7 +946,7 @@ Eine Impfung gibt es nicht. Die Therapie aus mehreren Medikamenten ist aber sehr
 > **🏥 Warum ist das im Labor wichtig?** Ein HIV-Befund hat für einen Menschen große Folgen. Darum gilt die Regel: Kein positiver Befund ohne Bestätigungstest und, wenn möglich, eine zweite Probe. Und ein HIV-Ergebnis ist besonders vertraulich. Es geht nur an die anfordernde Ärztin.
 
 > [!NOTE]
-> **📌 Kurz gesagt:** Das HIV ist ein Retrovirus, das sein Erbgut fest in die Wirtszelle einbaut und die CD vier-Helferzellen zerstört. Ohne Therapie führt es nach Jahren zu Aids mit opportunistischen Infektionen. Der Suchtest kombiniert Antikörper und p vierundzwanzig-Antigen und muss immer bestätigt werden. Unter Therapie heißt nicht nachweisbar auch nicht übertragbar.
+> **📌 Kurz gesagt:** Das HIV ist ein Retrovirus, das sein Erbgut fest in die Wirtszelle einbaut und die CD4-Helferzellen zerstört. Ohne Therapie führt es nach Jahren zu Aids mit opportunistischen Infektionen. Der Suchtest kombiniert Antikörper und p vierundzwanzig-Antigen und muss immer bestätigt werden. Unter Therapie heißt nicht nachweisbar auch nicht übertragbar.
 
 <p align="right"><a href="#contents">↑ Inhalt</a></p>
 
@@ -1302,7 +1302,7 @@ Die PCR hat die Virologie verändert. Früher musste man Viren mühsam in Zellku
 
 Der erste Schritt ist die Extraktion. Dabei wird die Probe aufgeschlossen, und das Erbgut wird von Eiweißen und Störstoffen befreit. Das machen heute meist Automaten. Bei RNA-Viren folgt die reverse Transkription. Das Enzym Reverse Transkriptase schreibt die RNA in DNA um. Erst dann kann die eigentliche PCR beginnen. Diese Kombination heißt RT-PCR.
 
-In der Echtzeit-PCR misst das Gerät nach jedem Zyklus, wie stark die Probe leuchtet. Der Ct-Wert ist der Zyklus, bei dem das Leuchten eine festgelegte Schwelle überschreitet. Je mehr Virus in der Probe ist, desto früher wird die Schwelle erreicht. Ein niedriger Ct-Wert bedeutet also viel Virus. Jeder Unterschied von etwa drei Zyklen entspricht ungefähr einem Faktor zehn in der Virusmenge. Ein Ct-Wert ist aber kein exakter Messwert. Er hängt vom Gerät, vom Test und von der Probennahme ab.
+In der Echtzeit-PCR misst das Gerät nach jedem Zyklus, wie stark die Probe leuchtet. Der Ct-Wert ist der Zyklus, bei dem das Leuchten eine festgelegte Schwelle überschreitet. Je mehr Virus in der Probe ist, desto früher wird die Schwelle erreicht. Ein niedriger Ct-Wert bedeutet also viel Virus. Jeder Unterschied von etwa drei Zyklen entspricht ungefähr einem Faktor X in der Virusmenge. Ein Ct-Wert ist aber kein exakter Messwert. Er hängt vom Gerät, vom Test und von der Probennahme ab.
 
 Für eine echte Messung braucht man die quantitative PCR. Dabei laufen Standards mit bekannter Virusmenge mit. So kann das Gerät die Virusmenge in Kopien pro Milliliter oder in Internationalen Einheiten pro Milliliter angeben. Das ist die Viruslast. Sie wird bei HIV, Hepatitis B, Hepatitis C, Zytomegalievirus, Epstein-Barr-Virus und BK-Virus gemessen. Weil die Zahlen sehr groß sind, gibt man sie oft als Logarithmus an. Ein Anstieg von einer Logstufe heißt zehnmal mehr Virus. Kleine Unterschiede von weniger als einer halben Logstufe liegen meist innerhalb der normalen Schwankung des Tests.
 
