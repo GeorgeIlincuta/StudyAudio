@@ -30,10 +30,14 @@ SECTION_ICONS = {
     "Einordnung": "🧭", "Overview": "🧭", "Mikroskop und Kultur": "🔬", "Die Tests": "🧪",
     "Die Krankheiten": "🩺", "Resistenz und Therapie": "💊", "Wirkung": "⚙️", "Anwendung": "🩹",
     "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
-    "Die Werte": "📊", "Fehlerquellen": "⚠️",
+    "Die Werte": "📊", "Fehlerquellen": "⚠️", "Entstehung": "🌱", "Im Ausstrich": "🔬",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
-ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪"}
+ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
+               "haematologie": "🩸"}
+# Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
+CD_NUMBERS = {"dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
+              "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
 PART_ICONS = ["🟣", "🔵", "🔴", "🟠", "🟡", "⚪", "🛡️", "🧫", "⚡", "🟤", "⚫", "🟢"]
 
 
@@ -41,8 +45,11 @@ def readable(text: str) -> str:
     """Undo the spellings made for the voice: "M R S A" -> "MRSA", "I g M" -> "IgM", "H B s" -> "HBs"."""
     text = re.sub(r"\bI g ([MGAE])\b", r"Ig\1", text).replace("Maldi-Tof", "MALDI-TOF").replace("C T-Wert", "Ct-Wert")
     for spoken, written in (("H b A eins c", "HbA1c"), ("h C G", "hCG"), ("e G F R", "eGFR"),
-                            ("p C O zwei", "pCO2"), ("p O zwei", "pO2"), ("N T-pro B N P", "NT-proBNP")):
+                            ("p C O zwei", "pCO2"), ("p O zwei", "pO2"), ("N T-pro B N P", "NT-proBNP"),
+                            ("J A K zwei", "JAK2"), ("H b A zwei", "HbA2")):
         text = text.replace(spoken, written)
+    text = re.sub(r"\bH b(?: ([AFS])\b)?", r"Hb\1", text)
+    text = re.sub(rf"\bC D ({'|'.join(CD_NUMBERS)})\b", lambda m: f"CD{CD_NUMBERS[m.group(1)]}", text)
     return re.sub(r"\b[A-Z](?: [A-Z])+(?: [a-z]\b)?\b", lambda m: m.group().replace(" ", ""), text)
 
 

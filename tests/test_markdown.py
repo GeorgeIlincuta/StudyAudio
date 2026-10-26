@@ -48,6 +48,10 @@ def test_voice_spellings_go_back_to_written_form():
     assert readable("Die H I V und P C R") == "Die HIV und PCR"
     assert (readable("Das H b A eins c, das h C G, die e G F R, p C O zwei, p O zwei, N T-pro B N P und C K-M B.")
             == "Das HbA1c, das hCG, die eGFR, pCO2, pO2, NT-proBNP und CK-MB.")
+    assert (readable("Das H b, H b A, H b F und H b S, die H b-Elektrophorese, das M C H C, B C R-A B L und J A K zwei.")
+            == "Das Hb, HbA, HbF und HbS, die Hb-Elektrophorese, das MCHC, BCR-ABL und JAK2.")
+    assert (readable("H b A zwei, C D drei, C D dreiunddreißig, C D vierunddreißig und C D-Nummern.")
+            == "HbA2, CD3, CD33, CD34 und CD-Nummern.")
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
@@ -56,6 +60,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
 
     assert "## 🧪 Staphylococcus aureus" in md and "`01` 🧪 [Staphylococcus aureus]" in md
     assert "#### 🧪 Probe und Messung" in md
+    blood = text.replace("Probe und Messung:", "Im Ausstrich:")
+    md = render_markdown(split_text(blood), "de", "encyclopedia_haematologie_de.txt")
+    assert "## 🩸 Staphylococcus aureus" in md and "#### 🔬 Im Ausstrich" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 
