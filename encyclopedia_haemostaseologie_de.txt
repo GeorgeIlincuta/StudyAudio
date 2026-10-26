@@ -1,0 +1,829 @@
+Hämostaseologie: Steckbriefe zu Blutstillung, Gerinnung und Gerinnungstests.
+
+# Hinweise zum Leitfaden — Using this guide
+
+Dies ist der neunte Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Der Leitfaden davor hat die Hämatologie behandelt. Dieser Leitfaden schließt direkt daran an. Er behandelt die Hämostaseologie, die Lehre von der Blutstillung und der Gerinnung. Er ist wieder ein Nachschlagewerk zum Hören.
+
+In der Hämatologie sind dir die Blutplättchen schon begegnet, dazu die Verbrauchskoagulopathie und die heparininduzierte Thrombozytopenie. Die Gerinnung selbst blieb dort ausgespart. Hier holen wir sie nach. Das Gerinnungslabor ist ein eigenes Arbeitsgebiet. Seine häufigsten Anforderungen sind der Quick-Wert, die a P T T und die D-Dimere. Sie kommen aus der Notaufnahme, vor jeder Operation und von allen Patienten, die Blutverdünner nehmen.
+
+Kaum ein Fach ist so empfindlich gegenüber Fehlern vor der Messung. Ein halb gefülltes Röhrchen, ein zu langer Transport oder eine Spur Heparin verfälschen das Ergebnis. Darum hat dieser Leitfaden einen eigenen Teil über die Probe. Diesen Teil solltest du besonders gut kennen.
+
+Jeder Steckbrief hat immer dieselben Abschnitte in derselben Reihenfolge. Der erste Abschnitt heißt Einordnung. Er sagt, wohin der Faktor, der Test oder die Krankheit gehört. Der zweite heißt Wirkweise. Bei einem Faktor sagt er, was er in der Gerinnung tut. Bei einem Test sagt er, was er misst. Bei einer Krankheit sagt er, was schiefläuft. Der dritte heißt Probe und Messung. Er sagt, welches Material man braucht und wie das Gerät misst. Der vierte heißt Die Werte. Der fünfte heißt Fehlerquellen. Danach folgen wie gewohnt die Absätze »Warum ist das im Labor wichtig?« und »Kurz gesagt«.
+
+Der Leitfaden hat neun Teile. Teil eins sind die Grundlagen der Blutstillung. Teil zwei ist die Präanalytik, also alles rund um die Probe. Teil drei sind die Globaltests wie Quick-Wert und a P T T. Teil vier sind die Spezialtests. Teil fünf sind die Krankheiten mit Blutungsneigung. Teil sechs sind die Krankheiten mit Thromboseneigung. Teil sieben sind die Gerinnungskrisen wie die D I C und die H I T. Teil acht sind die Medikamente gegen die Gerinnung. Teil neun ist ein Schnellüberblick zum Wiederholen.
+
+Du musst den Leitfaden nicht von vorn bis hinten hören. Jedes Kapitel ist ein eigener Eintrag. Wenn dir im Labor ein auffälliger Gerinnungswert begegnet, spring im Player direkt zu seinem Kapitel. Für die Prüfung eignen sich die Zusammenfassungen am Ende jedes Teils und der Schnellüberblick am Schluss.
+
+Ein Wort zu den Zahlen. Gerinnungswerte hängen stärker vom Reagenz ab als fast alle anderen Laborwerte. Zwei Labore können für dieselbe Probe verschiedene Sekunden messen. Alle Bereiche in diesem Leitfaden sind darum nur ungefähre Werte für Erwachsene. Im Zweifel gilt immer der Bereich, der auf deinem Befund steht.
+
+Die Gerinnungsfaktoren tragen Nummern. In Büchern stehen sie als römische Zahlen. In diesem Leitfaden sprechen wir sie einfach als Zahlwort, also Faktor acht oder Faktor zehn. Ein aktivierter Faktor bekommt ein kleines a, zum Beispiel Faktor zehn a. Abkürzungen werden wie bisher Buchstabe für Buchstabe gesprochen. Der Leitfaden setzt die Hämatologie voraus, besonders die Blutplättchen und den Blutausstrich.
+
+Wir beginnen mit einer Landkarte der Blutstillung. Danach folgen die Steckbriefe.
+
+# Die Landkarte der Blutstillung — Map of haemostasis
+
+In der Hämatologie hat der Stammbaum der Zellen die Landkarte bestimmt. In der Hämostaseologie ordnet man nach der Zeit. Die Blutstillung läuft in drei Schritten ab, die ineinandergreifen. Jeder Schritt hat seine eigenen Tests und seine eigenen Krankheiten.
+
+Der erste Schritt ist die primäre Blutstillung. Wird ein Gefäß verletzt, zieht es sich zusammen. Blutplättchen haften an der Wunde und verkleben miteinander. Es entsteht ein lockerer Pfropf aus Plättchen. Dafür braucht man genug Plättchen, gesunde Plättchen und den von-Willebrand-Faktor. Dieser Schritt dauert wenige Minuten. Störungen zeigen sich typisch als Nasenbluten, Zahnfleischbluten und kleine punktförmige Blutungen in der Haut.
+
+Der zweite Schritt ist die sekundäre Blutstillung, die eigentliche Gerinnung. Eine Kette von Eiweißen im Plasma wird nacheinander aktiviert. Am Ende entsteht Thrombin. Thrombin macht aus dem gelösten Fibrinogen feste Fibrinfäden. Diese Fäden festigen den Plättchenpfropf wie ein Netz. Störungen zeigen sich typisch als große Blutergüsse und als Blutungen in Gelenke und Muskeln.
+
+Der dritte Schritt ist die Fibrinolyse. Ist die Wunde verheilt, löst der Körper das Gerinnsel wieder auf. Das Enzym dafür heißt Plasmin. Beim Abbau entstehen Bruchstücke des Fibrins, die D-Dimere.
+
+Über allem wachen die natürlichen Hemmstoffe. Sie sorgen dafür, dass die Gerinnung nur an der Wunde abläuft und nicht im ganzen Gefäßsystem. Zu wenig Gerinnung führt zur Blutung. Zu viel Gerinnung führt zur Thrombose, also einem Gerinnsel in einem gesunden Gefäß. Die Hämostaseologie sucht immer das Gleichgewicht zwischen beiden.
+
+Merke dir für den Anfang drei Fragen. Erstens: Blutet der Patient oder bildet er Thrombosen? Zweitens: Ist die primäre oder die sekundäre Blutstillung gestört, also die Plättchen oder die Faktoren? Drittens: Ist die Störung angeboren, erworben oder durch ein Medikament ausgelöst? Diese drei Fragen ziehen sich durch den ganzen Leitfaden.
+
+# Teil eins: Grundlagen — Part one: Basics
+
+Der erste Teil erklärt, wie die Blutstillung funktioniert. Ohne diese Grundlagen versteht man keinen Gerinnungstest. Jeder Test im Labor bildet nämlich einen Ausschnitt dieses Ablaufs im Röhrchen nach.
+
+Der Teil hat sechs Steckbriefe. Zuerst kommt die primäre Blutstillung mit der Gefäßwand. Dann folgen die Blutplättchen und der von-Willebrand-Faktor. Danach kommen die Gerinnungskaskade und die Fibrinolyse. Am Ende stehen die natürlichen Hemmstoffe, die die Gerinnung bremsen.
+
+# Die primäre Blutstillung — Primary haemostasis
+
+Einordnung: Die primäre Blutstillung ist der erste und schnellste Schritt nach einer Verletzung. Beteiligt sind die Gefäßwand, die Blutplättchen und der von-Willebrand-Faktor. Das Ergebnis ist ein weißer Pfropf aus Plättchen. Er verschließt kleine Wunden in wenigen Minuten.
+
+Wirkweise: Zuerst zieht sich das verletzte Gefäß zusammen und der Blutfluss wird langsamer. Unter der Gefäßinnenhaut liegt Bindegewebe mit Kollagen. Wird es freigelegt, bindet der von-Willebrand-Faktor daran. Er hält vorbeiströmende Plättchen fest. Das heißt Adhäsion. Die Plättchen werden dadurch aktiviert, ändern ihre Form und schütten Botenstoffe aus. Diese locken weitere Plättchen an. Die Plättchen verbinden sich über Fibrinogen zu einem Haufen. Das heißt Aggregation.
+
+Probe und Messung: Die primäre Blutstillung prüft man zuerst mit der Zahl der Blutplättchen im E D T A-Blut. Ihre Funktion misst man im Citratblut. Dazu gibt es den P F A-Test und die Aggregometrie. Die alte Blutungszeit misst den Vorgang direkt an der Haut. Den von-Willebrand-Faktor bestimmt man im Citratplasma. Quick-Wert und a P T T erfassen die primäre Blutstillung nicht.
+
+Die Werte: Normal sind etwa hundertfünfzig- bis vierhunderttausend Plättchen pro Mikroliter. Eine Blutungsneigung droht meist erst unter fünfzigtausend. Spontane Blutungen sind unter zwanzigtausend zu befürchten. Bei normaler Zahl, aber gestörter Funktion spricht man von einer Thrombozytopathie. Die häufigste Ursache ist ein Medikament wie Acetylsalicylsäure, kurz A S S.
+
+Fehlerquellen: Ein normaler Quick-Wert und eine normale a P T T schließen eine Störung der primären Blutstillung nicht aus. Das ist der häufigste Denkfehler. Eine Pseudothrombopenie täuscht zu wenige Plättchen vor, weil sie im E D T A-Röhrchen verklumpen. Viele Schmerzmittel stören die Plättchenfunktion für Tage und werden im Anamnesebogen vergessen.
+
+Warum ist das im Labor wichtig? Patienten mit Schleimhautblutungen haben oft eine Störung der primären Blutstillung. Wenn die Globaltests normal sind, schickt der Arzt sie trotzdem ins Gerinnungslabor. Dann brauchst du die Plättchenzahl, den von-Willebrand-Faktor und einen Funktionstest. Du solltest wissen, welche Röhrchen das sind.
+
+Kurz gesagt: Die primäre Blutstillung bildet in Minuten einen Pfropf aus Plättchen. Der von-Willebrand-Faktor heftet die Plättchen an das Kollagen der Wunde. Störungen machen Schleimhautblutungen und punktförmige Hautblutungen. Quick-Wert und a P T T erkennen sie nicht.
+
+# Die Thrombozytenfunktion — Platelet function
+
+Einordnung: Die Blutplättchen oder Thrombozyten sind kernlose Bruchstücke der Megakaryozyten im Knochenmark. Sie leben etwa sieben bis zehn Tage. Ein Drittel von ihnen ruht in der Milz. Aus der Hämatologie kennst du ihre Zahl. Hier geht es um ihre Arbeit.
+
+Wirkweise: Die Plättchen tragen auf ihrer Oberfläche Rezeptoren. Ein Rezeptor bindet den von-Willebrand-Faktor und hält das Plättchen an der Wunde fest. Ein anderer Rezeptor bindet Fibrinogen und verbindet die Plättchen untereinander. Aktivierte Plättchen schütten A D P und Thromboxan aus. Beides aktiviert weitere Plättchen. Außerdem bieten aktivierte Plättchen eine Oberfläche, auf der die Gerinnungsfaktoren besonders schnell arbeiten. So verbinden sie die primäre mit der sekundären Blutstillung.
+
+Probe und Messung: Die Funktion misst man im Citratblut, möglichst frisch und bei Raumtemperatur. Die Probe darf nicht gekühlt und nicht mit der Rohrpost geschickt werden. Bei der Aggregometrie gibt man Auslöser wie A D P, Kollagen oder Arachidonsäure zu und misst das Verklumpen. Der P F A-Test misst, wie schnell Plättchen eine feine Öffnung verschließen. In der Durchflusszytometrie kann man die Rezeptoren direkt zählen.
+
+Die Werte: Eine normale Funktion zeigt bei jedem Auslöser ein kräftiges Verklumpen. A S S hemmt die Bildung von Thromboxan für die ganze Lebenszeit des Plättchens. Die Antwort auf Arachidonsäure fehlt dann fast ganz. Clopidogrel und ähnliche Mittel blockieren den Rezeptor für A D P. Die Antwort auf A D P ist dann schwach. Seltene angeborene Störungen betreffen einzelne Rezeptoren.
+
+Fehlerquellen: Schon eine Tablette A S S stört die Funktion für etwa eine Woche. Darum fragt man vor jedem Funktionstest nach Medikamenten. Kälte aktiviert die Plättchen, Schütteln und Rohrpost ebenso. Sehr wenige Plättchen verfälschen jeden Funktionstest. Unter etwa hunderttausend pro Mikroliter ist er kaum noch aussagekräftig.
+
+Warum ist das im Labor wichtig? Funktionstests der Plättchen sind aufwendig und nur wenige Stunden nach der Abnahme möglich. Eine falsch behandelte Probe muss neu abgenommen werden. Du planst diese Tests deshalb eng mit der Station und misst die Probe sofort nach dem Eingang.
+
+Kurz gesagt: Plättchen haften über den von-Willebrand-Faktor und verklumpen über Fibrinogen. A S S hemmt das Thromboxan, Clopidogrel den Rezeptor für A D P. Funktionstests brauchen frisches Citratblut bei Raumtemperatur. Kälte, Rohrpost und zu wenige Plättchen machen sie wertlos.
+
+# Der von-Willebrand-Faktor — Von Willebrand factor
+
+Einordnung: Der von-Willebrand-Faktor ist ein riesiges Eiweiß im Plasma. Er wird von den Zellen der Gefäßinnenhaut und von den Megakaryozyten gebildet. Er verbindet die primäre und die sekundäre Blutstillung. Sein Mangel ist die häufigste angeborene Blutungsneigung überhaupt.
+
+Wirkweise: Der Faktor hat zwei Aufgaben. Erstens heftet er die Plättchen an das Kollagen der Wunde. Besonders in schnell strömendem Blut, etwa in kleinen Arterien, ist er dafür unersetzlich. Zweitens trägt er den Faktor acht im Blut und schützt ihn vor dem Abbau. Fehlt der von-Willebrand-Faktor, sinkt deshalb auch der Faktor acht. Ein Enzym namens A D A M T S dreizehn schneidet die riesigen Ketten des Faktors in kleinere Stücke.
+
+Probe und Messung: Man misst im Citratplasma. Bestimmt werden die Menge des Eiweißes, das sogenannte Antigen, und seine Aktivität. Die Aktivität misst, wie gut der Faktor an die Plättchen binden kann. Früher geschah das mit dem Antibiotikum Ristocetin. Dazu bestimmt man immer den Faktor acht. Die Bestimmung der Bindung an Kollagen und die Multimeranalyse ergänzen die Diagnostik.
+
+Die Werte: Normal sind etwa fünfzig bis hundertfünfzig Prozent. Menschen mit der Blutgruppe null haben von Natur aus etwa ein Viertel weniger. Unter dreißig Prozent spricht man sicher von einem von-Willebrand-Syndrom. Wichtig ist das Verhältnis von Aktivität zu Antigen. Liegt es unter null Komma sieben, arbeitet der Faktor schlecht. Das spricht für einen Typ zwei.
+
+Fehlerquellen: Der von-Willebrand-Faktor ist ein Akute-Phase-Eiweiß. Er steigt bei Stress, Entzündung, Sport, in der Schwangerschaft und unter der Pille. Ein normaler Wert schließt ein leichtes von-Willebrand-Syndrom darum nicht sicher aus. Man misst dann zwei- oder dreimal. Gekühlte Vollblutproben verlieren große Teile des Faktors und täuschen einen Mangel vor.
+
+Warum ist das im Labor wichtig? Viele Frauen mit starker Regelblutung haben ein unerkanntes von-Willebrand-Syndrom. Auch vor Operationen fällt es oft erst durch Nachfragen auf. Die Globaltests sind dabei häufig normal. Nur eine gezielte Bestimmung findet den Mangel. Die Probe muss dafür richtig behandelt werden.
+
+Kurz gesagt: Der von-Willebrand-Faktor heftet Plättchen an die Wunde und schützt den Faktor acht. Normal sind etwa fünfzig bis hundertfünfzig Prozent, bei Blutgruppe null etwas weniger. Er steigt bei Stress und Entzündung. Gekühltes Vollblut täuscht einen Mangel vor.
+
+# Die Gerinnungskaskade — The coagulation cascade
+
+Einordnung: Die Gerinnungskaskade ist die sekundäre Blutstillung. Sie besteht aus etwa einem Dutzend Eiweißen im Plasma, den Gerinnungsfaktoren. Die meisten werden in der Leber gebildet. Die Faktoren zwei, sieben, neun und zehn brauchen dafür Vitamin K. Am Ende der Kaskade steht festes Fibrin.
+
+Wirkweise: Jeder Faktor ist ein Enzym im Ruhezustand. Ein aktivierter Faktor aktiviert den nächsten. So verstärkt sich das Signal wie in einer Lawine. Im Körper startet die Gerinnung mit dem Gewebefaktor aus der verletzten Wand. Er aktiviert den Faktor sieben. Das ist der extrinsische Weg. Über die Faktoren zwölf, elf, neun und acht läuft der intrinsische Weg. Beide treffen sich beim Faktor zehn. Faktor zehn a macht mit Faktor fünf aus Prothrombin das Thrombin. Thrombin macht aus Fibrinogen Fibrin. Faktor dreizehn vernetzt die Fibrinfäden fest.
+
+Probe und Messung: Die Kaskade misst man im Citratplasma ohne Plättchen. Das Citrat bindet das Calcium und stoppt die Gerinnung im Röhrchen. Im Gerät gibt man wieder Calcium und einen Auslöser zu. Dann misst man die Zeit bis zum ersten Gerinnsel. Der Quick-Wert prüft den extrinsischen Weg. Die a P T T prüft den intrinsischen Weg. Beide erfassen den gemeinsamen Teil am Ende.
+
+Die Werte: Ein Faktor muss meist unter etwa vierzig Prozent fallen, bevor ein Globaltest auffällt. Für eine sichere Blutstillung reichen oft schon dreißig Prozent. Den Faktor zwölf braucht der Körper gar nicht für die Blutstillung. Sein Mangel verlängert die a P T T stark, macht aber keine Blutung. Der Faktor sieben hat die kürzeste Halbwertszeit, nur wenige Stunden.
+
+Fehlerquellen: Das klassische Modell mit zwei Wegen erklärt die Tests im Röhrchen. Im Körper arbeiten die Faktoren aber auf der Oberfläche der Plättchen zusammen. Der Faktor elf und der Faktor neun werden dort auch vom Gewebefaktor aus aktiviert. Darum blutet ein Patient mit Hämophilie, obwohl sein extrinsischer Weg gesund ist. Die Kaskade im Lehrbuch ist ein Modell für das Labor, kein Abbild des Körpers.
+
+Warum ist das im Labor wichtig? Aus der Kaskade liest du ab, welcher Test welchen Faktor erfasst. Ist nur die a P T T verlängert, liegt das Problem im intrinsischen Weg. Ist nur der Quick-Wert erniedrigt, liegt es meist beim Faktor sieben. Sind beide auffällig, liegt es im gemeinsamen Teil oder an vielen Faktoren zugleich.
+
+Kurz gesagt: Die Gerinnungsfaktoren aktivieren sich wie eine Lawine bis zum Thrombin. Thrombin macht aus Fibrinogen Fibrin. Der Quick-Wert prüft den extrinsischen Weg mit Faktor sieben, die a P T T den intrinsischen Weg. Die Faktoren zwei, sieben, neun und zehn brauchen Vitamin K.
+
+# Die Fibrinolyse — Fibrinolysis
+
+Einordnung: Die Fibrinolyse ist die Auflösung des Gerinnsels. Sie ist der Gegenspieler der Gerinnung. Sie beginnt schon, während sich das Gerinnsel bildet. Ihr wichtigstes Enzym ist das Plasmin.
+
+Wirkweise: Plasmin entsteht aus seiner Vorstufe, dem Plasminogen. Den Anstoß gibt der Gewebe-Plasminogenaktivator, kurz t P A, aus der Gefäßwand. Das Plasmin zerschneidet die Fibrinfäden. Weil Faktor dreizehn die Fäden vorher vernetzt hat, entstehen dabei typische Bruchstücke. Sie heißen D-Dimere. Gebremst wird die Fibrinolyse durch zwei Hemmstoffe. Der eine heißt P A I eins und hemmt den Aktivator. Der andere heißt Alpha-zwei-Antiplasmin und fängt freies Plasmin ab.
+
+Probe und Messung: Im Routinelabor misst man die Fibrinolyse fast nur über die D-Dimere im Citratplasma. Das geschieht mit Antikörpern in einem Trübungstest. Plasminogen und Antiplasmin kann man mit einem Farbstofftest bestimmen. Eine überschießende Fibrinolyse sieht man am besten in den viskoelastischen Tests. Dort löst sich das Gerinnsel im Gerät vorzeitig wieder auf.
+
+Die Werte: Hohe D-Dimere zeigen, dass im Körper Fibrin gebildet und wieder abgebaut wird. Das passiert bei jeder Thrombose, aber auch nach Operationen, bei Entzündung und in der Schwangerschaft. Eine überschießende Fibrinolyse heißt Hyperfibrinolyse. Sie kommt bei schweren Verletzungen, bei Operationen an der Prostata und bei manchen Leukämien vor. Dann fällt auch das Fibrinogen.
+
+Fehlerquellen: Die D-Dimere sagen nicht, wo das Gerinnsel liegt. Sie unterscheiden auch nicht zwischen einer Thrombose und einer frischen Wunde. Verschiedene Tests geben verschiedene Zahlen, weil die Antikörper verschiedene Bruchstücke erkennen. Man darf darum Werte aus zwei Laboren nicht einfach vergleichen.
+
+Warum ist das im Labor wichtig? Medikamente gegen die Fibrinolyse, etwa die Tranexamsäure, retten bei schweren Blutungen Leben. Medikamente für die Fibrinolyse lösen beim Schlaganfall oder Herzinfarkt das Gerinnsel auf. Beide wirken auf diesen Teil der Blutstillung. Im Labor erkennst du ihn an den D-Dimeren und am Fibrinogen.
+
+Kurz gesagt: Die Fibrinolyse löst das Gerinnsel mit Plasmin auf. Dabei entstehen D-Dimere. Hohe D-Dimere zeigen einen Abbau von Fibrin, aber nicht seinen Ort. Eine Hyperfibrinolyse verbraucht Fibrinogen und führt zu schweren Blutungen.
+
+# Die natürlichen Hemmstoffe — Natural anticoagulants
+
+Einordnung: Die natürlichen Hemmstoffe sind Eiweiße im Plasma, die die Gerinnung bremsen. Die wichtigsten sind das Antithrombin, das Protein C und das Protein S. Ein Mangel an einem von ihnen erhöht das Risiko für Thrombosen. Sie halten die Gerinnung an der Wunde fest.
+
+Wirkweise: Das Antithrombin fängt Thrombin und Faktor zehn a ab. Heparin beschleunigt diese Bindung um ein Vielfaches. Ohne Antithrombin wirkt Heparin darum kaum. Das Protein C wird durch Thrombin an der gesunden Gefäßwand aktiviert. Aktiviertes Protein C, kurz A P C, zerschneidet die Faktoren fünf a und acht a. Das Protein S hilft ihm dabei als Partner. Protein C und Protein S brauchen wie einige Faktoren Vitamin K.
+
+Probe und Messung: Alle drei misst man im Citratplasma. Das Antithrombin bestimmt man meist mit einem Farbstofftest auf seine Aktivität. Protein C misst man als Aktivität mit einem Schlangengift als Auslöser. Protein S misst man als freies Antigen oder als Aktivität. Die Messung sollte nicht während einer frischen Thrombose erfolgen.
+
+Die Werte: Normal sind beim Antithrombin etwa achtzig bis hundertzwanzig Prozent. Protein C liegt bei etwa siebzig bis hundertvierzig Prozent. Protein S liegt bei Frauen etwas tiefer als bei Männern. Ein angeborener Mangel liegt meist bei etwa der Hälfte des Normalwerts. Erworbene Mängel sind viel häufiger als angeborene.
+
+Fehlerquellen: Bei einer frischen Thrombose werden die Hemmstoffe verbraucht und sind vorübergehend niedrig. Heparin senkt das Antithrombin. Vitamin-K-Antagonisten senken Protein C und Protein S. Schwangerschaft und Pille senken das Protein S. Lebererkrankungen senken alle drei. Ein niedriger Wert ist deshalb erst nach einer Wiederholung ohne diese Einflüsse ein echter Mangel.
+
+Warum ist das im Labor wichtig? Bei jungen Menschen mit Thrombose sucht man nach einer angeborenen Neigung. Dabei misst man diese drei Hemmstoffe. Der richtige Zeitpunkt ist mindestens einige Wochen nach der Thrombose und nach dem Absetzen der Blutverdünner. Du achtest deshalb auf die Medikamente im Anforderungsschein.
+
+Kurz gesagt: Antithrombin, Protein C und Protein S bremsen die Gerinnung. Heparin wirkt nur über das Antithrombin. Protein C und Protein S brauchen Vitamin K. Ein niedriger Wert während Thrombose, Heparin oder Vitamin-K-Antagonisten ist meist kein angeborener Mangel.
+
+# Zusammenfassung Teil eins — Part one summary
+
+Die Blutstillung läuft in drei Schritten ab. Die primäre Blutstillung bildet einen Pfropf aus Plättchen. Sie braucht genug gesunde Plättchen und den von-Willebrand-Faktor. Quick-Wert und a P T T erfassen sie nicht.
+
+Die sekundäre Blutstillung ist die Gerinnungskaskade. Sie endet mit Thrombin und festem Fibrin. Der Quick-Wert prüft den Weg über Faktor sieben, die a P T T den Weg über die Faktoren zwölf, elf, neun und acht. Die Faktoren zwei, sieben, neun und zehn brauchen Vitamin K.
+
+Die Fibrinolyse löst das Gerinnsel mit Plasmin wieder auf. Dabei entstehen D-Dimere. Die natürlichen Hemmstoffe Antithrombin, Protein C und Protein S halten das Gleichgewicht. Heparin wirkt über das Antithrombin.
+
+Im nächsten Teil geht es um die Probe. Ohne eine richtige Probe ist jeder Gerinnungstest wertlos.
+
+# Teil zwei: Präanalytik — Part two: Pre-analytics
+
+Der zweite Teil handelt von der Probe. Präanalytik heißt alles, was vor der Messung geschieht. Dazu gehören die Abnahme, das Röhrchen, der Transport, das Zentrifugieren und die Lagerung. In der Gerinnung entstehen die meisten falschen Ergebnisse genau hier.
+
+Dieser Teil hat keine Steckbriefe, sondern drei erklärende Kapitel. Das erste behandelt das Citratröhrchen. Das zweite behandelt Transport, Zentrifugation und Lagerung. Das dritte behandelt die häufigsten Störfaktoren.
+
+# Das Citratröhrchen — The citrate tube
+
+Für fast alle Gerinnungstests nimmt man Blut in ein Röhrchen mit Natriumcitrat. Die Kappe ist in Europa meist hellblau. Das Citrat bindet das Calcium im Blut. Ohne freies Calcium kann die Kaskade nicht ablaufen. Im Gerät gibt man später wieder Calcium zu und startet die Gerinnung gezielt.
+
+Das Röhrchen enthält eine genau abgemessene Menge Citratlösung. Die übliche Stärke ist drei Komma zwei Prozent. Das Mischungsverhältnis ist ein Teil Citrat auf neun Teile Blut. Dieses Verhältnis ist die wichtigste Zahl der ganzen Präanalytik. Alle Referenzbereiche gelten nur für genau dieses Verhältnis.
+
+Darum muss das Röhrchen bis zur Markierung gefüllt sein. Als Grenze gilt meist eine Füllung von mindestens neunzig Prozent. Ein halb volles Röhrchen enthält zu viel Citrat für zu wenig Blut. Das überschüssige Citrat fängt im Gerät das zugegebene Calcium ab. Die Gerinnung startet verspätet. Der Quick-Wert erscheint zu niedrig und die a P T T zu lang. Ein unterfülltes Röhrchen wird deshalb nicht gemessen, sondern zurückgewiesen.
+
+Eine besondere Lage entsteht bei einem sehr hohen Hämatokrit. Wer sehr viele rote Blutkörperchen hat, hat entsprechend wenig Plasma. Das Citrat verteilt sich nur im Plasma. Bei einem Hämatokrit über etwa fünfundfünfzig Prozent ist es darum zu konzentriert. Das betrifft etwa Neugeborene, Menschen mit Polycythaemia vera und Patienten mit angeborenem Herzfehler. Für sie muss die Menge an Citrat im Röhrchen nach einer Tabelle verringert werden.
+
+Auch die Reihenfolge der Röhrchen bei der Abnahme zählt. Das Citratröhrchen kommt vor dem Serumröhrchen mit Gerinnungsaktivator und vor dem E D T A-Röhrchen. Sonst gelangen Spuren dieser Zusätze in die Gerinnungsprobe. Nimmt man mit einem Flügelkanülensystem ab, füllt sich das erste Röhrchen schlecht. Der Schlauch enthält nämlich noch Luft. Darum zieht man dann vorher ein leeres Röhrchen ohne Zusatz als Vorlauf.
+
+Die Stauung soll kurz und leicht sein, höchstens etwa eine Minute. Langes Stauen und Pumpen mit der Faust aktivieren die Gerinnung schon in der Vene. Die Nadel soll nicht zu dünn sein, damit die Zellen beim Ansaugen nicht zerstört werden. Nach der Abnahme schwenkt man das Röhrchen einige Male vorsichtig. Schütteln aktiviert die Plättchen und kann kleine Gerinnsel auslösen.
+
+Merke dir für das Röhrchen drei Dinge. Erstens: Citrat zu Blut im Verhältnis eins zu neun. Zweitens: bis zur Markierung füllen. Drittens: bei sehr hohem Hämatokrit weniger Citrat nehmen.
+
+# Transport und Lagerung — Transport and storage
+
+Nach der Abnahme beginnt die Zeit zu laufen. Manche Gerinnungsfaktoren sind empfindlich und zerfallen bei Raumtemperatur. Besonders der Faktor fünf und der Faktor acht verlieren mit der Zeit an Aktivität. Darum gelten für Gerinnungsproben feste Zeitgrenzen.
+
+Für den Quick-Wert ist die Probe bei Raumtemperatur meist bis zu vierundzwanzig Stunden stabil. Für die a P T T gilt in der Regel eine Grenze von vier Stunden. Bei Patienten mit Heparin aus der Leitung oder Spritze ist die Grenze noch kürzer. Die Probe sollte dann innerhalb einer Stunde zentrifugiert werden. Die Plättchen setzen sonst den Plättchenfaktor vier frei. Er bindet Heparin, und die a P T T erscheint zu kurz.
+
+Gerinnungsproben gehören nicht in den Kühlschrank, solange sie Vollblut sind. Kälte aktiviert den Faktor sieben und zerstört den von-Willebrand-Faktor. Die Probe wird bei Raumtemperatur transportiert, ohne Stöße und ohne starke Wärme. Für Plättchenfunktionstests ist die Rohrpost meist verboten. Sie würde die Plättchen schon unterwegs aktivieren.
+
+Im Labor wird die Probe zentrifugiert. Ziel ist ein plättchenarmes Plasma. Das bedeutet weniger als zehntausend Plättchen pro Mikroliter. Ein gängiges Programm ist etwa fünfzehn Minuten bei mittlerer Kraft und Raumtemperatur. Das genaue Programm legt jedes Labor fest und prüft es regelmäßig. Für Tests auf Lupusantikoagulans zentrifugiert man oft zweimal. Restliche Plättchen würden dort das Ergebnis verfälschen.
+
+Muss eine Probe später gemessen werden, friert man das Plasma ein. Man hebt dazu das Plasma vorsichtig ab, ohne die Zellschicht zu berühren. Es wird in ein Kunststoffröhrchen gefüllt und tief eingefroren, bei etwa minus zwanzig Grad oder kälter. Zum Messen taut man es im Wasserbad bei siebenunddreißig Grad schnell auf. Danach wird es sofort gemischt und gemessen. Ein zweites Einfrieren ist nicht erlaubt.
+
+Vor jeder Messung schaust du dir das Plasma an. Ein Gerinnsel im Röhrchen macht die Probe wertlos. Es hat Faktoren und Fibrinogen verbraucht. Darum kippst du jedes Citratröhrchen vorsichtig und achtest auf Fäden oder Klumpen. Eine geronnene Probe wird immer zurückgewiesen.
+
+Merke dir für den Transport drei Dinge. Erstens: Raumtemperatur, nicht kühlen. Zweitens: die a P T T innerhalb von vier Stunden, bei Heparin noch schneller. Drittens: plättchenarm zentrifugieren und vor dem Messen auf Gerinnsel prüfen.
+
+# Die Störfaktoren — Interferences
+
+Neben dem Röhrchen und der Zeit gibt es Störfaktoren im Blut selbst. Manche stören die optische Messung. Andere verändern die Gerinnung in der Probe. Die wichtigsten sind die Hämolyse, die Lipämie, der Ikterus und das Heparin aus einer Leitung.
+
+Die Hämolyse ist die Zerstörung roter Blutkörperchen. Das Plasma wird rötlich. Dabei werden Stoffe frei, die die Gerinnung aktivieren. Außerdem stört der rote Farbstoff Geräte, die mit Licht messen. Eine stark hämolytische Probe wird für Gerinnungstests in der Regel abgelehnt. Die häufigste Ursache ist eine schwierige Abnahme mit zu starkem Sog.
+
+Die Lipämie ist eine milchige Trübung durch viel Fett im Blut. Der Ikterus ist eine gelbe Färbung durch viel Bilirubin. Beide stören die optische Erkennung des Gerinnsels. Moderne Geräte erkennen diese Störungen selbst und melden sie. Man kann dann auf eine mechanische Messung wechseln. Dabei bewegt sich eine kleine Kugel im Plasma, bis das Gerinnsel sie bremst.
+
+Ein besonders häufiger Fehler ist Heparin aus einem Zugang. Viele Patienten auf Intensivstationen haben einen Katheter, der mit Heparin gespült wird. Nimmt man das Blut aus diesem Katheter, gelangt Heparin in die Probe. Die a P T T ist dann stark verlängert, oft über dem Messbereich. Auch die Thrombinzeit ist sehr lang. Das passt nicht zum Zustand des Patienten. Die Lösung ist eine neue Abnahme aus der Vene oder nach ausreichendem Verwerfen von Blut.
+
+Auch eine Abnahme aus einem Arm mit laufender Infusion verfälscht die Probe. Das Blut ist verdünnt. Alle Faktoren erscheinen zu niedrig. Eine Probe aus dem Infusionsarm ist deshalb nicht verwertbar.
+
+Viele Medikamente beeinflussen die Gerinnungstests, ohne dass der Arzt es auf der Anforderung angibt. Dazu gehören alle Blutverdünner, aber auch manche Antibiotika und Mittel gegen Epilepsie. Darum fragst du bei einem unerklärlichen Wert nach der Medikation. Ein Gerinnungsbefund ohne Kenntnis der Medikamente ist oft nicht zu deuten.
+
+Merke dir drei Warnzeichen. Ein Wert passt nicht zum Patienten. Ein Wert ändert sich ohne Grund stark von einem Tag zum nächsten. Ein Wert liegt weit außerhalb des Messbereichs. In allen drei Fällen prüfst du zuerst die Probe und erst dann den Patienten.
+
+# Zusammenfassung Teil zwei — Part two summary
+
+Gerinnungstests brauchen Citratblut im Verhältnis eins zu neun. Das Röhrchen muss bis zur Markierung gefüllt sein. Bei sehr hohem Hämatokrit nimmt man weniger Citrat. Das Citratröhrchen kommt bei der Abnahme vor dem Serum- und dem E D T A-Röhrchen.
+
+Die Probe reist bei Raumtemperatur und wird nicht gekühlt. Die a P T T misst man innerhalb von vier Stunden, bei Heparin noch früher. Man zentrifugiert zu plättchenarmem Plasma und prüft auf Gerinnsel.
+
+Hämolyse, Heparin aus dem Katheter und Infusionen verfälschen die Werte. Passt ein Wert nicht zum Patienten, prüfst du zuerst die Probe. Im nächsten Teil folgen die Tests, die du mit dieser Probe misst.
+
+# Teil drei: Globaltests — Part three: Screening tests
+
+Der dritte Teil behandelt die Globaltests. Sie heißen so, weil jeder von ihnen viele Faktoren auf einmal prüft. Sie sind schnell, billig und vollautomatisch. Sie sagen aber nur, dass etwas gestört ist, nicht genau was.
+
+Der Teil hat fünf Steckbriefe. Zuerst kommen der Quick-Wert mit der I N R und die aktivierte partielle Thromboplastinzeit, kurz a P T T. Dann folgen die Thrombinzeit und das Fibrinogen. Am Ende steht der P F A-Test mit der Blutungszeit. Er prüft als einziger die Plättchen.
+
+# Der Quick-Wert — Prothrombin time
+
+Einordnung: Der Quick-Wert ist der häufigste Gerinnungstest. Er heißt nach dem amerikanischen Arzt Armand Quick. International heißt er Prothrombinzeit. Er prüft den extrinsischen Weg und den gemeinsamen Teil der Kaskade. Für die Überwachung von Vitamin-K-Antagonisten gibt man ihn als I N R an.
+
+Wirkweise: Man gibt zum Citratplasma eine große Menge Gewebefaktor und Calcium. Dieses Reagenz heißt Thromboplastin. Der Gewebefaktor aktiviert den Faktor sieben. Über die Faktoren zehn, fünf und zwei entsteht Fibrin. Der Test erfasst damit die Faktoren eins, zwei, fünf, sieben und zehn. Drei davon brauchen Vitamin K. Darum reagiert der Quick-Wert empfindlich auf Vitamin-K-Mangel und auf Vitamin-K-Antagonisten.
+
+Probe und Messung: Man misst im Citratplasma. Das Gerät misst die Zeit in Sekunden, bis das Gerinnsel entsteht. In Deutschland rechnet man diese Zeit über eine Eichkurve in Prozent um. Hundert Prozent entspricht dem Plasma gesunder Menschen. Für die I N R teilt man die Zeit des Patienten durch die normale Zeit. Diese Zahl wird mit einer Empfindlichkeitszahl des Reagenzes verrechnet. So sind I N R-Werte zwischen Laboren vergleichbar.
+
+Die Werte: Normal ist ein Quick-Wert von etwa siebzig bis hundertzwanzig Prozent. Das entspricht einer I N R von etwa null Komma neun bis eins Komma eins. Ein niedriger Quick-Wert bedeutet eine lange Gerinnungszeit und eine hohe I N R. Unter Vitamin-K-Antagonisten strebt man meist eine I N R von zwei bis drei an. Bei künstlichen Herzklappen liegt das Ziel oft höher. Ein niedriger Quick-Wert ohne Medikamente spricht für Vitamin-K-Mangel, Leberschaden oder Verbrauch.
+
+Fehlerquellen: Ein unterfülltes Röhrchen täuscht einen zu niedrigen Quick-Wert vor. Ein sehr hoher Hämatokrit wirkt genauso. Die I N R ist nur für Vitamin-K-Antagonisten geeicht. Bei einem Leberschaden ist sie zwischen Laboren weniger gut vergleichbar. Direkte orale Antikoagulanzien senken den Quick-Wert je nach Reagenz unterschiedlich stark. Ein normaler Quick-Wert schließt sie nicht aus.
+
+Warum ist das im Labor wichtig? Hunderttausende Menschen in Deutschland nehmen Vitamin-K-Antagonisten. Ihre Dosis richtet sich nach der I N R. Eine falsche I N R führt entweder zu einer Blutung oder zu einem Schlaganfall. Darum prüfst du jeden auffälligen Wert auf seine Plausibilität. Eine I N R über etwa fünf meldest du als kritischen Wert.
+
+Kurz gesagt: Der Quick-Wert prüft den extrinsischen Weg mit Faktor sieben und den gemeinsamen Teil. Normal sind etwa siebzig bis hundertzwanzig Prozent oder eine I N R um eins. Unter Vitamin-K-Antagonisten zielt man meist auf eine I N R von zwei bis drei. Unterfüllte Röhrchen täuschen einen zu niedrigen Wert vor.
+
+# Die aktivierte partielle Thromboplastinzeit — Activated partial thromboplastin time
+
+Einordnung: Die aktivierte partielle Thromboplastinzeit heißt kurz a P T T. Sie ist der zweite große Globaltest. Sie prüft den intrinsischen Weg und den gemeinsamen Teil der Kaskade. Man nutzt sie als Suchtest vor Operationen und zur Überwachung von unfraktioniertem Heparin.
+
+Wirkweise: Man gibt zum Citratplasma zuerst einen Aktivator und Phospholipide. Der Aktivator ist eine Oberfläche mit negativer Ladung, etwa feiner Ton oder Kieselsäure. Er aktiviert den Faktor zwölf. Nach einer kurzen Wartezeit gibt man Calcium zu. Dann läuft die Kaskade über die Faktoren elf, neun und acht bis zum Fibrin. Der Test erfasst damit die Faktoren zwölf, elf, neun, acht, zehn, fünf, zwei und das Fibrinogen.
+
+Probe und Messung: Man misst im Citratplasma, meist innerhalb von vier Stunden. Das Gerät misst die Zeit in Sekunden. Anders als beim Quick-Wert rechnet man sie nicht in Prozent um. Jedes Reagenz hat seinen eigenen Normalbereich. Manche Reagenzien sind besonders empfindlich für Lupusantikoagulans, andere besonders unempfindlich. Das Labor wählt sein Reagenz bewusst nach dem Zweck.
+
+Die Werte: Normal sind etwa fünfundzwanzig bis achtunddreißig Sekunden, je nach Reagenz. Eine verlängerte a P T T bei normalem Quick-Wert ist das typische Bild einer Hämophilie. Sie kommt auch bei einem Mangel an Faktor elf oder zwölf vor. Ebenso findet man sie beim von-Willebrand-Syndrom und beim Lupusantikoagulans. Unter Heparin strebt man oft das Eineinhalb- bis Zweieinhalbfache des Normalwerts an. Eine verkürzte a P T T entsteht meist durch eine Aktivierung bei der Abnahme.
+
+Fehlerquellen: Heparin aus einem Katheter verlängert die a P T T stark. Eine lange Lagerung lässt den Faktor acht zerfallen und verlängert sie ebenfalls. Ein hoher Faktor acht bei Entzündung oder Schwangerschaft verkürzt sie. Er kann dann einen leichten Mangel verdecken. Ein Lupusantikoagulans verlängert die a P T T, obwohl der Patient eher Thrombosen hat als Blutungen.
+
+Warum ist das im Labor wichtig? Eine verlängerte a P T T vor einer Operation führt oft zu Verzögerungen. Die Ursache kann eine gefährliche Hämophilie sein oder ein harmloser Mangel an Faktor zwölf. Mit dem Plasmatauschversuch und den Einzelfaktoren klärst du das. Zuerst schließt du aber Heparin und Fehler der Probe aus.
+
+Kurz gesagt: Die a P T T prüft den intrinsischen Weg mit den Faktoren zwölf, elf, neun und acht. Normal sind etwa fünfundzwanzig bis achtunddreißig Sekunden, je nach Reagenz. Sie ist verlängert bei Hämophilie, Heparin und Lupusantikoagulans. Heparin aus dem Katheter ist ihr häufigster Fehler.
+
+# Die Thrombinzeit — Thrombin time
+
+Einordnung: Die Thrombinzeit prüft nur den letzten Schritt der Gerinnung. Das ist die Umwandlung von Fibrinogen in Fibrin. Sie ist ein einfacher und sehr empfindlicher Test. Man nutzt sie vor allem, um Heparin und Thrombinhemmer zu erkennen.
+
+Wirkweise: Man gibt zum Citratplasma eine kleine, feste Menge Thrombin. Alle Faktoren davor werden damit übersprungen. Das Thrombin wandelt das Fibrinogen des Patienten direkt in Fibrin um. Die Zeit bis zum Gerinnsel hängt nur noch von zwei Dingen ab. Das sind die Menge und Qualität des Fibrinogens und Stoffe, die das Thrombin hemmen.
+
+Probe und Messung: Man misst im Citratplasma. Das Gerät misst die Zeit in Sekunden. Die Messung dauert nur wenige Sekunden. Eine verwandte Variante ist die Reptilasezeit. Sie nutzt ein Enzym aus Schlangengift statt Thrombin. Dieses Enzym wird von Heparin nicht gehemmt.
+
+Die Werte: Normal sind etwa vierzehn bis einundzwanzig Sekunden. Eine verlängerte Thrombinzeit hat drei große Ursachen. Erstens Heparin, schon in kleinen Mengen. Zweitens direkte Thrombinhemmer wie Dabigatran. Drittens zu wenig oder fehlerhaftes Fibrinogen. Ist die Thrombinzeit lang und die Reptilasezeit normal, liegt fast sicher Heparin vor. Sind beide lang, ist das Fibrinogen das Problem.
+
+Fehlerquellen: Hohe Mengen an Fibrinspaltprodukten stören die Bildung des Netzes und verlängern die Zeit. Das passiert bei einer Hyperfibrinolyse oder D I C. Auch ein sehr hohes Eiweiß im Blut, etwa beim Multiplen Myelom, kann die Zeit verlängern. Dabigatran verlängert die Thrombinzeit so stark, dass sie oft über dem Messbereich liegt.
+
+Warum ist das im Labor wichtig? Die Thrombinzeit beantwortet eine häufige Frage sehr schnell. Ist Heparin in der Probe? Bei einer unerklärlich langen a P T T gibst du sie dazu. Außerdem zeigt eine normale Thrombinzeit, dass kaum Dabigatran im Blut ist. Das ist vor einer dringenden Operation wichtig.
+
+Kurz gesagt: Die Thrombinzeit prüft nur den Schritt vom Fibrinogen zum Fibrin. Normal sind etwa vierzehn bis einundzwanzig Sekunden. Sie ist verlängert durch Heparin, Dabigatran und Fibrinogenmangel. Die Reptilasezeit unterscheidet Heparin vom Fibrinogenproblem.
+
+# Das Fibrinogen — Fibrinogen
+
+Einordnung: Das Fibrinogen ist der Faktor eins der Gerinnung. Es ist das Ausgangsmaterial für das Fibrin. Es wird in der Leber gebildet und ist das Gerinnungseiweiß mit der höchsten Menge im Plasma. Außerdem ist es ein Akute-Phase-Eiweiß.
+
+Wirkweise: Thrombin spaltet vom Fibrinogen kleine Stücke ab. Die verbleibenden Fibrinbausteine lagern sich zu langen Fäden zusammen. Der Faktor dreizehn vernetzt diese Fäden fest. Außerdem verbindet das Fibrinogen die Plättchen untereinander. Fehlt es, ist darum sowohl die primäre als auch die sekundäre Blutstillung gestört.
+
+Probe und Messung: Man misst im Citratplasma nach der Methode von Clauss. Dazu verdünnt man das Plasma und gibt viel Thrombin zu. Die Zeit bis zum Gerinnsel hängt dann nur noch von der Menge Fibrinogen ab. Über eine Eichkurve rechnet das Gerät die Zeit in Gramm pro Liter um. Manche Geräte schätzen das Fibrinogen auch aus dem Quick-Test ab. Dieser abgeleitete Wert ist bei manchen Krankheiten ungenau.
+
+Die Werte: Normal sind etwa eins Komma acht bis dreieinhalb Gramm pro Liter. Bei Entzündung und Schwangerschaft steigt das Fibrinogen, teils auf über sechs Gramm. Unter etwa eins Komma fünf Gramm pro Liter steigt bei Operationen das Blutungsrisiko. Unter einem Gramm pro Liter ist der Wert kritisch. Niedrige Werte findet man bei einer D I C, bei einer Hyperfibrinolyse, bei schwerem Leberschaden und bei großen Blutungen.
+
+Fehlerquellen: Hohe Mengen an Heparin oder Dabigatran können die Messung nach Clauss stören und einen zu niedrigen Wert vortäuschen. Fibrinspaltprodukte stören ebenfalls. Bei einer angeborenen Fehlform des Fibrinogens ist die Menge normal, aber die Funktion schlecht. Dann misst die Methode nach Clauss einen zu niedrigen Wert, das Antigen ist aber normal.
+
+Warum ist das im Labor wichtig? Bei schweren Blutungen ist das Fibrinogen der erste Faktor, der knapp wird. Das gilt besonders nach der Geburt und bei Verletzten. Ärzte geben dann gezielt Fibrinogen als Konzentrat. Dafür brauchen sie den Wert schnell, oft innerhalb von Minuten. Einen Wert unter einem Gramm pro Liter meldest du sofort.
+
+Kurz gesagt: Das Fibrinogen ist der Faktor eins und das Ausgangsmaterial des Fibrins. Man misst es nach Clauss in Gramm pro Liter. Normal sind etwa eins Komma acht bis dreieinhalb Gramm. Es steigt bei Entzündung und fällt bei D I C, Blutung und Leberschaden.
+
+# Der P F A-Test — Platelet function analyser test
+
+Einordnung: Der P F A-Test ist ein Suchtest für die primäre Blutstillung. Er prüft die Funktion der Plättchen und den von-Willebrand-Faktor zusammen. Er ersetzt in vielen Kliniken die alte Blutungszeit. Die Blutungszeit wird am Patienten selbst gemessen und ist schlecht standardisiert.
+
+Wirkweise: Das Gerät saugt Citratvollblut durch eine feine Kapillare. Am Ende liegt eine Membran mit einer winzigen Öffnung. Die Membran ist mit Kollagen und einem zweiten Auslöser beschichtet. Der zweite Auslöser ist entweder Adrenalin oder A D P. Die Plättchen haften an der Membran und verschließen die Öffnung. Das Gerät misst die Zeit bis zum Verschluss. Bei der Blutungszeit setzt man stattdessen einen kleinen Schnitt in die Haut und misst die Zeit bis zum Stillstand.
+
+Probe und Messung: Man braucht frisches Citratvollblut, kein Plasma. Die Probe muss bei Raumtemperatur stehen und innerhalb von etwa vier Stunden gemessen werden. Sie darf nicht mit der Rohrpost reisen. Man misst zuerst mit Kollagen und Adrenalin. Ist diese Zeit verlängert, misst man mit Kollagen und A D P.
+
+Die Werte: Die Normalbereiche liegen je nach Kartusche bei etwa einer bis drei Minuten. Mit Kollagen und Adrenalin verlängert A S S die Zeit typisch. Mit Kollagen und A D P bleibt sie unter A S S meist normal. Sind beide Zeiten verlängert, denkt man an ein von-Willebrand-Syndrom oder eine schwere Störung der Plättchen. Die Blutungszeit ist normal kürzer als etwa sieben Minuten.
+
+Fehlerquellen: Wenig Plättchen und ein niedriger Hämatokrit verlängern die Zeit ohne echte Funktionsstörung. Unter etwa hunderttausend Plättchen pro Mikroliter oder bei starker Anämie ist der Test kaum zu deuten. Leichte Formen des von-Willebrand-Syndroms können übersehen werden. Clopidogrel erfasst der Test nur unzuverlässig.
+
+Warum ist das im Labor wichtig? Der P F A-Test ist schnell und braucht wenig Blut. Er eignet sich gut für Kinder und für die Suche nach einer Blutungsneigung vor Operationen. Ein normaler Test schließt aber nicht jede Störung aus. Bei begründetem Verdacht folgen die Spezialtests aus Teil vier.
+
+Kurz gesagt: Der P F A-Test prüft Plättchen und von-Willebrand-Faktor im Vollblut. Er misst die Zeit bis zum Verschluss einer feinen Öffnung. A S S verlängert die Zeit mit Adrenalin. Wenig Plättchen und ein niedriger Hämatokrit verfälschen das Ergebnis.
+
+# Zusammenfassung Teil drei — Part three summary
+
+Die Globaltests prüfen viele Faktoren auf einmal. Der Quick-Wert erfasst den extrinsischen Weg mit Faktor sieben und den gemeinsamen Teil. Man gibt ihn in Prozent oder als I N R an. Die a P T T erfasst den intrinsischen Weg mit den Faktoren zwölf, elf, neun und acht.
+
+Die Thrombinzeit prüft nur den letzten Schritt. Sie erkennt Heparin und Dabigatran. Das Fibrinogen misst man nach Clauss in Gramm pro Liter. Unter einem Gramm pro Liter ist es kritisch.
+
+Der P F A-Test prüft als einziger Globaltest die primäre Blutstillung. Er braucht frisches Vollblut und genug Plättchen. Im nächsten Teil geht es um die Spezialtests. Mit ihnen findest du heraus, welcher Faktor genau gestört ist.
+
+# Teil vier: Spezialtests — Part four: Special tests
+
+Der vierte Teil behandelt die Spezialtests. Die Globaltests sagen, dass etwas gestört ist. Die Spezialtests sagen, was genau gestört ist. Sie sind aufwendiger und werden oft nur in größeren Laboren gemacht.
+
+Der Teil hat sieben Steckbriefe. Zuerst kommen die Einzelfaktoren und der Plasmatauschversuch. Sie klären eine verlängerte Gerinnungszeit auf. Dann folgen die D-Dimere und die Anti-X a-Aktivität. Danach kommen das Lupusantikoagulans und die Aggregometrie der Plättchen. Am Ende stehen die viskoelastischen Tests, die man direkt am Krankenbett nutzt.
+
+# Die Einzelfaktoren — Single factor assays
+
+Einordnung: Bei den Einzelfaktoren misst man die Aktivität eines einzigen Gerinnungsfaktors. Man nutzt sie, wenn ein Globaltest verlängert ist und die Ursache gesucht wird. Sie sind die Grundlage für die Diagnose der Hämophilie. Außerdem überwacht man mit ihnen die Behandlung mit Faktorkonzentraten.
+
+Wirkweise: Man mischt das Plasma des Patienten mit einem Mangelplasma. Diesem Mangelplasma fehlt genau der gesuchte Faktor, alle anderen sind vorhanden. Dann misst man einen Globaltest. Wie schnell das Gemisch gerinnt, hängt nur noch vom gesuchten Faktor aus dem Patientenplasma ab. Für die Faktoren zwei, fünf, sieben und zehn nutzt man den Quick-Test. Für die Faktoren acht, neun, elf und zwölf nutzt man die a P T T.
+
+Probe und Messung: Man misst im Citratplasma. Das Gerät verdünnt die Probe in mehreren Stufen. Aus einer Eichkurve mit Normalplasma rechnet es die Aktivität in Prozent aus. Manche Faktoren misst man auch mit einem Farbstofftest. Beim Faktor acht geben beide Verfahren bei manchen Patienten unterschiedliche Werte.
+
+Die Werte: Normal sind bei den meisten Faktoren etwa siebzig bis hundertfünfzig Prozent. Beim Faktor acht beginnt der Normalbereich schon bei etwa fünfzig Prozent. Bei der Hämophilie teilt man die Schwere nach dem Faktor ein. Unter einem Prozent ist sie schwer. Ein bis fünf Prozent sind mittelschwer. Fünf bis vierzig Prozent sind leicht. Sinken alle Vitamin-K-abhängigen Faktoren gemeinsam, liegt ein Vitamin-K-Mangel oder ein Medikament vor. Sinken auch Faktor fünf und Fibrinogen, liegt eher ein Leberschaden vor.
+
+Fehlerquellen: Ein Lupusantikoagulans kann mehrere Faktoren der a P T T zugleich zu niedrig erscheinen lassen. Dann steigen die Werte mit stärkerer Verdünnung an. Das ist ein wichtiges Warnzeichen. Auch Heparin und direkte orale Antikoagulanzien stören die Messung. Faktor acht und von-Willebrand-Faktor steigen bei Stress und Entzündung. Ein leichter Mangel kann dadurch verdeckt sein.
+
+Warum ist das im Labor wichtig? Mit den Einzelfaktoren wird aus einer verlängerten a P T T eine Diagnose. Für einen Patienten mit Hämophilie bestimmen sie die Dosis des Konzentrats vor Operationen. Ein falscher Wert führt zu einer Blutung oder zu verschwendetem, sehr teurem Medikament. Darum achtest du auf Hinweise auf Hemmstoffe oder Antikoagulanzien.
+
+Kurz gesagt: Einzelfaktoren misst man mit einem Mangelplasma und einem Globaltest. Normal sind meist siebzig bis hundertfünfzig Prozent. Die Hämophilie ist unter einem Prozent schwer, bis fünf Prozent mittelschwer und bis vierzig Prozent leicht. Ein Lupusantikoagulans kann mehrere Faktoren falsch niedrig erscheinen lassen.
+
+# Der Plasmatauschversuch — Mixing study
+
+Einordnung: Der Plasmatauschversuch heißt auch Mischversuch. Er klärt die wichtigste Frage bei einer verlängerten Gerinnungszeit. Fehlt ein Faktor, oder hemmt etwas die Gerinnung? Er steht zwischen den Globaltests und den Einzelfaktoren.
+
+Wirkweise: Man mischt das Patientenplasma im Verhältnis eins zu eins mit Normalplasma. Fehlt dem Patienten ein Faktor, liefert das Normalplasma ihn nach. Schon die Hälfte eines Faktors reicht für eine normale Gerinnungszeit. Die Zeit wird dann normal. Man spricht von einer Korrektur. Enthält das Patientenplasma dagegen einen Hemmstoff, hemmt er auch die Faktoren aus dem Normalplasma. Die Zeit bleibt verlängert.
+
+Probe und Messung: Man misst im Citratplasma, meist mit der a P T T. Man misst sofort nach dem Mischen und noch einmal nach etwa zwei Stunden bei siebenunddreißig Grad. Das hat einen Grund. Manche Hemmstoffe gegen den Faktor acht wirken erst langsam. Sofort sieht das Gemisch normal aus, nach zwei Stunden ist es wieder verlängert. Die Menge eines solchen Hemmstoffs misst man in Bethesda-Einheiten.
+
+Die Werte: Korrigiert sich die Zeit sofort und nach zwei Stunden, liegt ein Faktormangel vor. Dann folgen die Einzelfaktoren. Korrigiert sie sich sofort nicht, denkt man an ein Lupusantikoagulans oder an Heparin. Korrigiert sie sich sofort, aber nach zwei Stunden nicht mehr, denkt man an einen Hemmkörper gegen Faktor acht. Ein solcher Hemmkörper ist ein Notfall.
+
+Fehlerquellen: Heparin in der Probe verhält sich wie ein Hemmstoff. Darum schließt man es vorher mit der Thrombinzeit aus. Das Normalplasma muss gut sein und darf selbst keinen Mangel haben. Die Grenze für eine Korrektur ist nicht einheitlich. Jedes Labor legt seine eigene Regel fest. Ein sehr starker Mangel korrigiert manchmal nur unvollständig.
+
+Warum ist das im Labor wichtig? Eine erworbene Hämophilie entsteht durch einen Hemmkörper gegen Faktor acht. Sie trifft oft ältere Menschen oder Frauen nach einer Geburt. Sie führt zu großen, gefährlichen Blutungen in Haut und Muskeln. Der Plasmatauschversuch mit Inkubation ist oft der erste Hinweis. Ein schneller Befund rettet hier Leben.
+
+Kurz gesagt: Der Plasmatauschversuch mischt Patientenplasma eins zu eins mit Normalplasma. Wird die Zeit normal, fehlt ein Faktor. Bleibt sie verlängert, liegt ein Hemmstoff vor. Ein Hemmkörper gegen Faktor acht zeigt sich oft erst nach zwei Stunden Inkubation.
+
+# Die D-Dimere — D-dimers
+
+Einordnung: Die D-Dimere sind Bruchstücke von vernetztem Fibrin. Sie entstehen, wenn Plasmin ein Gerinnsel abbaut. Sie zeigen, dass im Körper Gerinnung und Fibrinolyse zugleich ablaufen. Man nutzt sie vor allem, um eine Thrombose oder eine Lungenembolie auszuschließen.
+
+Wirkweise: Wird ein Gerinnsel gebildet, vernetzt der Faktor dreizehn die Fibrinfäden. Baut das Plasmin dieses Netz ab, bleiben zwei verbundene Endstücke übrig. Diese Endstücke heißen D-Dimere. Sie entstehen nur aus vernetztem Fibrin, nicht aus Fibrinogen. Darum zeigen sie wirklich ein Gerinnsel an und nicht nur einen hohen Spiegel an Fibrinogen.
+
+Probe und Messung: Man misst im Citratplasma. Die meisten Tests nutzen Latexkügelchen mit Antikörpern gegen D-Dimere. Die Kügelchen verklumpen und machen die Probe trüb. Das Gerät misst diese Trübung. Die Einheit ist nicht überall gleich. Manche Labore geben Milligramm pro Liter an, andere Mikrogramm pro Liter. Manche beziehen den Wert auf das Fibrinogen, andere auf die D-Dimere selbst. Darum steht die Einheit immer auf dem Befund.
+
+Die Werte: Ein typischer Grenzwert liegt bei null Komma fünf Milligramm pro Liter, bezogen auf das Fibrinogen. Unter diesem Wert ist eine Thrombose bei geringem Verdacht sehr unwahrscheinlich. Ab dem fünfzigsten Lebensjahr steigen die D-Dimere von Natur aus. Viele Kliniken nutzen dann einen Grenzwert nach dem Alter. Man rechnet das Alter mal zehn Mikrogramm pro Liter. Sehr hohe Werte findet man bei einer D I C, großen Lungenembolien und nach großen Verletzungen.
+
+Fehlerquellen: Hohe D-Dimere sind nicht spezifisch. Sie steigen nach Operationen, bei Infektionen, Krebs, Schwangerschaft und im Alter. Ein hoher Wert beweist also keine Thrombose. Der Test ist nur zum Ausschließen gut. Rheumafaktoren und andere Antikörper können manche Tests stören. Unter einer laufenden Blutverdünnung sinken die D-Dimere und können eine Thrombose verdecken.
+
+Warum ist das im Labor wichtig? In der Notaufnahme spart ein normaler D-Dimer-Wert vielen Patienten eine Bildgebung. Er darf aber nur bei geringer Wahrscheinlichkeit genutzt werden. Die Ärzte schätzen diese Wahrscheinlichkeit vorher mit einem Punktesystem. Ein schneller und richtiger Wert hat dort große Bedeutung. Bei einer D I C verfolgt man den Verlauf mit den D-Dimeren.
+
+Kurz gesagt: D-Dimere sind Bruchstücke von vernetztem Fibrin. Ein normaler Wert schließt eine Thrombose bei geringem Verdacht aus. Ein hoher Wert ist unspezifisch und beweist nichts. Ab fünfzig Jahren nutzt man oft einen Grenzwert nach dem Alter.
+
+# Die Anti-X a-Aktivität — Anti-Xa activity
+
+Einordnung: Die Anti-X a-Aktivität misst, wie stark ein Medikament den Faktor zehn a hemmt. Man nutzt sie für niedermolekulare Heparine, für unfraktioniertes Heparin und für die Hemmer des Faktors zehn a. Sie ist der genaueste Test für diese Medikamente.
+
+Wirkweise: Man gibt zum Plasma eine bekannte Menge Faktor zehn a. Ist ein Hemmer im Plasma, wird ein Teil davon blockiert. Der freie Rest spaltet einen farblosen Stoff, aus dem ein gelber Farbstoff wird. Je mehr Hemmer in der Probe ist, desto weniger Farbe entsteht. Bei Heparin braucht der Test das Antithrombin des Patienten oder fügt es selbst zu.
+
+Probe und Messung: Man misst im Citratplasma. Der Zeitpunkt der Abnahme ist entscheidend. Bei niedermolekularem Heparin misst man den Spitzenspiegel, etwa drei bis vier Stunden nach der Spritze. Bei unfraktioniertem Heparin aus dem Perfusor ist der Zeitpunkt beliebig. Die Probe muss dann aber schnell zentrifugiert werden. Für jedes Medikament braucht man eine eigene Eichkurve. Mit der Heparin-Eichung erhält man Einheiten pro Milliliter. Mit der Eichung für Rivaroxaban oder Apixaban erhält man Nanogramm pro Milliliter.
+
+Die Werte: Bei niedermolekularem Heparin in voller Dosis liegt der Spitzenspiegel meist bei etwa null Komma fünf bis eins Einheiten pro Milliliter. Bei einer Vorbeugung ist er niedriger. Bei unfraktioniertem Heparin liegt der Zielbereich oft bei etwa null Komma drei bis null Komma sieben. Bei den Hemmern des Faktors zehn a schätzt man vor einer Operation, ob noch viel Medikament im Blut ist.
+
+Fehlerquellen: Ein falscher Zeitpunkt der Abnahme macht den Wert wertlos. Darum gehört die Uhrzeit der letzten Gabe auf die Anforderung. Eine falsche Eichkurve gibt falsche Zahlen. Man kann Heparin nicht mit einer Eichung für Rivaroxaban messen. Hämolyse und starker Ikterus stören den Farbstofftest. Ein Antithrombinmangel kann bei manchen Tests zu niedrige Werte bei Heparin geben.
+
+Warum ist das im Labor wichtig? Bei Schwangeren, sehr schweren oder sehr leichten Patienten und bei Nierenschwäche ist die richtige Dosis unsicher. Die Anti-X a-Aktivität zeigt, ob das Heparin richtig dosiert ist. Bei Blutungen oder vor einer Notoperation zeigt sie den Spiegel eines Hemmers des Faktors zehn a. Du brauchst immer den Namen des Medikaments, um die richtige Eichung zu wählen.
+
+Kurz gesagt: Die Anti-X a-Aktivität misst die Hemmung des Faktors zehn a mit einem Farbstofftest. Man nutzt sie für Heparine und für Rivaroxaban, Apixaban und Edoxaban. Jedes Medikament braucht seine eigene Eichkurve. Bei niedermolekularem Heparin misst man drei bis vier Stunden nach der Spritze.
+
+# Das Lupusantikoagulans — Lupus anticoagulant
+
+Einordnung: Das Lupusantikoagulans ist ein Antikörper gegen Eiweiße, die an Phospholipide gebunden sind. Es verlängert im Röhrchen die Gerinnungszeit. Im Körper erhöht es aber das Risiko für Thrombosen und Fehlgeburten. Sein Name ist darum doppelt irreführend. Es kommt nicht nur beim Lupus vor und es hemmt im Körper die Gerinnung nicht.
+
+Wirkweise: Die Gerinnungstests im Röhrchen brauchen Phospholipide als Oberfläche. Das Lupusantikoagulans besetzt diese Oberfläche. Die Faktoren finden weniger Platz, und die Zeit wird länger. Gibt man sehr viel Phospholipid zu, reicht der Platz wieder aus. Die Zeit wird dann kürzer. Dieser Vergleich zwischen wenig und viel Phospholipid ist das Prinzip aller Tests.
+
+Probe und Messung: Man misst im Citratplasma, das sehr gut von Plättchen befreit ist. Man zentrifugiert dazu meist zweimal. Man nutzt immer zwei verschiedene Tests. Der eine ist eine empfindliche a P T T. Der andere ist die verdünnte Russellviper-Gift-Zeit, kurz d R V V T. Jeder Test hat einen Suchschritt mit wenig Phospholipid und einen Bestätigungsschritt mit viel Phospholipid. Daraus rechnet das Gerät ein Verhältnis.
+
+Die Werte: Ist das Verhältnis aus Suche und Bestätigung deutlich erhöht, ist der Test positiv. Eine typische Grenze liegt bei etwa eins Komma zwei, je nach Labor. Ein positiver Test muss nach mindestens zwölf Wochen bestätigt werden. Erst ein dauerhaft positiver Test zählt für die Diagnose eines Antiphospholipidsyndroms. Dazu misst man auch Antikörper gegen Cardiolipin und gegen Beta-zwei-Glykoprotein im Serum.
+
+Fehlerquellen: Heparin, Vitamin-K-Antagonisten und besonders die direkten oralen Antikoagulanzien verfälschen die Tests. Sie können ein falsch positives Ergebnis vortäuschen. Darum misst man möglichst ohne Blutverdünner. Restliche Plättchen in der Probe liefern Phospholipide und täuschen einen negativen Test vor. Auch bei einer frischen Thrombose und bei Infektionen sind die Tests oft vorübergehend auffällig.
+
+Warum ist das im Labor wichtig? Junge Menschen mit Thrombosen und Frauen mit wiederholten Fehlgeburten werden auf ein Lupusantikoagulans untersucht. Ein positiver Befund verändert die Behandlung über Jahre. Ein falsch positiver Befund ist darum genauso schädlich wie ein übersehener. Du prüfst bei jeder Anforderung, welche Blutverdünner der Patient nimmt.
+
+Kurz gesagt: Das Lupusantikoagulans verlängert die Gerinnungszeit im Röhrchen und macht im Körper Thrombosen. Man misst es mit zwei Tests, einer empfindlichen a P T T und der d R V V T. Ein positiver Befund muss nach zwölf Wochen bestätigt werden. Blutverdünner und restliche Plättchen verfälschen das Ergebnis.
+
+# Die Thrombozytenaggregometrie — Platelet aggregometry
+
+Einordnung: Die Thrombozytenaggregometrie misst, wie gut Blutplättchen miteinander verklumpen. Sie ist der Standardtest für angeborene und erworbene Störungen der Plättchenfunktion. Die klassische Methode stammt von dem britischen Forscher Born. Man nutzt sie auch, um die Wirkung von A S S und Clopidogrel zu prüfen.
+
+Wirkweise: Bei der Methode nach Born stellt man ein plättchenreiches Plasma her. Es ist trüb, weil die Plättchen frei schwimmen. Dann gibt man einen Auslöser zu. Die Plättchen verklumpen zu Haufen und sinken ab. Das Plasma wird klarer, und mehr Licht geht hindurch. Das Gerät zeichnet diese Zunahme des Lichts als Kurve auf. Eine andere Methode misst im Vollblut den Strom zwischen zwei Drähten, an denen sich die Plättchen anlagern.
+
+Probe und Messung: Man braucht frisches Citratblut, das bei Raumtemperatur stand. Die Messung sollte innerhalb von etwa vier Stunden erfolgen. Man zentrifugiert sanft, damit die Plättchen im Plasma bleiben. Dann testet man mehrere Auslöser nacheinander. Typisch sind A D P, Kollagen, Arachidonsäure, Adrenalin und Ristocetin. Jeder Auslöser prüft einen anderen Weg der Aktivierung.
+
+Die Werte: Gesunde Plättchen verklumpen bei allen Auslösern kräftig. Unter A S S fehlt die Antwort auf Arachidonsäure fast ganz. Unter Clopidogrel ist die Antwort auf A D P schwach. Fehlt nur die Antwort auf Ristocetin, denkt man an ein von-Willebrand-Syndrom oder an das Bernard-Soulier-Syndrom. Fehlen alle Antworten außer der auf Ristocetin, spricht das für die Thrombasthenie Glanzmann. Dort fehlt der Rezeptor für Fibrinogen.
+
+Fehlerquellen: Wenige Plättchen geben eine schwache Kurve, auch wenn jedes einzelne Plättchen gesund ist. Kälte, Rohrpost und langes Warten aktivieren oder schwächen die Plättchen. Viele Medikamente stören den Test, darunter Schmerzmittel und manche Antidepressiva. Ein trübes Plasma durch viel Fett stört die Lichtmessung.
+
+Warum ist das im Labor wichtig? Die Aggregometrie ist Handarbeit und braucht viel Erfahrung. Die Proben müssen gut geplant werden, oft mit einem festen Termin für die Abnahme. Bei Patienten mit Blutungsneigung und normalen Globaltests ist sie oft der entscheidende Test. Du prüfst vor dem Termin, ob der Patient Medikamente abgesetzt hat.
+
+Kurz gesagt: Die Aggregometrie misst das Verklumpen der Plättchen nach Zugabe von Auslösern. Die Methode nach Born misst mehr Licht durch klareres Plasma. A S S hemmt die Antwort auf Arachidonsäure, Clopidogrel die auf A D P. Die Probe braucht frisches Citratblut und genug Plättchen.
+
+# Die viskoelastischen Tests — Viscoelastic tests
+
+Einordnung: Viskoelastische Tests messen, wie fest ein Gerinnsel wird und wie schnell es sich bildet. Dazu gehören die Thrombelastographie und die Thrombelastometrie. Sie arbeiten mit Vollblut und zeigen die ganze Gerinnung auf einmal. Man nutzt sie vor allem im Operationssaal, auf der Intensivstation und bei schweren Blutungen.
+
+Wirkweise: Man gibt Citratvollblut in einen kleinen Becher und startet die Gerinnung mit Calcium und einem Auslöser. In den Becher ragt ein Stift. Becher oder Stift bewegen sich leicht hin und her. Solange das Blut flüssig ist, gibt es keinen Widerstand. Mit dem Gerinnsel wird die Bewegung gebremst. Das Gerät zeichnet daraus eine Kurve. Sie zeigt die Zeit bis zum Beginn, die Festigkeit und die spätere Auflösung des Gerinnsels.
+
+Probe und Messung: Man misst Citratvollblut, oft direkt neben dem Patienten. Erste Ergebnisse gibt es nach etwa zehn Minuten. Man nutzt mehrere Ansätze gleichzeitig. Ein Ansatz prüft den Weg über den Gewebefaktor. Ein anderer prüft den intrinsischen Weg. Ein dritter hemmt die Plättchen. Er zeigt, wie viel Festigkeit allein vom Fibrinogen kommt. Ein vierter enthält einen Hemmer der Fibrinolyse.
+
+Die Werte: Eine verlängerte Zeit bis zum Beginn spricht für einen Mangel an Faktoren. Eine geringe Festigkeit spricht für zu wenig Plättchen oder zu wenig Fibrinogen. Ist auch die Festigkeit im Ansatz ohne Plättchen niedrig, fehlt Fibrinogen. Löst sich das Gerinnsel vorzeitig auf, liegt eine Hyperfibrinolyse vor. Wird sie durch den Hemmer der Fibrinolyse verhindert, ist die Diagnose sicher.
+
+Fehlerquellen: Die Tests sind wenig empfindlich für A S S, Clopidogrel und das von-Willebrand-Syndrom. Die direkten oralen Antikoagulanzien erfassen sie nur grob. Bei einer Unterkühlung des Patienten misst das Gerät meist bei siebenunddreißig Grad. Es zeigt dann eine bessere Gerinnung, als der Patient tatsächlich hat. Die Geräte brauchen eine regelmäßige Kontrolle und geschulte Benutzer.
+
+Warum ist das im Labor wichtig? Bei massiven Blutungen dauern die klassischen Tests zu lange. Die viskoelastischen Tests zeigen in Minuten, ob Fibrinogen, Plättchen oder Faktoren fehlen. So bekommt der Patient gezielt das richtige Präparat. Auch wenn das Gerät im Operationssaal steht, ist oft das Labor für die Qualitätskontrolle zuständig.
+
+Kurz gesagt: Viskoelastische Tests zeigen im Vollblut Beginn, Festigkeit und Auflösung des Gerinnsels. Sie liefern in Minuten Ergebnisse für die Behandlung schwerer Blutungen. Sie erkennen eine Hyperfibrinolyse und einen Fibrinogenmangel gut. A S S, Clopidogrel und das von-Willebrand-Syndrom erkennen sie schlecht.
+
+# Zusammenfassung Teil vier — Part four summary
+
+Die Spezialtests zeigen genau, was gestört ist. Einzelfaktoren misst man mit einem Mangelplasma. Der Plasmatauschversuch unterscheidet einen Mangel von einem Hemmstoff. Ein Hemmkörper gegen Faktor acht zeigt sich oft erst nach zwei Stunden.
+
+Die D-Dimere schließen eine Thrombose bei geringem Verdacht aus, beweisen aber keine. Die Anti-X a-Aktivität misst Heparine und Hemmer des Faktors zehn a, jeweils mit eigener Eichkurve. Das Lupusantikoagulans braucht zwei Tests und eine Bestätigung nach zwölf Wochen.
+
+Die Aggregometrie prüft die Funktion der Plättchen mit verschiedenen Auslösern. Die viskoelastischen Tests zeigen im Vollblut in Minuten die ganze Gerinnung. Im nächsten Teil lernst du die Krankheiten kennen, bei denen Menschen zu stark bluten.
+
+# Teil fünf: Blutungsneigung — Part five: Bleeding disorders
+
+Der fünfte Teil behandelt Krankheiten, bei denen Menschen zu stark oder zu leicht bluten. Man nennt eine solche Neigung hämorrhagische Diathese. Sie kann angeboren oder erworben sein. Sie kann die Plättchen, den von-Willebrand-Faktor oder die Gerinnungsfaktoren betreffen.
+
+Der Teil hat fünf Steckbriefe. Zuerst kommen die beiden Hämophilien. Dann folgt das von-Willebrand-Syndrom, die häufigste angeborene Blutungsneigung. Danach kommen der Vitamin-K-Mangel und der Leberschaden. Am Ende steht die Immunthrombozytopenie, bei der der Körper seine eigenen Plättchen abbaut.
+
+# Die Hämophilie A — Haemophilia A
+
+Einordnung: Die Hämophilie A ist ein angeborener Mangel an Faktor acht. Sie ist die bekannteste Bluterkrankheit. Das Gen liegt auf dem X-Chromosom. Darum erkranken fast nur Jungen und Männer. Etwa einer von fünftausend neugeborenen Jungen ist betroffen. Frauen sind meist Überträgerinnen.
+
+Wirkweise: Ohne Faktor acht läuft der intrinsische Weg nur schwach. Der Faktor neun a kann den Faktor zehn nicht schnell genug aktivieren. Es entsteht zu wenig Thrombin. Das erste Gerinnsel bildet sich, aber es ist locker und hält nicht. Typisch sind Blutungen in Gelenke und Muskeln. Wiederholte Gelenkblutungen zerstören mit der Zeit Knie, Ellenbogen und Sprunggelenke.
+
+Probe und Messung: Man misst im Citratplasma. Die a P T T ist verlängert, der Quick-Wert und die Thrombinzeit sind normal. Der Plasmatauschversuch korrigiert die Zeit. Dann misst man den Faktor acht. Man misst immer auch den von-Willebrand-Faktor, um ein von-Willebrand-Syndrom auszuschließen. Bei behandelten Patienten sucht man regelmäßig nach Hemmkörpern gegen Faktor acht.
+
+Die Werte: Unter einem Prozent Faktor acht ist die Hämophilie schwer. Diese Patienten bluten auch ohne Verletzung. Ein bis fünf Prozent sind mittelschwer, fünf bis vierzig Prozent sind leicht. Bei einer leichten Form fällt die Krankheit oft erst bei einer Operation auf. Bei leichten Formen kann die a P T T sogar normal sein. Etwa ein Viertel der Patienten mit schwerer Form bildet Hemmkörper gegen das Konzentrat.
+
+Fehlerquellen: Neuere Medikamente ahmen den Faktor acht mit einem Antikörper nach. Das bekannteste ist Emicizumab. Es verkürzt die a P T T stark, auch wenn der Patient keinen eigenen Faktor acht hat. Der Faktor acht erscheint dann viel zu hoch. Für diese Patienten braucht man einen besonderen Farbstofftest. Moderne Konzentrate mit verlängerter Wirkung messen manche Reagenzien zu hoch oder zu niedrig.
+
+Warum ist das im Labor wichtig? Die Behandlung mit Faktor acht ist sehr teuer und richtet sich nach dem gemessenen Spiegel. Vor Operationen misst man oft mehrmals am Tag. Du musst wissen, welches Medikament der Patient bekommt. Nur dann wählst du die richtige Methode. Ein neuer Hemmkörper ist ein wichtiger Befund für das Behandlungszentrum.
+
+Kurz gesagt: Die Hämophilie A ist ein angeborener Mangel an Faktor acht auf dem X-Chromosom. Die a P T T ist verlängert, der Quick-Wert normal. Unter einem Prozent ist die Krankheit schwer. Emicizumab verfälscht die a P T T und die übliche Messung des Faktors acht.
+
+# Die Hämophilie B — Haemophilia B
+
+Einordnung: Die Hämophilie B ist ein angeborener Mangel an Faktor neun. Auch ihr Gen liegt auf dem X-Chromosom. Sie ist etwa fünfmal seltener als die Hämophilie A. Etwa einer von fünfundzwanzigtausend neugeborenen Jungen ist betroffen. Man nennt sie auch Christmas-Krankheit, nach dem ersten beschriebenen Patienten.
+
+Wirkweise: Der Faktor neun bildet zusammen mit Faktor acht einen Komplex. Dieser Komplex aktiviert auf der Oberfläche der Plättchen den Faktor zehn. Fehlt einer der beiden Partner, entsteht zu wenig Thrombin. Die Beschwerden sind darum bei beiden Hämophilien gleich. Man kann sie am Patienten nicht unterscheiden. Nur das Labor zeigt, welcher Faktor fehlt.
+
+Probe und Messung: Man misst im Citratplasma. Wie bei der Hämophilie A ist die a P T T verlängert und der Quick-Wert normal. Der Plasmatauschversuch korrigiert. Dann misst man den Faktor neun mit einem Mangelplasma. Auch hier sucht man bei Behandelten nach Hemmkörpern. Sie sind bei der Hämophilie B seltener als bei der Hämophilie A.
+
+Die Werte: Die Einteilung der Schwere ist dieselbe wie bei der Hämophilie A. Unter einem Prozent ist sie schwer, ein bis fünf Prozent mittelschwer, fünf bis vierzig Prozent leicht. Der Faktor neun hängt von Vitamin K ab. Bei Neugeborenen ist er von Natur aus niedrig. Eine leichte Hämophilie B lässt sich darum im Neugeborenenalter schwer sicher erkennen.
+
+Fehlerquellen: Ein Vitamin-K-Mangel oder ein Vitamin-K-Antagonist senkt den Faktor neun ebenfalls. Dann sind aber auch die Faktoren zwei, sieben und zehn niedrig, und der Quick-Wert ist auffällig. Moderne Konzentrate mit verlängerter Wirkung werden von manchen Reagenzien falsch gemessen. Das Labor braucht deshalb den Namen des Präparats.
+
+Warum ist das im Labor wichtig? Für die Hämophilie B gibt es inzwischen eine Gentherapie. Nach der Behandlung bildet die Leber selbst Faktor neun. Den Erfolg misst das Labor über viele Jahre. Auch hier wählt das Labor die Methode nach dem Präparat.
+
+Kurz gesagt: Die Hämophilie B ist ein angeborener Mangel an Faktor neun. Sie ist fünfmal seltener als die Hämophilie A, sieht aber gleich aus. Die a P T T ist verlängert, der Quick-Wert normal. Nur der Einzelfaktor unterscheidet die beiden Formen.
+
+# Das von-Willebrand-Syndrom — Von Willebrand disease
+
+Einordnung: Das von-Willebrand-Syndrom ist ein Mangel oder eine Fehlfunktion des von-Willebrand-Faktors. Es ist die häufigste angeborene Blutungsneigung. Ein leichter Mangel findet sich bei etwa einem von hundert Menschen. Spürbare Beschwerden hat aber nur ein kleiner Teil davon. Männer und Frauen sind gleich oft betroffen.
+
+Wirkweise: Fehlt der Faktor, haften die Plättchen schlecht an der Wunde. Außerdem sinkt der Faktor acht, weil er ohne seinen Träger schnell abgebaut wird. Typisch sind Nasenbluten, Zahnfleischbluten, blaue Flecken und starke Regelblutungen. Auch nach dem Ziehen eines Zahns blutet es lange. Man unterscheidet drei Typen. Typ eins ist ein teilweiser Mangel und mit Abstand am häufigsten. Typ zwei ist ein Faktor mit schlechter Funktion. Typ drei ist ein fast völliges Fehlen.
+
+Probe und Messung: Man misst im Citratplasma das Antigen und die Aktivität des Faktors. Dazu kommt der Faktor acht. Für die Unterformen des Typs zwei misst man die Bindung an Kollagen und die Größe der Ketten. Diese Größe zeigt die Multimeranalyse auf einem Gel. Der P F A-Test ist oft verlängert. Die a P T T ist nur verlängert, wenn der Faktor acht deutlich sinkt.
+
+Die Werte: Unter dreißig Prozent gilt das Syndrom als sicher. Zwischen dreißig und fünfzig Prozent spricht man von einem niedrigen von-Willebrand-Faktor. Hier entscheiden die Beschwerden. Beim Typ eins sind Antigen und Aktivität gleich stark erniedrigt. Beim Typ zwei ist die Aktivität deutlich niedriger als das Antigen. Beim Typ drei sind beide kaum messbar, und der Faktor acht ist sehr niedrig. Der Untertyp zwei B macht zusätzlich zu wenig Plättchen.
+
+Fehlerquellen: Stress, Sport, Entzündung, Schwangerschaft und die Pille erhöhen den Faktor und verdecken einen Mangel. Ein schreiendes Kind bei der Abnahme reicht schon. Blutgruppe null senkt die Werte von Natur aus. Gekühltes Vollblut täuscht einen Mangel vor. Eine erworbene Form gibt es bei Herzklappenfehlern, bei Kunstherzen und bei manchen Krankheiten des Knochenmarks.
+
+Warum ist das im Labor wichtig? Viele Betroffene wissen nichts von ihrer Krankheit. Sie fällt erst bei einer Operation oder Geburt auf. Bei Typ eins hilft oft das Medikament Desmopressin. Es setzt den Faktor aus der Gefäßwand frei. Vor seiner Gabe prüft man im Labor, ob der Patient darauf anspricht. Eine sorgfältige Präanalytik ist hier wichtiger als jedes Gerät.
+
+Kurz gesagt: Das von-Willebrand-Syndrom ist die häufigste angeborene Blutungsneigung. Typisch sind Schleimhautblutungen und starke Regelblutungen. Man misst Antigen, Aktivität und Faktor acht. Stress und Entzündung verdecken einen Mangel, Kälte täuscht ihn vor.
+
+# Vitamin-K-Mangel und Leberschaden — Vitamin K deficiency and liver disease
+
+Einordnung: Ein Vitamin-K-Mangel und ein Leberschaden sind die häufigsten erworbenen Störungen der Gerinnung. Beide senken mehrere Faktoren zugleich. Beide zeigen sich zuerst im Quick-Wert. Das Labor kann sie mit wenigen Tests gut unterscheiden.
+
+Wirkweise: Die Leber bildet fast alle Gerinnungsfaktoren. Die Faktoren zwei, sieben, neun und zehn brauchen dafür Vitamin K. Ohne Vitamin K bildet die Leber zwar die Eiweiße, aber sie arbeiten nicht. Ursachen sind eine Mangelernährung, Antibiotika, Störungen der Fettaufnahme im Darm und Vitamin-K-Antagonisten. Neugeborene haben von Natur aus wenig Vitamin K. Darum bekommen sie in Deutschland Tropfen als Vorbeugung. Bei einem Leberschaden fehlt dagegen die Fabrik selbst. Dann sinken fast alle Faktoren.
+
+Probe und Messung: Man misst im Citratplasma. Bei beiden Störungen ist der Quick-Wert erniedrigt. Der Faktor sieben fällt zuerst, weil er am kürzesten lebt. Die a P T T wird erst später länger. Der Schlüssel zur Unterscheidung ist der Faktor fünf. Er hängt nicht von Vitamin K ab. Beim Vitamin-K-Mangel ist er normal, beim Leberschaden ist er erniedrigt.
+
+Die Werte: Beim Leberschaden sind auch das Fibrinogen, das Antithrombin und oft die Plättchen niedrig. Der Faktor acht und der von-Willebrand-Faktor sind dagegen meist hoch. Sie werden nämlich nicht nur in den Leberzellen gebildet. Ein weiterer Test ist der Koller-Test. Man gibt Vitamin K und misst den Quick-Wert am nächsten Tag erneut. Steigt er deutlich, lag ein Vitamin-K-Mangel vor. Bleibt er niedrig, ist die Leber geschädigt.
+
+Fehlerquellen: Ein niedriger Quick-Wert beim Leberschaden bedeutet nicht unbedingt eine starke Blutungsneigung. Auch die Hemmstoffe sinken. Das Gleichgewicht ist auf niedrigem Niveau erhalten, aber leicht zu stören. Diese Patienten können sowohl bluten als auch Thrombosen bilden. Gift gegen Ratten enthält sehr lang wirkende Vitamin-K-Antagonisten. Eine Vergiftung damit kann wie ein unerklärlicher Vitamin-K-Mangel aussehen.
+
+Warum ist das im Labor wichtig? Der Quick-Wert ist bei Lebererkrankungen ein Maß für die Leistung der Leber. Er geht in Punktwerte ein, nach denen man über Lebertransplantationen entscheidet. Bei Neugeborenen mit Blutung ist ein Vitamin-K-Mangel ein Notfall. Du meldest einen stark erniedrigten Quick-Wert bei einem Säugling sofort.
+
+Kurz gesagt: Vitamin-K-Mangel und Leberschaden senken zuerst den Quick-Wert. Der Faktor sieben fällt zuerst. Der Faktor fünf ist beim Vitamin-K-Mangel normal und beim Leberschaden erniedrigt. Neugeborene bekommen Vitamin K als Vorbeugung.
+
+# Die Immunthrombozytopenie — Immune thrombocytopenia
+
+Einordnung: Die Immunthrombozytopenie heißt kurz I T P. Bei ihr baut der Körper seine eigenen Plättchen ab. Sie ist eine Autoimmunkrankheit. Bei Kindern folgt sie oft auf einen Virusinfekt und heilt meist von selbst. Bei Erwachsenen verläuft sie häufig chronisch.
+
+Wirkweise: Der Körper bildet Antikörper gegen Eiweiße auf der Oberfläche der Plättchen. Die markierten Plättchen werden vor allem in der Milz abgebaut. Außerdem bremsen die Antikörper die Bildung neuer Plättchen im Knochenmark. Das Knochenmark versucht, den Verlust auszugleichen. Darum sind die Plättchen im Blut meist jung und groß. Die übrigen Zellreihen sind normal.
+
+Probe und Messung: Die Plättchen zählt man im E D T A-Blut. Zuerst schließt man eine Pseudothrombopenie aus, etwa mit einem Citratröhrchen oder einem Ausstrich. Im Ausstrich sieht man große Plättchen und sonst normale Zellen. Viele Analysatoren messen den Anteil junger Plättchen. Er ist bei der I T P erhöht. Der Nachweis von Antikörpern gegen Plättchen ist schwierig und nur in Speziallaboren möglich.
+
+Die Werte: Die I T P ist definiert durch Plättchen unter hunderttausend pro Mikroliter ohne andere Ursache. Oft liegen die Werte viel tiefer, manchmal unter zehntausend. Die Gerinnungstests sind normal. Hämoglobin und Leukozyten sind normal, außer nach einer Blutung. Ernste Blutungen sind meist erst unter etwa zwanzig- bis dreißigtausend zu befürchten. Behandelt wird nach den Beschwerden, nicht allein nach der Zahl.
+
+Fehlerquellen: Die I T P ist eine Ausschlussdiagnose. Man muss andere Ursachen zuerst ausschließen. Dazu gehören eine Pseudothrombopenie, Medikamente, Infektionen wie H I V und Hepatitis C, Lebererkrankungen und Leukämien. Auch eine H I T, eine T T P und eine D I C machen zu wenige Plättchen. Sehr große Plättchen werden vom Gerät manchmal nicht als Plättchen gezählt. Die Zahl erscheint dann zu niedrig.
+
+Warum ist das im Labor wichtig? Eine isolierte niedrige Plättchenzahl ist ein häufiger Befund. Deine erste Aufgabe ist, die Zahl zu sichern. Ein Blick in den Ausstrich klärt Klumpen, große Plättchen und auffällige andere Zellen. Werte unter zwanzigtausend meldest du als kritischen Wert.
+
+Kurz gesagt: Bei der I T P baut der Körper seine eigenen Plättchen mit Antikörpern ab. Es bleiben wenige, große Plättchen bei sonst normalem Blutbild. Die Gerinnungstests sind normal. Sie ist eine Ausschlussdiagnose, und eine Pseudothrombopenie schließt man zuerst aus.
+
+# Zusammenfassung Teil fünf — Part five summary
+
+Die Hämophilien sind angeborene Mängel an Faktor acht oder Faktor neun auf dem X-Chromosom. Sie verlängern die a P T T bei normalem Quick-Wert. Unter einem Prozent sind sie schwer. Emicizumab verfälscht die üblichen Tests.
+
+Das von-Willebrand-Syndrom ist die häufigste angeborene Blutungsneigung. Es macht Schleimhautblutungen. Stress verdeckt es, Kälte täuscht es vor. Vitamin-K-Mangel und Leberschaden senken zuerst den Quick-Wert. Der Faktor fünf unterscheidet sie.
+
+Die I T P baut die Plättchen ab und lässt die Gerinnungstests normal. Sie ist eine Ausschlussdiagnose. Im nächsten Teil geht es um das Gegenteil, die Neigung zu Thrombosen.
+
+# Teil sechs: Thromboseneigung — Part six: Thrombophilia
+
+Der sechste Teil behandelt die Thrombophilie. Das ist eine erhöhte Neigung, Gerinnsel in gesunden Gefäßen zu bilden. Am häufigsten sind Thrombosen in den tiefen Beinvenen. Löst sich ein Gerinnsel, kann es eine Lungenembolie auslösen.
+
+Eine Thrombose entsteht meist aus mehreren Ursachen zugleich. Man nennt sie nach einem alten Arzt die Trias nach Virchow. Sie besteht aus einer veränderten Gefäßwand, einem langsamen Blutfluss und einer gesteigerten Gerinnbarkeit des Blutes. Dieser Teil handelt von der dritten Ursache. Er hat vier Steckbriefe. Zuerst kommen zwei häufige Mutationen. Dann folgen der Mangel an Hemmstoffen und das Antiphospholipidsyndrom.
+
+# Die Faktor-fünf-Leiden-Mutation — Factor V Leiden
+
+Einordnung: Die Faktor-fünf-Leiden-Mutation ist die häufigste angeborene Thromboseneigung in Europa. Sie heißt nach der Stadt Leiden in den Niederlanden, wo sie entdeckt wurde. Etwa fünf von hundert Menschen in Deutschland tragen sie auf einem ihrer beiden Gene. Wer sie von beiden Eltern geerbt hat, ist reinerbig.
+
+Wirkweise: Durch die Mutation ist an einer Stelle des Faktors fünf ein Baustein ausgetauscht. Genau an dieser Stelle schneidet normalerweise das aktivierte Protein C. Der veränderte Faktor fünf a wird darum viel langsamer abgebaut. Er arbeitet länger, und es entsteht mehr Thrombin. Man nennt das eine A P C-Resistenz. Das Blut gerinnt leichter, vor allem in den Venen.
+
+Probe und Messung: Es gibt zwei Wege. Der erste ist ein Gerinnungstest im Citratplasma. Man misst eine a P T T mit und ohne aktiviertes Protein C. Bei gesunden Menschen verlängert das Protein C die Zeit stark, bei der Mutation nur wenig. Der zweite Weg ist ein Gentest aus E D T A-Blut mit einer P C R. Der Gentest zeigt sicher, ob jemand misch- oder reinerbig ist.
+
+Die Werte: Beim Gerinnungstest gibt man ein Verhältnis aus beiden Zeiten an. Ein niedriges Verhältnis spricht für eine A P C-Resistenz. Mischerbige Träger haben ein etwa fünf- bis siebenfach erhöhtes Risiko für Venenthrombosen. Reinerbige Träger haben ein vielfach höheres Risiko, oft als etwa fünfzigfach angegeben. Die Pille oder eine Schwangerschaft erhöhen das Risiko zusätzlich stark.
+
+Fehlerquellen: Der einfache Gerinnungstest wird durch Heparin, Vitamin-K-Antagonisten und ein Lupusantikoagulans gestört. Moderne Tests verdünnen das Patientenplasma darum mit Mangelplasma ohne Faktor fünf. So werden sie zuverlässiger. Für den Gentest gilt in Deutschland das Gendiagnostikgesetz. Der Patient muss vorher aufgeklärt werden und schriftlich einwilligen.
+
+Warum ist das im Labor wichtig? Die Frage nach einer Faktor-fünf-Leiden-Mutation kommt häufig, etwa nach einer Thrombose oder vor der Pille in einer belasteten Familie. Ohne unterschriebene Einwilligung darfst du den Gentest nicht durchführen. Darum prüfst du bei jeder genetischen Anforderung zuerst die Unterlagen.
+
+Kurz gesagt: Die Faktor-fünf-Leiden-Mutation macht den Faktor fünf a widerstandsfähig gegen Protein C. Das nennt man A P C-Resistenz. Etwa fünf Prozent der Deutschen tragen sie mischerbig. Für den Gentest braucht man nach dem Gendiagnostikgesetz eine schriftliche Einwilligung.
+
+# Die Prothrombinmutation — Prothrombin mutation
+
+Einordnung: Die Prothrombinmutation ist die zweithäufigste angeborene Thromboseneigung. Sie betrifft das Gen für Prothrombin, also den Faktor zwei. Etwa zwei von hundert Menschen in Mitteleuropa tragen sie mischerbig. Oft tritt sie zusammen mit anderen Ursachen auf.
+
+Wirkweise: Die Mutation liegt nicht im Bauplan des Eiweißes selbst, sondern in einem Bereich am Ende des Gens. Dort regelt sie, wie viel Prothrombin gebildet wird. Träger bilden darum etwas mehr Prothrombin als andere Menschen. Das Eiweiß selbst ist normal. Mehr Prothrombin bedeutet bei jeder Aktivierung mehr Thrombin. Das Blut gerinnt dadurch etwas leichter.
+
+Probe und Messung: Die Mutation weist man nur mit einem Gentest nach. Man nutzt E D T A-Blut und eine P C R. Wie bei allen Gentests gilt das Gendiagnostikgesetz. Oft wird die Prothrombinmutation zusammen mit der Faktor-fünf-Leiden-Mutation in einem einzigen Ansatz untersucht.
+
+Die Werte: Der Befund lautet nicht vorhanden, mischerbig oder reinerbig. Mischerbige Träger haben ein etwa zwei- bis dreifach erhöhtes Risiko für Venenthrombosen. Reinerbige Träger sind sehr selten. Trägt jemand beide Mutationen zugleich, steigt das Risiko deutlich stärker an. Die Aktivität des Faktors zwei liegt bei Trägern oft im oberen Normalbereich.
+
+Fehlerquellen: Die Messung der Aktivität des Faktors zwei ist kein Ersatz für den Gentest. Die Werte von Trägern und Nichtträgern überlappen stark. Blutverdünner stören den Gentest nicht. Er kann darum jederzeit gemacht werden, auch während einer frischen Thrombose. Eine Verwechslung der Probe hat bei einem Gentest lebenslange Folgen. Die Kennzeichnung muss deshalb besonders sorgfältig geprüft werden.
+
+Warum ist das im Labor wichtig? Ein Gentest gilt für das ganze Leben und hat Folgen für die Familie. Der Arzt bespricht das Ergebnis darum persönlich mit dem Patienten. Im Labor achtest du auf eine sichere Identität der Probe und auf die Einwilligung. Ein solches Ergebnis wird nie am Telefon an Unbefugte weitergegeben.
+
+Kurz gesagt: Die Prothrombinmutation lässt etwas mehr Prothrombin entstehen. Etwa zwei Prozent der Mitteleuropäer tragen sie. Das Risiko für Thrombosen steigt etwa auf das Zwei- bis Dreifache. Man findet sie nur mit dem Gentest aus E D T A-Blut.
+
+# Mangel an Hemmstoffen — Inhibitor deficiency
+
+Einordnung: Ein angeborener Mangel an Antithrombin, Protein C oder Protein S ist selten. Er erhöht das Risiko für Thrombosen aber stärker als die häufigen Mutationen. Am gefährlichsten ist der Mangel an Antithrombin. Viel häufiger sind erworbene Mängel durch Krankheiten und Medikamente.
+
+Wirkweise: Fehlt ein Hemmstoff, fehlt der Gerinnung eine Bremse. Ohne Antithrombin werden Thrombin und Faktor zehn a nicht abgefangen. Ohne Protein C oder Protein S werden die Faktoren fünf a und acht a nicht abgebaut. In allen drei Fällen entsteht zu viel Thrombin. Ein vollständiger Mangel an Protein C ist bei Neugeborenen lebensgefährlich. Es kommt zu ausgedehnten Gerinnseln in der Haut, der sogenannten Purpura fulminans.
+
+Probe und Messung: Man misst alle drei im Citratplasma, meist als Aktivität. Bei einem auffälligen Wert misst man oft auch das Antigen. So unterscheidet man einen Mangel an Menge von einem Mangel an Funktion. Der richtige Zeitpunkt ist entscheidend. Man misst mehrere Wochen nach einer Thrombose und ohne Vitamin-K-Antagonisten. Bei Protein S misst man meist das freie Antigen.
+
+Die Werte: Ein angeborener Mangel liegt meist bei etwa vierzig bis sechzig Prozent. Ein Antithrombinmangel findet sich bei etwa einem von zweitausend bis fünftausend Menschen. Er macht unter Heparin eine Resistenz. Das Heparin wirkt dann schwächer als erwartet. Protein S ist bei Frauen, in der Schwangerschaft und unter der Pille von Natur aus niedriger.
+
+Fehlerquellen: Eine frische Thrombose und eine D I C verbrauchen alle drei Hemmstoffe. Heparin senkt das Antithrombin. Vitamin-K-Antagonisten senken Protein C und Protein S. Einige direkte orale Antikoagulanzien stören die Gerinnungstests auf Protein C und Protein S und täuschen hohe Werte vor. Leberschaden und Mangelernährung senken alle Hemmstoffe.
+
+Warum ist das im Labor wichtig? Zu Beginn einer Behandlung mit Vitamin-K-Antagonisten sinkt das Protein C schneller als die meisten Faktoren. Für kurze Zeit gerinnt das Blut dann sogar leichter. Bei einem Mangel an Protein C kann das zu abgestorbener Haut führen, der Cumarinnekrose. Darum gibt man zu Beginn immer zusätzlich Heparin. Ein bekannter Mangel gehört deshalb in jeden Befund.
+
+Kurz gesagt: Ein angeborener Mangel an Antithrombin, Protein C oder Protein S ist selten, aber gefährlich. Der Mangel an Antithrombin macht eine Resistenz gegen Heparin. Man misst ohne frische Thrombose und ohne Vitamin-K-Antagonisten. Erworbene Mängel sind viel häufiger als angeborene.
+
+# Das Antiphospholipidsyndrom — Antiphospholipid syndrome
+
+Einordnung: Das Antiphospholipidsyndrom ist eine erworbene Autoimmunkrankheit mit Neigung zu Thrombosen. Es kann allein auftreten oder zusammen mit dem systemischen Lupus erythematodes. Es betrifft Venen und Arterien. Es ist eine wichtige Ursache für Schlaganfälle bei jungen Menschen und für wiederholte Fehlgeburten.
+
+Wirkweise: Der Körper bildet Antikörper gegen Eiweiße, die an Phospholipide binden. Diese Antikörper aktivieren die Gefäßwand, die Plättchen und die Gerinnung. Sie stören auch die natürlichen Hemmstoffe. Im Mutterkuchen stören sie die Blutversorgung des Kindes. Zur Diagnose braucht man Beschwerden und einen dauerhaft positiven Laborbefund. Beschwerden sind Thrombosen oder Komplikationen in der Schwangerschaft.
+
+Probe und Messung: Es gibt drei Laborbefunde. Der erste ist das Lupusantikoagulans im Citratplasma. Der zweite sind Antikörper gegen Cardiolipin im Serum. Der dritte sind Antikörper gegen Beta-zwei-Glykoprotein im Serum. Die Antikörper misst man mit Immunoassays. Jeder positive Befund muss nach mindestens zwölf Wochen bestätigt werden.
+
+Die Werte: Für die Antikörper gelten nur mittlere bis hohe Spiegel als bedeutsam. Niedrige Spiegel kommen vorübergehend bei vielen Infektionen vor. Am höchsten ist das Risiko, wenn alle drei Befunde positiv sind. Man nennt das dreifach positiv. Diese Patienten bekommen meist Vitamin-K-Antagonisten. Direkte orale Antikoagulanzien schützen sie schlechter.
+
+Fehlerquellen: Blutverdünner verfälschen den Test auf Lupusantikoagulans stark. Die Antikörper im Serum werden dagegen nicht gestört. Darum ergänzen sich die Tests. Ein einziger positiver Befund reicht nie für die Diagnose. Bei einem Antiphospholipidsyndrom kann die I N R unter Vitamin-K-Antagonisten falsch hoch sein. Das Lupusantikoagulans stört nämlich auch den Quick-Test.
+
+Warum ist das im Labor wichtig? Die Diagnose bedeutet oft eine Blutverdünnung für das ganze Leben. Darum muss jeder Befund gut gesichert sein. In der Schwangerschaft rettet die frühe Erkennung viele Kinder. Die Frauen bekommen dann Heparin und A S S. Du achtest darauf, dass der Zeitabstand der Wiederholung eingehalten wird.
+
+Kurz gesagt: Das Antiphospholipidsyndrom ist eine Autoimmunkrankheit mit Thrombosen und Fehlgeburten. Man prüft Lupusantikoagulans, Antikörper gegen Cardiolipin und gegen Beta-zwei-Glykoprotein. Positive Befunde müssen nach zwölf Wochen bestätigt werden. Dreifach positive Patienten haben das höchste Risiko.
+
+# Zusammenfassung Teil sechs — Part six summary
+
+Thrombosen entstehen meist aus mehreren Ursachen zugleich. Die Faktor-fünf-Leiden-Mutation ist die häufigste angeborene Ursache. Sie macht eine A P C-Resistenz. Die Prothrombinmutation lässt mehr Prothrombin entstehen. Beide findet man mit einem Gentest, für den man eine Einwilligung braucht.
+
+Ein Mangel an Antithrombin, Protein C oder Protein S ist selten, aber gefährlich. Man misst erst Wochen nach der Thrombose und ohne Vitamin-K-Antagonisten. Das Antiphospholipidsyndrom ist erworben. Seine Befunde müssen nach zwölf Wochen bestätigt werden.
+
+Im nächsten Teil geht es um Krisen, bei denen Blutung und Thrombose zugleich auftreten.
+
+# Teil sieben: Gerinnungskrisen — Part seven: Coagulation emergencies
+
+Der siebte Teil behandelt Krisen der Gerinnung. Bei ihnen geraten Gerinnung und Blutung zugleich aus dem Gleichgewicht. Oft bilden sich kleine Gerinnsel in vielen Gefäßen, während der Patient an anderer Stelle blutet. Alle diese Krisen sind Notfälle.
+
+Der Teil hat vier Steckbriefe. Zuerst kommt die Verbrauchskoagulopathie, kurz D I C. Dann folgt die heparininduzierte Thrombozytopenie, kurz H I T. Danach kommen die thrombotischen Mikroangiopathien mit der T T P und dem H U S. Am Ende steht die Gerinnung in der Schwangerschaft.
+
+# Die Verbrauchskoagulopathie — Disseminated intravascular coagulation
+
+Einordnung: Die Verbrauchskoagulopathie heißt international disseminierte intravasale Gerinnung, kurz D I C. Sie ist keine eigene Krankheit, sondern die Folge einer anderen schweren Krankheit. Die häufigsten Auslöser sind eine Sepsis, schwere Verletzungen, Komplikationen bei der Geburt und Krebs. Eine besondere Form tritt bei der akuten Promyelozytenleukämie auf.
+
+Wirkweise: Der Auslöser bringt viel Gewebefaktor in den Blutstrom. Die Gerinnung startet dann nicht an einer Wunde, sondern im ganzen Körper. In vielen kleinen Gefäßen entstehen Gerinnsel. Sie verstopfen die Organe, etwa Nieren, Lunge und Haut. Dabei werden Plättchen, Faktoren und Fibrinogen verbraucht. Wenn die Vorräte erschöpft sind, blutet der Patient aus allen Einstichstellen. Gleichzeitig baut die Fibrinolyse die Gerinnsel ab, und die D-Dimere steigen.
+
+Probe und Messung: Man misst Plättchen im E D T A-Blut und im Citratplasma den Quick-Wert, das Fibrinogen und die D-Dimere. Oft bestimmt man auch die a P T T und das Antithrombin. Im Ausstrich sucht man nach Fragmentozyten. Entscheidend ist der Verlauf. Man misst darum mehrmals am Tag. Für die Diagnose gibt es ein Punktesystem der internationalen Fachgesellschaft I S T H.
+
+Die Werte: Typisch sind fallende Plättchen, ein fallender Quick-Wert, ein fallendes Fibrinogen und stark steigende D-Dimere. Im Punktesystem bekommt jeder auffällige Wert Punkte. Ab fünf Punkten liegt eine offene D I C vor. Ein Fibrinogen unter einem Gramm pro Liter ist besonders gefährlich. Das Antithrombin ist oft erniedrigt.
+
+Fehlerquellen: Das Fibrinogen ist ein Akute-Phase-Eiweiß und bei einer Sepsis zuerst oft hoch. Ein normaler Wert kann darum schon ein starker Abfall sein. Nur der Verlauf zeigt das. Ein Leberschaden macht ähnliche Werte, aber die D-Dimere sind dort meist nur leicht erhöht. Auch eine große Blutung allein senkt Plättchen und Fibrinogen durch Verlust und Verdünnung.
+
+Warum ist das im Labor wichtig? Die D I C entscheidet oft über das Überleben auf der Intensivstation. Die Behandlung richtet sich gegen den Auslöser, also etwa die Sepsis. Dazu ersetzt man fehlende Plättchen, Fibrinogen und Plasma. Die Ärzte brauchen dafür schnelle und wiederholte Werte. Du meldest einen Abfall des Fibrinogens unter ein Gramm pro Liter sofort.
+
+Kurz gesagt: Bei der D I C gerinnt das Blut im ganzen Körper und verbraucht dabei die Faktoren. Typisch sind fallende Plättchen, fallendes Fibrinogen, fallender Quick-Wert und hohe D-Dimere. Man bewertet sie mit dem Punktesystem der I S T H. Der Verlauf ist wichtiger als ein einzelner Wert.
+
+# Die heparininduzierte Thrombozytopenie — Heparin-induced thrombocytopenia
+
+Einordnung: Die heparininduzierte Thrombozytopenie heißt kurz H I T. Sie ist eine Immunreaktion gegen Heparin. Man unterscheidet zwei Typen. Der Typ eins ist ein früher, leichter und harmloser Abfall der Plättchen. Der Typ zwei ist gefährlich. Wenn man nur von H I T spricht, meint man den Typ zwei.
+
+Wirkweise: Heparin bindet an den Plättchenfaktor vier, ein Eiweiß aus den Plättchen. Der Körper bildet Antikörper gegen diesen Komplex. Die Antikörper aktivieren die Plättchen stark. Die Plättchen verklumpen und werden verbraucht. Gleichzeitig entsteht viel Thrombin. Darum bluten die Patienten nicht, sondern bilden Thrombosen in Venen und Arterien. Das ist das Paradox der H I T.
+
+Probe und Messung: Zuerst schätzt der Arzt die Wahrscheinlichkeit mit einem Punktesystem. Es heißt vier T. Dann sucht man im Serum oder Citratplasma nach Antikörpern gegen den Komplex aus Heparin und Plättchenfaktor vier. Dafür gibt es Schnelltests und Immunoassays. Ein positiver Suchtest wird mit einem Funktionstest bestätigt. Er zeigt, ob das Serum gesunde Plättchen in Gegenwart von Heparin aktiviert. Dieser Funktionstest wird nur in Speziallaboren gemacht.
+
+Die Werte: Typisch ist ein Abfall der Plättchen um mehr als die Hälfte. Er beginnt meist fünf bis zehn Tage nach dem Beginn mit Heparin. Hatte der Patient in den letzten drei Monaten schon Heparin, kann er schon am ersten Tag auftreten. Die Plättchen fallen selten unter zwanzigtausend pro Mikroliter. Ein negativer Suchtest schließt eine H I T fast sicher aus. Ein positiver Suchtest beweist sie aber nicht.
+
+Fehlerquellen: Viele Patienten auf Intensivstationen haben aus anderen Gründen zu wenige Plättchen. Viele bilden auch Antikörper, die keine Plättchen aktivieren. Ein positiver Suchtest ohne passende Beschwerden führt darum oft zu einer falschen Diagnose. Der Funktionstest braucht frische Plättchen von Spendern und viel Erfahrung. Eine Pseudothrombopenie schließt man wie immer zuerst aus.
+
+Warum ist das im Labor wichtig? Bei Verdacht auf eine H I T setzt der Arzt jedes Heparin sofort ab. Das gilt auch für Spülungen der Katheter. Der Patient bekommt dann ein anderes Mittel, etwa Argatroban. Vitamin-K-Antagonisten dürfen erst nach der Erholung der Plättchen beginnen. Unter unfraktioniertem Heparin zählt man darum regelmäßig die Plättchen.
+
+Kurz gesagt: Die H I T ist eine Immunreaktion gegen den Komplex aus Heparin und Plättchenfaktor vier. Die Plättchen fallen nach fünf bis zehn Tagen um mehr als die Hälfte. Es drohen Thrombosen, keine Blutungen. Ein negativer Suchtest schließt sie fast aus, ein positiver muss bestätigt werden.
+
+# Die thrombotischen Mikroangiopathien — Thrombotic microangiopathies
+
+Einordnung: Thrombotische Mikroangiopathien sind Krankheiten mit Gerinnseln in den kleinsten Gefäßen. Die beiden wichtigsten sind die thrombotisch-thrombozytopenische Purpura, kurz T T P, und das hämolytisch-urämische Syndrom, kurz H U S. Beide zerstören rote Blutkörperchen und verbrauchen Plättchen. Beide sind Notfälle.
+
+Wirkweise: Bei der T T P fehlt das Enzym A D A M T S dreizehn. Meist wird es durch einen Autoantikörper gehemmt. Ohne das Enzym bleiben die Ketten des von-Willebrand-Faktors riesig. Daran haften Plättchen und bilden Gerinnsel in den kleinen Gefäßen von Gehirn, Herz und Niere. Beim H U S schädigt meist ein Gift von Darmbakterien die Gefäßwand der Niere. Der häufigste Erreger sind bestimmte Stämme von Escherichia coli, die man E H E C nennt. In beiden Fällen werden die roten Blutkörperchen an den Gerinnseln zerschnitten.
+
+Probe und Messung: Im Blutbild fallen eine Anämie und wenige Plättchen auf. Im Ausstrich sieht man Fragmentozyten, also zerschnittene rote Blutkörperchen. Im Serum sind die L D H hoch und das Haptoglobin niedrig. Der direkte Coombs-Test ist negativ. Für die T T P misst man die Aktivität von A D A M T S dreizehn im Citratplasma. Die Probe muss vor der ersten Gabe von Plasma abgenommen werden.
+
+Die Werte: Eine Aktivität von A D A M T S dreizehn unter zehn Prozent beweist eine T T P. Beim H U S ist sie normal oder nur leicht erniedrigt. Dafür steigen das Kreatinin und der Harnstoff stark an. Die Fragmentozyten liegen oft über einem Prozent der roten Blutkörperchen. Das ist wichtig für die Unterscheidung von der D I C. Quick-Wert, a P T T und Fibrinogen sind bei T T P und H U S meist normal.
+
+Fehlerquellen: Wird Plasma gegeben, bevor die Probe abgenommen ist, wird A D A M T S dreizehn ersetzt. Der Wert erscheint dann falsch normal. Fragmentozyten werden im Ausstrich leicht übersehen oder mit Kunstprodukten verwechselt. Man zählt sie nur in einem dünnen, gut gefärbten Bereich. Die Geräte melden sie nicht zuverlässig.
+
+Warum ist das im Labor wichtig? Eine unbehandelte T T P endet sehr oft tödlich. Mit einem schnellen Plasmaaustausch überleben die meisten Patienten. Der Verdacht entsteht oft im Labor, wenn du Fragmentozyten bei wenigen Plättchen siehst. Diesen Befund meldest du sofort. Die Probe für A D A M T S dreizehn sicherst du vor der Behandlung.
+
+Kurz gesagt: T T P und H U S machen Gerinnsel in kleinen Gefäßen mit Fragmentozyten und wenigen Plättchen. Bei der T T P liegt A D A M T S dreizehn unter zehn Prozent. Beim H U S schädigt meist ein Gift der E H E C-Bakterien die Niere. Anders als bei der D I C sind die Globaltests meist normal.
+
+# Gerinnung in der Schwangerschaft — Coagulation in pregnancy
+
+Einordnung: In der Schwangerschaft verändert sich die Gerinnung stark. Der Körper bereitet sich auf den Blutverlust bei der Geburt vor. Das Blut gerinnt darum leichter als sonst. Schwangere haben ein mehrfach erhöhtes Risiko für Thrombosen, besonders in den Wochen nach der Geburt.
+
+Wirkweise: Viele Faktoren steigen im Lauf der Schwangerschaft an. Das gilt besonders für das Fibrinogen, den Faktor acht und den von-Willebrand-Faktor. Das Protein S sinkt dagegen. Auch die Fibrinolyse wird gebremst. Nach der Geburt löst sich der Mutterkuchen. An seiner Stelle bleibt eine große Wundfläche. Sie wird vor allem durch das Zusammenziehen der Gebärmutter und durch viel Fibrinogen verschlossen.
+
+Probe und Messung: Man misst wie sonst im Citratplasma und im E D T A-Blut. Viele Labore haben eigene Bereiche für Schwangere. Bei starken Blutungen nach der Geburt misst man das Fibrinogen sehr schnell, oft mit viskoelastischen Tests. Bei Verdacht auf eine Präeklampsie misst man Plättchen, Leberwerte und Hämolysezeichen.
+
+Die Werte: Das Fibrinogen steigt oft auf vier bis sechs Gramm pro Liter. Ein Fibrinogen unter zwei Gramm pro Liter ist bei einer Blutung nach der Geburt darum ein Alarmzeichen. Die D-Dimere steigen in jedem Drittel der Schwangerschaft weiter an. Der normale Grenzwert gilt dann nicht mehr. Die Plättchen sinken oft leicht. Ein schwerer Abfall mit Hämolyse und hohen Leberwerten heißt H E L L P-Syndrom.
+
+Fehlerquellen: Hohe Werte für Faktor acht und von-Willebrand-Faktor verdecken in der Schwangerschaft ein leichtes von-Willebrand-Syndrom. Ein niedriges Protein S ist in der Schwangerschaft normal und kein Mangel. Hohe D-Dimere beweisen in der Schwangerschaft keine Thrombose. Man kann sie bei Schwangeren nur eingeschränkt nutzen. Vitamin-K-Antagonisten schaden dem Kind, darum bekommen Schwangere Heparin.
+
+Warum ist das im Labor wichtig? Blutungen nach der Geburt sind weltweit eine der häufigsten Todesursachen von Müttern. Ein schneller Fibrinogenwert hilft, sie rechtzeitig zu behandeln. Eine Fruchtwasserembolie oder eine Ablösung des Mutterkuchens kann eine D I C auslösen. Du kennst darum die besonderen Bereiche für Schwangere und meldest Alarmwerte sofort.
+
+Kurz gesagt: In der Schwangerschaft gerinnt das Blut leichter. Fibrinogen, Faktor acht und von-Willebrand-Faktor steigen, das Protein S sinkt. Ein Fibrinogen unter zwei Gramm pro Liter ist bei einer Blutung nach der Geburt ein Alarmzeichen. Die D-Dimere sind in der Schwangerschaft wenig aussagekräftig.
+
+# Zusammenfassung Teil sieben — Part seven summary
+
+Die D I C ist eine Gerinnung im ganzen Körper mit Verbrauch der Faktoren. Plättchen, Fibrinogen und Quick-Wert fallen, die D-Dimere steigen. Der Verlauf zählt mehr als ein einzelner Wert.
+
+Die H I T ist eine Immunreaktion gegen Heparin und Plättchenfaktor vier. Die Plättchen fallen nach fünf bis zehn Tagen um mehr als die Hälfte. Es drohen Thrombosen. T T P und H U S machen Fragmentozyten und wenige Plättchen bei meist normalen Globaltests. Bei der T T P fehlt A D A M T S dreizehn.
+
+In der Schwangerschaft steigen viele Faktoren, besonders das Fibrinogen. Ein Fibrinogen unter zwei Gramm pro Liter ist nach der Geburt ein Alarmzeichen. Im nächsten Teil geht es um die Medikamente gegen die Gerinnung.
+
+# Teil acht: Antikoagulanzien — Part eight: Anticoagulants
+
+Der achte Teil behandelt die Antikoagulanzien, also die Medikamente gegen die Gerinnung. Im Alltag nennt man sie Blutverdünner, obwohl sie das Blut nicht dünner machen. Sie bremsen die Bildung von Thrombin oder seine Wirkung. Etwa jeder fünfzigste Mensch in Deutschland nimmt ein solches Mittel.
+
+Der Teil hat vier Steckbriefe. Zuerst kommen die Heparine, die man spritzt. Dann folgen die Vitamin-K-Antagonisten und die direkten oralen Antikoagulanzien, die man als Tablette nimmt. Am Ende steht ein Steckbrief darüber, welcher Test zu welchem Mittel passt. Die Hemmer der Plättchen wie A S S kennst du schon aus Teil eins.
+
+# Die Heparine — Heparins
+
+Einordnung: Heparine sind Ketten aus Zuckerbausteinen, die man aus der Darmschleimhaut von Schweinen gewinnt. Man unterscheidet das unfraktionierte Heparin mit langen Ketten und die niedermolekularen Heparine mit kurzen Ketten. Ein künstlicher Verwandter ist das Fondaparinux. Heparine gibt man meist als Spritze unter die Haut oder als Dauerinfusion.
+
+Wirkweise: Alle Heparine wirken über das Antithrombin. Sie binden daran und beschleunigen seine Wirkung um ein Vielfaches. Die langen Ketten des unfraktionierten Heparins hemmen dabei Thrombin und Faktor zehn a. Die kurzen Ketten der niedermolekularen Heparine hemmen vor allem den Faktor zehn a. Fondaparinux hemmt nur den Faktor zehn a. Das unfraktionierte Heparin wirkt sofort und nur etwa eineinhalb Stunden. Die niedermolekularen Heparine wirken länger und werden über die Niere ausgeschieden.
+
+Probe und Messung: Das unfraktionierte Heparin überwacht man mit der a P T T oder mit der Anti-X a-Aktivität. Die Probe muss schnell zentrifugiert werden, sonst bindet Plättchenfaktor vier das Heparin. Niedermolekulare Heparine verlängern die a P T T kaum. Man misst sie, wenn nötig, nur mit der Anti-X a-Aktivität. Unter jedem Heparin zählt man regelmäßig die Plättchen, um eine H I T zu erkennen.
+
+Die Werte: Unter unfraktioniertem Heparin zielt man oft auf das Eineinhalb- bis Zweieinhalbfache der normalen a P T T. Bei der Anti-X a-Aktivität gelten die Bereiche aus Teil vier. Das Gegenmittel ist Protamin. Es hebt das unfraktionierte Heparin fast ganz auf, die niedermolekularen Heparine nur teilweise. Fondaparinux wird durch Protamin nicht aufgehoben.
+
+Fehlerquellen: Heparin aus dem Katheter ist der häufigste Fehler der ganzen Gerinnung. Ein Mangel an Antithrombin schwächt die Wirkung. Ein hoher Faktor acht bei Entzündung verkürzt die a P T T und täuscht eine zu schwache Wirkung vor. Die Anti-X a-Aktivität ist dann zuverlässiger. Bei Nierenschwäche häufen sich niedermolekulare Heparine an.
+
+Warum ist das im Labor wichtig? Heparine bekommen fast alle Patienten im Krankenhaus, meist zur Vorbeugung von Thrombosen. Bei Operationen am Herzen bekommt der Patient sehr hohe Dosen. Dort misst man die Wirkung direkt im Operationssaal mit einer aktivierten Gerinnungszeit im Vollblut. Für alle Heparine kennst du den passenden Test und seine Fallen.
+
+Kurz gesagt: Heparine wirken über das Antithrombin. Unfraktioniertes Heparin hemmt Thrombin und Faktor zehn a, niedermolekulare Heparine vor allem Faktor zehn a. Unfraktioniertes Heparin misst man mit der a P T T oder Anti-X a, niedermolekulare nur mit Anti-X a. Unter Heparin zählt man die Plättchen wegen der H I T.
+
+# Die Vitamin-K-Antagonisten — Vitamin K antagonists
+
+Einordnung: Vitamin-K-Antagonisten sind die ältesten Blutverdünner als Tablette. In Deutschland nutzt man vor allem Phenprocoumon. In anderen Ländern ist das Warfarin üblicher. Man nennt beide auch Cumarine. Sie werden bei künstlichen Herzklappen, bei Vorhofflimmern und nach Thrombosen gegeben.
+
+Wirkweise: Vitamin-K-Antagonisten blockieren die Wiederverwertung von Vitamin K in der Leber. Die Leber bildet dann unfertige Faktoren zwei, sieben, neun und zehn. Auch die Proteine C und S werden unfertig. Die Wirkung beginnt erst nach einigen Tagen. Die vorhandenen Faktoren müssen nämlich erst abgebaut werden. Phenprocoumon wirkt besonders lange. Nach dem Absetzen dauert es etwa eine bis zwei Wochen, bis die Gerinnung wieder normal ist.
+
+Probe und Messung: Man überwacht die Behandlung mit dem Quick-Test und gibt den Wert als I N R an. Die Probe ist Citratplasma. Viele Patienten messen ihre I N R selbst mit einem kleinen Gerät aus Kapillarblut. Diese Geräte prüft man gelegentlich mit einer Messung im Labor. Am Anfang misst man häufig, bei stabiler Einstellung etwa alle drei bis vier Wochen.
+
+Die Werte: Bei den meisten Patienten liegt der Zielbereich der I N R bei zwei bis drei. Bei manchen künstlichen Herzklappen liegt er bei zweieinhalb bis dreieinhalb. Über etwa vier steigt das Risiko für Blutungen deutlich. Bei zu hoher I N R gibt man Vitamin K. Es wirkt aber erst nach Stunden. Bei einer schweren Blutung gibt man ein Konzentrat der Faktoren, das P P S B. Es wirkt sofort.
+
+Fehlerquellen: Viele Medikamente verändern die Wirkung, besonders Antibiotika. Auch die Ernährung zählt. Viel grünes Gemüse enthält viel Vitamin K und schwächt die Wirkung. Ein Lupusantikoagulans kann die I N R falsch erhöhen. Die selbst gemessene I N R aus dem Kapillarblut ist bei hohen Werten weniger genau. Ein auffälliger Wert aus dem Selbsttest wird darum im Labor geprüft.
+
+Warum ist das im Labor wichtig? Vitamin-K-Antagonisten haben einen engen Bereich zwischen zu wenig und zu viel Wirkung. Jeder Patient braucht eine eigene Dosis. Die I N R aus dem Labor ist die Grundlage dafür. Eine sehr hohe I N R ist ein kritischer Wert. Du meldest sie sofort an den Arzt.
+
+Kurz gesagt: Vitamin-K-Antagonisten wie Phenprocoumon hemmen die Bildung der Faktoren zwei, sieben, neun und zehn. Sie wirken nach Tagen und lange nach. Man überwacht sie mit der I N R, meist mit einem Ziel von zwei bis drei. Gegenmittel sind Vitamin K und, bei Blutungen, das P P S B.
+
+# Die direkten oralen Antikoagulanzien — Direct oral anticoagulants
+
+Einordnung: Die direkten oralen Antikoagulanzien heißen kurz D O A K. Sie sind die neueren Blutverdünner als Tablette. Es gibt zwei Gruppen. Rivaroxaban, Apixaban und Edoxaban hemmen den Faktor zehn a. Dabigatran hemmt direkt das Thrombin. Die D O A K haben in vielen Bereichen die Vitamin-K-Antagonisten ersetzt.
+
+Wirkweise: Die D O A K binden direkt an ihr Ziel und blockieren es. Sie brauchen dafür kein Antithrombin. Ihre Wirkung beginnt nach wenigen Stunden und hält etwa einen halben bis einen Tag. Sie werden mit fester Dosis gegeben. Eine regelmäßige Messung ist darum nicht nötig. Dabigatran wird vor allem über die Niere ausgeschieden. Bei Nierenschwäche häuft es sich an. Bei künstlichen Herzklappen und beim dreifach positiven Antiphospholipidsyndrom gibt man keine D O A K.
+
+Probe und Messung: Man misst sie nur in besonderen Lagen, etwa vor einer Notoperation, bei Blutungen oder bei Nierenversagen. Für die Hemmer des Faktors zehn a nutzt man die Anti-X a-Aktivität mit der passenden Eichung. Für Dabigatran nutzt man eine verdünnte Thrombinzeit oder einen ähnlichen Test. Wichtig ist die Uhrzeit der letzten Tablette. Sie gehört auf jede Anforderung.
+
+Die Werte: Man gibt den Spiegel in Nanogramm pro Milliliter an. Vor einer dringenden Operation gilt ein Spiegel unter etwa dreißig Nanogramm pro Milliliter meist als sicher. Bei einer schweren Blutung und einem Spiegel über etwa fünfzig erwägt man ein Gegenmittel. Für Dabigatran ist das Gegenmittel Idarucizumab. Für die Hemmer des Faktors zehn a gibt es Andexanet alfa.
+
+Fehlerquellen: Die Globaltests reagieren sehr unterschiedlich. Dabigatran verlängert die Thrombinzeit extrem und die a P T T deutlich. Die Hemmer des Faktors zehn a senken den Quick-Wert je nach Reagenz stark oder kaum. Apixaban kann bei normalem Quick-Wert noch wirken. Ein normaler Globaltest schließt darum keinen wirksamen Spiegel aus. Die D O A K stören auch viele Spezialtests, etwa die Tests auf Lupusantikoagulans.
+
+Warum ist das im Labor wichtig? Viele Patienten in der Notaufnahme nehmen ein D O A K, ohne dass es jemand weiß. Bei einem unerklärlich auffälligen Gerinnungsbefund fragst du danach. Für Spezialtests gibt es Tabletten aus Aktivkohle. Man gibt sie in das Plasma, und sie binden das D O A K. So kann man manche Tests trotz der Einnahme durchführen.
+
+Kurz gesagt: Die D O A K hemmen direkt den Faktor zehn a oder das Thrombin. Rivaroxaban, Apixaban und Edoxaban hemmen Faktor zehn a, Dabigatran das Thrombin. Gemessen werden sie nur in Notfällen, mit Anti-X a oder verdünnter Thrombinzeit. Normale Globaltests schließen einen wirksamen Spiegel nicht aus.
+
+# Tests unter Blutverdünnern — Testing on anticoagulants
+
+Einordnung: Dieser Steckbrief fasst zusammen, welcher Test zu welchem Blutverdünner passt. Er beantwortet zwei Fragen. Wie misst man die Wirkung eines Mittels? Und welche anderen Tests werden durch das Mittel gestört? Beide Fragen begegnen dir jeden Tag im Gerinnungslabor.
+
+Wirkweise: Jedes Mittel greift an einer anderen Stelle der Kaskade an. Darum verändert es die Tests, die diese Stelle erfassen. Vitamin-K-Antagonisten senken vor allem den Faktor sieben und damit den Quick-Wert. Unfraktioniertes Heparin hemmt Thrombin und verlängert die a P T T und die Thrombinzeit. Niedermolekulare Heparine und Hemmer des Faktors zehn a wirken weiter vorn und verändern die Globaltests weniger. Dabigatran hemmt das Thrombin und verlängert fast jeden Gerinnungstest.
+
+Probe und Messung: Für Vitamin-K-Antagonisten nimmt man die I N R. Für unfraktioniertes Heparin nimmt man die a P T T oder die Anti-X a-Aktivität. Für niedermolekulare Heparine und Fondaparinux nimmt man die Anti-X a-Aktivität mit der passenden Eichung. Für Rivaroxaban, Apixaban und Edoxaban nimmt man die Anti-X a-Aktivität mit der Eichung für das jeweilige Mittel. Für Dabigatran nimmt man die verdünnte Thrombinzeit. Zu jeder Probe gehören das Mittel, die Dosis und die Uhrzeit der letzten Gabe.
+
+Die Werte: Den höchsten Spiegel misst man kurz nach der Gabe, bei Tabletten nach etwa zwei bis vier Stunden. Den niedrigsten Spiegel misst man kurz vor der nächsten Gabe. Welchen der beiden Spiegel der Arzt braucht, hängt von seiner Frage ab. Bei Blutungen interessiert der aktuelle Spiegel. Bei der Frage nach einer Überdosierung interessiert oft der niedrigste Spiegel.
+
+Fehlerquellen: Fast alle Blutverdünner stören die Suche nach einer Thromboseneigung. Sie verfälschen die Tests auf Lupusantikoagulans, die A P C-Resistenz, das Protein C und das Protein S. Manche Tests auf Antithrombin nutzen den Faktor zehn a als Ziel. Unter einem Hemmer des Faktors zehn a messen sie zu hohe Werte und übersehen einen Mangel. Die Gentests sind dagegen nie gestört.
+
+Warum ist das im Labor wichtig? Ein Gerinnungsbefund ohne Angabe der Medikamente ist oft wertlos oder sogar gefährlich. Du fragst deshalb nach, wenn ein Befund nicht passt. Viele Labore schreiben bei auffälligen Spezialtests einen Hinweis auf mögliche Störungen durch Blutverdünner in den Befund. So vermeidest du falsche Diagnosen.
+
+Kurz gesagt: Vitamin-K-Antagonisten misst man mit der I N R, unfraktioniertes Heparin mit a P T T oder Anti-X a. Niedermolekulare Heparine und Hemmer des Faktors zehn a misst man mit Anti-X a und passender Eichung, Dabigatran mit der verdünnten Thrombinzeit. Zu jeder Probe gehört die Uhrzeit der letzten Gabe. Blutverdünner stören fast alle Tests auf Thromboseneigung außer den Gentests.
+
+# Zusammenfassung Teil acht — Part eight summary
+
+Heparine wirken über das Antithrombin. Unfraktioniertes Heparin misst man mit der a P T T oder der Anti-X a-Aktivität, niedermolekulare Heparine nur mit der Anti-X a-Aktivität. Das Gegenmittel ist Protamin. Unter Heparin zählt man die Plättchen.
+
+Vitamin-K-Antagonisten senken die Faktoren zwei, sieben, neun und zehn. Man misst sie mit der I N R und zielt meist auf zwei bis drei. Gegenmittel sind Vitamin K und das P P S B.
+
+Die D O A K hemmen Faktor zehn a oder Thrombin direkt. Man misst sie nur in besonderen Lagen, und dann mit der passenden Eichung. Alle Blutverdünner stören die Tests auf Thromboseneigung. Im letzten Teil folgt der Schnellüberblick.
+
+# Teil neun: Schnellüberblick — Part nine: Quick reference
+
+Der neunte Teil ist zum Wiederholen gedacht. Er ordnet das Wissen aus den Steckbriefen neu. Das erste Kapitel geht von typischen Mustern der Globaltests aus. Das zweite Kapitel nennt die wichtigsten Alarmwerte und Fallen der Probe. Das dritte Kapitel stellt die häufigsten Verwechslungen nebeneinander. Am Schluss steht eine Gesamtzusammenfassung.
+
+# Typische Testmuster — Typical test patterns
+
+Gerinnungsbefunde liest man selten Wert für Wert. Man vergleicht den Quick-Wert, die a P T T, die Thrombinzeit, das Fibrinogen und die Plättchen. Daraus entsteht ein Muster. Dieses Kapitel geht die wichtigsten Muster durch.
+
+Das erste Muster ist eine verlängerte a P T T bei normalem Quick-Wert. Zuerst denkst du an Heparin und prüfst die Thrombinzeit. Ist sie normal, folgt der Plasmatauschversuch. Korrigiert er, misst du die Faktoren acht, neun, elf und zwölf. Korrigiert er nicht, denkst du an ein Lupusantikoagulans. Korrigiert er erst sofort und nach zwei Stunden nicht mehr, denkst du an einen Hemmkörper gegen Faktor acht.
+
+Das zweite Muster ist ein erniedrigter Quick-Wert bei normaler a P T T. Das ist meist ein beginnender Vitamin-K-Mangel, eine beginnende Behandlung mit Vitamin-K-Antagonisten oder ein früher Leberschaden. Der Faktor sieben fällt zuerst. Ein seltener angeborener Mangel an Faktor sieben sieht genauso aus. Auch Hemmer des Faktors zehn a können dieses Bild machen.
+
+Das dritte Muster ist ein erniedrigter Quick-Wert und eine verlängerte a P T T. Dann liegt die Störung im gemeinsamen Teil oder bei vielen Faktoren zugleich. Bei normalem Fibrinogen und normalen Plättchen denkst du an Vitamin-K-Antagonisten in hoher Dosis, an einen Vitamin-K-Mangel oder an ein D O A K. Sind auch Fibrinogen und Plättchen niedrig und die D-Dimere hoch, denkst du an eine D I C. Ist der Faktor fünf niedrig und sind die D-Dimere nur leicht erhöht, denkst du an einen Leberschaden.
+
+Das vierte Muster ist eine stark verlängerte Thrombinzeit. Ist die Reptilasezeit normal, ist Heparin in der Probe. Ist auch die a P T T stark verlängert und gibt es kein Heparin, denkst du an Dabigatran. Ist die Reptilasezeit ebenfalls lang, ist das Fibrinogen niedrig oder fehlerhaft.
+
+Das fünfte Muster sind wenige Plättchen bei normalen Globaltests. Zuerst schließt du eine Pseudothrombopenie aus. Dann denkst du an eine I T P, an Medikamente und an eine H I T. Findest du dazu Fragmentozyten, eine hohe L D H und ein niedriges Haptoglobin, denkst du an eine T T P oder ein H U S.
+
+Das sechste Muster ist eine Blutungsneigung bei normalen Globaltests und normalen Plättchen. Hier liegt die Störung meist in der primären Blutstillung. Du denkst an ein von-Willebrand-Syndrom, an A S S oder andere Medikamente und an eine angeborene Störung der Plättchenfunktion. Seltener ist ein Mangel an Faktor dreizehn. Ihn erfasst kein Globaltest.
+
+Das siebte Muster ist eine verlängerte a P T T ohne jede Blutung. Hier denkst du an einen Mangel an Faktor zwölf und an ein Lupusantikoagulans. Beim Lupusantikoagulans hat der Patient eher Thrombosen.
+
+Kurz gesagt: Eine lange a P T T bei normalem Quick-Wert klärt man mit Thrombinzeit, Plasmatauschversuch und Einzelfaktoren. Ein niedriger Quick-Wert allein zeigt meist den Faktor sieben. Sind beide auffällig und die D-Dimere hoch, denkst du an eine D I C. Eine Blutung bei normalen Tests weist auf die primäre Blutstillung oder den Faktor dreizehn.
+
+# Alarmwerte und Fallen — Critical values and pitfalls
+
+Dieses Kapitel ist eine Liste zum Wiederholen. Es nennt die Werte, die du sofort meldest, und die Fallen, die du vorher ausschließt.
+
+Diese Werte meldest du sofort. Eine I N R über etwa fünf. Ein Fibrinogen unter einem Gramm pro Liter, nach der Geburt schon unter zwei Gramm. Plättchen unter zwanzigtausend pro Mikroliter. Fragmentozyten bei wenigen Plättchen. Ein stark erniedrigter Quick-Wert bei einem Neugeborenen. Ein neuer Hemmkörper gegen Faktor acht. Die genauen Grenzen legt jedes Labor selbst fest.
+
+Diese Fallen schließt du vor jedem überraschenden Wert aus. Das Röhrchen ist nicht bis zur Markierung gefüllt. Die Probe ist geronnen. Die Probe ist zu alt oder wurde gekühlt. Die Probe kommt aus einem Katheter mit Heparin. Die Probe kommt aus einem Arm mit laufender Infusion. Die Probe ist stark hämolytisch. Der Hämatokrit ist sehr hoch.
+
+Diese Fragen stellst du bei jedem unklaren Befund. Welche Blutverdünner nimmt der Patient? Wann war die letzte Gabe? Gibt es eine Schwangerschaft, eine Entzündung oder eine Lebererkrankung? Passt der Wert zum vorherigen Befund?
+
+Kurz gesagt: Alarmwerte meldest du sofort, aber erst nachdem du die Probe geprüft hast. Die meisten falschen Gerinnungswerte entstehen vor der Messung. Ohne die Medikamente des Patienten lässt sich ein Gerinnungsbefund oft nicht deuten.
+
+# Häufige Verwechslungen — Common mix-ups
+
+Einige Begriffe und Befunde werden in der Prüfung und im Alltag oft verwechselt. Dieses Kapitel stellt sie nebeneinander.
+
+Die erste Verwechslung sind Quick-Wert und I N R. Beide kommen aus demselben Test. Der Quick-Wert ist ein Prozentwert, und ein niedriger Wert bedeutet eine schwache Gerinnung. Die I N R ist ein Verhältnis, und ein hoher Wert bedeutet eine schwache Gerinnung. Sie laufen also gegenläufig.
+
+Die zweite Verwechslung sind die Hämophilie und das von-Willebrand-Syndrom. Die Hämophilie betrifft fast nur Männer und macht Blutungen in Gelenke und Muskeln. Das von-Willebrand-Syndrom betrifft beide Geschlechter und macht Schleimhautblutungen. Bei beiden kann der Faktor acht niedrig sein. Nur der von-Willebrand-Faktor unterscheidet sie sicher.
+
+Die dritte Verwechslung sind D I C und T T P. Beide machen wenige Plättchen und Gerinnsel in kleinen Gefäßen. Bei der D I C sind Quick-Wert und Fibrinogen niedrig und die D-Dimere sehr hoch. Bei der T T P sind die Globaltests meist normal, und A D A M T S dreizehn ist sehr niedrig.
+
+Die vierte Verwechslung sind H I T und I T P. Beide machen wenige Plättchen durch Antikörper. Die H I T folgt auf Heparin und führt zu Thrombosen. Die I T P hat keinen solchen Auslöser und führt zu Blutungen.
+
+Die fünfte Verwechslung sind Lupusantikoagulans und Hemmkörper gegen Faktor acht. Beide verlängern die a P T T, und beide korrigieren im Plasmatauschversuch nicht. Das Lupusantikoagulans macht Thrombosen und hemmt sofort. Der Hemmkörper gegen Faktor acht macht schwere Blutungen und wirkt oft erst nach der Inkubation.
+
+Die sechste Verwechslung sind Faktor-fünf-Leiden-Mutation und Mangel an Protein C. Beide schwächen die Bremse über das Protein C. Bei der Mutation ist das Protein C normal, aber der Faktor fünf a lässt sich nicht abbauen. Beim Mangel fehlt das Protein C selbst.
+
+Die siebte Verwechslung sind Serum und Citratplasma. Serum entsteht nach der Gerinnung und enthält kaum noch Fibrinogen und Faktoren. Gerinnungstests misst man darum im Citratplasma. Nur einige Antikörpertests, etwa beim Antiphospholipidsyndrom und bei der H I T, nutzen auch Serum.
+
+Kurz gesagt: Quick-Wert und I N R laufen gegenläufig. Hämophilie und von-Willebrand-Syndrom unterscheidet der von-Willebrand-Faktor. D I C und T T P unterscheiden die Globaltests und A D A M T S dreizehn. Gerinnungstests misst man im Citratplasma, nicht im Serum.
+
+# Gesamtzusammenfassung — Final summary
+
+Dieser Leitfaden hat die Hämostaseologie behandelt, die Lehre von Blutstillung und Gerinnung. Zum Schluss gehen wir die neun Teile noch einmal kurz durch.
+
+Der erste Teil waren die Grundlagen. Die primäre Blutstillung bildet einen Pfropf aus Plättchen mit dem von-Willebrand-Faktor. Die Gerinnungskaskade bildet Thrombin und Fibrin. Die Fibrinolyse löst das Gerinnsel wieder auf, und die Hemmstoffe halten das Gleichgewicht. Der zweite Teil war die Präanalytik. Citrat zu Blut im Verhältnis eins zu neun, bis zur Markierung gefüllt, bei Raumtemperatur und ohne Heparin aus dem Katheter.
+
+Der dritte Teil waren die Globaltests. Der Quick-Wert prüft den Weg über Faktor sieben, die a P T T den Weg über die Faktoren zwölf, elf, neun und acht. Die Thrombinzeit erkennt Heparin und Dabigatran. Der vierte Teil waren die Spezialtests. Der Plasmatauschversuch unterscheidet Mangel und Hemmstoff. Die D-Dimere schließen Thrombosen aus. Die Anti-X a-Aktivität misst Heparine und Hemmer des Faktors zehn a.
+
+Der fünfte Teil waren die Blutungsneigungen. Die Hämophilien verlängern die a P T T. Das von-Willebrand-Syndrom ist die häufigste angeborene Form. Der sechste Teil waren die Thromboseneigungen. Die Faktor-fünf-Leiden-Mutation ist die häufigste angeborene Ursache. Gentests brauchen eine Einwilligung. Der siebte Teil waren die Krisen D I C, H I T, T T P und H U S und die Schwangerschaft. Der achte Teil waren die Blutverdünner und ihre passenden Tests.
+
+Für deine Arbeit sind drei Gewohnheiten besonders wichtig. Erstens prüfst du jede Probe auf Füllung, Gerinnsel, Alter und Hämolyse, bevor du misst. Zweitens fragst du bei jedem unklaren Befund nach Blutverdünnern und der Uhrzeit der letzten Gabe. Drittens meldest du Alarmwerte wie ein sehr niedriges Fibrinogen, eine sehr hohe I N R und Fragmentozyten sofort.
+
+Wenn du ein bestimmtes Thema wiederholen willst, spring direkt zu seinem Steckbrief. Für den schnellen Überblick vor einer Prüfung hörst du die Zusammenfassungen der Teile und den Schnellüberblick. Das nächste Lexikon wird ein weiteres Fach der Laboratoriumsanalytik behandeln.
+
+Kurz gesagt: Die Hämostaseologie ordnet die Blutstillung in primäre Blutstillung, Gerinnung und Fibrinolyse. Quick-Wert und a P T T zeigen, wo die Gerinnung gestört ist. Die Spezialtests zeigen, was genau gestört ist. Die meisten falschen Gerinnungswerte entstehen im Röhrchen, und eine gute Probe ist die halbe Diagnose.
