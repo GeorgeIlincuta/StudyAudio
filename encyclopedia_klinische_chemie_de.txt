@@ -1,0 +1,1107 @@
+Klinische Chemie nach Organen: Steckbriefe der wichtigsten Laborwerte.
+
+# Hinweise zum Leitfaden — Using this guide
+
+Dies ist der siebte Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Die drei Lexika davor haben die Mikrobiologie abgeschlossen. Mit diesem Leitfaden beginnt ein neues Fach, die Klinische Chemie. Er ist wieder ein Nachschlagewerk zum Hören.
+
+In der Klinischen Chemie misst man Stoffe im Blut, im Urin und in anderen Körperflüssigkeiten. Die meisten Messungen laufen auf großen Analysegeräten, oft hunderte Proben pro Stunde. Das Gerät rechnet schnell und genau. Aber es weiß nicht, ob die Probe richtig abgenommen wurde. Ein großer Teil der falschen Befunde entsteht vor der Messung, bei der Abnahme, beim Transport oder beim Zentrifugieren. Darum hat jeder Steckbrief einen eigenen Abschnitt über Fehlerquellen.
+
+Jeder Steckbrief hat immer dieselben Abschnitte in derselben Reihenfolge. Der erste Abschnitt heißt Einordnung. Er sagt, zu welchem Organ oder Stoffwechsel der Wert gehört und was ihn besonders macht. Der zweite heißt Bildung und Aufgabe. Er erklärt, woher der Stoff kommt und was er im Körper tut. Der dritte heißt Probe und Messung. Er nennt das richtige Röhrchen, die Messmethode und die Einheit. Der vierte heißt Die Werte. Er nennt den Referenzbereich und sagt, was zu hohe und zu niedrige Werte bedeuten. Der fünfte heißt Fehlerquellen. Danach folgen wie gewohnt die Absätze »Warum ist das im Labor wichtig?« und »Kurz gesagt«.
+
+Der Leitfaden ist nach Organen geordnet, so wie Laborwerte auch auf dem Anforderungsschein stehen. Teil eins sind die Elektrolyte und der Säure-Basen-Haushalt. Teil zwei ist die Niere. Teil drei sind die Leberwerte. Teil vier sind die Marker für Herz, Muskel und Bauchspeicheldrüse. Teil fünf ist der Stoffwechsel von Zucker und Fett. Teil sechs sind die Eiweiße im Plasma, die Entzündungswerte und das Eisen. Teil sieben sind Hormone, Vitamine und das P S A. Teil acht erklärt die Messmethoden und die Präanalytik. Teil neun behandelt Sonderthemen wie Referenzbereiche, kritische Werte und Tumormarker. Teil zehn ist ein Schnellüberblick zum Wiederholen.
+
+Du musst den Leitfaden nicht von vorn bis hinten hören. Jedes Kapitel ist ein eigener Eintrag. Wenn dir im Labor ein auffälliger Wert begegnet, spring im Player direkt zu seinem Kapitel. Für die Prüfung eignen sich die Zusammenfassungen am Ende jedes Teils und der Schnellüberblick am Schluss.
+
+Ein Wort zu den Zahlen. Alle Referenzbereiche in diesem Leitfaden sind ungefähre Werte für Erwachsene. Jedes Labor legt seine eigenen Bereiche fest, passend zu seiner Methode. Im Zweifel gilt immer der Bereich, der auf deinem Befund steht. Viele Werte gibt es außerdem in zwei Einheiten, zum Beispiel in Milligramm pro Deziliter und in Millimol pro Liter. Der Leitfaden sagt jeweils, welche Einheit in Deutschland üblich ist.
+
+Abkürzungen werden Buchstabe für Buchstabe gesprochen, zum Beispiel C R P oder T S H. Wie bisher gibt es keine Formeln und keine Symbole. Der Leitfaden setzt die Grundlagen aus den ersten drei Leitfäden voraus, besonders den Bau der Zelle, die Organe und die Grundbegriffe der Chemie.
+
+Wir beginnen mit einer Landkarte, die alle Laborwerte dieses Leitfadens ordnet. Danach folgen die Steckbriefe.
+
+# Die Landkarte der Laborwerte — Map of lab values
+
+Bei den Bakterien hat die Gramfärbung die Landkarte bestimmt, bei den Viren das Erbgut und die Hülle. In der Klinischen Chemie ordnet man die Werte nach einer anderen Frage. Die Frage lautet: Über welches Organ oder welchen Stoffwechsel gibt dieser Wert Auskunft? So denkt auch die Ärztin, wenn sie Werte anfordert. Sie fragt zum Beispiel: Wie arbeitet die Niere? Ist die Leber geschädigt? Hatte der Patient einen Herzinfarkt?
+
+Der erste Teil sind die Elektrolyte und der Säure-Basen-Haushalt. Elektrolyte sind gelöste Salze, die als geladene Teilchen im Blut schwimmen. Hier stehen Natrium, Kalium, Chlorid, Calcium, Magnesium und Phosphat. Dazu kommen die Blutgasanalyse mit dem pH-Wert und das Laktat. Diese Werte ändern sich oft schnell und können lebensgefährlich werden.
+
+Der zweite Teil ist die Niere. Die Niere filtert das Blut und scheidet Abfallstoffe aus. Hier stehen das Kreatinin mit der geschätzten Filtrationsrate, der Harnstoff, das Cystatin C, die Harnsäure und das Albumin im Urin.
+
+Der dritte Teil sind die Leberwerte. Sie zeigen zwei Dinge. Entweder gehen Leberzellen kaputt und geben ihre Enzyme ins Blut ab. Oder der Abfluss der Galle ist gestört. Hier stehen die Enzyme A L T, A S T, Gamma-G T und die alkalische Phosphatase. Dazu kommen das Bilirubin und das Ammoniak.
+
+Der vierte Teil sind die Marker für Herz, Muskel und Bauchspeicheldrüse. Hier stehen das Troponin, die Kreatinkinase, die natriuretischen Peptide, die L D H sowie die Lipase und die Amylase.
+
+Der fünfte Teil ist der Stoffwechsel von Zucker und Fett. Hier stehen die Glukose, das Glykohämoglobin H b A eins c, das Cholesterin mit seinen Lipoproteinen und die Triglyzeride. Diese Werte sind die Grundlage für die Diagnose von Diabetes und für das Risiko von Herzinfarkt und Schlaganfall.
+
+Der sechste Teil sind die Eiweiße im Plasma, die Entzündung und das Eisen. Hier stehen das Gesamteiweiß mit der Elektrophorese, das Albumin, das C R P, das Procalcitonin, das Eisen mit dem Transferrin und das Ferritin.
+
+Der siebte Teil sind Werte, die man fast immer mit Immuntests misst. Das sind das T S H, die Schilddrüsenhormone und das Schwangerschaftshormon h C G. Dazu kommen das Vitamin B zwölf mit der Folsäure, das Vitamin D und das P S A.
+
+Viele Werte haben zwei Gesichter. Das Albumin steht im sechsten Teil, aber es zeigt auch die Arbeit der Leber. Die L D H steht im vierten Teil, aber sie ist auch ein Zeichen für zerfallende rote Blutkörperchen. Die Steckbriefe sagen dir jeweils, wo ein Wert noch hingehört.
+
+Neben der Landkarte gibt es eine zweite wichtige Einteilung, nämlich die Art der Messung. Manche Werte sind Stoffmengen, zum Beispiel Natrium oder Glukose. Andere sind Enzymaktivitäten, zum Beispiel die A L T. Bei ihnen misst man nicht, wie viel Enzym da ist, sondern wie schnell es arbeitet. Wieder andere misst man mit Antikörpern, zum Beispiel das Troponin. Teil acht erklärt diese drei Wege genauer.
+
+Kurz gesagt: Die Laborwerte sind nach dem Organ oder dem Stoffwechsel geordnet, über den sie Auskunft geben. Die sieben Teile sind Elektrolyte, Niere, Leber, Herz und Pankreas, Zucker und Fett, Eiweiße und Eisen sowie Hormone und Vitamine. Jeder Wert ist entweder eine Stoffmenge, eine Enzymaktivität oder ein Ergebnis aus einem Immuntest.
+
+# Teil eins: Elektrolyte, Säure-Base — Part one: Electrolytes, acid and base
+
+Der erste Teil behandelt die Salze im Blut und das Gleichgewicht von Säuren und Basen. Diese Werte sind die Grundlage jeder Notaufnahme. Sie halten das Wasser im richtigen Raum, lassen Nerven und Muskeln arbeiten und halten den pH-Wert des Blutes stabil. Schon kleine Abweichungen können das Herz aus dem Takt bringen.
+
+Der Körper hat zwei große Wasserräume. Der eine ist innerhalb der Zellen, der andere außerhalb, also im Blut und zwischen den Zellen. Draußen ist das wichtigste Salz Natrium, drinnen ist es Kalium. Die Zellen halten diesen Unterschied mit einer Pumpe aufrecht, der Natrium-Kalium-Pumpe. Sie verbraucht viel Energie. Das ist wichtig für das Labor. Wenn Zellen in einer Probe kaputtgehen, läuft ihr Kalium ins Serum und macht den Wert falsch hoch.
+
+So unterscheidest du die Werte dieses Teils. Erst fragst du: Geht es um den Wasserhaushalt? Dann schaust du auf das Natrium und das Chlorid. Natrium zeigt eigentlich, ob genug oder zu viel Wasser im Körper ist. Geht es um die Erregung von Herz und Muskeln? Dann schaust du auf das Kalium, das Calcium und das Magnesium. Geht es um die Knochen? Dann schaust du auf Calcium und Phosphat zusammen. Geht es um Säure und Base? Dann brauchst du die Blutgasanalyse. Und wenn die Frage lautet, ob das Gewebe genug Sauerstoff bekommt, misst du das Laktat.
+
+Fast alle Werte dieses Teils misst man mit ionenselektiven Elektroden oder mit einem Photometer. Beide Methoden erklärt Teil acht. Für die Präanalytik gilt hier eine Grundregel. Die Probe muss schnell ins Labor, sie darf nicht hämolytisch sein, und sie darf kein E D T A enthalten. Das E D T A aus dem Röhrchen für das Blutbild bindet Calcium und Magnesium und bringt viel Kalium mit.
+
+# Natrium — Sodium
+
+Einordnung: Natrium ist das wichtigste Salz außerhalb der Zellen. Es gehört zum Wasserhaushalt. Ein auffälliger Natriumwert sagt meist weniger über das Salz als über das Wasser im Körper. Eine Hyponatriämie, also ein zu niedriges Natrium, ist die häufigste Elektrolytstörung bei Patienten im Krankenhaus.
+
+Bildung und Aufgabe: Natrium kommt mit dem Kochsalz in den Körper. Es bleibt fast ganz außerhalb der Zellen und zieht Wasser an. Damit bestimmt es, wie viel Wasser im Blut und zwischen den Zellen bleibt. Die Niere regelt das Natrium mit Hilfe von Hormonen. Das Aldosteron hält Natrium zurück. Das antidiuretische Hormon aus der Hirnanhangsdrüse hält Wasser zurück. Natrium wird außerdem für die Erregung von Nerven und Muskeln gebraucht.
+
+Probe und Messung: Man misst Natrium im Serum oder im Heparinplasma, in der Blutgasanalyse auch im Vollblut. Die Methode ist die ionenselektive Elektrode. Die großen Geräte verdünnen die Probe vor der Messung. Man nennt das indirekte Messung. Das Blutgasgerät misst unverdünnt, also direkt. Die Einheit ist Millimol pro Liter.
+
+Die Werte: Der Referenzbereich liegt bei etwa hundertfünfunddreißig bis hundertfünfundvierzig Millimol pro Liter. Ein niedriges Natrium entsteht meist durch zu viel Wasser. Typische Gründe sind Herzschwäche, Leberzirrhose, harntreibende Mittel und eine zu hohe Ausschüttung des antidiuretischen Hormons. Ein hohes Natrium entsteht meist durch Wassermangel, zum Beispiel bei alten Menschen, die zu wenig trinken. Werte unter etwa hundertzwanzig oder über etwa hundertsechzig gelten in vielen Laboren als kritisch. Ein Natrium darf nur langsam ausgeglichen werden. Steigt es zu schnell, kann das Gehirn schwer geschädigt werden.
+
+Fehlerquellen: Die bekannteste Falle ist die Pseudohyponatriämie. Bei sehr viel Fett oder Eiweiß im Blut misst das große Gerät ein zu niedriges Natrium. Der Grund ist die Verdünnung. Fett und Eiweiß nehmen Platz weg, der eigentlich Wasser wäre. Das Blutgasgerät misst direkt und zeigt dann den richtigen Wert. Eine zweite Falle ist eine Abnahme aus dem Arm mit der laufenden Infusion. Kochsalzlösung macht das Natrium dann falsch hoch. Ein sehr hoher Blutzucker senkt das Natrium wirklich, weil der Zucker Wasser aus den Zellen zieht.
+
+Warum ist das im Labor wichtig? Du misst bei einem Patienten mit Myelom ein Natrium von hundertachtundzwanzig. Die Probe ist trüb und der Eiweißwert sehr hoch. Bevor die Station Salz infundiert, schlägst du eine Kontrolle im Blutgasgerät vor. Dort liegt das Natrium im Normbereich.
+
+Kurz gesagt: Natrium ist das Hauptsalz außerhalb der Zellen und zeigt vor allem den Wasserhaushalt. Der Normbereich liegt bei etwa hundertfünfunddreißig bis hundertfünfundvierzig Millimol pro Liter. Viel Fett oder Eiweiß täuscht in der indirekten Messung ein zu niedriges Natrium vor.
+
+# Kalium — Potassium
+
+Einordnung: Kalium ist das wichtigste Salz innerhalb der Zellen. Es gehört zur Erregung von Herz und Muskeln. Kalium ist der Elektrolyt mit den meisten falschen Befunden, denn schon wenige kaputte Zellen erhöhen den Wert. Zugleich ist ein echtes hohes oder niedriges Kalium sofort lebensgefährlich für das Herz.
+
+Bildung und Aufgabe: Kalium kommt mit Obst, Gemüse und Fleisch in den Körper. Etwa achtundneunzig Prozent liegen in den Zellen. Im Blut ist nur ein kleiner Rest. Die Natrium-Kalium-Pumpe hält diesen Unterschied aufrecht. Er ist die Grundlage für die elektrische Spannung an jeder Zellmembran. Die Niere scheidet Kalium aus, gesteuert vom Aldosteron. Insulin schiebt Kalium in die Zellen, eine Übersäuerung schiebt es heraus.
+
+Probe und Messung: Man misst Kalium im Heparinplasma oder im Serum mit der ionenselektiven Elektrode. Im Serum ist der Wert etwas höher als im Plasma. Beim Gerinnen geben die Blutplättchen Kalium ab. Der Unterschied beträgt meist zwei bis vier Zehntel Millimol pro Liter. Deshalb hat jedes Labor getrennte Referenzbereiche für Serum und Plasma.
+
+Die Werte: Im Plasma liegt der Referenzbereich bei etwa drei Komma fünf bis fünf Millimol pro Liter. Ein niedriges Kalium entsteht oft durch harntreibende Mittel, Erbrechen, Durchfall oder Abführmittel. Es macht Muskelschwäche und Herzrhythmusstörungen. Ein hohes Kalium entsteht bei Nierenversagen, bei bestimmten Blutdruckmitteln und bei großem Zellzerfall. Werte unter etwa zwei Komma fünf oder über etwa sechs Komma fünf gelten als kritisch. Sie werden sofort telefonisch gemeldet.
+
+Fehlerquellen: Die häufigste Fehlerquelle ist die Hämolyse. Rote Blutkörperchen enthalten etwa fünfundzwanzig Mal so viel Kalium wie das Plasma. Weitere Fallen sind ein langes Stauen und das Pumpen mit der Faust bei der Abnahme. Gefährlich ist auch die Kühlung von Vollblut. In der Kälte arbeitet die Pumpe nicht mehr, und Kalium läuft aus den Zellen. Eine Verunreinigung mit E D T A aus dem Blutbildröhrchen bringt Kalium mit, denn es ist als Kaliumsalz im Röhrchen. Dann ist das Kalium hoch und das Calcium zugleich sehr niedrig. Bei sehr vielen Blutplättchen oder weißen Blutkörperchen ist das Serumkalium ebenfalls falsch hoch.
+
+Warum ist das im Labor wichtig? Du misst bei einer gesunden jungen Frau ein Kalium von sieben, ohne Hämolyse. Das Calcium ist kaum messbar. Dieses Muster passt zu einer E D T A-Verunreinigung, nicht zu einem echten Notfall. Du meldest den Befund nicht einfach weiter, sondern forderst eine neue Probe an.
+
+Kurz gesagt: Kalium ist das Hauptsalz in den Zellen und entscheidend für den Herzrhythmus. Der Normbereich im Plasma liegt bei etwa drei Komma fünf bis fünf Millimol pro Liter. Hämolyse, Kühlung, langes Stauen und E D T A machen das Kalium falsch hoch.
+
+# Chlorid — Chloride
+
+Einordnung: Chlorid ist das wichtigste negativ geladene Salz außerhalb der Zellen. Es ist der Partner des Natriums und gehört zum Wasserhaushalt und zum Säure-Basen-Haushalt. Allein ist Chlorid selten entscheidend. Wichtig wird es als Teil einer Rechnung, der Anionenlücke.
+
+Bildung und Aufgabe: Chlorid kommt wie Natrium mit dem Kochsalz in den Körper. Es hält zusammen mit Natrium das Wasser außerhalb der Zellen. Außerdem tauscht es sich mit dem Bikarbonat aus, der wichtigsten Base im Blut. Steigt das Chlorid, sinkt das Bikarbonat, und das Blut wird saurer. Im Magen bildet Chlorid zusammen mit Wasserstoff die Magensäure.
+
+Probe und Messung: Man misst Chlorid im Serum oder im Heparinplasma mit einer ionenselektiven Elektrode. Im Schweiß misst man Chlorid für die Diagnose der Mukoviszidose. Bei dieser Erbkrankheit ist das Chlorid im Schweiß stark erhöht. Der Schweißtest ist bis heute ein wichtiger Test bei Kindern.
+
+Die Werte: Der Referenzbereich im Serum liegt bei etwa achtundneunzig bis hundertsechs Millimol pro Liter. Ein hohes Chlorid sieht man nach großen Mengen Kochsalzlösung. Dann entsteht eine leichte Übersäuerung. Ein niedriges Chlorid sieht man bei starkem Erbrechen, weil Magensäure verloren geht. Dann wird das Blut basisch. Die Anionenlücke rechnet man so: Natrium minus die Summe aus Chlorid und Bikarbonat. Sie liegt normal bei etwa acht bis sechzehn Millimol pro Liter. Eine große Anionenlücke zeigt eine versteckte Säure, zum Beispiel Laktat, Ketonkörper oder bestimmte Gifte.
+
+Fehlerquellen: Einige Elektroden verwechseln Chlorid mit ähnlichen Teilchen. Bromid aus alten Schlafmitteln oder Beruhigungsmitteln kann das Chlorid falsch hoch erscheinen lassen. Dann wird die Anionenlücke sogar falsch negativ, was es in Wirklichkeit nicht gibt. Eine Infusion im Abnahmearm erhöht das Chlorid genau wie das Natrium. Hämolyse stört kaum, weil die roten Blutkörperchen ähnlich viel Chlorid wie das Plasma haben.
+
+Warum ist das im Labor wichtig? Bei einem bewusstlosen Patienten fällt dir eine sehr große Anionenlücke auf. Laktat und Ketonkörper sind nur leicht erhöht. Das kann auf eine Vergiftung, zum Beispiel mit Frostschutzmittel, hinweisen. Ein kurzer Hinweis an die Ärztin kann die richtige Diagnose beschleunigen.
+
+Kurz gesagt: Chlorid ist der negativ geladene Partner des Natriums. Der Normbereich liegt bei etwa achtundneunzig bis hundertsechs Millimol pro Liter. Seine wichtigste Rolle im Labor ist die Berechnung der Anionenlücke, die versteckte Säuren aufdeckt.
+
+# Calcium — Calcium
+
+Einordnung: Calcium gehört zum Knochenstoffwechsel und zur Erregung von Nerven und Muskeln. Seine Besonderheit ist, dass es im Blut in drei Formen vorkommt. Nur eine davon ist wirksam, das freie oder ionisierte Calcium. Die Routine misst aber meist das Gesamtcalcium.
+
+Bildung und Aufgabe: Fast das ganze Calcium des Körpers steckt in den Knochen und Zähnen. Nur ein kleiner Teil ist im Blut. Davon ist etwa die Hälfte frei. Etwa vierzig Prozent sind an Eiweiß gebunden, vor allem an Albumin. Der Rest ist an kleine Moleküle gebunden. Das freie Calcium steuert die Muskelkontraktion, die Nerven und die Blutgerinnung. Drei Hormone regeln es. Das Parathormon aus den Nebenschilddrüsen erhöht das Calcium. Das Vitamin D holt Calcium aus dem Darm. Das Calcitonin senkt es nur wenig.
+
+Probe und Messung: Das Gesamtcalcium misst man im Serum oder im Heparinplasma mit einem Photometer. Das Calcium bildet dabei mit einem Farbstoff einen farbigen Komplex. Das ionisierte Calcium misst das Blutgasgerät mit einer ionenselektiven Elektrode. Dafür braucht man eine Spritze mit einem speziellen Heparin, das schon mit Calcium versetzt ist. Normales Heparin würde Calcium binden.
+
+Die Werte: Das Gesamtcalcium liegt bei etwa zwei Komma zwei bis zwei Komma sechs Millimol pro Liter. Das ionisierte Calcium liegt bei etwa eins Komma eins fünf bis eins Komma drei Millimol pro Liter. Die zwei häufigsten Gründe für ein hohes Calcium sind eine Überfunktion der Nebenschilddrüsen und Krebs. Ein niedriges Calcium sieht man bei Vitamin-D-Mangel, Nierenversagen und nach Operationen an der Schilddrüse. Es macht Kribbeln und Muskelkrämpfe, die Tetanie. Ist das Albumin niedrig, ist auch das Gesamtcalcium niedrig, obwohl das freie Calcium normal sein kann. Manche Labore rechnen das Calcium deshalb auf das Albumin um.
+
+Fehlerquellen: E D T A und Citrat binden Calcium. Eine Verunreinigung mit dem Blutbildröhrchen senkt das Calcium deshalb fast auf null. Langes Stauen erhöht das Gesamtcalcium, weil sich Eiweiß in der Vene anreichert. Auch der pH-Wert verändert das freie Calcium. Wird das Blut basisch, bindet mehr Calcium an Eiweiß. Das passiert bei schnellem Atmen in Panik. Der Mensch bekommt Krämpfe in den Händen, obwohl das Gesamtcalcium normal ist.
+
+Warum ist das im Labor wichtig? Bei einer Patientin auf der Intensivstation ist das Gesamtcalcium erniedrigt, das Albumin aber auch. Die Ärztin fragt, ob sie Calcium geben soll. Du empfiehlst, das ionisierte Calcium im Blutgasgerät zu messen. Erst dieser Wert zeigt, ob wirklich zu wenig wirksames Calcium da ist.
+
+Kurz gesagt: Calcium liegt im Blut frei, an Eiweiß gebunden und an kleine Moleküle gebunden vor. Nur das freie Calcium wirkt. Das Gesamtcalcium liegt bei etwa zwei Komma zwei bis zwei Komma sechs Millimol pro Liter und hängt vom Albumin ab. E D T A und Citrat senken es falsch.
+
+# Magnesium — Magnesium
+
+Einordnung: Magnesium ist ein Salz, das vor allem in den Zellen und in den Knochen liegt. Es gehört zur Erregung von Herz und Muskeln. Man nennt es oft den vergessenen Elektrolyten, weil es selten angefordert wird. Dabei steckt ein Magnesiummangel oft hinter einem Kaliummangel, der sich nicht ausgleichen lässt.
+
+Bildung und Aufgabe: Magnesium kommt mit Vollkorn, Nüssen und grünem Gemüse in den Körper. Etwa die Hälfte liegt in den Knochen, der größte Rest in den Zellen. Nur etwa ein Prozent ist im Blut. Magnesium ist ein Helfer für hunderte Enzyme, besonders für alle Enzyme, die Energie in Form von A T P nutzen. Es beruhigt die Erregung von Herz und Nerven. Außerdem braucht die Nebenschilddrüse Magnesium, um Parathormon auszuschütten.
+
+Probe und Messung: Man misst Magnesium im Serum oder im Heparinplasma mit einem Photometer. Das Magnesium bildet dabei mit einem Farbstoff einen farbigen Komplex. Die Einheit ist Millimol pro Liter. Das freie Magnesium kann man mit Elektroden messen, das bleibt aber eine Ausnahme.
+
+Die Werte: Der Referenzbereich liegt bei etwa null Komma sieben bis eins Komma null Millimol pro Liter. Ein Mangel entsteht durch Durchfall, Alkoholkrankheit, harntreibende Mittel und lange Einnahme von Magensäureblockern. Ein Mangel macht Muskelkrämpfe und gefährliche Herzrhythmusstörungen. Er verhindert außerdem, dass sich ein niedriges Kalium oder ein niedriges Calcium ausgleichen lässt. Ein hohes Magnesium entsteht vor allem bei Nierenversagen oder durch Infusionen. In der Geburtshilfe gibt man Magnesium in hohen Dosen gegen Krampfanfälle bei Schwangerschaftsvergiftung. Dann misst man es regelmäßig, damit die Atmung nicht zu schwach wird.
+
+Fehlerquellen: Rote Blutkörperchen enthalten etwa dreimal so viel Magnesium wie das Plasma. Eine Hämolyse erhöht den Wert deshalb. E D T A und Citrat binden Magnesium und senken es falsch. Ein normaler Wert im Serum schließt einen Mangel nicht sicher aus. Das Blut enthält nur ein Prozent des Magnesiums, und der Körper hält diesen Wert lange stabil, indem er Magnesium aus den Knochen holt.
+
+Warum ist das im Labor wichtig? Ein Patient bekommt seit Tagen Kalium, aber sein Kalium bleibt niedrig. Du siehst, dass nie ein Magnesium bestimmt wurde. Der Wert ist deutlich erniedrigt. Erst nach dem Ausgleich von Magnesium steigt auch das Kalium.
+
+Kurz gesagt: Magnesium ist ein Helfer für viele Enzyme und beruhigt Herz und Nerven. Der Normbereich liegt bei etwa null Komma sieben bis eins Millimol pro Liter. Ein Mangel steckt oft hinter einem hartnäckigen Kalium- oder Calciummangel. Hämolyse erhöht den Wert, E D T A senkt ihn.
+
+# Phosphat — Phosphate
+
+Einordnung: Phosphat ist der Partner des Calciums im Knochen. Es gehört zum Knochenstoffwechsel und zum Energiestoffwechsel der Zellen. Seine Besonderheit ist, dass der Wert bei Kindern im Wachstum deutlich höher ist als bei Erwachsenen.
+
+Bildung und Aufgabe: Phosphat kommt mit fast allen Lebensmitteln in den Körper, besonders mit Milch, Fleisch und Fertigessen. Etwa achtzig Prozent liegen in den Knochen, zusammen mit Calcium. Der Rest steckt in den Zellen. Dort ist Phosphat Teil des Energieträgers A T P, der Zellmembran und des Erbguts. Die Niere scheidet überschüssiges Phosphat aus. Das Parathormon fördert diese Ausscheidung, das Vitamin D holt Phosphat aus dem Darm.
+
+Probe und Messung: Man misst Phosphat im Serum oder im Heparinplasma. Die Methode ist photometrisch. Das Phosphat bildet mit Molybdat einen Komplex, den man im ultravioletten Licht misst. Die Probe nimmt man am besten nüchtern am Morgen ab, denn der Wert schwankt über den Tag und nach dem Essen.
+
+Die Werte: Bei Erwachsenen liegt der Referenzbereich bei etwa null Komma acht bis eins Komma fünf Millimol pro Liter. Bei Kindern liegt er höher. Ein hohes Phosphat ist typisch für Nierenversagen. Die kranke Niere scheidet es nicht mehr aus, und es lagert sich mit Calcium in Gefäßen ab. Ein niedriges Phosphat sieht man bei Alkoholkranken und vor allem beim Wiederernährungssyndrom. Wenn ein stark unterernährter Mensch plötzlich viel Nahrung bekommt, nehmen die Zellen schlagartig Phosphat auf. Das Phosphat im Blut kann gefährlich tief fallen. Das kann Herz und Atemmuskeln lähmen.
+
+Fehlerquellen: Steht Vollblut lange, bevor es zentrifugiert wird, geben die Zellen Phosphat ab. Der Wert steigt dann falsch. Eine Hämolyse erhöht ihn ebenfalls. Bei einem Myelom können bestimmte Eiweiße die Messung stören und ein hohes Phosphat vortäuschen. Auch ein Essen kurz vor der Abnahme verändert den Wert.
+
+Warum ist das im Labor wichtig? Auf der Intensivstation bekommt ein stark abgemagerter Patient seit zwei Tagen Sondennahrung. Du misst ein Phosphat, das weit unter dem Normbereich liegt. Das passt zum Wiederernährungssyndrom. Ein schneller Anruf ermöglicht, dass Phosphat ersetzt und die Nahrung langsamer gesteigert wird.
+
+Kurz gesagt: Phosphat ist der Partner des Calciums im Knochen und ein Baustein des A T P. Der Normbereich bei Erwachsenen liegt bei etwa null Komma acht bis eins Komma fünf Millimol pro Liter. Hoch ist es bei Nierenversagen, gefährlich niedrig beim Wiederernährungssyndrom. Langes Stehen der Probe erhöht den Wert.
+
+# Die Blutgasanalyse — Blood gas analysis
+
+Einordnung: Die Blutgasanalyse gehört zum Säure-Basen-Haushalt und zur Atmung. Sie ist kein einzelner Wert, sondern ein Paket aus mehreren Werten. Dazu gehören der pH-Wert, der Druck von Kohlendioxid und Sauerstoff und das Bikarbonat. Die Blutgasanalyse läuft fast immer als Notfall und oft direkt auf der Station.
+
+Bildung und Aufgabe: Der pH-Wert des Blutes muss in einem sehr engen Bereich bleiben. Zwei Organe halten ihn stabil. Die Lunge atmet Kohlendioxid ab, das im Blut als Säure wirkt. Die Niere scheidet Säure aus und hält die Base Bikarbonat zurück. Kohlendioxid und Bikarbonat bilden zusammen den wichtigsten Puffer des Blutes. Den Druck des Gases nennt man Partialdruck. Man schreibt ihn kurz p C O zwei für Kohlendioxid und p O zwei für Sauerstoff.
+
+Probe und Messung: Die beste Probe ist arterielles Blut in einer Spritze mit trockenem, ausgeglichenem Heparin. Oft nimmt man auch Kapillarblut aus dem gut durchbluteten Ohrläppchen. Die Probe darf keine Luftblasen enthalten. Sie muss schnell gemessen werden, am besten innerhalb von fünfzehn bis dreißig Minuten. Der pH-Wert und die Gase werden mit Elektroden gemessen. Das Bikarbonat rechnet das Gerät aus. Viele Geräte messen gleich auch Natrium, Kalium, ionisiertes Calcium, Glukose, Laktat und das Hämoglobin.
+
+Die Werte: Der pH-Wert liegt normal bei sieben Komma drei fünf bis sieben Komma vier fünf. Das p C O zwei liegt bei etwa fünfunddreißig bis fünfundvierzig Millimeter Quecksilbersäule. Das Bikarbonat liegt bei etwa zweiundzwanzig bis sechsundzwanzig Millimol pro Liter. Das arterielle p O zwei liegt bei etwa fünfundsiebzig bis hundert Millimeter Quecksilbersäule und sinkt im Alter. Ein niedriger pH-Wert heißt Azidose, ein hoher heißt Alkalose. Bei jeder Störung fragt man: Kommt sie von der Atmung oder vom Stoffwechsel? Ist das p C O zwei verändert, ist sie respiratorisch. Ist das Bikarbonat verändert, ist sie metabolisch. Das andere Organ versucht dann, die Störung auszugleichen.
+
+Fehlerquellen: Eine Luftblase in der Spritze ist die häufigste Fehlerquelle. Das Kohlendioxid entweicht in die Blase, und Sauerstoff aus der Luft geht ins Blut. Der pH-Wert steigt dann falsch. Wenn die Probe zu lange steht, verbrauchen die Zellen Sauerstoff und bilden Säure. Das p O zwei sinkt, und das Laktat steigt. Zu viel flüssiges Heparin verdünnt die Probe. Venöses Blut statt arteriellem täuscht einen Sauerstoffmangel vor.
+
+Warum ist das im Labor wichtig? Eine Blutgasprobe kommt mit der Rohrpost und ist eine halbe Stunde alt. Sie zeigt ein sehr hohes p O zwei, obwohl der Patient Atemnot hat. In der Spritze siehst du eine große Luftblase. Du meldest, dass der Wert nicht verwertbar ist, und bittest um eine neue Probe.
+
+Kurz gesagt: Die Blutgasanalyse misst pH-Wert, p C O zwei und p O zwei und rechnet das Bikarbonat aus. Der pH-Wert liegt normal bei sieben Komma drei fünf bis sieben Komma vier fünf. Ein verändertes p C O zwei zeigt eine Störung der Atmung, ein verändertes Bikarbonat eine des Stoffwechsels. Luftblasen und lange Wartezeit verfälschen das Ergebnis.
+
+# Laktat — Lactate
+
+Einordnung: Laktat ist das Salz der Milchsäure. Es gehört zum Säure-Basen-Haushalt und zeigt, ob das Gewebe genug Sauerstoff bekommt. Im Notfall ist Laktat einer der wichtigsten Werte, besonders bei Blutvergiftung und Schock.
+
+Bildung und Aufgabe: Zellen gewinnen Energie aus Zucker. Mit Sauerstoff verbrennen sie ihn vollständig. Ohne genug Sauerstoff bleibt der Abbau beim Laktat stehen. Das passiert beim Sprint im Muskel, aber auch, wenn der Kreislauf zusammenbricht. Rote Blutkörperchen bilden immer Laktat, weil sie keine Mitochondrien haben. Die Leber baut Laktat wieder zu Zucker auf. Bei Leberversagen steigt es deshalb ebenfalls.
+
+Probe und Messung: Man misst Laktat im Blutgasgerät aus Vollblut oder im Plasma aus einem Röhrchen mit Glykolysehemmer. Glykolyse ist der Abbau von Zucker in den Zellen. Der Hemmer heißt meist Fluorid. Die Messung ist enzymatisch. Ein Enzym setzt Laktat um, und das Gerät misst das Produkt mit Licht oder mit einer Elektrode. Die Einheit ist Millimol pro Liter.
+
+Die Werte: Der Referenzbereich liegt bei etwa null Komma fünf bis zwei Millimol pro Liter. Bei einer Blutvergiftung gilt ein Laktat über zwei als Warnzeichen. Bei einem septischen Schock ist es typisch erhöht. Ein fallendes Laktat unter der Therapie ist ein gutes Zeichen. Weitere Gründe für ein hohes Laktat sind starke Blutungen, ein Herzstillstand, ein Darminfarkt, schwere Krampfanfälle und Leberversagen. Das Medikament Metformin gegen Diabetes kann bei Nierenversagen eine gefährliche Laktatazidose auslösen.
+
+Fehlerquellen: Die Zellen in der Probe bilden weiter Laktat, solange sie leben. Ohne Hemmer steigt der Wert in jeder Minute. Deshalb misst man sofort oder nimmt das Röhrchen mit Fluorid und kühlt es. Langes Stauen und Pumpen mit der Faust erhöhen das Laktat, weil der Muskel ohne Sauerstoff arbeitet. Ein bekannter Sonderfall ist die Vergiftung mit Frostschutzmittel. Ein Abbauprodukt davon stört manche Laktatelektroden in Blutgasgeräten. Sie zeigen dann ein sehr hohes Laktat, das große Laborgerät aber nicht.
+
+Warum ist das im Labor wichtig? Aus der Notaufnahme kommt ein Serumröhrchen für das Laktat, das seit einer Stunde liegt. Der Wert ist leicht erhöht. Du kannst nicht sagen, ob der Patient wirklich ein Laktatproblem hat. Du bittest um eine neue Probe direkt ins Blutgasgerät.
+
+Kurz gesagt: Laktat entsteht, wenn Zellen ohne genug Sauerstoff Zucker abbauen. Der Normbereich liegt bei etwa null Komma fünf bis zwei Millimol pro Liter. Es ist ein Schlüsselwert bei Blutvergiftung und Schock. Die Probe muss sofort gemessen oder mit Fluorid gehemmt werden.
+
+# Zusammenfassung Teil eins — Part one summary
+
+Der erste Teil hat die Elektrolyte und den Säure-Basen-Haushalt vorgestellt. Draußen vor den Zellen ist das Natrium das wichtigste Salz, drinnen das Kalium. Die Natrium-Kalium-Pumpe hält diesen Unterschied aufrecht.
+
+Natrium zeigt vor allem den Wasserhaushalt. Viel Fett oder Eiweiß täuscht in der indirekten Messung ein zu niedriges Natrium vor. Kalium ist entscheidend für das Herz und der Wert mit den meisten falschen Befunden. Hämolyse, Kühlung, Stauen und E D T A erhöhen es falsch. Chlorid ist der Partner des Natriums und wichtig für die Anionenlücke.
+
+Calcium kommt frei, an Eiweiß gebunden und an kleine Moleküle gebunden vor. Nur das freie Calcium wirkt, und das Gesamtcalcium hängt vom Albumin ab. Magnesium steckt oft hinter einem hartnäckigen Kaliummangel. Phosphat ist hoch bei Nierenversagen und gefährlich niedrig beim Wiederernährungssyndrom.
+
+Die Blutgasanalyse zeigt den pH-Wert und trennt Störungen der Atmung von Störungen des Stoffwechsels. Das Laktat zeigt einen Sauerstoffmangel im Gewebe. Beide Proben müssen schnell gemessen werden.
+
+Kurz gesagt: Die Werte des ersten Teils ändern sich schnell und können lebensgefährlich werden. Die meisten falschen Befunde kommen von Hämolyse, E D T A, langer Wartezeit und Infusionen. Kritische Werte von Kalium, Natrium und Calcium meldest du sofort telefonisch.
+
+# Teil zwei: Die Niere — Part two: The kidney
+
+Der zweite Teil behandelt die Werte der Niere. Die Niere ist wie ein sehr feines Sieb mit einer Kläranlage dahinter. Jeden Tag fließen etwa hundertachtzig Liter Vorharn durch die Nierenkörperchen. Fast alles davon holt die Niere zurück. Am Ende bleiben nur etwa ein bis zwei Liter Urin mit den Abfallstoffen.
+
+Die wichtigste Zahl für die Niere ist die glomeruläre Filtrationsrate. Sie sagt, wie viel Blut die Nieren pro Minute filtern. Man kann sie nicht einfach messen. Darum misst man Stoffe, die der Körper gleichmäßig bildet und die fast nur durch die Niere ausgeschieden werden. Steigt ihr Wert im Blut, filtert die Niere schlechter.
+
+So unterscheidest du die Werte dieses Teils. Erst fragst du: Wie gut filtert die Niere? Dafür nimmst du das Kreatinin und daraus die geschätzte Filtrationsrate. Wenn das Kreatinin unzuverlässig ist, etwa bei sehr wenig Muskelmasse, nimmst du das Cystatin C. Dann fragst du: Gibt es zu viele Abfallstoffe aus dem Eiweiß? Das zeigt der Harnstoff. Er hängt aber auch von der Ernährung und vom Wasserhaushalt ab. Geht es um Gicht oder um den Zerfall von Zellen? Dann misst du die Harnsäure. Und schließlich fragst du: Ist das Sieb selbst undicht? Das zeigt das Albumin im Urin, oft lange bevor die Filtration schlechter wird.
+
+Zur Niere gehören auch Werte aus dem ersten Teil. Kalium und Phosphat steigen bei Nierenversagen. Die kranke Niere bildet außerdem weniger Hormon für die Blutbildung und weniger aktives Vitamin D. Ein Patient mit Nierenschwäche hat deshalb oft eine Blutarmut und Probleme mit den Knochen.
+
+# Kreatinin und Filtrationsrate — Creatinine and eGFR
+
+Einordnung: Das Kreatinin ist der wichtigste Wert für die Nierenfunktion. Aus ihm rechnet man die geschätzte glomeruläre Filtrationsrate, kurz e G F R. Seine größte Schwäche ist der kreatininblinde Bereich. Das Kreatinin steigt erst, wenn schon etwa die Hälfte der Filterleistung verloren ist.
+
+Bildung und Aufgabe: Kreatinin ist ein Abfallstoff aus dem Muskel. Der Muskel speichert Energie im Kreatin. Jeden Tag zerfällt ein kleiner, fester Teil davon von selbst zu Kreatinin. Die Menge hängt also von der Muskelmasse ab und ist sonst recht konstant. Die Niere filtert Kreatinin frei ab. Ein kleiner Teil wird zusätzlich in den Nierenkanälchen ausgeschieden. Kreatinin hat im Körper keine Aufgabe mehr.
+
+Probe und Messung: Man misst Kreatinin im Serum oder im Heparinplasma, außerdem im Urin. Es gibt zwei Methoden. Die alte Methode nach Jaffe nutzt Pikrinsäure. Sie bildet mit Kreatinin einen orangeroten Farbstoff. Die neuere Methode ist enzymatisch und genauer. In Deutschland gibt man Kreatinin meist in Milligramm pro Deziliter an. Für Mikromol pro Liter multipliziert man mit etwa achtundachtzig.
+
+Die Werte: Bei Frauen liegt der Referenzbereich bei etwa null Komma fünf bis null Komma neun Milligramm pro Deziliter. Bei Männern liegt er bei etwa null Komma sieben bis eins Komma zwei. Die e G F R rechnet das Gerät mit einer Formel aus Kreatinin, Alter und Geschlecht. Sie wird in Milliliter pro Minute angegeben, bezogen auf eine durchschnittliche Körperoberfläche. Normal sind Werte über neunzig. Liegt sie länger als drei Monate unter sechzig, spricht man von einer chronischen Nierenkrankheit. Unter fünfzehn spricht man von Nierenversagen. Ein plötzlicher Anstieg des Kreatinins innerhalb von Tagen zeigt ein akutes Nierenversagen.
+
+Fehlerquellen: Die Jaffe-Methode ist störanfällig. Ketonkörper bei entgleistem Diabetes und einige Antibiotika erhöhen den Wert falsch. Viel Bilirubin senkt ihn falsch. Die Formel für die e G F R gilt nur für Menschen mit durchschnittlicher Muskelmasse. Bei Bodybuildern ist das Kreatinin hoch, ohne dass die Niere krank ist. Bei alten, dünnen Menschen ist es niedrig und versteckt eine schwache Niere. Viel Fleisch kurz vor der Abnahme und Kreatinpulver erhöhen den Wert. Einige Medikamente, zum Beispiel Trimethoprim, hemmen die Ausscheidung in den Kanälchen und erhöhen das Kreatinin leicht.
+
+Warum ist das im Labor wichtig? Viele Medikamente werden über die Niere ausgeschieden. Ihre Dosis richtet sich nach der e G F R, auch die Dosis von Kontrastmitteln vor einer Computertomographie. Ein falsch niedriges Kreatinin bei einer zarten alten Dame kann zu einer Überdosis führen. Darum ist die Methode wichtig, und manchmal braucht man zusätzlich das Cystatin C.
+
+Kurz gesagt: Kreatinin ist ein Abfallstoff aus dem Muskel und der Standardwert für die Nierenfunktion. Daraus rechnet man die e G F R, die normal über neunzig liegt. Kreatinin hängt von der Muskelmasse ab und steigt erst, wenn die Hälfte der Filterleistung fehlt. Die Jaffe-Methode ist störanfälliger als die enzymatische.
+
+# Harnstoff — Urea
+
+Einordnung: Harnstoff ist der Hauptabfallstoff aus dem Abbau von Eiweiß. Er gehört zur Niere, hängt aber stark von Ernährung, Wasserhaushalt und Leber ab. Deshalb ist er ein schlechterer Nierenwert als das Kreatinin. Zusammen mit dem Kreatinin verrät er aber, warum ein Nierenwert steigt.
+
+Bildung und Aufgabe: Beim Abbau von Eiweiß entsteht giftiges Ammoniak. Die Leber baut es im Harnstoffzyklus zu Harnstoff um. Harnstoff ist ungiftig und gut wasserlöslich. Die Niere filtert ihn ab. Einen Teil holt sie zurück, besonders wenn der Körper Wasser sparen muss. Harnstoff hilft der Niere sogar, den Urin zu konzentrieren.
+
+Probe und Messung: Man misst Harnstoff im Serum oder im Heparinplasma, außerdem im Urin. Die Methode ist enzymatisch. Das Enzym Urease spaltet Harnstoff in Ammoniak. Das Ammoniak wird in einer zweiten Reaktion gemessen. Dabei verbraucht man N A D H, und das Photometer misst die Abnahme im ultravioletten Licht. In Deutschland gibt man Harnstoff meist in Milligramm pro Deziliter an. In den USA misst man nur den Stickstoff darin, den Harnstoff-Stickstoff. Er ist etwa halb so groß. Pass beim Vergleich mit Fachbüchern auf.
+
+Die Werte: Der Referenzbereich liegt bei etwa siebzehn bis dreiundvierzig Milligramm pro Deziliter. Hoch ist der Harnstoff bei Nierenversagen. Er steigt aber auch bei Wassermangel, bei viel Eiweiß in der Nahrung, bei Fieber und bei einer Blutung in Magen oder Darm. Dort wird das Blut wie Nahrung verdaut. Steigt der Harnstoff viel stärker als das Kreatinin, liegt die Ursache oft vor der Niere, meist beim Wassermangel. Niedrig ist der Harnstoff bei schwerem Leberversagen, bei eiweißarmer Ernährung und in der Schwangerschaft. Sehr hohe Werte machen Übelkeit, Juckreiz und Verwirrtheit. Man spricht dann von Urämie, wörtlich Harn im Blut.
+
+Fehlerquellen: Die wichtigste Falle ist das Röhrchen. Für Harnstoff darf man kein Röhrchen mit Ammoniumheparin nehmen. Die Messung beruht auf Ammoniak, und das Ammonium aus dem Röhrchen macht den Wert falsch hoch. Lithiumheparin ist dagegen in Ordnung. Auch Bakterien in alten Urinproben spalten Harnstoff und verfälschen den Wert. Sonst ist Harnstoff ein recht stabiler Wert.
+
+Warum ist das im Labor wichtig? Ein älterer Mann hat einen stark erhöhten Harnstoff und ein nur leicht erhöhtes Kreatinin. Sein Hämoglobin ist gefallen. Das Muster passt zu einer Blutung im Magen. Für die Station ist das ein wichtiger Hinweis, denn die Niere selbst ist vielleicht gar nicht krank.
+
+Kurz gesagt: Harnstoff entsteht in der Leber aus dem Ammoniak des Eiweißabbaus. Der Normbereich liegt bei etwa siebzehn bis dreiundvierzig Milligramm pro Deziliter. Er steigt bei Nierenversagen, aber auch bei Wassermangel, viel Eiweiß und Blutungen im Darm. Ammoniumheparin ist das falsche Röhrchen.
+
+# Cystatin C — Cystatin C
+
+Einordnung: Cystatin C ist ein zweiter Wert für die Filtrationsrate. Er ist der Retter, wenn das Kreatinin unzuverlässig ist. Cystatin C hängt nicht von der Muskelmasse ab. Es zeigt eine beginnende Nierenschwäche früher, oft schon im kreatininblinden Bereich.
+
+Bildung und Aufgabe: Cystatin C ist ein kleines Eiweiß. Fast alle Zellen mit Zellkern bilden es in gleichmäßiger Menge. Es hemmt Enzyme, die Eiweiß abbauen. Wegen seiner kleinen Größe filtert die Niere es frei ab. Die Nierenkanälchen nehmen es danach auf und bauen es ab. Im Urin taucht es deshalb normal kaum auf. Sein Spiegel im Blut hängt fast nur von der Filtration ab.
+
+Probe und Messung: Man misst Cystatin C im Serum oder im Plasma. Die Methode ist ein Immuntest mit Lichtstreuung. Kleine Kunststoffkugeln tragen Antikörper gegen Cystatin C. Das Cystatin C verklebt die Kugeln, und die Probe wird trüb. Das Gerät misst diese Trübung. Die Einheit ist Milligramm pro Liter. Viele Labore rechnen aus Cystatin C eine eigene e G F R. Am genauesten ist eine Formel, die Kreatinin und Cystatin C gemeinsam verwendet.
+
+Die Werte: Der Referenzbereich liegt bei jüngeren Erwachsenen bei etwa null Komma sechs bis eins Milligramm pro Liter. Im Alter steigt er etwas an. Cystatin C ist besonders nützlich bei Kindern, bei alten und sehr dünnen Menschen, nach Amputationen, bei Muskelkrankheiten und bei Kraftsportlern. Bei allen ist die Muskelmasse ungewöhnlich, und das Kreatinin führt in die Irre. Auch für die genaue Dosierung von Medikamenten ist es hilfreich.
+
+Fehlerquellen: Cystatin C ist zwar unabhängig von den Muskeln, aber nicht von allem. Eine Überfunktion der Schilddrüse erhöht den Wert, eine Unterfunktion senkt ihn. Hohe Dosen von Kortison erhöhen ihn ebenfalls. Bei einer starken Entzündung kann er leicht steigen. Ältere Tests verschiedener Hersteller gaben unterschiedliche Werte. Seit es ein internationales Referenzmaterial gibt, sind sie besser vergleichbar. Cystatin C ist teurer als Kreatinin und wird deshalb nicht routinemäßig bestimmt.
+
+Warum ist das im Labor wichtig? Ein Patient im Rollstuhl hat seit Jahren kaum Muskelmasse. Sein Kreatinin ist ganz normal. Vor einer Chemotherapie fordert die Ärztin ein Cystatin C an. Es zeigt eine deutlich eingeschränkte Filtration. Die Dosis des Medikaments wird daraufhin angepasst.
+
+Kurz gesagt: Cystatin C wird von allen Körperzellen gleichmäßig gebildet und hängt nicht von der Muskelmasse ab. Der Normbereich liegt bei etwa null Komma sechs bis eins Milligramm pro Liter. Es zeigt eine Nierenschwäche früher als das Kreatinin. Die Schilddrüse und Kortison beeinflussen den Wert.
+
+# Harnsäure — Uric acid
+
+Einordnung: Harnsäure ist das Endprodukt aus dem Abbau der Purine. Purine sind Bausteine des Erbguts. Harnsäure gehört zur Niere, aber vor allem zur Gicht. Verwechsle sie nicht mit dem Harnstoff. Harnstoff kommt aus dem Eiweiß, Harnsäure aus dem Erbgut.
+
+Bildung und Aufgabe: Purine stammen aus zerfallenen Körperzellen und aus der Nahrung, besonders aus Fleisch, Innereien und Fisch. Der Körper baut sie zu Harnsäure ab. Die meisten Tiere bauen Harnsäure noch weiter ab, mit dem Enzym Urikase. Der Mensch hat dieses Enzym im Laufe der Entwicklung verloren. Deshalb haben wir höhere Harnsäurewerte als fast alle anderen Säugetiere. Die Niere scheidet etwa zwei Drittel der Harnsäure aus, den Rest der Darm.
+
+Probe und Messung: Man misst Harnsäure im Serum oder im Heparinplasma, außerdem im Urin. Die Methode ist enzymatisch. Das Enzym Urikase baut Harnsäure ab, und dabei entsteht Wasserstoffperoxid. Eine zweite Reaktion mit einer Peroxidase bildet daraus einen Farbstoff. Die Einheit ist meist Milligramm pro Deziliter.
+
+Die Werte: Bei Männern liegt der Referenzbereich bei etwa drei Komma fünf bis sieben Milligramm pro Deziliter. Bei Frauen liegt er vor den Wechseljahren niedriger, bei etwa zweieinhalb bis sechs. Ab etwa sechs Komma acht ist die Harnsäure im Blut nicht mehr gut löslich. Sie bildet Kristalle, die sich in Gelenken ablagern. Das ist die Gicht. Der erste Anfall trifft oft das Grundgelenk der großen Zehe. Bei der Behandlung strebt man einen Wert unter sechs an. Sehr hoch wird die Harnsäure beim Zerfall von Tumoren unter einer Chemotherapie. Alkohol, Fruchtzucker, Fasten und harntreibende Mittel erhöhen sie ebenfalls.
+
+Fehlerquellen: Eine wichtige Falle ist das Medikament Rasburikase. Man gibt es beim Tumorzerfall, denn es ist eine künstliche Urikase. Es baut die Harnsäure auch im Röhrchen weiter ab. Die Probe muss deshalb sofort gekühlt und schnell gemessen werden. Sonst ist der Wert falsch niedrig. Hohe Dosen Vitamin C stören die Peroxidase-Reaktion und senken den Wert ebenfalls falsch. Im Gelenkpunktat sucht man nach Kristallen. Unter dem Polarisationsmikroskop sind Gichtkristalle feine, leuchtende Nadeln.
+
+Warum ist das im Labor wichtig? Ein Kind mit Leukämie bekommt Rasburikase. Seine Probe kommt ungekühlt nach zwei Stunden ins Labor, und die Harnsäure ist kaum messbar. Der Wert sieht gut aus, ist aber nicht verwertbar. Du bittest um eine neue Probe auf Eis.
+
+Kurz gesagt: Harnsäure ist das Endprodukt der Purine aus dem Erbgut, nicht aus dem Eiweiß. Ab etwa sechs Komma acht Milligramm pro Deziliter bildet sie Kristalle, die Gicht auslösen. Hoch wird sie auch beim Tumorzerfall. Unter Rasburikase muss die Probe auf Eis ins Labor.
+
+# Albumin im Urin — Urine albumin
+
+Einordnung: Das Albumin im Urin zeigt, ob das Sieb der Niere undicht ist. Es ist der früheste Hinweis auf einen Nierenschaden durch Diabetes oder Bluthochdruck. Ein erhöhter Wert kann viele Jahre vor einem Anstieg des Kreatinins auftreten.
+
+Bildung und Aufgabe: Albumin ist das häufigste Eiweiß im Blut. Es ist eigentlich zu groß und zu stark negativ geladen, um durch das gesunde Sieb der Niere zu gehen. Nur winzige Mengen gelangen in den Vorharn, und die Kanälchen holen sie zurück. Wenn die feinen Gefäße der Nierenkörperchen geschädigt sind, rutscht mehr Albumin durch. Das Albumin im Urin ist also ein Zeichen für einen Schaden an den Gefäßen. Viele Ärzte sehen darin auch ein Warnzeichen für Herz und Gefäße im ganzen Körper.
+
+Probe und Messung: Die beste Probe ist der erste Morgenurin. Man misst das Albumin mit einem Immuntest, meist mit Trübungsmessung. Gleichzeitig misst man das Kreatinin im selben Urin. Dann teilt man das Albumin durch das Kreatinin. So gleicht man aus, ob der Urin verdünnt oder konzentriert ist. Das Ergebnis heißt Albumin-Kreatinin-Quotient. Die Einheit ist Milligramm Albumin pro Gramm Kreatinin. Der normale Teststreifen für Eiweiß ist für frühe Schäden zu unempfindlich.
+
+Die Werte: Unter dreißig Milligramm pro Gramm gilt als normal. Dreißig bis dreihundert gilt als mäßig erhöht. Früher nannte man das Mikroalbuminurie. Über dreihundert gilt als stark erhöht. Bei Menschen mit Diabetes misst man den Wert mindestens einmal im Jahr. Die Diagnose stellt man erst, wenn mindestens zwei von drei Proben innerhalb einiger Monate erhöht sind. Ein stark erhöhter Wert mit sehr viel Eiweiß im Urin passt zu einem nephrotischen Syndrom.
+
+Fehlerquellen: Viele harmlose Dinge erhöhen das Albumin im Urin für kurze Zeit. Dazu gehören Sport am Tag vorher, Fieber, eine Harnwegsinfektion, die Regelblutung und ein stark erhöhter Blutzucker. Darum gilt eine einzelne erhöhte Probe nicht als Diagnose. Sehr verdünnter Urin kann einen erhöhten Wert verstecken, wenn man nur das Albumin ohne das Kreatinin angibt. Blut im Urin stört die Messung ebenfalls.
+
+Warum ist das im Labor wichtig? Bei einem jungen Mann mit Typ-eins-Diabetes kommt ein erhöhter Quotient. Auf dem Anforderungsschein steht, dass er am Vortag einen Marathon gelaufen ist. Du vermerkst den Hinweis, damit die Ärztin die Probe nach einigen Wochen wiederholen lässt.
+
+Kurz gesagt: Albumin im Urin zeigt ein undichtes Sieb der Niere und ist der früheste Hinweis auf eine diabetische Nierenschädigung. Man gibt es als Albumin-Kreatinin-Quotient aus dem Morgenurin an. Unter dreißig Milligramm pro Gramm ist normal. Sport, Fieber und Infekte erhöhen den Wert vorübergehend.
+
+# Zusammenfassung Teil zwei — Part two summary
+
+Der zweite Teil hat die Werte der Niere vorgestellt. Die wichtigste Frage ist, wie gut die Niere filtert. Dafür misst man Stoffe, die gleichmäßig gebildet und über die Niere ausgeschieden werden.
+
+Das Kreatinin kommt aus dem Muskel und ist der Standardwert. Daraus rechnet man die e G F R, die normal über neunzig liegt. Kreatinin hängt aber von der Muskelmasse ab und steigt erst spät. Cystatin C kommt aus allen Zellen und zeigt eine Nierenschwäche früher. Es hilft bei Kindern, alten Menschen und ungewöhnlicher Muskelmasse.
+
+Der Harnstoff entsteht in der Leber aus dem Ammoniak des Eiweißabbaus. Er steigt bei Nierenversagen, aber auch bei Wassermangel und Blutungen im Darm. Die Harnsäure ist das Endprodukt des Erbguts. Sie macht Gicht und steigt beim Tumorzerfall. Das Albumin im Urin zeigt ein undichtes Sieb, oft viele Jahre vor dem Kreatinin.
+
+Kurz gesagt: Kreatinin und e G F R zeigen die Filterleistung, Cystatin C ergänzt sie. Harnstoff und Harnsäure sind Abfallstoffe aus Eiweiß und Erbgut. Das Albumin im Urin ist das Frühwarnzeichen. Achte auf Ammoniumheparin beim Harnstoff und auf Rasburikase bei der Harnsäure.
+
+# Teil drei: Die Leberwerte — Part three: Liver tests
+
+Der dritte Teil behandelt die Leberwerte. Die Leber ist die große Chemiefabrik des Körpers. Sie baut Eiweiße für das Blut, entgiftet Stoffe aus dem Darm, speichert Zucker und bildet die Galle. Die Galle fließt über die Gallengänge in den Darm und hilft dort bei der Fettverdauung.
+
+Die Leberwerte im engeren Sinn zeigen zwei Arten von Schaden. Die erste Art ist der Zellschaden. Wenn Leberzellen kaputtgehen, laufen ihre Enzyme ins Blut. Das sind vor allem die A L T und die A S T. Die zweite Art ist der Gallestau, die Cholestase. Wenn die Galle nicht abfließt, steigen die Gamma-G T und die alkalische Phosphatase. Später steigt auch das Bilirubin.
+
+So unterscheidest du die Muster. Erst fragst du: Sind A L T und A S T stark erhöht, während alkalische Phosphatase und Gamma-G T nur wenig steigen? Dann ist es ein Zellschaden, zum Beispiel eine Hepatitis. Sind dagegen Gamma-G T und alkalische Phosphatase stark erhöht? Dann ist es ein Gallestau. Steigt die alkalische Phosphatase allein ohne die Gamma-G T? Dann kommt sie wahrscheinlich aus dem Knochen. Ist der Patient gelb? Dann schaust du auf das Bilirubin und fragst, ob es direkt oder indirekt ist.
+
+Die Enzymwerte zeigen den Schaden, aber nicht die Leistung der Leber. Eine Leber kann so vernarbt sein, dass kaum noch Zellen zerfallen. Dann sind die Enzyme fast normal, obwohl die Leber versagt. Die echte Leistung zeigen andere Werte. Dazu gehören das Albumin aus Teil sechs, die Gerinnungsfaktoren und das Ammoniak. Das Ammoniak steigt, wenn die Leber nicht mehr entgiftet.
+
+# Die A L T — Alanine aminotransferase
+
+Einordnung: Die A L T ist die Alanin-Aminotransferase. Ihr alter Name ist G P T. Sie ist der wichtigste Wert für einen Schaden an den Leberzellen. Unter allen Leberenzymen ist sie am spezifischsten für die Leber.
+
+Bildung und Aufgabe: Die A L T sitzt im Zellplasma der Leberzellen. In anderen Organen kommt sie nur in kleinen Mengen vor. Sie überträgt eine Aminogruppe von der Aminosäure Alanin auf eine andere Säure. Daraus entsteht unter anderem Brenztraubensäure, die der Körper zu Zucker umbauen kann. Für ihre Arbeit braucht die A L T einen Helfer, eine aktive Form von Vitamin B sechs. Im Blut hält sie sich etwa zwei Tage.
+
+Probe und Messung: Man misst die A L T im Serum oder im Heparinplasma. Gemessen wird die Aktivität, also wie schnell das Enzym arbeitet. Die Reaktion ist mit einer zweiten Reaktion gekoppelt, bei der N A D H verbraucht wird. Das Photometer verfolgt über einige Minuten, wie das N A D H im ultravioletten Licht abnimmt. Die Messung läuft bei siebenunddreißig Grad Celsius. Die Einheit ist Einheiten pro Liter.
+
+Die Werte: Bei Frauen liegt die obere Grenze bei etwa fünfunddreißig Einheiten pro Liter, bei Männern bei etwa fünfzig. Der häufigste Grund für eine leicht erhöhte A L T ist heute die Fettleber. Sie hängt mit Übergewicht und Diabetes zusammen. Weitere Gründe sind Alkohol, Medikamente und die chronische Hepatitis B oder C. Sehr hohe Werte sind viele hundert oder tausend Einheiten pro Liter. Man sieht sie bei akuter Virushepatitis, bei einer Vergiftung mit Paracetamol und bei Sauerstoffmangel der Leber im Schock.
+
+Fehlerquellen: Rote Blutkörperchen enthalten mehr A L T als das Plasma. Eine starke Hämolyse erhöht den Wert deshalb etwas, aber weniger als bei der A S T. Fehlt dem Patienten Vitamin B sechs, ist die A L T falsch niedrig. Gute Tests geben den Helfer darum mit in die Reaktion. Sehr harter Sport kann die A L T leicht erhöhen. Bei sehr hoher Aktivität ist das Substrat im Röhrchen schnell aufgebraucht. Das Gerät meldet das, und die Probe muss verdünnt werden.
+
+Warum ist das im Labor wichtig? Bei einer jungen Frau kommt eine A L T von über dreitausend Einheiten pro Liter. Auf dem Schein steht Verdacht auf Tablettenvergiftung. Du meldest den Wert sofort und weist darauf hin, dass ein Paracetamolspiegel sinnvoll sein kann. Für das Gegenmittel zählt jede Stunde.
+
+Kurz gesagt: Die A L T, früher G P T, ist das leberspezifischste Enzym und zeigt einen Schaden an den Leberzellen. Die obere Grenze liegt bei etwa fünfunddreißig für Frauen und fünfzig für Männer. Leicht erhöht ist sie oft bei Fettleber, sehr hoch bei akuter Hepatitis und Vergiftung.
+
+# Die A S T — Aspartate aminotransferase
+
+Einordnung: Die A S T ist die Aspartat-Aminotransferase. Ihr alter Name ist G O T. Sie zeigt ebenfalls einen Zellschaden, ist aber weniger spezifisch als die A L T. Die A S T kommt in Leber, Herz, Skelettmuskel und roten Blutkörperchen vor.
+
+Bildung und Aufgabe: Die A S T überträgt eine Aminogruppe von der Aminosäure Aspartat auf eine andere Säure. Sie arbeitet wie die A L T mit Vitamin B sechs als Helfer. In der Leberzelle sitzt ein großer Teil der A S T in den Mitochondrien, den Kraftwerken der Zelle. Sie wird also vor allem frei, wenn eine Zelle tief geschädigt ist. Im Blut hält sie sich weniger lang als die A L T, nur etwa einen Tag.
+
+Probe und Messung: Man misst die A S T im Serum oder im Heparinplasma. Die Methode ist wie bei der A L T eine gekoppelte Reaktion mit N A D H im ultravioletten Licht. Gemessen wird bei siebenunddreißig Grad Celsius. Die Einheit ist Einheiten pro Liter.
+
+Die Werte: Die obere Grenze liegt bei Frauen bei etwa fünfunddreißig und bei Männern bei etwa fünfzig Einheiten pro Liter. Wichtig ist das Verhältnis aus A S T und A L T. Man nennt es De-Ritis-Quotient. Bei einer leichten Hepatitis oder Fettleber ist die A L T höher als die A S T, der Quotient liegt also unter eins. Bei einer Leberschädigung durch Alkohol und bei einer Zirrhose ist die A S T oft deutlich höher. Ein Quotient über zwei spricht stark für Alkohol. Steigt die A S T zusammen mit der Kreatinkinase, kommt sie wahrscheinlich aus dem Muskel.
+
+Fehlerquellen: Rote Blutkörperchen enthalten etwa vierzigmal so viel A S T wie das Plasma. Schon eine leichte Hämolyse erhöht den Wert deshalb deutlich. Auch Muskelschäden täuschen einen Leberschaden vor, zum Beispiel nach Sport, Stürzen oder Spritzen in den Muskel. Ein seltener, aber bekannter Sonderfall ist die Makro-A S T. Dabei ist die A S T an einen Antikörper gebunden. Der große Komplex wird langsam abgebaut, und der Wert bleibt jahrelang erhöht, ohne dass ein Organ krank ist.
+
+Warum ist das im Labor wichtig? Bei einem jungen Mann ist die A S T dreimal so hoch wie die A L T. Die Station denkt an Alkohol. Du siehst eine sehr hohe Kreatinkinase in derselben Probe. Der Patient war am Vortag beim Krafttraining. Das Muster passt zum Muskel, nicht zur Leber.
+
+Kurz gesagt: Die A S T, früher G O T, kommt in Leber, Muskel, Herz und roten Blutkörperchen vor und ist deshalb weniger spezifisch. Ein De-Ritis-Quotient über zwei spricht für einen Leberschaden durch Alkohol. Hämolyse und Muskelschäden erhöhen die A S T stark.
+
+# Gamma-G T — Gamma glutamyl transferase
+
+Einordnung: Die Gamma-G T ist die Gamma-Glutamyl-Transferase. Sie ist der empfindlichste Wert für fast jede Krankheit von Leber und Galle. Dafür ist sie wenig spezifisch. Sie hilft vor allem bei zwei Fragen: Kommt eine erhöhte alkalische Phosphatase aus der Leber? Und trinkt jemand regelmäßig Alkohol?
+
+Bildung und Aufgabe: Die Gamma-G T sitzt in der Zellmembran vieler Organe, besonders in der Niere, der Bauchspeicheldrüse und den Gallengängen der Leber. Sie überträgt einen Teil des Moleküls Glutathion auf andere Moleküle. Glutathion ist ein wichtiger Schutzstoff der Zelle gegen Gifte. Im Blut stammt die Gamma-G T fast nur aus der Leber. Im Knochen und in roten Blutkörperchen gibt es sie nicht.
+
+Probe und Messung: Man misst die Gamma-G T im Serum oder im Heparinplasma. Gemessen wird die Aktivität mit einem künstlichen Substrat. Das Enzym spaltet davon einen gelben Farbstoff ab. Das Photometer misst, wie schnell die gelbe Farbe zunimmt. Die Einheit ist Einheiten pro Liter.
+
+Die Werte: Die obere Grenze liegt bei Frauen bei etwa vierzig und bei Männern bei etwa sechzig Einheiten pro Liter. Stark erhöht ist sie beim Gallestau, zum Beispiel durch Gallensteine oder einen Tumor. Erhöht ist sie auch bei Fettleber, Hepatitis und Zirrhose. Viele Medikamente und Alkohol regen die Leber an, mehr Gamma-G T zu bilden. Das gilt besonders für ältere Mittel gegen Epilepsie. Nach dem Ende des Alkoholkonsums fällt die Gamma-G T über zwei bis drei Wochen. So kann man prüfen, ob jemand wirklich nicht mehr trinkt.
+
+Fehlerquellen: Die Gamma-G T ist sehr robust. Hämolyse stört kaum, denn rote Blutkörperchen enthalten keine Gamma-G T. Die größte Fehlerquelle ist die Deutung. Ein erhöhter Wert allein beweist keinen Alkohol und keine Lebererkrankung. Übergewicht, Rauchen und viele Medikamente erhöhen ihn ebenfalls. Bei Neugeborenen ist die Gamma-G T in den ersten Lebensmonaten physiologisch hoch.
+
+Warum ist das im Labor wichtig? Ein Jugendlicher hat eine hohe alkalische Phosphatase. Die Gamma-G T ist normal. Das spricht dafür, dass die alkalische Phosphatase aus dem wachsenden Knochen stammt. Mit diesem einfachen Vergleich spart die Ärztin eine aufwendige Abklärung der Leber.
+
+Kurz gesagt: Die Gamma-G T ist der empfindlichste Wert für Leber und Galle, aber wenig spezifisch. Die obere Grenze liegt bei etwa vierzig für Frauen und sechzig für Männer. Alkohol und Medikamente erhöhen sie. Da sie im Knochen fehlt, zeigt sie, ob eine erhöhte alkalische Phosphatase aus der Leber kommt.
+
+# Alkalische Phosphatase — Alkaline phosphatase
+
+Einordnung: Die alkalische Phosphatase ist ein Enzym, das in mehreren Organen vorkommt. Die wichtigsten Quellen sind die Leber und der Knochen. Darum gehört sie zu zwei Gebieten, zum Gallestau und zum Knochenstoffwechsel. Ihr Name kommt daher, dass sie am besten in basischer Lösung arbeitet.
+
+Bildung und Aufgabe: Die alkalische Phosphatase spaltet Phosphat von anderen Molekülen ab. Es gibt mehrere Formen, die Isoenzyme. Die Leberform sitzt an den Wänden der Gallengänge. Die Knochenform bilden die Osteoblasten, die Zellen, die neuen Knochen aufbauen. Weitere Formen kommen aus dem Darm und in der Schwangerschaft aus dem Mutterkuchen. Das Enzym braucht Zink und Magnesium für seine Arbeit.
+
+Probe und Messung: Man misst die alkalische Phosphatase im Serum oder im Heparinplasma. Das Enzym spaltet ein künstliches Substrat. Dabei entsteht ein gelber Farbstoff, den das Photometer misst. Die Reaktion läuft in stark basischer Lösung. Die Einheit ist Einheiten pro Liter. Wenn man wissen will, ob das Enzym aus der Leber oder aus dem Knochen kommt, kann man die Knochenform getrennt bestimmen.
+
+Die Werte: Bei Erwachsenen liegt der Referenzbereich bei etwa vierzig bis hundertdreißig Einheiten pro Liter, bei Frauen etwas niedriger. Bei Kindern und Jugendlichen im Wachstum ist der Wert normal deutlich höher, oft mehrfach. Auch im letzten Drittel der Schwangerschaft steigt er. Steigt die alkalische Phosphatase zusammen mit der Gamma-G T, deutet das auf einen Gallestau. Steigt sie allein, deutet das auf den Knochen. Beispiele sind Knochenmetastasen, heilende Brüche, die Pagetsche Knochenkrankheit und die Knochenerweichung bei Vitamin-D-Mangel. Ein zu niedriger Wert ist selten. Er kommt bei einer seltenen Erbkrankheit vor, der Hypophosphatasie.
+
+Fehlerquellen: E D T A und Citrat binden Zink und Magnesium. Dadurch hemmen sie das Enzym. Eine Probe mit E D T A-Verunreinigung zeigt eine falsch niedrige alkalische Phosphatase. Nach einer fettreichen Mahlzeit steigt bei manchen Menschen die Darmform an. Das betrifft vor allem Menschen mit den Blutgruppen null und B. Deshalb ist eine nüchterne Abnahme besser.
+
+Warum ist das im Labor wichtig? Du siehst eine Probe mit hohem Kalium, sehr niedrigem Calcium und kaum messbarer alkalischer Phosphatase. Alle drei Werte passen zu einer E D T A-Verunreinigung. Du gibst die Werte nicht frei, sondern forderst eine neue Probe an.
+
+Kurz gesagt: Die alkalische Phosphatase kommt vor allem aus Gallengängen und Knochen. Bei Erwachsenen liegt sie bei etwa vierzig bis hundertdreißig Einheiten pro Liter, bei Kindern im Wachstum viel höher. Zusammen mit der Gamma-G T zeigt sie einen Gallestau, allein eher den Knochen. E D T A senkt sie falsch.
+
+# Bilirubin — Bilirubin
+
+Einordnung: Bilirubin ist der gelbe Farbstoff aus dem Abbau des roten Blutfarbstoffs. Es gehört zu Leber und Galle, aber auch zum Zerfall der roten Blutkörperchen. Ein hohes Bilirubin macht die Haut und das Weiße im Auge gelb. Man nennt das Gelbsucht oder Ikterus.
+
+Bildung und Aufgabe: Rote Blutkörperchen leben etwa hundertzwanzig Tage. Danach baut die Milz sie ab. Aus dem Hämoglobin entsteht zuerst ein grüner Farbstoff und dann das gelbe Bilirubin. Dieses Bilirubin ist nicht wasserlöslich. Es reist an Albumin gebunden zur Leber. Man nennt es indirektes oder unkonjugiertes Bilirubin. Die Leber hängt eine Zuckersäure daran und macht es wasserlöslich. Dieses direkte oder konjugierte Bilirubin geht mit der Galle in den Darm. Dort machen Bakterien daraus die braunen Farbstoffe des Stuhls.
+
+Probe und Messung: Man misst Bilirubin im Serum oder im Heparinplasma. Die Methode ist eine Farbreaktion mit einem Diazo-Reagenz. Das direkte Bilirubin reagiert sofort. Das indirekte reagiert erst, wenn man einen Beschleuniger dazugibt. So misst man das direkte und das Gesamtbilirubin. Das indirekte rechnet man als Unterschied aus. Bei Neugeborenen misst man oft zuerst mit einem Lichtgerät durch die Haut.
+
+Die Werte: Das Gesamtbilirubin liegt normal unter etwa eins Komma zwei Milligramm pro Deziliter. Das direkte liegt unter etwa null Komma drei. Sichtbar gelb wird ein Mensch ab etwa zwei Milligramm pro Deziliter. Man unterscheidet drei Ursachen. Bei Hämolyse vor der Leber steigt vor allem das indirekte Bilirubin. Bei Krankheiten der Leber steigen beide Formen. Bei einem Gallestau hinter der Leber steigt vor allem das direkte. Dann ist der Urin dunkel wie Bier und der Stuhl hell. Etwa fünf von hundert Menschen haben das harmlose Gilbert-Meulengracht-Syndrom. Ihr indirektes Bilirubin steigt leicht, besonders beim Fasten. Bei Neugeborenen kann ein sehr hohes indirektes Bilirubin das Gehirn schädigen. Dann hilft eine Lichttherapie.
+
+Fehlerquellen: Bilirubin wird durch Licht zerstört. Proben, besonders von Neugeborenen, müssen dunkel transportiert werden. Sonst ist der Wert falsch niedrig. Eine Hämolyse stört die Messung, je nach Methode in beide Richtungen. Ein hohes Bilirubin stört umgekehrt viele andere Tests. Ein gelbes Serum nennt man ikterisch. Das Gerät erkennt es an der Farbe und markiert betroffene Werte.
+
+Warum ist das im Labor wichtig? Aus der Kinderklinik kommt eine Probe eines Neugeborenen, die auf der Fensterbank lag. Der Wert entscheidet über die Lichttherapie. Ein falsch niedriges Bilirubin könnte dazu führen, dass ein gefährlich hoher Wert übersehen wird. Du vermerkst den Lichtschaden und bittest um eine neue Probe.
+
+Kurz gesagt: Bilirubin ist der gelbe Farbstoff aus dem Abbau des Hämoglobins. Das indirekte reist an Albumin zur Leber, das direkte geht mit der Galle in den Darm. Das Gesamtbilirubin liegt normal unter eins Komma zwei Milligramm pro Deziliter. Licht zerstört Bilirubin in der Probe.
+
+# Ammoniak — Ammonia
+
+Einordnung: Ammoniak ist ein Nervengift aus dem Abbau von Eiweiß. Es gehört zur Entgiftung durch die Leber. Ein hohes Ammoniak zeigt, dass die Leber versagt oder ein Enzym des Harnstoffzyklus fehlt. Ammoniak ist der Wert mit der schwierigsten Präanalytik in der ganzen Klinischen Chemie.
+
+Bildung und Aufgabe: Ammoniak entsteht im ganzen Körper beim Abbau von Aminosäuren. Viel Ammoniak bilden auch die Bakterien im Darm. Es fließt mit dem Blut zur Leber. Dort wird es im Harnstoffzyklus zu Harnstoff umgebaut. Wenn die Leber das nicht mehr schafft, gelangt Ammoniak ins Gehirn. Es macht Müdigkeit, Verwirrtheit und schließlich ein Koma. Man nennt das hepatische Enzephalopathie.
+
+Probe und Messung: Die Probe ist E D T A-Plasma. Man nimmt sie ohne langes Stauen ab, legt sie sofort auf Eis und zentrifugiert sie gekühlt. Gemessen wird am besten innerhalb von dreißig Minuten. Die Methode ist enzymatisch. Ein Enzym baut Ammoniak in eine Aminosäure ein und verbraucht dabei N A D P H. Das Photometer misst die Abnahme im ultravioletten Licht. Die Einheit ist Mikromol pro Liter.
+
+Die Werte: Bei Erwachsenen liegt die obere Grenze je nach Labor bei etwa fünfzig bis sechzig Mikromol pro Liter. Bei Neugeborenen sind die Werte höher. Ein hohes Ammoniak sieht man bei schwerem Leberversagen und Zirrhose. Die Höhe passt aber nicht immer zur Schwere der Verwirrtheit. Bei einem Neugeborenen mit Trinkschwäche, Erbrechen und Krampfanfällen kann ein angeborener Defekt des Harnstoffzyklus dahinterstecken. Dann ist das Ammoniak oft sehr hoch, und es ist ein echter Notfall. Auch das Mittel Valproat gegen Epilepsie kann das Ammoniak erhöhen.
+
+Fehlerquellen: Fast alle Fehler machen den Wert falsch hoch. Die Blutzellen bilden in der Probe weiter Ammoniak, besonders bei Wärme. Hämolyse erhöht den Wert. Rauchen vor der Abnahme erhöht ihn ebenfalls. Ammoniak ist in der Luft und im Schweiß, deshalb muss das Röhrchen geschlossen bleiben. Ein Röhrchen mit Ammoniumheparin ist natürlich verboten. Langes Stauen und Faustschluss erhöhen den Wert durch die Arbeit der Muskeln.
+
+Warum ist das im Labor wichtig? Aus der Kinderklinik kommt eine Probe eines drei Tage alten, schläfrigen Säuglings. Das Ammoniak ist zehnmal höher als normal. Du lässt die Probe nicht liegen und rufst sofort an. Bei einem Defekt des Harnstoffzyklus muss das Ammoniak innerhalb von Stunden gesenkt werden, sonst wird das Gehirn geschädigt.
+
+Kurz gesagt: Ammoniak ist ein Nervengift, das die Leber zu Harnstoff umbaut. Es steigt bei Leberversagen und bei angeborenen Defekten des Harnstoffzyklus. Die Probe ist E D T A-Plasma auf Eis, gemessen innerhalb von dreißig Minuten. Fast jeder Fehler macht den Wert falsch hoch.
+
+# Zusammenfassung Teil drei — Part three summary
+
+Der dritte Teil hat die Leberwerte vorgestellt. Sie zeigen zwei Arten von Schaden. Beim Zellschaden steigen die A L T und die A S T. Beim Gallestau steigen die Gamma-G T und die alkalische Phosphatase.
+
+Die A L T ist das leberspezifischste Enzym. Die A S T kommt auch aus Muskel, Herz und roten Blutkörperchen. Ein De-Ritis-Quotient über zwei spricht für Alkohol. Die Gamma-G T ist sehr empfindlich, aber wenig spezifisch. Alkohol und Medikamente erhöhen sie. Die alkalische Phosphatase kommt aus Gallengängen und Knochen. Steigt sie ohne die Gamma-G T, kommt sie meist aus dem Knochen.
+
+Das Bilirubin ist der gelbe Farbstoff aus dem Hämoglobin. Das indirekte steigt bei Hämolyse, das direkte beim Gallestau. Licht zerstört Bilirubin in der Probe. Das Ammoniak zeigt, ob die Leber noch entgiftet. Es braucht eine Probe auf Eis und eine schnelle Messung.
+
+Kurz gesagt: A L T und A S T zeigen den Zellschaden, Gamma-G T und alkalische Phosphatase den Gallestau. Bilirubin macht die Gelbsucht und wird in direkt und indirekt geteilt. Die Leistung der Leber zeigen andere Werte wie Albumin, Gerinnung und Ammoniak.
+
+# Teil vier: Herzmarker, Pankreasenzyme — Part four: Cardiac markers, pancreatic enzymes
+
+Der vierte Teil behandelt Werte, die aus geschädigten Zellen von Herz, Skelettmuskel und Bauchspeicheldrüse kommen. Die Idee ist dieselbe wie bei den Leberenzymen. Wenn Zellen kaputtgehen, laufen ihre Eiweiße und Enzyme ins Blut. Je spezifischer ein Eiweiß für ein Organ ist, desto besser ist es als Marker.
+
+Die Geschichte der Herzmarker zeigt das gut. Früher hat man einen Herzinfarkt mit der A S T, der L D H und der Kreatinkinase erkannt. Alle drei kommen aber auch aus anderen Organen. Heute ist das Troponin der Standard. Es kommt in dieser Form nur im Herzmuskel vor.
+
+So unterscheidest du die Werte dieses Teils. Erst fragst du: Geht es um einen Schaden am Herzmuskel, zum Beispiel einen Infarkt? Dann misst du das Troponin. Geht es um eine Herzschwäche, also um ein überlastetes Herz? Dann misst du die natriuretischen Peptide. Geht es um den Skelettmuskel? Dann misst du die Kreatinkinase. Geht es um den Zerfall von Zellen ganz allgemein, zum Beispiel von roten Blutkörperchen oder Tumorzellen? Dann hilft die L D H. Und bei starken Schmerzen im Oberbauch fragst du nach der Bauchspeicheldrüse. Dann misst du die Lipase.
+
+Die Herzmarker misst man mit Immuntests, die Enzyme mit dem Photometer. Ein Verdacht auf Herzinfarkt ist immer eilig. Das Troponin muss innerhalb von etwa einer Stunde nach der Abnahme vorliegen. Viele Notaufnahmen nutzen deshalb feste Abläufe mit Messungen in kurzen Abständen.
+
+# Troponin — Troponin
+
+Einordnung: Das Troponin ist der wichtigste Marker für einen Schaden am Herzmuskel. Es ist die Grundlage für die Diagnose des Herzinfarkts. Die heutigen hochsensitiven Tests messen schon kleinste Mengen. Deshalb findet man auch bei vielen anderen Krankheiten ein leicht erhöhtes Troponin.
+
+Bildung und Aufgabe: Troponin ist ein Eiweiß im Bewegungsapparat der Muskelzelle. Es sitzt auf den feinen Fäden, die sich beim Zusammenziehen gegeneinander schieben. Zusammen mit dem Calcium steuert es die Kontraktion. Es gibt drei Teile, die Troponine C, I und T. Die Formen von Troponin I und Troponin T im Herzen unterscheiden sich von denen im Skelettmuskel. Antikörper können sie deshalb gezielt erkennen. Ein kleiner Teil liegt frei im Zellplasma und wird schnell frei, der größere Teil langsam.
+
+Probe und Messung: Man misst Troponin im Serum oder im Plasma mit einem Immuntest. Es gibt zwei Arten, Tests für Troponin T und Tests für Troponin I. Für Troponin T gibt es nur einen Hersteller. Für Troponin I gibt es viele, und ihre Werte sind nicht vergleichbar. Die Einheit ist Nanogramm pro Liter. Bei Verdacht auf Herzinfarkt misst man bei der Aufnahme und noch einmal nach einer oder zwei Stunden.
+
+Die Werte: Die obere Grenze ist die neunundneunzigste Perzentile einer gesunden Gruppe. Das heißt, nur einer von hundert Gesunden liegt darüber. Für das hochsensitive Troponin T liegt sie bei vierzehn Nanogramm pro Liter. Für Troponin I hängt sie vom Test ab und ist oft für Frauen und Männer verschieden. Für einen Herzinfarkt braucht man mehr als einen erhöhten Wert. Das Troponin muss deutlich steigen oder fallen, und dazu kommen Beschwerden oder ein typisches E K G. Ein gleichbleibend erhöhtes Troponin sieht man bei Herzschwäche, Nierenversagen, Lungenembolie, Herzmuskelentzündung und nach Marathonläufen. Nach einem Infarkt bleibt das Troponin oft eine bis zwei Wochen erhöht.
+
+Fehlerquellen: Das hochsensitive Troponin T wird durch Hämolyse falsch erniedrigt. Das ist gefährlich, weil man einen Infarkt übersehen kann. Wie alle Immuntests kann der Test durch fremde Antikörper im Blut des Patienten gestört werden. Selten bildet der Körper Antikörper gegen Troponin. Dann entsteht ein großer Komplex, das Makrotroponin, und der Wert bleibt lange hoch. Bei manchen Krankheiten des Skelettmuskels steigt das Troponin T leicht an, das Troponin I aber nicht.
+
+Warum ist das im Labor wichtig? In der Notaufnahme kommt eine stark hämolytische Probe für das Troponin. Der Wert liegt knapp im Normbereich. Du gibst ihn nicht einfach frei. Du vermerkst die Hämolyse und bittest sofort um eine neue Probe, denn der wahre Wert könnte höher sein.
+
+Kurz gesagt: Troponin ist ein Eiweiß aus dem Bewegungsapparat des Herzmuskels und der Standardmarker für den Herzinfarkt. Die obere Grenze ist die neunundneunzigste Perzentile, für Troponin T vierzehn Nanogramm pro Liter. Für einen Infarkt muss der Wert steigen oder fallen. Hämolyse senkt das Troponin T falsch.
+
+# Die Kreatinkinase — Creatine kinase
+
+Einordnung: Die Kreatinkinase, kurz C K, ist das wichtigste Enzym für den Skelettmuskel. Früher war ihre Herzform, die C K-M B, ein wichtiger Infarktmarker. Diese Rolle hat heute das Troponin übernommen. Die C K zeigt vor allem Muskelschäden, vom Muskelkater bis zum lebensgefährlichen Muskelzerfall.
+
+Bildung und Aufgabe: Die Kreatinkinase sitzt in Zellen, die schnell viel Energie brauchen. Sie lädt den Energiespeicher Kreatinphosphat auf und wieder ab. So steht dem Muskel bei einem Sprint sofort Energie zur Verfügung. Das Enzym besteht aus zwei Teilen. Es gibt einen Teil M für Muskel und einen Teil B für Gehirn. Daraus entstehen drei Formen. Die Form M M sitzt im Skelettmuskel, die Form M B vor allem im Herzen und die Form B B im Gehirn.
+
+Probe und Messung: Man misst die C K im Serum oder im Heparinplasma. Gemessen wird die Aktivität in einer gekoppelten Reaktion. Am Ende entsteht N A D P H, und das Photometer misst die Zunahme im ultravioletten Licht. Die Einheit ist Einheiten pro Liter. Die C K-M B misst man entweder als Aktivität mit einer Hemmung des M-Teils oder direkt als Masse mit einem Immuntest.
+
+Die Werte: Bei Frauen liegt die obere Grenze bei etwa hundertsiebzig, bei Männern bei etwa hundertneunzig Einheiten pro Liter. Menschen mit viel Muskelmasse haben höhere Werte. Erhöht ist die C K nach Sport, Stürzen, Spritzen in den Muskel und Operationen. Ein sehr hoher Wert, oft viele tausend Einheiten, zeigt einen Muskelzerfall, die Rhabdomyolyse. Dabei gelangt der Muskelfarbstoff Myoglobin ins Blut und kann die Niere verstopfen. Weitere Gründe sind Muskelschäden durch Statine, eine Schilddrüsenunterfunktion und angeborene Muskelkrankheiten. Bei der Muskeldystrophie Duchenne ist die C K schon bei kleinen Jungen sehr hoch.
+
+Fehlerquellen: Rote Blutkörperchen enthalten ein Enzym, das ebenfalls Energie umlädt und den Test stört. Gute Tests enthalten einen Hemmer dafür, trotzdem erhöht Hämolyse die C K. Sport in den Tagen vor der Abnahme ist die häufigste Erklärung für einen leicht erhöhten Wert. Bei der C K-M B gibt es eine bekannte Falle. Eine Makro-C K, das ist ein Komplex mit Antikörpern oder eine Form aus Mitochondrien, stört die Aktivitätsmessung. Ist die C K-M B größer als etwa ein Viertel der gesamten C K, stimmt etwas nicht.
+
+Warum ist das im Labor wichtig? Ein Patient wird nach einem Tag bewusstlos auf dem Boden gefunden. Die C K liegt bei über zwanzigtausend Einheiten pro Liter, das Kalium ist hoch. Der Urin ist dunkelbraun. Das passt zur Rhabdomyolyse. Die Werte sind ein Notfall, weil die Niere versagen kann.
+
+Kurz gesagt: Die Kreatinkinase lädt den Energiespeicher des Muskels und zeigt vor allem Schäden am Skelettmuskel. Die obere Grenze liegt bei etwa hundertsiebzig für Frauen und hundertneunzig für Männer. Sehr hohe Werte zeigen einen Muskelzerfall mit Gefahr für die Niere. Die C K-M B ist als Herzmarker heute vom Troponin abgelöst.
+
+# Die natriuretischen Peptide — BNP and NT-proBNP
+
+Einordnung: Die natriuretischen Peptide sind die Marker für die Herzschwäche. Gemessen werden das B N P und sein Begleitstück, das N T-pro B N P. Sie zeigen nicht einen Zellschaden wie das Troponin, sondern eine Überlastung des Herzens. Ihre größte Stärke ist der Ausschluss. Ein normaler Wert macht eine Herzschwäche sehr unwahrscheinlich.
+
+Bildung und Aufgabe: Wenn die Herzkammern zu stark gedehnt werden, bilden die Herzmuskelzellen eine Vorstufe. Diese wird in zwei Stücke geschnitten. Das aktive Stück ist das B N P. Es lässt die Niere mehr Natrium und Wasser ausscheiden und weitet die Gefäße. So entlastet es das Herz. Das zweite Stück ist das N T-pro B N P. Es hat keine Wirkung, ist aber stabiler und hält sich länger im Blut. Das B N P zerfällt in etwa zwanzig Minuten, das N T-pro B N P in ein bis zwei Stunden.
+
+Probe und Messung: Beide misst man mit Immuntests. Für das B N P braucht man meist E D T A-Plasma, denn es ist im Röhrchen nicht lange stabil. Das N T-pro B N P ist stabiler und kann auch im Serum gemessen werden. Die Einheit ist Nanogramm pro Liter, oft auch Pikogramm pro Milliliter. Beides ist dieselbe Zahl. Die Werte von B N P und N T-pro B N P lassen sich nicht ineinander umrechnen.
+
+Die Werte: Für den Ausschluss einer Herzschwäche gelten feste Grenzen. Bei Patienten mit plötzlicher Atemnot liegt die Grenze für das N T-pro B N P bei etwa dreihundert Nanogramm pro Liter. Für das B N P liegt sie bei etwa hundert. Bei Beschwerden, die sich langsam entwickeln, gelten niedrigere Grenzen. Für das N T-pro B N P sind das etwa hundertfünfundzwanzig, für das B N P etwa fünfunddreißig. Die Werte steigen mit dem Alter. Erhöht sind sie bei Herzschwäche, Vorhofflimmern, Lungenembolie und Nierenversagen. Ein fallender Wert unter der Therapie zeigt, dass das Herz entlastet wird.
+
+Fehlerquellen: Die Niere scheidet das N T-pro B N P aus. Bei Nierenschwäche ist es deshalb höher, ohne dass das Herz schwächer ist. Übergewicht senkt beide Werte und kann eine Herzschwäche verstecken. Eine wichtige Falle ist ein Medikament gegen Herzschwäche, das Sacubitril. Es hemmt den Abbau des B N P. Darunter steigt das B N P, obwohl es dem Herzen besser geht. Das N T-pro B N P wird davon nicht beeinflusst. Bei diesen Patienten misst man deshalb das N T-pro B N P.
+
+Warum ist das im Labor wichtig? Ein Patient bekommt seit kurzem ein neues Herzmittel mit Sacubitril. Sein B N P ist seitdem gestiegen, und die Hausärztin ist besorgt. Du erklärst, dass das B N P unter diesem Mittel nicht verwertbar ist. Sie fordert stattdessen das N T-pro B N P an.
+
+Kurz gesagt: B N P und N T-pro B N P werden gebildet, wenn die Herzkammern überdehnt sind. Sie zeigen eine Herzschwäche, und normale Werte schließen sie weitgehend aus. Die Werte steigen mit dem Alter und bei Nierenschwäche. Unter Sacubitril misst man nur das N T-pro B N P.
+
+# Die L D H — Lactate dehydrogenase
+
+Einordnung: Die L D H ist die Laktatdehydrogenase. Sie kommt in fast allen Zellen vor und ist deshalb ein sehr unspezifischer Wert. Man nennt sie oft einen Marker für den Zellzerfall. Wichtig ist sie heute vor allem bei Hämolyse, bei bestimmten Tumoren und in Punktaten.
+
+Bildung und Aufgabe: Die L D H wandelt Brenztraubensäure in Laktat um und zurück. Das ist der letzte Schritt beim Zuckerabbau ohne Sauerstoff, den du vom Laktat kennst. Es gibt fünf Formen, die man nach ihrer Wanderung in der Elektrophorese nummeriert. Die L D H eins kommt vor allem aus Herz und roten Blutkörperchen. Die L D H fünf kommt vor allem aus Leber und Skelettmuskel. Früher nutzte man diese Formen für die Diagnose des Herzinfarkts.
+
+Probe und Messung: Man misst die L D H im Serum oder im Heparinplasma. Gemessen wird die Aktivität. Das Enzym wandelt Laktat in Brenztraubensäure um, und dabei entsteht N A D H. Das Photometer misst die Zunahme im ultravioletten Licht. Die Einheit ist Einheiten pro Liter. Die Probe lagert man bei Raumtemperatur. Einige Formen der L D H sind in der Kälte nicht stabil.
+
+Die Werte: Bei Erwachsenen liegt die obere Grenze bei etwa zweihundertfünfzig Einheiten pro Liter. Bei Kindern ist sie höher. Erhöht ist die L D H bei einer Hämolyse im Körper, zusammen mit einem erhöhten indirekten Bilirubin und einem erniedrigten Haptoglobin. Sie ist ein wichtiger Wert bei Lymphomen und Hodentumoren, denn sie zeigt grob die Tumormasse. Sehr hohe Werte findet man bei schwerem Vitamin-B-zwölf-Mangel. Dann zerfallen viele unreife Blutzellen schon im Knochenmark. In einem Erguss im Brustkorb hilft die L D H zu entscheiden, ob er entzündlich ist.
+
+Fehlerquellen: Rote Blutkörperchen enthalten viel mehr L D H als das Plasma. Schon eine kaum sichtbare Hämolyse in der Probe erhöht den Wert deutlich. Auch die Blutplättchen geben beim Gerinnen L D H ab. Im Serum ist der Wert darum etwas höher als im Plasma. Langes Stehen der Probe vor dem Zentrifugieren erhöht ihn ebenfalls. Weil die L D H aus so vielen Organen kommt, sagt ein erhöhter Wert allein fast nichts über die Ursache.
+
+Warum ist das im Labor wichtig? Bei einer älteren Frau ist die L D H sehr hoch. Das Blutbild zeigt große rote Blutkörperchen und wenige Zellen. Das Bilirubin ist leicht erhöht. Du denkst an einen Vitamin-B-zwölf-Mangel und kannst vorschlagen, dass das Vitamin aus derselben Probe nachbestimmt wird.
+
+Kurz gesagt: Die L D H kommt in fast allen Zellen vor und ist ein unspezifischer Marker für Zellzerfall. Die obere Grenze liegt bei etwa zweihundertfünfzig Einheiten pro Liter. Wichtig ist sie bei Hämolyse, Lymphomen und schwerem Vitamin-B-zwölf-Mangel. Schon eine leichte Hämolyse in der Probe erhöht sie stark.
+
+# Lipase und Amylase — Lipase and amylase
+
+Einordnung: Lipase und Amylase sind Verdauungsenzyme der Bauchspeicheldrüse. Sie gehören zur Diagnose der akuten Pankreatitis, der Entzündung der Bauchspeicheldrüse. Heute ist die Lipase der bessere Wert. Sie ist spezifischer und bleibt länger erhöht.
+
+Bildung und Aufgabe: Die Bauchspeicheldrüse bildet Verdauungssaft für den Dünndarm. Die Lipase spaltet Fette aus der Nahrung. Die Amylase spaltet Stärke in kleinere Zuckerstücke. Die Amylase kommt auch aus den Speicheldrüsen. Deshalb fängt die Verdauung von Brot schon im Mund an. Bei einer Entzündung der Bauchspeicheldrüse treten die Enzyme ins Blut über. Sie können dann auch das Gewebe der Drüse selbst angreifen.
+
+Probe und Messung: Man misst beide im Serum oder im Heparinplasma. Die Methoden sind photometrisch mit künstlichen Substraten. Für die Lipase braucht der Test einen Helfer, die Colipase, und Gallensäuren. Die Amylase ist ein recht kleines Eiweiß. Die Niere scheidet sie aus, deshalb kann man sie auch im Urin messen. Die Lipase misst man nur im Blut. Die Einheit ist Einheiten pro Liter.
+
+Die Werte: Die obere Grenze der Lipase liegt bei etwa sechzig Einheiten pro Liter, je nach Test. Für die Diagnose einer akuten Pankreatitis braucht man zwei von drei Zeichen. Das erste sind typische, gürtelförmige Schmerzen im Oberbauch. Das zweite ist eine Lipase über dem Dreifachen der oberen Grenze. Das dritte ist ein typisches Bild im Ultraschall oder in der Computertomographie. Die Höhe der Lipase sagt nichts über die Schwere der Entzündung. Die Amylase fällt nach drei bis fünf Tagen wieder. Die Lipase bleibt länger erhöht. Eine Amylase ohne Lipase spricht eher für die Speicheldrüsen, zum Beispiel beim Mumps.
+
+Fehlerquellen: Speichel enthält viel Amylase. Wenn jemand über offene Proben spricht oder niest, kann er die Amylase erhöhen. E D T A und Citrat hemmen die Amylase, weil sie Calcium braucht. Ein stark trübes, fetthaltiges Serum stört die Lipasemessung. Ein seltener Sonderfall ist die Makroamylase. Die Amylase hängt dabei an einem Antikörper und ist zu groß für die Niere. Dann ist die Amylase im Blut hoch und im Urin niedrig, ohne Krankheit.
+
+Warum ist das im Labor wichtig? Ein Patient mit sehr hohen Triglyzeriden kommt mit Bauchschmerzen. Sein Serum sieht aus wie Milch, und die Lipase ist nicht sicher messbar. Sehr hohe Triglyzeride sind selbst eine Ursache der Pankreatitis. Du meldest die Trübung und schlägst ein Verfahren zum Klären der Probe vor.
+
+Kurz gesagt: Lipase und Amylase sind Verdauungsenzyme der Bauchspeicheldrüse. Eine Lipase über dem Dreifachen der oberen Grenze ist ein Zeichen der akuten Pankreatitis. Die Lipase ist spezifischer und bleibt länger erhöht als die Amylase. Speichel erhöht die Amylase, E D T A senkt sie.
+
+# Zusammenfassung Teil vier — Part four summary
+
+Der vierte Teil hat die Marker für Herz, Muskel und Bauchspeicheldrüse vorgestellt. Je spezifischer ein Eiweiß für ein Organ ist, desto besser ist es als Marker.
+
+Das Troponin ist der Standard für den Schaden am Herzmuskel. Für einen Herzinfarkt muss es über die neunundneunzigste Perzentile steigen oder fallen. Hämolyse senkt das hochsensitive Troponin T falsch. Die natriuretischen Peptide zeigen eine Überlastung des Herzens. Ein normaler Wert schließt eine Herzschwäche weitgehend aus. Unter Sacubitril misst man nur das N T-pro B N P.
+
+Die Kreatinkinase zeigt Schäden am Skelettmuskel. Sehr hohe Werte zeigen einen Muskelzerfall mit Gefahr für die Niere. Die L D H ist ein unspezifischer Marker für Zellzerfall. Sie ist wichtig bei Hämolyse, Lymphomen und schwerem Vitamin-B-zwölf-Mangel. Die Lipase ist der Wert für die akute Pankreatitis. Die Amylase kommt auch aus dem Speichel.
+
+Kurz gesagt: Troponin für den Infarkt, natriuretische Peptide für die Herzschwäche, Kreatinkinase für den Muskel, Lipase für die Bauchspeicheldrüse. Die L D H ist unspezifisch und sehr empfindlich gegen Hämolyse in der Probe.
+
+# Teil fünf: Zucker, Fette — Part five: Sugar and fats
+
+Der fünfte Teil behandelt den Stoffwechsel von Zucker und Fett. Diese Werte gehören zu den häufigsten Anforderungen überhaupt. Sie entscheiden über zwei große Volkskrankheiten. Die eine ist der Diabetes mellitus. Die andere ist die Arterienverkalkung, die zu Herzinfarkt und Schlaganfall führt.
+
+Beide Stoffwechsel sind eng verbunden. Zucker und Fett sind die zwei großen Energiequellen des Körpers. Insulin steuert beide. Bei Menschen mit Diabetes sind deshalb oft auch die Blutfette verändert. Und beide Krankheiten schädigen die Gefäße, die kleinen in Auge und Niere genauso wie die großen in Herz und Gehirn.
+
+So unterscheidest du die Werte dieses Teils. Erst fragst du: Wie hoch ist der Zucker gerade jetzt? Das zeigt die Glukose. Wie hoch war der Zucker in den letzten zwei bis drei Monaten? Das zeigt das H b A eins c. Dann fragst du nach dem Risiko für die Gefäße. Dafür misst du das Cholesterin mit seinen Transportformen, den Lipoproteinen. Am wichtigsten ist das L D L-Cholesterin. Und schließlich fragst du nach den Fetten aus der Nahrung. Das sind die Triglyzeride.
+
+Für die Präanalytik gibt es in diesem Teil zwei große Themen. Bei der Glukose bauen die Blutzellen in der Probe den Zucker weiter ab. Bei den Fetten spielt die Nüchternheit eine Rolle. Die Triglyzeride steigen nach dem Essen stark, das Cholesterin kaum.
+
+# Glukose — Glucose
+
+Einordnung: Glukose ist der Blutzucker. Sie ist der wichtigste Wert für die Diagnose des Diabetes mellitus und für die Erkennung einer Unterzuckerung. Sie ist zugleich der Wert mit der größten präanalytischen Falle in der Routine. In jeder Stunde ohne Hemmer sinkt der Zucker im Röhrchen.
+
+Bildung und Aufgabe: Glukose ist der Hauptbrennstoff der Zellen. Das Gehirn braucht sie fast ausschließlich. Sie kommt aus der Nahrung oder wird in der Leber aus Speichern und aus Aminosäuren gebildet. Das Hormon Insulin aus der Bauchspeicheldrüse senkt den Blutzucker. Es schleust Glukose in Muskel und Fettgewebe. Gegenspieler sind das Glukagon, das Adrenalin und das Kortisol. Beim Typ-eins-Diabetes fehlt das Insulin. Beim Typ-zwei-Diabetes wirkt es nicht mehr richtig.
+
+Probe und Messung: Die beste Probe ist venöses Plasma aus einem Röhrchen mit Glykolysehemmer. Am besten ist eine Mischung aus Citrat und Fluorid. Fluorid allein wirkt erst nach ein bis zwei Stunden voll. Die Referenzmethode ist enzymatisch mit dem Enzym Hexokinase. Auf der Station misst man mit kleinen Geräten im Kapillarblut. Diese Geräte sind für die Kontrolle gedacht, nicht für die Diagnose. In Deutschland gibt man die Glukose meist in Milligramm pro Deziliter an.
+
+Die Werte: Nüchtern liegt die Glukose im venösen Plasma bei etwa siebzig bis neunundneunzig Milligramm pro Deziliter. Ein Diabetes liegt vor, wenn die Nüchternglukose ab hundertsechsundzwanzig liegt. Er liegt auch vor, wenn ein zufälliger Wert mit Beschwerden ab zweihundert liegt. Zwischen hundert und hundertfünfundzwanzig spricht man von gestörter Nüchternglukose. Beim oralen Glukosetoleranztest trinkt der Patient fünfundsiebzig Gramm Zucker in Wasser. Nach zwei Stunden spricht ein Wert ab zweihundert für Diabetes. In der Schwangerschaft gelten für den Schwangerschaftsdiabetes eigene, niedrigere Grenzen. Unter etwa siebzig spricht man von Unterzuckerung. Werte unter etwa vierzig sind kritisch.
+
+Fehlerquellen: Ohne Hemmer verbrauchen die Blutzellen den Zucker. Der Wert sinkt um etwa fünf bis sieben Prozent pro Stunde, bei vielen weißen Blutkörperchen noch schneller. Ein Serumröhrchen, das stundenlang liegt, zeigt deshalb einen falsch niedrigen Zucker. Eine Abnahme aus dem Arm mit einer Zuckerinfusion zeigt einen falsch hohen Wert. Kapillarblut und venöses Plasma haben nach dem Essen unterschiedliche Werte. Für einen Glukosetoleranztest muss der Patient wirklich nüchtern sein und vorher normal gegessen haben.
+
+Warum ist das im Labor wichtig? Aus einer Hausarztpraxis kommt ein Serumröhrchen vom Vortag. Die Glukose liegt bei fünfzig. Der Patient hat keine Beschwerden. Du kannst diesen Wert nicht als Unterzuckerung werten. Du vermerkst, dass die Probe ohne Glykolysehemmer und zu alt war.
+
+Kurz gesagt: Glukose ist der Blutzucker, gesteuert vor allem vom Insulin. Nüchtern liegt sie bei etwa siebzig bis neunundneunzig Milligramm pro Deziliter, ab hundertsechsundzwanzig spricht man von Diabetes. Die richtige Probe ist Plasma mit Citrat und Fluorid. Ohne Hemmer sinkt der Zucker in jeder Stunde.
+
+# Das Glykohämoglobin — Glycated haemoglobin
+
+Einordnung: Das Glykohämoglobin heißt kurz H b A eins c. Es ist das Gedächtnis des Blutzuckers. Es zeigt den mittleren Zucker der letzten acht bis zwölf Wochen. Es ist der wichtigste Wert für die Kontrolle eines Diabetes und kann auch für die Diagnose genutzt werden.
+
+Bildung und Aufgabe: Glukose bindet sich ohne Enzym langsam an Eiweiße. Man nennt das Glykierung. Das passiert auch mit dem Hämoglobin in den roten Blutkörperchen. Je höher der Zucker, desto mehr Hämoglobin wird verzuckert. Die Bindung bleibt, bis das rote Blutkörperchen nach etwa hundertzwanzig Tagen abgebaut wird. Die letzten Wochen zählen dabei am meisten. Das H b A eins c hat selbst keine Aufgabe. Es ist ein Zeichen für die Zuckerbelastung aller Eiweiße im Körper.
+
+Probe und Messung: Die Probe ist E D T A-Vollblut, also das Röhrchen für das Blutbild. Der Patient muss nicht nüchtern sein. Es gibt mehrere Methoden. Die Hochleistungsflüssigkeitschromatographie trennt die Formen des Hämoglobins nach ihrer Ladung. Daneben gibt es Immuntests, enzymatische Tests und die Kapillarelektrophorese. Das Ergebnis gibt man in Millimol pro Mol und oft zusätzlich in Prozent an.
+
+Die Werte: Unter fünf Komma sieben Prozent gilt als normal. Das sind neununddreißig Millimol pro Mol. Ab sechs Komma fünf Prozent liegt ein Diabetes vor, das sind achtundvierzig Millimol pro Mol. Dazwischen liegt ein Graubereich, in dem man weitere Tests macht. Für Menschen mit Diabetes legt die Ärztin einen persönlichen Zielwert fest. Bei vielen Menschen liegt er bei etwa sechs Komma fünf bis sieben Komma fünf Prozent. Bei alten und kranken Menschen ist das Ziel oft höher, um Unterzuckerungen zu vermeiden.
+
+Fehlerquellen: Das H b A eins c hängt von der Lebensdauer der roten Blutkörperchen ab. Leben sie kürzer, ist der Wert falsch niedrig. Das passiert bei Hämolyse im Körper, nach Blutungen, nach Transfusionen und in der Schwangerschaft. Leben sie länger, zum Beispiel bei Eisenmangel, ist der Wert falsch hoch. Varianten des Hämoglobins, etwa bei der Sichelzellkrankheit, stören manche Methoden. Die Chromatographie zeigt solche Varianten oft als ungewöhnliche Spitze. Das ist ein wichtiger Zufallsbefund.
+
+Warum ist das im Labor wichtig? In der Chromatographie einer Probe siehst du eine zusätzliche, große Spitze. Der Patient kommt aus Westafrika. Das kann eine Hämoglobinvariante sein, und das H b A eins c ist dann nicht sicher verwertbar. Du vermerkst den Befund und schlägst eine Abklärung des Hämoglobins vor.
+
+Kurz gesagt: Das H b A eins c ist verzuckertes Hämoglobin und zeigt den mittleren Zucker der letzten acht bis zwölf Wochen. Ab sechs Komma fünf Prozent oder achtundvierzig Millimol pro Mol liegt ein Diabetes vor. Die Probe ist E D T A-Blut. Eine verkürzte Lebensdauer der roten Blutkörperchen senkt den Wert falsch.
+
+# Cholesterin und Lipoproteine — Cholesterol and lipoproteins
+
+Einordnung: Cholesterin ist ein Fett, das im Blut in Transportpaketen reist, den Lipoproteinen. Die wichtigsten sind das L D L und das H D L. Das L D L-Cholesterin ist der wichtigste Laborwert für das Risiko der Arterienverkalkung. Sein Zielwert richtet sich nach dem persönlichen Risiko des Patienten.
+
+Bildung und Aufgabe: Der Körper braucht Cholesterin für Zellmembranen, Gallensäuren, Vitamin D und viele Hormone. Den größten Teil bildet die Leber selbst, den Rest liefert die Nahrung. Fett löst sich nicht im Blut. Darum verpackt der Körper es in Kugeln mit einer Hülle aus Eiweiß, den Lipoproteinen. Das L D L bringt Cholesterin von der Leber zu den Geweben. Zu viel davon lagert sich in der Gefäßwand ab. Das H D L bringt Cholesterin aus den Geweben zurück zur Leber. Deshalb nennt man es oft das gute Cholesterin.
+
+Probe und Messung: Man misst im Serum oder im Plasma. Das Gesamtcholesterin misst man enzymatisch. Dabei entsteht Wasserstoffperoxid, das mit einer Peroxidase einen Farbstoff bildet. Das H D L und das L D L kann man direkt messen. Früher hat man das L D L mit einer Formel aus Gesamtcholesterin, H D L und Triglyzeriden berechnet. Diese Formel ist ungenau, wenn die Triglyzeride sehr hoch sind. Für das Cholesterin muss der Patient nicht nüchtern sein. In Deutschland gibt man die Werte meist in Milligramm pro Deziliter an.
+
+Die Werte: Für das Gesamtcholesterin gilt ein Wert unter etwa zweihundert Milligramm pro Deziliter als wünschenswert. Wichtiger ist das L D L. Bei Menschen mit sehr hohem Risiko, zum Beispiel nach einem Herzinfarkt, liegt der Zielwert unter fünfundfünfzig. Bei hohem Risiko liegt er unter siebzig, bei mittlerem unter hundert. Das H D L sollte bei Männern über vierzig und bei Frauen über fünfzig liegen. Ein sehr hohes L D L schon bei jungen Menschen spricht für eine familiäre Hypercholesterinämie. Sie ist eine häufige Erbkrankheit und betrifft etwa einen von dreihundert Menschen.
+
+Fehlerquellen: Der Zielwert ist kein Referenzbereich. Viele gesunde Menschen haben ein L D L über dem Zielwert für Hochrisikopatienten. Die Körperlage beeinflusst die Werte. Im Liegen sind sie etwa ein Zehntel niedriger als im Stehen, weil Wasser aus dem Gewebe ins Blut strömt. Schwere akute Krankheiten und große Operationen senken das Cholesterin für einige Wochen. Ein hohes Bilirubin und hohe Dosen Vitamin C können die Peroxidase-Reaktion stören. Eine Schilddrüsenunterfunktion erhöht das L D L wirklich.
+
+Warum ist das im Labor wichtig? Ein Patient kommt nach einem Herzinfarkt zur Kontrolle. Sein L D L liegt bei neunzig und ist damit im Referenzbereich des Befundes. Für ihn liegt der Zielwert aber unter fünfundfünfzig. Viele Labore schreiben deshalb die Zielwerte nach Risiko auf den Befund.
+
+Kurz gesagt: Cholesterin reist im Blut in Lipoproteinen. Das L D L bringt es in die Gefäße, das H D L zurück zur Leber. Das L D L ist der wichtigste Wert für das Risiko der Arterienverkalkung, und sein Zielwert hängt vom Risiko ab. Für das Cholesterin muss der Patient nicht nüchtern sein.
+
+# Triglyzeride — Triglycerides
+
+Einordnung: Triglyzeride sind die Fette aus der Nahrung und die Speicherfette des Körpers. Sie gehören zum Fettstoffwechsel. Sie sind der Wert, der am stärksten vom Essen abhängt. Sehr hohe Werte machen das Serum milchig trüb und stören viele andere Messungen.
+
+Bildung und Aufgabe: Ein Triglyzerid besteht aus Glycerin und drei Fettsäuren. Nach einer fettreichen Mahlzeit verpackt der Darm die Fette in große Lipoproteine, die Chylomikronen. Die Leber bildet aus überschüssigem Zucker und Alkohol ebenfalls Triglyzeride. Sie verschickt sie in einer anderen Form, dem V L D L. Ein Enzym an den Gefäßwänden spaltet die Fettsäuren ab. Muskel und Fettgewebe nehmen sie auf, als Brennstoff oder als Vorrat.
+
+Probe und Messung: Man misst im Serum oder im Plasma. Die Methode ist enzymatisch. Zuerst spaltet eine Lipase die Fettsäuren ab, und es bleibt Glycerin übrig. Das Glycerin wird in mehreren Schritten umgesetzt. Am Ende bildet eine Peroxidase einen Farbstoff. Für einen genauen Wert sollte der Patient etwa zwölf Stunden nüchtern sein. Die Einheit ist meist Milligramm pro Deziliter.
+
+Die Werte: Nüchtern gilt ein Wert unter hundertfünfzig Milligramm pro Deziliter als normal. Nicht nüchtern liegt die Grenze bei etwa hundertfünfundsiebzig. Hohe Werte sieht man bei Übergewicht, Diabetes, Alkohol und bestimmten Erbkrankheiten. Ab etwa tausend Milligramm pro Deziliter steigt die Gefahr einer akuten Pankreatitis stark. Ab etwa drei- bis vierhundert wird das Serum sichtbar trüb. Ein alter, einfacher Test ist der Kühlschranktest. Man stellt das Serum über Nacht kalt. Bildet sich oben eine Rahmschicht, sind es Chylomikronen aus der Nahrung. Bleibt das Serum gleichmäßig trüb, ist es V L D L aus der Leber.
+
+Fehlerquellen: Der Test misst eigentlich Glycerin. Freies Glycerin im Blut erhöht den Wert deshalb falsch. Es stammt zum Beispiel aus bestimmten Infusionen oder Salben. Gute Tests ziehen das freie Glycerin ab. Ein Essen kurz vor der Abnahme erhöht die Triglyzeride stark. Ein milchiges Serum stört umgekehrt fast alle Messungen mit Licht. Es kann auch das Natrium falsch niedrig erscheinen lassen. Das Labor klärt solche Proben mit einer sehr schnellen Zentrifuge oder einem Klärmittel.
+
+Warum ist das im Labor wichtig? Eine Probe ist so trüb, dass das Gerät bei vielen Werten eine Warnung gibt. Du zentrifugierst einen Teil der Probe mit sehr hoher Geschwindigkeit. Oben schwimmt eine dicke Fettschicht. Aus der klaren Mitte misst du die Werte, die durch das Fett gestört waren. Die Triglyzeride misst du aus der ursprünglichen Probe.
+
+Kurz gesagt: Triglyzeride sind Nahrungs- und Speicherfette und hängen stark vom Essen ab. Nüchtern liegt der Wert normal unter hundertfünfzig Milligramm pro Deziliter. Ab etwa tausend droht eine Pankreatitis. Milchiges Serum stört viele andere Messungen und muss geklärt werden.
+
+# Zusammenfassung Teil fünf — Part five summary
+
+Der fünfte Teil hat den Stoffwechsel von Zucker und Fett vorgestellt. Beide sind eng verbunden, beide werden vom Insulin gesteuert, und beide schädigen bei Störungen die Gefäße.
+
+Die Glukose zeigt den Zucker im Augenblick. Nüchtern ab hundertsechsundzwanzig Milligramm pro Deziliter liegt ein Diabetes vor. Ohne Hemmer sinkt die Glukose in der Probe in jeder Stunde. Die beste Probe ist Plasma mit Citrat und Fluorid. Das H b A eins c zeigt den mittleren Zucker der letzten acht bis zwölf Wochen. Ab sechs Komma fünf Prozent liegt ein Diabetes vor. Eine kurze Lebensdauer der roten Blutkörperchen senkt den Wert falsch.
+
+Das Cholesterin reist in Lipoproteinen. Das L D L ist der wichtigste Risikowert für die Gefäße, und sein Zielwert hängt vom persönlichen Risiko ab. Die Triglyzeride hängen stark vom Essen ab. Sehr hohe Werte machen das Serum milchig, stören viele Messungen und können eine Pankreatitis auslösen.
+
+Kurz gesagt: Glukose für den Moment, H b A eins c für die letzten Monate, L D L für das Gefäßrisiko, Triglyzeride für die Nahrungsfette. Die größte Falle ist der Zuckerabbau im Röhrchen ohne Glykolysehemmer.
+
+# Teil sechs: Plasmaproteine, Eisen — Part six: Plasma proteins and iron
+
+Der sechste Teil behandelt die Eiweiße im Blut. Das Plasma enthält hunderte verschiedene Eiweiße. Die meisten bildet die Leber, die Antikörper bilden die Plasmazellen. Die Eiweiße transportieren Stoffe, halten Wasser in den Gefäßen, wehren Erreger ab und lassen das Blut gerinnen.
+
+Viele dieser Eiweiße ändern sich bei einer Entzündung. Man nennt sie Akute-Phase-Proteine. Die Leber bildet bei einer Entzündung mehr davon, zum Beispiel das C R P und das Ferritin. Andere bildet sie weniger, zum Beispiel das Albumin und das Transferrin. Man nennt sie negative Akute-Phase-Proteine. Diese Regel musst du kennen, denn sie verändert viele Werte dieses Teils.
+
+So unterscheidest du die Werte. Erst fragst du: Wie sieht das Eiweiß im Blut insgesamt aus? Dafür misst du das Gesamteiweiß und machst eine Elektrophorese. Sie trennt die Eiweiße in Gruppen und zeigt zum Beispiel ein Myelom. Geht es um Wasser, Ernährung und Leberleistung? Dann misst du das Albumin. Geht es um eine Entzündung? Dann misst du das C R P. Geht es um die Frage, ob eine schwere Infektion von Bakterien kommt? Dann misst du das Procalcitonin. Und geht es um Eisen, etwa bei einer Blutarmut? Dann misst du das Ferritin für die Speicher und das Eisen mit dem Transferrin für den Transport.
+
+Die meisten Werte dieses Teils misst man mit Immuntests, oft mit Trübungsmessung. Die Elektrophorese ist eine eigene Methode. Sie trennt Eiweiße nach ihrer Ladung in einem elektrischen Feld.
+
+# Gesamteiweiß und Elektrophorese — Total protein and electrophoresis
+
+Einordnung: Das Gesamteiweiß ist die Summe aller Eiweiße im Serum. Die Elektrophorese trennt diese Eiweiße in fünf Gruppen. Zusammen geben sie ein Bild des ganzen Eiweißhaushalts. Ihre wichtigste Aufgabe ist heute die Suche nach einem monoklonalen Eiweiß, wie es beim Myelom vorkommt.
+
+Bildung und Aufgabe: Das häufigste Eiweiß im Serum ist das Albumin. Danach folgen die Globuline. Die Elektrophorese teilt sie nach ihrer Wanderung im elektrischen Feld in Gruppen. Am weitesten wandert das Albumin. Dann folgen die Alpha-eins-, die Alpha-zwei-, die Beta- und die Gamma-Globuline. In der Gamma-Gruppe liegen die meisten Antikörper. Normal bilden viele verschiedene Plasmazellen viele verschiedene Antikörper. Das ergibt eine breite, flache Gamma-Bande.
+
+Probe und Messung: Man misst das Gesamteiweiß im Serum mit der Biuret-Methode. Kupfer bindet in basischer Lösung an die Bindungen zwischen den Aminosäuren und färbt die Probe violett. Für die Elektrophorese nimmt man Serum, nicht Plasma. Die Trennung läuft auf einem Agarosegel oder in einer feinen Kapillare. Danach färbt man das Gel oder misst die Kapillare mit Licht. Das Gerät zeichnet eine Kurve mit fünf Gipfeln.
+
+Die Werte: Das Gesamteiweiß liegt bei etwa sechsundsechzig bis dreiundachtzig Gramm pro Liter. In der Elektrophorese macht das Albumin etwa sechzig Prozent aus. Es gibt typische Muster. Bei einer akuten Entzündung steigen die Alpha-Gruppen, und das Albumin sinkt. Bei einer chronischen Entzündung ist die Gamma-Bande breit erhöht. Beim nephrotischen Syndrom fällt das Albumin stark, und die Alpha-zwei-Gruppe steigt. Bei einer Zirrhose fließen Beta- und Gamma-Bande ineinander. Eine schmale, hohe Zacke nennt man M-Gradient. Er kommt von einer einzigen Gruppe gleicher Plasmazellen. Man findet ihn beim Myelom und bei einer harmlosen Vorstufe. Mit der Immunfixation bestimmt man dann die genaue Art des Antikörpers.
+
+Fehlerquellen: Im Plasma ist noch das Fibrinogen enthalten. Es wandert zwischen Beta und Gamma und täuscht einen M-Gradienten vor. Deshalb nimmt man immer Serum. Hämolyse zeigt sich als kleine Zacke in der Beta-Gruppe, weil das Hämoglobin dort wandert. Langes Stauen und Stehen erhöhen das Gesamteiweiß um etwa ein Zehntel. Ein kleiner M-Gradient kann in einer normalen Gamma-Bande versteckt sein. Bei Verdacht auf Myelom sucht man deshalb auch die freien Leichtketten im Serum.
+
+Warum ist das im Labor wichtig? In einer Elektrophorese bei einer älteren Frau mit Rückenschmerzen siehst du eine schmale Zacke im Gamma-Bereich. Die anderen Antikörper sind vermindert. Das kann ein Myelom sein. Du gibst den Befund an die Ärztin weiter, damit die Immunfixation folgt.
+
+Kurz gesagt: Das Gesamteiweiß ist die Summe aller Serumeiweiße, die Elektrophorese teilt sie in fünf Gruppen. Typische Muster zeigen Entzündung, nephrotisches Syndrom und Zirrhose. Eine schmale Zacke ist ein M-Gradient, zum Beispiel beim Myelom. Die Probe ist immer Serum, denn Fibrinogen im Plasma täuscht eine Zacke vor.
+
+# Albumin — Albumin
+
+Einordnung: Albumin ist das häufigste Eiweiß im Blut. Es zeigt die Leistung der Leber, den Ernährungszustand und Eiweißverluste. Zugleich ist es ein negatives Akute-Phase-Protein und sinkt bei jeder starken Entzündung. Ein hohes Albumin gibt es fast nur beim Wassermangel.
+
+Bildung und Aufgabe: Albumin wird nur in der Leber gebildet, etwa zehn bis fünfzehn Gramm am Tag. Es hält sich etwa drei Wochen im Blut. Darum fällt es bei einem akuten Leberschaden nur langsam. Albumin hat zwei große Aufgaben. Erstens hält es das Wasser in den Gefäßen. Es erzeugt den größten Teil des kolloidosmotischen Drucks. Fehlt Albumin, tritt Wasser ins Gewebe, und es entstehen Ödeme. Zweitens ist es ein Transporter. Es trägt Calcium, Bilirubin, Fettsäuren, Hormone und viele Medikamente.
+
+Probe und Messung: Man misst Albumin im Serum oder im Heparinplasma. Die Routinemethode ist photometrisch mit einem Farbstoff. Am häufigsten ist Bromkresolgrün, daneben gibt es Bromkresolpurpur. Genauer, aber teurer ist ein Immuntest. Im Urin misst man Albumin immer mit einem Immuntest, wie du aus Teil zwei weißt.
+
+Die Werte: Der Referenzbereich liegt bei etwa fünfunddreißig bis zweiundfünfzig Gramm pro Liter. Ein niedriges Albumin hat drei große Gründe. Die Leber bildet zu wenig, zum Beispiel bei Zirrhose. Der Körper verliert zu viel, über die Niere beim nephrotischen Syndrom, über den Darm oder bei großen Verbrennungen. Oder eine Entzündung bremst die Bildung. Auch Mangelernährung und zu viel Infusion senken das Albumin. Ein niedriges Albumin senkt das Gesamtcalcium, wie du aus Teil eins weißt. Bei sehr niedrigem Albumin wirken manche Medikamente stärker, weil mehr davon frei im Blut ist.
+
+Fehlerquellen: Bromkresolgrün reagiert nicht nur mit Albumin, sondern auch mit einigen Globulinen. Bei niedrigem Albumin misst es deshalb etwas zu hoch. Bromkresolpurpur misst bei Dialysepatienten etwas zu niedrig. Wer Werte vergleicht, sollte darum wissen, welche Methode das Labor nutzt. Langes Stauen erhöht das Albumin, Messung im Liegen senkt es. Albumin aus einer Infusion erhöht den Wert für einige Tage.
+
+Warum ist das im Labor wichtig? Bei einem Patienten mit starken Ödemen ist das Albumin sehr niedrig. Die Leberwerte sind normal. Du siehst eine Anforderung für einen Urinstatus mit viel Eiweiß. Das passt zum nephrotischen Syndrom. Der Albumin-Kreatinin-Quotient im Urin bestätigt den Verlust über die Niere.
+
+Kurz gesagt: Albumin ist das häufigste Bluteiweiß, wird nur in der Leber gebildet und hält das Wasser in den Gefäßen. Der Normbereich liegt bei etwa fünfunddreißig bis zweiundfünfzig Gramm pro Liter. Es sinkt bei Leberschwäche, Eiweißverlust, Entzündung und Mangelernährung. Ein niedriges Albumin senkt das Gesamtcalcium.
+
+# Das C R P — C reactive protein
+
+Einordnung: Das C R P ist das C-reaktive Protein. Es ist der wichtigste Entzündungswert im Labor. Es steigt bei Infektionen, Verletzungen und vielen anderen Entzündungen schnell und stark an. Es zeigt eine Entzündung, aber nicht ihren Ort und nicht ihre Ursache.
+
+Bildung und Aufgabe: Das C R P wird in der Leber gebildet. Das Signal dafür kommt vor allem vom Botenstoff Interleukin sechs, den Abwehrzellen bei einer Entzündung ausschütten. Das C R P bindet an die Oberfläche von Bakterien und an tote Zellen. So markiert es sie für die Abwehr. Sein Name kommt von seiner Entdeckung. Man fand es, weil es an einen Zuckerbaustein der Pneumokokken bindet, das C-Polysaccharid.
+
+Probe und Messung: Man misst das C R P im Serum oder im Plasma. Die Methode ist ein Immuntest mit Trübungsmessung. Kleine Kunststoffkugeln mit Antikörpern verkleben durch das C R P. Die Einheit ist Milligramm pro Liter. Für die Abschätzung des Herzrisikos gibt es einen besonders empfindlichen Test. Er misst auch sehr kleine Mengen.
+
+Die Werte: Bei Gesunden liegt das C R P unter etwa fünf Milligramm pro Liter. Etwa sechs bis acht Stunden nach Beginn einer Entzündung steigt es an. Es erreicht nach etwa zwei Tagen den Gipfel. Bei bakteriellen Infektionen sind Werte über hundert häufig. Bei Virusinfektionen steigt es meist weniger. Die Bereiche überschneiden sich aber stark, deshalb reicht das C R P nicht zur Unterscheidung. Wenn die Entzündung endet, halbiert sich das C R P etwa jeden Tag. Ein fallendes C R P zeigt deshalb gut, ob eine Therapie wirkt. Auffällig ist der Lupus, eine Krankheit des Immunsystems. Dort bleibt das C R P im Schub oft niedrig.
+
+Fehlerquellen: Ein Medikament verändert das C R P völlig. Das Tocilizumab blockiert die Wirkung von Interleukin sechs. Darunter bleibt das C R P auch bei schweren Infektionen normal. Kortison senkt das C R P ebenfalls. In den ersten Stunden einer Infektion kann das C R P noch normal sein. Ein früher Wert schließt eine Infektion also nicht aus. Nach Operationen steigt das C R P für einige Tage, auch ohne Infektion.
+
+Warum ist das im Labor wichtig? Eine Patientin mit Rheuma hat hohes Fieber und Schüttelfrost. Ihr C R P ist normal. Auf dem Medikamentenplan steht Tocilizumab. Ein normales C R P beweist hier nichts. Du kannst auf ein Procalcitonin hinweisen und darauf, dass Blutkulturen wichtig sind.
+
+Kurz gesagt: Das C R P ist der wichtigste Entzündungswert. Es wird in der Leber gebildet, steigt nach sechs bis acht Stunden und erreicht nach zwei Tagen den Gipfel. Bei Gesunden liegt es unter etwa fünf Milligramm pro Liter. Tocilizumab und Kortison unterdrücken den Anstieg.
+
+# Procalcitonin — Procalcitonin
+
+Einordnung: Das Procalcitonin ist ein Entzündungswert für schwere bakterielle Infektionen und die Blutvergiftung. Es trennt Bakterien besser von Viren als das C R P. Seine wichtigste Aufgabe ist heute die Steuerung von Antibiotika. Es hilft zu entscheiden, wann man ein Antibiotikum beenden kann.
+
+Bildung und Aufgabe: Das Procalcitonin ist die Vorstufe des Hormons Calcitonin. Normal bildet es nur die Schilddrüse, und es wird dort gleich zum Hormon umgebaut. Bei einer bakteriellen Infektion bilden plötzlich viele Gewebe im ganzen Körper Procalcitonin. Das Signal kommt von Giftstoffen der Bakterien und von Botenstoffen der Abwehr. Bei Virusinfektionen schüttet der Körper einen anderen Botenstoff aus, das Interferon. Es bremst die Bildung von Procalcitonin. So erklärt sich der Unterschied zwischen Bakterien und Viren.
+
+Probe und Messung: Man misst das Procalcitonin im Serum oder im Plasma mit einem Immuntest. Die Einheit ist Nanogramm pro Milliliter. Viele Notaufnahmen messen es in kurzer Zeit. Für die Steuerung von Antibiotika misst man es alle ein bis zwei Tage.
+
+Die Werte: Bei Gesunden liegt das Procalcitonin unter etwa null Komma eins Nanogramm pro Milliliter. Ein Wert über null Komma fünf macht eine Blutvergiftung wahrscheinlich. Ein Wert über zwei zeigt ein hohes Risiko. Das Procalcitonin steigt schneller als das C R P, schon nach drei bis sechs Stunden. Es erreicht nach etwa einem Tag den Gipfel. Fällt es unter der Therapie stark ab, kann die Ärztin das Antibiotikum oft früher beenden. Eine örtliche Infektion, etwa ein Abszess, erhöht das Procalcitonin oft kaum.
+
+Fehlerquellen: Das Procalcitonin steigt auch ohne Infektion. Das passiert nach großen Operationen, schweren Unfällen, Verbrennungen und einem Kreislaufschock. Neugeborene haben in den ersten zwei Tagen einen natürlichen Anstieg. Bei ihnen gelten eigene Grenzen je nach Lebensstunde. Bestimmte Tumoren bilden ebenfalls Procalcitonin, besonders der medulläre Schilddrüsenkrebs. Pilzinfektionen erhöhen es meist nur wenig. Ein niedriger Wert schließt deshalb eine Pilzsepsis nicht aus.
+
+Warum ist das im Labor wichtig? Ein Patient auf der Intensivstation bekommt seit fünf Tagen Antibiotika. Sein Procalcitonin ist von acht auf null Komma drei gefallen. Das ist ein starker Abfall. Die Ärztin kann mit diesem Wert entscheiden, das Antibiotikum abzusetzen. Das schützt vor Nebenwirkungen und vor Resistenzen.
+
+Kurz gesagt: Das Procalcitonin ist die Vorstufe des Calcitonins und wird bei bakteriellen Infektionen im ganzen Körper gebildet. Über null Komma fünf Nanogramm pro Milliliter ist eine Blutvergiftung wahrscheinlich. Es trennt Bakterien besser von Viren als das C R P. Operationen, Unfälle und Neugeborene haben hohe Werte ohne Infektion.
+
+# Eisen und Transferrin — Iron and transferrin
+
+Einordnung: Eisen und Transferrin gehören zum Eisenhaushalt. Das Eisen im Serum ist das Eisen auf dem Transportweg. Das Transferrin ist sein Transporter. Aus beiden rechnet man die Transferrinsättigung. Das Serumeisen allein ist ein schlechter Wert, weil es über den Tag stark schwankt.
+
+Bildung und Aufgabe: Der Körper braucht Eisen vor allem für das Hämoglobin. Der Darm nimmt jeden Tag nur ein bis zwei Milligramm auf. Etwa genauso viel geht verloren. Frei ist Eisen giftig. Darum reist es im Blut an Transferrin gebunden. Das Transferrin bildet die Leber. Es bringt das Eisen zum Knochenmark, wo die roten Blutkörperchen entstehen. Fehlt Eisen, bildet die Leber mehr Transferrin, um jedes Eisenteilchen einzufangen.
+
+Probe und Messung: Man misst Eisen im Serum oder im Heparinplasma, am besten nüchtern am Morgen. Das Eisen wird im sauren Milieu vom Transferrin gelöst und bildet mit einem Farbstoff einen farbigen Komplex. Das Transferrin misst man mit einem Immuntest. Die Transferrinsättigung rechnet das Gerät aus beiden Werten aus. Sie sagt, wie viel Prozent der Plätze am Transferrin mit Eisen besetzt sind.
+
+Die Werte: Das Serumeisen liegt bei Erwachsenen bei etwa sechzig bis hundertsechzig Mikrogramm pro Deziliter, bei Frauen etwas niedriger. Das Transferrin liegt bei etwa zwei bis drei Komma sechs Gramm pro Liter. Die Transferrinsättigung liegt normal bei etwa zwanzig bis fünfundvierzig Prozent. Beim Eisenmangel ist das Transferrin hoch und die Sättigung niedrig. Bei einer Entzündung ist das Transferrin niedrig, denn es ist ein negatives Akute-Phase-Protein. Eine Sättigung über fünfundvierzig Prozent ist ein Hinweis auf eine Eisenüberladung. Dann denkt man an die erbliche Hämochromatose. Sie wird durch eine Mutation im H F E-Gen verursacht und ist in Nordeuropa häufig.
+
+Fehlerquellen: Das Serumeisen schwankt über den Tag sehr stark. Am Morgen ist es höher als am Abend. Eine Eisentablette am Vortag erhöht den Wert deutlich. Für eine Messung sollte der Patient sie mindestens einen Tag vorher weglassen. Hämolyse erhöht das Eisen. E D T A bindet Eisen und ist kein geeignetes Röhrchen. Die Pille und eine Schwangerschaft erhöhen das Transferrin.
+
+Warum ist das im Labor wichtig? Eine Ärztin fordert bei Müdigkeit nur das Serumeisen an. Es ist niedrig. Die Patientin hat aber eine Entzündung mit hohem C R P. Das niedrige Eisen kann auch von der Entzündung kommen. Du schlägst vor, das Ferritin und die Transferrinsättigung zu ergänzen.
+
+Kurz gesagt: Das Serumeisen ist das Eisen auf dem Transportweg und schwankt stark über den Tag. Das Transferrin ist sein Transporter, hoch beim Eisenmangel und niedrig bei Entzündung. Die Transferrinsättigung liegt normal bei zwanzig bis fünfundvierzig Prozent. Ein höherer Wert ist ein Hinweis auf Hämochromatose.
+
+# Ferritin — Ferritin
+
+Einordnung: Ferritin ist das Speichereiweiß für Eisen. Es ist der wichtigste Wert für den Eisenmangel. Ein niedriges Ferritin beweist einen Eisenmangel. Ein normales oder hohes Ferritin schließt ihn aber nicht aus, denn Ferritin ist auch ein Akute-Phase-Protein.
+
+Bildung und Aufgabe: Ferritin ist eine hohle Kugel aus Eiweiß. In ihrem Inneren kann sie mehrere tausend Eisenatome sicher lagern, wie eine Spardose. Ferritin sitzt vor allem in Leber, Milz und Knochenmark. Ein kleiner Teil gelangt ins Blut. Dieser Teil spiegelt die Eisenspeicher gut wider. Bei einer Entzündung bildet der Körper mehr Ferritin. Er versteckt so das Eisen vor Bakterien, die es zum Wachsen brauchen.
+
+Probe und Messung: Man misst Ferritin im Serum oder im Plasma mit einem Immuntest. Die Einheit ist Mikrogramm pro Liter, das ist dieselbe Zahl wie Nanogramm pro Milliliter. Ferritin ist ein stabiler Wert, und die Tageszeit spielt kaum eine Rolle.
+
+Die Werte: Bei Frauen liegt der Referenzbereich bei etwa fünfzehn bis hundertfünfzig, bei Männern bei etwa dreißig bis vierhundert Mikrogramm pro Liter. Ein Ferritin unter etwa fünfzehn beweist einen leeren Eisenspeicher. Viele Ärzte werten schon Werte unter dreißig als Mangel. Bei einer Entzündung gilt eine höhere Grenze. Dort kann schon ein Ferritin unter etwa hundert auf einen Mangel hindeuten. Ein hohes Ferritin sieht man bei Entzündungen, Leberzellschäden, Alkohol, Übergewicht und Tumoren. Zusammen mit einer hohen Transferrinsättigung zeigt es eine Eisenüberladung. Extrem hohe Werte von vielen tausend findet man bei einer seltenen Überreaktion des Immunsystems.
+
+Fehlerquellen: Die häufigste Falle ist die Entzündung. Ein Patient mit Rheuma und leerem Eisenspeicher kann ein normales Ferritin haben. Darum misst man das C R P immer mit. Bei extrem hohen Werten kann der Immuntest falsch niedrig messen. Man nennt das den Hook-Effekt, auf Deutsch Hakeneffekt. Teil acht erklärt ihn genauer. Eine Eiseninfusion erhöht das Ferritin für einige Wochen, auch wenn der Speicher noch nicht ganz voll ist.
+
+Warum ist das im Labor wichtig? Eine junge Frau mit starker Regelblutung hat ein Ferritin von acht. Ihr Hämoglobin ist noch normal. Der Eisenspeicher ist leer, bevor die Blutarmut beginnt. Das Ferritin zeigt den Mangel früh, und die Ärztin kann rechtzeitig behandeln.
+
+Kurz gesagt: Ferritin ist die Spardose für Eisen und der beste Wert für den Eisenmangel. Ein Ferritin unter etwa fünfzehn Mikrogramm pro Liter beweist einen leeren Speicher. Weil Ferritin bei Entzündung steigt, misst man das C R P immer mit. Hoch ist es bei Entzündung, Leberschaden und Eisenüberladung.
+
+# Zusammenfassung Teil sechs — Part six summary
+
+Der sechste Teil hat die Eiweiße im Plasma, die Entzündung und das Eisen vorgestellt. Eine Regel gilt für fast alle Werte: Bei Entzündung steigen die Akute-Phase-Proteine wie C R P und Ferritin. Albumin und Transferrin sinken.
+
+Das Gesamteiweiß ist die Summe aller Serumeiweiße. Die Elektrophorese trennt sie in fünf Gruppen und zeigt einen M-Gradienten, zum Beispiel beim Myelom. Das Albumin wird nur in der Leber gebildet und hält das Wasser in den Gefäßen.
+
+Das C R P ist der wichtigste Entzündungswert. Es steigt nach sechs bis acht Stunden und halbiert sich jeden Tag, wenn die Entzündung endet. Tocilizumab unterdrückt es. Das Procalcitonin trennt Bakterien besser von Viren und hilft, Antibiotika früher zu beenden.
+
+Beim Eisen zeigt das Ferritin die Speicher und das Transferrin den Transport. Ein niedriges Ferritin beweist den Mangel. Eine hohe Transferrinsättigung zeigt eine Überladung.
+
+Kurz gesagt: Die Elektrophorese gibt den Überblick und zeigt den M-Gradienten. Albumin steht für Leber und Wasser, C R P und Procalcitonin für die Entzündung, Ferritin und Transferrin für das Eisen. Jede Entzündung verändert die Eiweiße, deshalb misst man das C R P oft mit.
+
+# Teil sieben: Hormone, Vitamine — Part seven: Hormones and vitamins
+
+Der siebte Teil behandelt Werte, die nur in sehr kleinen Mengen im Blut vorkommen. Hormone und Vitamine liegen oft im Bereich von Nanogramm oder Pikogramm pro Milliliter. Das ist ein Millionstel oder Milliardstel der Menge von Natrium oder Glukose. Solche Mengen kann man mit einer einfachen Farbreaktion nicht messen. Man braucht Immuntests mit Antikörpern.
+
+Die meisten Hormone werden über Regelkreise gesteuert. Ein Regelkreis funktioniert wie ein Thermostat in der Wohnung. Die Hirnanhangsdrüse misst den Hormonspiegel. Ist er zu niedrig, schickt sie ein Steuerhormon zur Drüse. Ist er hoch genug, hört sie damit auf. Für das Labor heißt das: Oft sagt das Steuerhormon mehr als das Hormon selbst.
+
+So unterscheidest du die Werte dieses Teils. Erst fragst du: Geht es um die Schilddrüse? Dann beginnst du mit dem T S H, dem Steuerhormon. Nur wenn es auffällig ist, misst du die Schilddrüsenhormone selbst. Geht es um eine Schwangerschaft oder um bestimmte Tumoren? Dann misst du das h C G. Geht es um eine Blutarmut mit großen roten Blutkörperchen oder um Nervenschäden? Dann misst du Vitamin B zwölf und Folsäure. Geht es um die Knochen? Dann misst du das Vitamin D. Und bei einem Mann mit Fragen zur Prostata misst du das P S A.
+
+Für alle Werte dieses Teils gilt eine besondere Regel. Immuntests verschiedener Hersteller liefern oft verschiedene Zahlen. Verlaufskontrollen sollten deshalb immer im selben Labor mit demselben Test laufen. Außerdem können Biotin und fremde Antikörper im Blut des Patienten diese Tests stören.
+
+# Das T S H — Thyroid stimulating hormone
+
+Einordnung: Das T S H ist das Thyreoidea-stimulierende Hormon aus der Hirnanhangsdrüse. Es steuert die Schilddrüse. Das T S H ist der erste und wichtigste Suchtest für alle Störungen der Schilddrüse. Ein normales T S H schließt die meisten Störungen aus.
+
+Bildung und Aufgabe: Die Hirnanhangsdrüse bildet das T S H. Ein Signal aus dem Zwischenhirn treibt sie an. Das T S H regt die Schilddrüse an, Hormone zu bilden und auszuschütten. Diese Hormone bremsen wiederum die Bildung von T S H. Das ist ein Regelkreis. Seine Besonderheit ist die Empfindlichkeit. Schon eine kleine Änderung der Schilddrüsenhormone verändert das T S H sehr stark. Darum zeigt das T S H eine Störung oft früher als die Hormone selbst.
+
+Probe und Messung: Man misst das T S H im Serum oder im Plasma mit einem Immuntest in Sandwichform. Ein Antikörper hält das T S H fest, ein zweiter Antikörper mit einem Leuchtstoff macht es sichtbar. Die Einheit ist Milli-Einheiten pro Liter. Das T S H ist nachts am höchsten. Man nimmt es deshalb am besten am Morgen ab. Bei Neugeborenen misst man das T S H in einem Tropfen Blut auf Filterpapier, bei der Suchuntersuchung für alle Neugeborenen.
+
+Die Werte: Der Referenzbereich liegt bei etwa null Komma vier bis vier Milli-Einheiten pro Liter. Ein hohes T S H zeigt eine Unterfunktion der Schilddrüse. Die häufigste Ursache ist eine Entzündung durch das Immunsystem, die Hashimoto-Thyreoiditis. Ein niedriges T S H zeigt eine Überfunktion. Ursachen sind zum Beispiel der Morbus Basedow oder heiße Knoten. In der frühen Schwangerschaft ist das T S H oft niedrig. Das Schwangerschaftshormon h C G regt die Schilddrüse ähnlich an wie das T S H. In der Schwangerschaft gelten deshalb eigene Bereiche.
+
+Fehlerquellen: Die wichtigste Falle ist das Biotin. Es ist ein Vitamin, das manche Menschen in hohen Dosen für Haare und Nägel nehmen. Viele Immuntests nutzen Biotin als Klebstoff. Biotin im Blut stört diese Tests. Beim T S H entsteht ein falsch niedriger Wert, und der Befund sieht aus wie eine Überfunktion. Vor der Abnahme sollte man Biotin je nach Dosis mindestens einen Tag, bei hohen Dosen länger weglassen. Kortison und Dopamin senken das T S H wirklich. Bei schweren Krankheiten kann das T S H vorübergehend verändert sein, ohne dass die Schilddrüse krank ist.
+
+Warum ist das im Labor wichtig? Bei einer jungen Frau ist das T S H stark erniedrigt und das freie T vier hoch. Sie hat aber keine Beschwerden. Auf Nachfrage nimmt sie täglich eine hohe Dosis Biotin für die Haare. Ein falscher Befund könnte zu einer unnötigen Therapie führen. Eine neue Probe nach einer Pause zeigt normale Werte.
+
+Kurz gesagt: Das T S H steuert die Schilddrüse und ist der erste Suchtest für alle Schilddrüsenstörungen. Der Normbereich liegt bei etwa null Komma vier bis vier Milli-Einheiten pro Liter. Hoch heißt Unterfunktion, niedrig heißt Überfunktion. Biotin senkt das T S H falsch und täuscht eine Überfunktion vor.
+
+# Die Schilddrüsenhormone — Free T four and T three
+
+Einordnung: Die Schilddrüsenhormone heißen Thyroxin und Trijodthyronin, kurz T vier und T drei. Man misst sie als freie Hormone, also als freies T vier und freies T drei. Sie sind der zweite Schritt nach dem T S H. Mit ihnen unterscheidet man eine leichte von einer deutlichen Störung.
+
+Bildung und Aufgabe: Die Schilddrüse bildet die Hormone aus der Aminosäure Tyrosin und aus Jod. Das T vier hat vier Jodatome, das T drei hat drei. Die Schilddrüse gibt vor allem T vier ab. Es ist eine Vorstufe. Die Gewebe schneiden ein Jodatom ab und machen daraus das wirksame T drei. Die Hormone steuern den Grundumsatz. Sie bestimmen, wie schnell Herz, Darm und Stoffwechsel arbeiten. Im Blut sind über neunundneunzig Prozent an Transporteiweiße gebunden. Nur der freie Rest wirkt.
+
+Probe und Messung: Man misst freies T vier und freies T drei im Serum oder im Plasma mit einem Immuntest. Weil die Hormone kleine Moleküle sind, nutzt man einen kompetitiven Test. Dabei konkurriert das Hormon des Patienten mit einem markierten Hormon um wenige Antikörper. Je mehr Hormon in der Probe ist, desto weniger Signal entsteht. Die Einheit ist meist Pikomol pro Liter oder Nanogramm pro Deziliter.
+
+Die Werte: Das freie T vier liegt bei etwa zwölf bis zweiundzwanzig Pikomol pro Liter. Das freie T drei liegt bei etwa drei bis sieben Pikomol pro Liter. Die Bereiche hängen stark vom Test ab. Wichtig sind die Muster mit dem T S H. Ist das T S H hoch und das freie T vier niedrig, liegt eine deutliche Unterfunktion vor. Ist das T S H hoch und das freie T vier normal, nennt man das eine latente Unterfunktion. Ist das T S H niedrig und die Hormone hoch, liegt eine deutliche Überfunktion vor. Manchmal steigt bei einer Überfunktion nur das freie T drei. Darum misst man es bei niedrigem T S H mit.
+
+Fehlerquellen: Biotin stört auch diese Tests, aber umgekehrt wie beim T S H. Im kompetitiven Test entsteht ein falsch hoher Wert. Zusammen mit dem falsch niedrigen T S H entsteht so das perfekte Bild einer Überfunktion. Patienten mit Schilddrüsentabletten sollten die Tablette erst nach der Abnahme nehmen. Sonst ist das freie T vier für einige Stunden erhöht. Bei schweren Krankheiten sinkt das freie T drei, ohne dass die Schilddrüse krank ist. Das Herzmittel Amiodaron enthält viel Jod und verändert alle Werte.
+
+Warum ist das im Labor wichtig? Bei einem Patienten sind das T S H und das freie T vier beide erhöht. Das passt zu keinem normalen Muster. Es kann ein seltener Tumor der Hirnanhangsdrüse sein. Es kann aber auch eine Störung des Tests sein. Du schlägst vor, die Probe mit einem Test eines anderen Herstellers zu messen.
+
+Kurz gesagt: Das T vier ist die Vorstufe, das T drei das wirksame Hormon. Man misst die freien Formen, denn nur sie wirken. Zusammen mit dem T S H unterscheiden sie latente und deutliche Störungen. Biotin erhöht das freie T vier falsch und senkt zugleich das T S H.
+
+# Das h C G — Human chorionic gonadotropin
+
+Einordnung: Das h C G ist das humane Choriongonadotropin, das Schwangerschaftshormon. Es ist der Wert für den Nachweis und die Kontrolle einer frühen Schwangerschaft. Außerdem ist es ein wichtiger Tumormarker für Keimzelltumoren, zum Beispiel im Hoden.
+
+Bildung und Aufgabe: Das h C G bilden die Zellen der äußeren Hülle des Embryos. Aus ihnen wird später der Mutterkuchen. Das h C G sorgt dafür, dass der Gelbkörper im Eierstock weiter Progesteron bildet. So bleibt die Schleimhaut der Gebärmutter erhalten. Das h C G besteht aus zwei Teilen. Der Alpha-Teil ist bei mehreren Hormonen gleich, zum Beispiel beim T S H. Der Beta-Teil ist nur beim h C G so gebaut. Die Tests erkennen deshalb den Beta-Teil.
+
+Probe und Messung: Im Labor misst man das h C G im Serum mit einem Immuntest in Sandwichform. Die Einheit ist internationale Einheiten pro Liter. Schnelltests im Urin zeigen nur ja oder nein. Sie werden ab etwa zwanzig bis fünfundzwanzig internationalen Einheiten pro Liter positiv. Für die Suche nach Tumoren nutzt man Tests, die auch das freie Beta-Stück erkennen.
+
+Die Werte: Bei Frauen, die nicht schwanger sind, liegt das h C G unter etwa fünf internationalen Einheiten pro Liter. Im Serum wird es etwa acht bis elf Tage nach der Befruchtung messbar. In der frühen, normalen Schwangerschaft verdoppelt es sich etwa alle zwei Tage. Den Gipfel erreicht es um die zehnte Woche. Danach fällt es wieder. Steigt das h C G zu langsam, kann das auf eine Eileiterschwangerschaft oder eine drohende Fehlgeburt hinweisen. Ein sehr hohes h C G sieht man bei Zwillingen und bei der Blasenmole, einer Fehlentwicklung des Mutterkuchens. Bei Männern zeigt ein erhöhtes h C G meist einen Keimzelltumor.
+
+Fehlerquellen: Bei extrem hohen Werten kann ein Urintest falsch negativ sein, durch den Hook-Effekt. Fremde Antikörper im Blut können ein falsch positives h C G im Serum vortäuschen. Diese Antikörper gelangen nicht in den Urin. Ist das Serum positiv und der Urin negativ, muss man an eine Störung denken. Früher wurden Frauen wegen eines solchen Befundes sogar mit Chemotherapie behandelt. Nach den Wechseljahren bildet die Hirnanhangsdrüse kleine Mengen h C G. Ein leicht erhöhter Wert ist dann oft harmlos.
+
+Warum ist das im Labor wichtig? Vor einer Röntgenuntersuchung des Bauches oder vor einer Operation fordert die Station oft einen Schwangerschaftstest an. Ein falsch negatives Ergebnis kann das ungeborene Kind gefährden. Ein Befund im Grenzbereich wird deshalb nach zwei Tagen kontrolliert. Ein steigender Wert bestätigt die Schwangerschaft.
+
+Kurz gesagt: Das h C G ist das Schwangerschaftshormon aus der Hülle des Embryos. In der frühen Schwangerschaft verdoppelt es sich etwa alle zwei Tage. Zu langsamer Anstieg deutet auf eine gestörte Schwangerschaft. Beim Mann ist es ein Tumormarker. Serum positiv und Urin negativ lässt an fremde Antikörper denken.
+
+# Vitamin B zwölf, Folsäure — Vitamin B twelve and folate
+
+Einordnung: Vitamin B zwölf und Folsäure sind zwei Vitamine, die man für die Teilung von Zellen braucht. Ein Mangel an einem der beiden macht eine Blutarmut mit großen roten Blutkörperchen. Nur der Mangel an Vitamin B zwölf schädigt außerdem die Nerven. Darum misst man beide zusammen und behandelt nie blind nur mit Folsäure.
+
+Bildung und Aufgabe: Vitamin B zwölf heißt auch Cobalamin. Es kommt fast nur in tierischen Lebensmitteln vor. Für die Aufnahme braucht es einen Helfer aus dem Magen, den Intrinsic-Faktor. Die Aufnahme geschieht ganz am Ende des Dünndarms. Die Leber speichert Vitamin B zwölf für drei bis fünf Jahre. Folsäure kommt vor allem aus grünem Gemüse. Ihr Speicher reicht nur einige Monate. Beide Vitamine braucht der Körper, um das Erbgut zu bauen. Fehlen sie, teilen sich die Vorläufer der Blutzellen zu langsam und bleiben groß.
+
+Probe und Messung: Man misst beide im Serum mit Immuntests, die mit Bindungseiweißen arbeiten. Die Einheit ist Pikogramm pro Milliliter für das Vitamin B zwölf und Nanogramm pro Milliliter für die Folsäure. Ein früherer Marker für einen Mangel ist das Holotranscobalamin. Das ist das Vitamin B zwölf, das an sein Transporteiweiß gebunden und für die Zellen nutzbar ist. Im Grenzbereich helfen zwei Stoffwechselprodukte. Die Methylmalonsäure steigt nur beim Mangel an Vitamin B zwölf. Das Homocystein steigt bei beiden.
+
+Die Werte: Ein Vitamin B zwölf unter etwa zweihundert Pikogramm pro Milliliter spricht für einen Mangel. Zwischen etwa zweihundert und dreihundert liegt ein Graubereich. Die Folsäure im Serum sollte über etwa vier Nanogramm pro Milliliter liegen. Häufige Gründe für einen Mangel an Vitamin B zwölf sind eine vegane Ernährung ohne Ergänzung und die Einnahme von Metformin oder Magensäureblockern. Ein weiterer Grund ist eine Entzündung der Magenschleimhaut durch das Immunsystem. Bei dieser Entzündung fehlt der Intrinsic-Faktor. Man nennt die Blutarmut dann perniziöse Anämie. Ein Mangel an Vitamin B zwölf kann das Rückenmark schädigen, mit Kribbeln und Gangunsicherheit. Die Folsäure ist in der frühen Schwangerschaft besonders wichtig. Ein Mangel erhöht das Risiko für Fehlbildungen des Rückens beim Kind.
+
+Fehlerquellen: Rote Blutkörperchen enthalten viel mehr Folsäure als das Serum. Eine Hämolyse erhöht die Folsäure deshalb falsch. Folsäure ist lichtempfindlich. Bei der perniziösen Anämie gibt es Antikörper gegen den Intrinsic-Faktor. Diese können manche Tests stören und ein falsch normales Vitamin B zwölf zeigen. Bei klaren Beschwerden zählt deshalb das Gesamtbild. Eine Spritze mit Vitamin B zwölf vor der Abnahme macht den Wert für Wochen unbrauchbar.
+
+Warum ist das im Labor wichtig? Bei einem älteren Mann mit Gangstörung ist das Blutbild nur leicht verändert. Das Vitamin B zwölf liegt im Graubereich. Die Methylmalonsäure ist deutlich erhöht. Das bestätigt den Mangel. Die Nervenschäden lassen sich nur aufhalten, wenn man früh behandelt.
+
+Kurz gesagt: Vitamin B zwölf und Folsäure braucht man für die Zellteilung, ein Mangel macht eine Blutarmut mit großen Zellen. Nur der Mangel an Vitamin B zwölf schädigt die Nerven. Unter etwa zweihundert Pikogramm pro Milliliter spricht für einen Mangel. Im Graubereich helfen Holotranscobalamin und Methylmalonsäure.
+
+# Vitamin D — Vitamin D
+
+Einordnung: Vitamin D ist eigentlich ein Hormon, das der Körper selbst bilden kann. Es gehört zum Knochenstoffwechsel und zum Haushalt von Calcium und Phosphat. Man misst es als Speicherform, das fünfundzwanzig-Hydroxy-Vitamin D. Die Messung gehört zu den häufigsten Anforderungen und wird oft ohne klaren Grund bestellt.
+
+Bildung und Aufgabe: Die Haut bildet Vitamin D aus einer Vorstufe des Cholesterins, wenn ultraviolettes Licht der Sonne darauf fällt. Ein kleiner Teil kommt aus der Nahrung, zum Beispiel aus fettem Fisch. Die Leber macht daraus die Speicherform. Die Niere macht aus der Speicherform das wirksame Hormon. Das wirksame Hormon holt Calcium und Phosphat aus dem Darm in den Körper. So bekommt der Knochen genug Material. In Deutschland reicht die Sonne etwa von Oktober bis März nicht für eine nennenswerte Bildung in der Haut.
+
+Probe und Messung: Man misst die Speicherform im Serum oder im Plasma. Die Routinemethode ist ein Immuntest. Die genaueste Methode ist die Massenspektrometrie nach einer Trennung durch Chromatographie. Die Immuntests verschiedener Hersteller geben oft unterschiedliche Werte. Die Einheit ist Nanogramm pro Milliliter oder Nanomol pro Liter. Für Nanomol multipliziert man mit zweieinhalb.
+
+Die Werte: Ein Wert unter zwölf Nanogramm pro Milliliter gilt als Mangel. Zwischen zwölf und zwanzig gilt als nicht ausreichend. Ab zwanzig Nanogramm pro Milliliter gilt die Versorgung für die Knochen als gut. Manche Fachgesellschaften nennen höhere Ziele, das ist umstritten. Der Wert schwankt mit den Jahreszeiten und ist am Ende des Winters am niedrigsten. Ein schwerer Mangel macht bei Kindern die Rachitis und bei Erwachsenen eine Knochenerweichung. Dann steigt auch das Parathormon. Zu viel Vitamin D kommt fast nur durch zu hoch dosierte Tabletten vor. Es macht ein gefährlich hohes Calcium.
+
+Fehlerquellen: Ein häufiger Fehler ist die falsche Form. Für die Versorgung misst man die Speicherform, nicht das wirksame Hormon. Das wirksame Hormon hält sich nur Stunden im Blut. Es ist bei einem Mangel oft sogar normal, weil die Niere mehr davon bildet. Die Werte verschiedener Labore sind nur eingeschränkt vergleichbar. Bei Säuglingen kann eine besondere Form des Vitamins manche Tests stören.
+
+Warum ist das im Labor wichtig? Eine Ärztin fordert bei einer Patientin mit hohem Calcium das wirksame Vitamin-D-Hormon an. Der Wert ist hoch. Bei Krebs oder bestimmten Entzündungen bildet das kranke Gewebe dieses Hormon selbst. Hier ist das wirksame Hormon also die richtige Frage. Für die normale Versorgung wäre es die falsche.
+
+Kurz gesagt: Vitamin D wird in der Haut mit Sonnenlicht gebildet und holt Calcium und Phosphat aus dem Darm. Man misst die Speicherform. Ab zwanzig Nanogramm pro Milliliter gilt die Versorgung als gut, unter zwölf als Mangel. Der Wert schwankt mit den Jahreszeiten, und die Tests verschiedener Hersteller weichen voneinander ab.
+
+# Das P S A — Prostate specific antigen
+
+Einordnung: Das P S A ist das prostataspezifische Antigen. Es ist der wichtigste Tumormarker beim Mann. Es ist aber spezifisch für das Organ, nicht für den Krebs. Auch eine gutartige Vergrößerung oder eine Entzündung der Prostata erhöht das P S A.
+
+Bildung und Aufgabe: Das P S A ist ein Enzym, das Eiweiß spaltet. Es wird in den Drüsen der Prostata gebildet und gelangt in die Samenflüssigkeit. Dort verflüssigt es das Ejakulat. Nur winzige Mengen gelangen ins Blut. Ein Teil davon liegt frei vor, der größere Teil ist an Hemmstoffe gebunden. Wenn die Prostata wächst oder ihr Gewebe gestört ist, gelangt mehr P S A ins Blut. In der Rechtsmedizin nutzt man das P S A, um Samenflüssigkeit an Kleidung nachzuweisen.
+
+Probe und Messung: Man misst das P S A im Serum mit einem Immuntest. Gemessen wird meist das gesamte P S A. Im Graubereich misst man zusätzlich das freie P S A und rechnet den Anteil aus. Das freie P S A ist nicht lange stabil. Das Serum muss innerhalb weniger Stunden abgetrennt und gemessen oder eingefroren werden. Die Einheit ist Nanogramm pro Milliliter.
+
+Die Werte: Ein klassischer Grenzwert für das gesamte P S A ist vier Nanogramm pro Milliliter. Er steigt mit dem Alter etwas. Zwischen etwa vier und zehn liegt ein Graubereich. Ein niedriger Anteil an freiem P S A spricht dann eher für Krebs. Ein hoher Anteil spricht eher für eine gutartige Vergrößerung. Wichtiger als ein einzelner Wert ist oft der Verlauf über die Jahre. Nach einer vollständigen Entfernung der Prostata sollte das P S A nicht mehr messbar sein. Steigt es danach wieder an, ist das ein frühes Zeichen für einen Rückfall.
+
+Fehlerquellen: Viele Dinge erhöhen das P S A kurzzeitig. Dazu gehören ein Samenerguss, langes Radfahren, eine Entzündung der Prostata, ein Blasenkatheter und eine Gewebeprobe. Vor der Abnahme sollte man etwa zwei Tage keinen Samenerguss haben und nicht lange Rad fahren. Bestimmte Medikamente gegen die gutartige Vergrößerung senken das P S A etwa auf die Hälfte. Bei diesen Männern verdoppelt man den Wert in Gedanken. Verschiedene Tests geben etwas unterschiedliche Werte. Ein Wechsel des Labors kann einen Anstieg vortäuschen.
+
+Warum ist das im Labor wichtig? Bei einem Mann ist das P S A innerhalb eines Jahres von drei auf fünf gestiegen. Er war am Tag vor der Abnahme mit dem Rad unterwegs. Seine letzte Messung lief in einem anderen Labor. Bevor eine Gewebeprobe geplant wird, sollte man den Wert im selben Labor und unter guten Bedingungen kontrollieren.
+
+Kurz gesagt: Das P S A ist ein Enzym der Prostata und spezifisch für das Organ, nicht für den Krebs. Ein klassischer Grenzwert ist vier Nanogramm pro Milliliter, mit einem Graubereich bis etwa zehn. Der Anteil an freiem P S A hilft im Graubereich. Samenerguss, Radfahren und Entzündungen erhöhen den Wert.
+
+# Zusammenfassung Teil sieben — Part seven summary
+
+Der siebte Teil hat Werte vorgestellt, die man mit Immuntests misst. Hormone und Vitamine liegen in sehr kleinen Mengen im Blut. Verschiedene Tests geben oft verschiedene Zahlen, deshalb gehören Verlaufskontrollen ins selbe Labor.
+
+Das T S H ist der erste Suchtest für die Schilddrüse. Hoch heißt Unterfunktion, niedrig heißt Überfunktion. Die freien Hormone T vier und T drei sind der zweite Schritt. Biotin senkt das T S H falsch und erhöht das freie T vier falsch. So täuscht es eine Überfunktion vor.
+
+Das h C G ist das Schwangerschaftshormon und ein Tumormarker beim Mann. In der frühen Schwangerschaft verdoppelt es sich etwa alle zwei Tage. Vitamin B zwölf und Folsäure braucht man für die Zellteilung. Nur der Mangel an Vitamin B zwölf schädigt die Nerven. Vitamin D misst man als Speicherform, und es schwankt mit den Jahreszeiten. Das P S A ist spezifisch für die Prostata, nicht für den Krebs.
+
+Kurz gesagt: Für die Schilddrüse misst man zuerst das T S H. Das h C G steht für Schwangerschaft und Keimzelltumoren, Vitamin B zwölf und Folsäure für die große Blutarmut. Vitamin D steht für die Knochen, das P S A für die Prostata. Biotin und fremde Antikörper sind die typischen Störungen aller Immuntests.
+
+# Teil acht: Die Methoden — Part eight: Methods
+
+Der achte Teil erklärt, wie die Werte aus den Steckbriefen gemessen werden. Du hast die Methoden schon oft gehört. Hier stehen sie einmal im Zusammenhang. Fast alle Messungen der Klinischen Chemie beruhen auf drei Prinzipien. Das erste ist Licht, also die Photometrie. Das zweite ist elektrische Spannung, also die Elektroden. Das dritte sind Antikörper, also die Immuntests.
+
+Dazu kommen zwei Themen, die für jedes Prinzip gelten. Das eine ist die Präanalytik, also alles, was vor der Messung mit der Probe passiert. Das andere ist die Qualitätssicherung. Sie sorgt dafür, dass die Geräte richtig messen. In Deutschland regelt sie eine Richtlinie der Bundesärztekammer.
+
+# Photometrie — Photometry
+
+Die Photometrie ist die wichtigste Methode der Klinischen Chemie. Ein Photometer schickt Licht einer bestimmten Farbe durch eine Probe. Auf der anderen Seite misst ein Detektor, wie viel Licht ankommt. Je mehr von einem Farbstoff in der Probe ist, desto mehr Licht wird geschluckt. Den geschluckten Teil nennt man Extinktion oder Absorbanz.
+
+Den Zusammenhang beschreibt das Gesetz von Lambert und Beer. Die Extinktion ist umso größer, je höher die Konzentration ist und je länger der Weg des Lichts durch die Probe ist. Außerdem hängt sie vom Stoff selbst ab. Jeder Stoff schluckt Licht unterschiedlich stark. Bei gleicher Küvette und gleichem Stoff gilt also: doppelte Konzentration, doppelte Extinktion. Das gilt aber nur in einem bestimmten Bereich. Bei sehr hohen Konzentrationen kommt fast kein Licht mehr an, und die Messung wird ungenau. Dann verdünnt das Gerät die Probe.
+
+Die meisten Stoffe im Blut sind farblos. Man bringt sie deshalb mit einem Reagenz zu einer Farbreaktion. Das Gerät misst dann die Farbe. Beispiele aus den Steckbriefen sind das Kreatinin nach Jaffe, das Calcium und das Bilirubin. Bei vielen Tests mit Enzymen entsteht am Ende Wasserstoffperoxid. Eine Peroxidase bildet daraus einen roten Farbstoff. So misst man Cholesterin, Triglyzeride und Harnsäure.
+
+Ein besonderer Trick ist der optische Test nach Otto Warburg. Die Stoffe N A D H und N A D P H schlucken ultraviolettes Licht, ihre Partnerformen ohne den Wasserstoff aber nicht. Viele Reaktionen bilden oder verbrauchen N A D H. Das Photometer misst also im ultravioletten Licht, wie das N A D H zu- oder abnimmt. So misst man Harnstoff, Ammoniak, A L T, A S T, L D H und Kreatinkinase. Warburg hat dafür in den dreißiger Jahren die Grundlage gelegt.
+
+Man unterscheidet zwei Arten der Messung. Bei der Endpunktmessung wartet man, bis die Reaktion fertig ist, und misst einmal. So misst man die meisten Stoffmengen. Bei der kinetischen Messung misst man mehrmals, wie schnell sich die Farbe ändert. So misst man Enzyme. Jede Messung braucht außerdem einen Leerwert. Er zieht die Eigenfarbe von Probe und Reagenz ab.
+
+Eine Verwandte der Photometrie ist die Trübungsmessung. Hier entsteht keine Farbe, sondern eine Trübung, oft durch verklebte Antikörper. Bei der Turbidimetrie misst man das Licht, das gerade durch die Probe kommt. Bei der Nephelometrie misst man das Licht, das zur Seite gestreut wird. So misst man C R P, Cystatin C, Transferrin und das Albumin im Urin.
+
+Moderne Geräte messen bei jeder Probe automatisch drei Störungen mit Licht. Sie messen, wie rot die Probe durch Hämolyse ist, wie trüb durch Fett und wie gelb durch Bilirubin. Man nennt das die Serumindizes. Überschreitet ein Index eine Grenze, markiert das Gerät die betroffenen Werte.
+
+Kurz gesagt: Ein Photometer misst, wie viel Licht eine Probe schluckt. Nach dem Gesetz von Lambert und Beer steigt die Extinktion mit der Konzentration. Der optische Test nach Warburg misst N A D H im ultravioletten Licht. Endpunktmessungen dienen für Stoffmengen, kinetische Messungen für Enzyme.
+
+# Enzymaktivität messen — Measuring enzyme activity
+
+Bei Enzymen misst man nicht die Menge des Eiweißes, sondern seine Arbeit. Man gibt der Probe einen Stoff im Überfluss, den das Enzym umsetzen kann. Diesen Stoff nennt man Substrat. Dann misst man, wie schnell das Produkt entsteht. Je mehr Enzym in der Probe ist, desto schneller läuft die Reaktion.
+
+Die Einheit ist die internationale Einheit. Eine Einheit setzt ein Mikromol Substrat pro Minute um. Die Werte gibt man in Einheiten pro Liter an. Die offizielle Einheit im internationalen System heißt Katal. Sie ist in Deutschland im Alltag aber kaum üblich.
+
+Ein Enzym arbeitet nur unter genauen Bedingungen gleichmäßig. Die Temperatur ist besonders wichtig. Schon ein Grad mehr macht viele Enzyme deutlich schneller. Heute misst man weltweit bei siebenunddreißig Grad Celsius, nach den Regeln einer internationalen Fachgesellschaft. Früher hat man bei fünfundzwanzig oder dreißig Grad gemessen. Alte Werte und alte Referenzbereiche sind deshalb nicht mit neuen vergleichbar. Auch der pH-Wert, die Art des Substrats und die Helfer im Reagenz sind genau festgelegt. Bei der A L T und der A S T gehört zum Beispiel Vitamin B sechs dazu.
+
+Meist kann man das Produkt nicht direkt sehen. Dann koppelt man eine zweite Reaktion an, die Indikatorreaktion. Sie setzt das Produkt weiter um und verbraucht oder bildet dabei N A D H. Das Photometer misst das im ultravioletten Licht. Wichtig ist, dass die zweite Reaktion immer schneller ist als die erste. Sonst misst man die falsche Reaktion.
+
+Die Messung ist kinetisch. Das Gerät misst die Extinktion in kurzen Abständen über einige Minuten. Bei richtiger Messung ändert sie sich gleichmäßig, wie eine gerade Linie. Aus der Steigung der Linie rechnet das Gerät die Aktivität aus. Bei sehr hoher Aktivität ist das Substrat schon nach kurzer Zeit verbraucht. Die Linie knickt ab. Man nennt das Substraterschöpfung. Gute Geräte erkennen das und verdünnen die Probe. Ohne Verdünnung wäre der Wert falsch niedrig. Das ist eine wichtige Falle bei der A L T bei akuter Hepatitis oder bei der Kreatinkinase beim Muskelzerfall.
+
+Einige Organenzyme misst man heute nicht mehr als Aktivität, sondern als Masse mit einem Immuntest. Ein Beispiel ist die C K-M B als Masse. Der Vorteil ist, dass Hemmstoffe und Störungen der Reaktion keine Rolle spielen. Der Nachteil ist, dass man nicht weiß, ob das Enzym noch arbeitet.
+
+Für die Probe gilt bei Enzymen eine besondere Regel. Stoffe, die das Enzym hemmen, verfälschen das Ergebnis. E D T A und Citrat binden Metalle, die viele Enzyme brauchen. Deshalb misst man Enzyme im Serum oder im Heparinplasma. Hämolyse bringt die Enzyme der roten Blutkörperchen in die Probe, vor allem L D H und A S T.
+
+Kurz gesagt: Bei Enzymen misst man die Aktivität, also wie schnell sie ein Substrat umsetzen. Die Einheit ist Einheiten pro Liter bei siebenunddreißig Grad Celsius. Meist ist eine Indikatorreaktion mit N A D H angekoppelt. Bei sehr hoher Aktivität ist das Substrat erschöpft, und die Probe muss verdünnt werden.
+
+# Ionenselektive Elektroden — Ion selective electrodes
+
+Natrium, Kalium, Chlorid und ionisiertes Calcium misst man mit ionenselektiven Elektroden. Eine solche Elektrode hat eine Membran, durch die nur eine Art von Ionen gut passt. Zwischen der Probe und dem Inneren der Elektrode entsteht dadurch eine kleine elektrische Spannung. Ihre Höhe hängt von der Konzentration der Ionen ab. Den Zusammenhang beschreibt die Nernst-Gleichung.
+
+Jede Elektrode hat ihre eigene Membran. Für Natrium nimmt man ein besonderes Glas. Für Kalium nimmt man eine Kunststoffmembran mit einem Stoff, der Kalium wie ein Käfig einfängt. Das ist das Valinomycin aus einem Bakterium. Die Spannung misst man immer gegen eine zweite Elektrode mit fester Spannung, die Referenzelektrode. Das Gerät kalibriert die Elektroden regelmäßig mit Lösungen bekannter Konzentration.
+
+Auch der pH-Wert wird mit einer Glaselektrode gemessen. Die Elektroden für Kohlendioxid und Sauerstoff im Blutgasgerät arbeiten ähnlich, aber mit zusätzlichen Schichten. Sie heißen nach ihren Erfindern Severinghaus-Elektrode und Clark-Elektrode. Früher hat man Natrium und Kalium mit der Flammenphotometrie gemessen. Dabei leuchtet Natrium in der Flamme gelb und Kalium violett. Diese Methode ist heute kaum noch im Einsatz.
+
+Der wichtigste Unterschied ist der zwischen direkter und indirekter Messung. Bei der direkten Messung kommt die unverdünnte Probe an die Elektrode. So arbeiten die Blutgasgeräte und die kleinen Geräte auf Station. Bei der indirekten Messung verdünnt das große Gerät die Probe vorher stark. Das spart Probe und schont die Elektroden.
+
+Die Elektrode misst eigentlich die Ionen im Wasser des Plasmas. Plasma besteht aber nur zu etwa dreiundneunzig Prozent aus Wasser, der Rest sind Eiweiß und Fett. Die indirekte Messung rechnet mit diesem normalen Wasseranteil. Wenn sehr viel Fett oder Eiweiß in der Probe ist, ist weniger Wasser darin. Die indirekte Messung rechnet dann falsch und zeigt ein zu niedriges Natrium. Das ist die Pseudohyponatriämie, die du aus dem ersten Teil kennst. Die direkte Messung zeigt den richtigen Wert.
+
+Elektroden haben eigene Fehlerquellen. Eiweiß kann sich auf der Membran ablagern und sie träge machen. Bestimmte Stoffe passen auch durch eine fremde Membran, zum Beispiel Bromid bei der Chloridelektrode. Und bei Vollblut müssen Luftblasen und Gerinnsel aus der Messkammer fernbleiben.
+
+Kurz gesagt: Ionenselektive Elektroden messen eine Spannung, die von der Konzentration eines Ions abhängt. So misst man Natrium, Kalium, Chlorid, ionisiertes Calcium und den pH-Wert. Die direkte Messung ist unverdünnt, die indirekte verdünnt. Bei viel Fett oder Eiweiß zeigt nur die direkte Messung das richtige Natrium.
+
+# Immunchemische Messverfahren — Immunoassays
+
+Immuntests nutzen Antikörper, um einen Stoff zu erkennen. Ein Antikörper passt zu seinem Ziel wie ein Schlüssel zum Schloss. So kann man sehr kleine Mengen eines Stoffes in einer Probe finden, in der tausende andere Eiweiße schwimmen. Mit Immuntests misst man Hormone, Vitamine, Herzmarker, Tumormarker und Medikamente.
+
+Man unterscheidet zwei große Bauarten. Die erste ist der Sandwichtest. Ein erster Antikörper hält den Stoff fest. Ein zweiter Antikörper bindet an eine andere Stelle und trägt eine Markierung. Der Stoff liegt dazwischen wie der Belag in einem Brot. Je mehr Stoff da ist, desto stärker das Signal. So misst man große Moleküle wie T S H, Troponin, h C G und P S A.
+
+Die zweite Bauart ist der kompetitive Test. Kleine Moleküle haben keinen Platz für zwei Antikörper. Deshalb konkurriert der Stoff der Probe mit einer markierten Form desselben Stoffes um wenige Antikörper. Je mehr Stoff in der Probe ist, desto weniger markierter Stoff bindet. Das Signal ist dann schwächer. So misst man freies T vier, Vitamin D, Kortisol und viele Medikamente.
+
+Die Markierung macht die Bindung sichtbar. Früher nahm man radioaktive Stoffe. Heute nimmt man Enzyme, die einen Farbstoff bilden, oder Stoffe, die Licht aussenden. Man spricht dann von Chemilumineszenz. Bei der Elektrochemilumineszenz wird das Leuchten durch Strom ausgelöst. Viele Tests nutzen Biotin und Streptavidin als Klebstoff zwischen den Teilen. Diese beiden Stoffe halten extrem fest zusammen.
+
+Immuntests haben typische Störungen. Die erste ist das Biotin, das du vom T S H kennst. Hohe Dosen Biotin im Blut besetzen das Streptavidin. Beim Sandwichtest wird der Wert dann falsch niedrig, beim kompetitiven Test falsch hoch. Die zweite Störung sind fremde Antikörper im Blut des Patienten. Manche Menschen haben Antikörper gegen Tierantikörper, zum Beispiel nach Kontakt mit Tieren oder bestimmten Therapien. Diese können die zwei Antikörper eines Sandwichs verbinden, auch ohne den Stoff. Dann entsteht ein falsch hoher Wert.
+
+Die dritte Störung ist der Hook-Effekt, auf Deutsch Hakeneffekt. Er betrifft Sandwichtests bei extrem hohen Konzentrationen. Es gibt dann so viel Stoff, dass beide Antikörper getrennt besetzt werden. Das Sandwich bildet sich nicht, und der Wert ist falsch niedrig. Das Mittel dagegen ist eine Verdünnung der Probe. Bei h C G, Ferritin und Tumormarkern muss man daran denken.
+
+Eine vierte Schwäche ist die fehlende Standardisierung. Jeder Hersteller nimmt eigene Antikörper und eigene Kalibratoren. Darum geben verschiedene Tests oft verschiedene Zahlen für dieselbe Probe. Für Verlaufskontrollen bleibt man deshalb beim selben Labor.
+
+Kurz gesagt: Immuntests messen sehr kleine Mengen mit Antikörpern. Sandwichtests dienen für große Moleküle, kompetitive Tests für kleine. Typische Störungen sind Biotin, fremde Antikörper und der Hook-Effekt bei extrem hohen Werten. Weil die Tests nicht standardisiert sind, gehören Verlaufskontrollen ins selbe Labor.
+
+# Präanalytik und Röhrchen — Preanalytics and tubes
+
+Die Präanalytik umfasst alles, was vor der Messung geschieht. Dazu gehören die Vorbereitung des Patienten, die Abnahme, das Röhrchen, der Transport, das Zentrifugieren und die Lagerung. Hier entstehen die meisten Fehler im Labor. Die Messung selbst ist dagegen sehr zuverlässig.
+
+Man unterscheidet zwei Arten von Fehlerquellen. Einflussgrößen verändern den Wert im Körper selbst. Dazu gehören Alter, Geschlecht, Essen, Sport, Körperlage, Tageszeit und Medikamente. Der Wert ist dann echt, aber er passt nicht zur Frage. Störfaktoren verändern den Wert erst im Röhrchen. Dazu gehören Hämolyse, Fett, Bilirubin, Verunreinigungen und Biotin. Der Wert ist dann falsch.
+
+Die Röhrchen haben unterschiedliche Zusätze. Das Serumröhrchen enthält einen Gerinnungsaktivator und oft ein Trenngel. Das Blut muss etwa dreißig Minuten gerinnen, bevor man es zentrifugiert. Das Heparinröhrchen verhindert die Gerinnung. Man kann es sofort zentrifugieren, das spart Zeit im Notfall. Meist nimmt man Lithiumheparin. Für die Bestimmung von Lithium als Medikament ist es natürlich falsch. Das E D T A-Röhrchen ist für das Blutbild, das H b A eins c, das Ammoniak und das B N P. Für Calcium, Kalium, Magnesium und alkalische Phosphatase ist es verboten. Das Citratröhrchen ist für die Gerinnung. Das Röhrchen mit Glykolysehemmer ist für Glukose und Laktat.
+
+Auch die Reihenfolge der Röhrchen bei der Abnahme ist festgelegt. Zuerst kommen Blutkulturen, dann Citrat, dann Serum, dann Heparin, dann E D T A und zuletzt der Glykolysehemmer. So gelangen keine Zusätze aus einem Röhrchen in das nächste. Besonders das E D T A darf nicht ins Serum oder ins Heparinplasma verschleppt werden.
+
+Bei der Abnahme soll der Stau kurz sein, höchstens etwa eine Minute. Der Patient soll die Faust nicht pumpen. Eine dünne Nadel, starkes Ziehen an der Spritze und heftiges Schütteln machen Hämolyse. Blut aus einem Arm mit laufender Infusion ist verdünnt und enthält die Infusion. Man nimmt deshalb am anderen Arm ab oder stoppt die Infusion vorher.
+
+Nach der Abnahme zählt die Zeit. Die Zellen leben weiter. Sie verbrauchen Glukose, bilden Laktat und Ammoniak und geben Kalium, Phosphat und L D H ab. Serum und Plasma sollten deshalb innerhalb von etwa zwei Stunden von den Zellen getrennt werden. Kälte ist nur für bestimmte Werte gut, zum Beispiel für das Ammoniak. Für das Kalium ist Kälte vor dem Zentrifugieren schädlich. Auch die Rohrpost kann Proben schädigen, wenn sie zu schnell oder zu holprig ist.
+
+Kurz gesagt: Die meisten Laborfehler entstehen vor der Messung. Einflussgrößen verändern den Wert im Körper, Störfaktoren im Röhrchen. Jedes Röhrchen hat seinen Zweck, und E D T A gehört nie in eine Probe für Elektrolyte. Kurzer Stau, richtige Reihenfolge und schnelles Zentrifugieren verhindern die häufigsten Fehler.
+
+# Qualitätssicherung im Labor — Quality assurance in the lab
+
+Ein Laborwert ist nur so gut wie die Kontrolle des Geräts. In Deutschland regelt die Richtlinie der Bundesärztekammer die Qualitätssicherung in medizinischen Laboren. Im Labor nennt man sie kurz Rilibäk. Sie gilt für jedes Labor, das Werte für Patienten misst, auch für viele Geräte auf Station und in Arztpraxen.
+
+Die Richtlinie hat zwei große Säulen. Die erste ist die interne Qualitätskontrolle. Das Labor misst regelmäßig Kontrollproben, deren Wert bekannt ist. Man misst sie für jede Messgröße, meist mit zwei verschiedenen Konzentrationen. Die Messungen laufen mindestens zweimal innerhalb von vierundzwanzig Stunden. Sie laufen außerdem nach jedem Eingriff in das Gerät, zum Beispiel nach einer Kalibration, einem Reagenzwechsel oder einer Reparatur.
+
+Jedes Ergebnis einer Kontrollprobe muss innerhalb fester Grenzen liegen. Liegt es außerhalb, gibt man keine Patientenwerte frei. Man sucht den Fehler, behebt ihn und misst erneut. Die Patientenproben seit der letzten guten Kontrolle müssen eventuell wiederholt werden. Viele Labore nutzen zusätzlich Regeln, die auch Trends erkennen. Ein Beispiel ist eine Folge von Kontrollen, die alle leicht über dem Zielwert liegen. Das deutet auf einen schleichenden Fehler hin.
+
+Am Ende jedes Monats rechnet das Labor alle Kontrollwerte zusammen aus. Daraus entsteht eine Zahl für die mittlere Abweichung vom Zielwert. Sie verbindet zufällige Streuung und systematische Verschiebung. Für jede Messgröße nennt die Richtlinie eine Grenze in einer Tabelle. Für Natrium ist diese Grenze zum Beispiel sehr eng, für Hormone weiter. Liegt das Labor darüber, muss es handeln.
+
+Die zweite Säule ist die externe Qualitätskontrolle, der Ringversuch. Ein Institut schickt allen teilnehmenden Laboren dieselben Proben mit unbekanntem Wert. Die Labore messen sie wie Patientenproben und schicken die Ergebnisse zurück. Das Institut vergleicht sie mit dem Zielwert. Wer innerhalb der Grenzen liegt, bekommt ein Zertifikat. Für die Werte der Tabelle ist die Teilnahme einmal pro Quartal Pflicht. In Deutschland bieten zum Beispiel das Institut Instand und die Referenzinstitute für Bioanalytik solche Ringversuche an.
+
+Für dich als Technologin ist die Qualitätssicherung tägliche Arbeit. Du startest die Kontrollen, prüfst die Ergebnisse und dokumentierst jede Abweichung und jede Maßnahme. Diese Dokumentation ist Pflicht. Bei einer Prüfung durch die Behörde oder bei einer Akkreditierung muss sie lückenlos sein.
+
+Kurz gesagt: Die Rilibäk regelt die Qualitätssicherung in deutschen Laboren. Bei der internen Kontrolle misst das Labor täglich Kontrollproben mit bekanntem Wert. Beim Ringversuch misst es viermal im Jahr Proben mit unbekanntem Wert. Liegt eine Kontrolle außerhalb der Grenzen, werden keine Patientenwerte freigegeben.
+
+# Zusammenfassung Teil acht — Part eight summary
+
+Der achte Teil hat die Methoden der Klinischen Chemie erklärt. Fast alle Messungen beruhen auf Licht, auf elektrischer Spannung oder auf Antikörpern.
+
+Die Photometrie misst, wie viel Licht eine Probe schluckt. Nach dem Gesetz von Lambert und Beer steigt die Extinktion mit der Konzentration. Der optische Test nach Warburg misst N A D H im ultravioletten Licht. Bei Enzymen misst man die Aktivität kinetisch, bei siebenunddreißig Grad Celsius. Bei sehr hoher Aktivität muss man verdünnen.
+
+Ionenselektive Elektroden messen Natrium, Kalium, Chlorid und ionisiertes Calcium. Die indirekte Messung verdünnt die Probe und zeigt bei viel Fett oder Eiweiß ein falsch niedriges Natrium. Immuntests messen kleinste Mengen mit Antikörpern. Typische Störungen sind Biotin, fremde Antikörper und der Hook-Effekt.
+
+Die Präanalytik ist die größte Fehlerquelle. Das richtige Röhrchen, die richtige Reihenfolge, ein kurzer Stau und schnelles Zentrifugieren verhindern die meisten Fehler. Die Qualitätssicherung nach der Rilibäk prüft die Geräte täglich mit Kontrollproben und viermal im Jahr mit Ringversuchen.
+
+Kurz gesagt: Licht, Spannung und Antikörper sind die drei Prinzipien der Messung. Die Präanalytik entscheidet, ob ein Wert stimmt, und die Qualitätssicherung, ob das Gerät richtig misst.
+
+# Teil neun: Sonderthemen — Part nine: Special topics
+
+Der neunte Teil behandelt drei Themen, die viele Laborwerte gemeinsam betreffen. Das erste sind die Referenzbereiche und Einheiten. Sie entscheiden, wie man einen Wert liest. Das zweite sind die kritischen Werte. Sie verlangen, dass du sofort handelst. Das dritte sind die Tumormarker. Sie sind eine eigene Gruppe von Werten, die oft falsch verstanden werden.
+
+# Referenzbereiche und Einheiten — Reference ranges and units
+
+Ein Referenzbereich beschreibt, welche Werte gesunde Menschen haben. Man misst dafür eine große Gruppe gesunder Menschen. Dann schneidet man an beiden Enden jeweils zweieinhalb Prozent ab. Die mittleren fünfundneunzig Prozent sind der Referenzbereich. Das heißt aber auch: Fünf von hundert Gesunden liegen außerhalb, obwohl sie gesund sind.
+
+Das hat eine wichtige Folge. Je mehr Werte man misst, desto wahrscheinlicher ist ein auffälliger Wert bei einem Gesunden. Bei zwanzig unabhängigen Werten haben fast zwei Drittel aller Gesunden mindestens einen Wert außerhalb des Bereichs. Ein einzelner, leicht auffälliger Wert ist also oft kein Grund zur Sorge. Er muss zum Gesamtbild passen.
+
+Referenzbereiche hängen von vielen Dingen ab. Sie unterscheiden sich nach Alter und Geschlecht. Kinder haben eigene Bereiche, zum Beispiel für die alkalische Phosphatase und das Phosphat. Sie hängen außerdem von der Methode ab. Darum gibt jedes Labor seine eigenen Bereiche an. Wenn ein Labor die Methode wechselt, ändern sich oft auch die Bereiche.
+
+Ein Referenzbereich ist nicht dasselbe wie eine Entscheidungsgrenze. Eine Entscheidungsgrenze beruht auf Studien darüber, ab wann ein Risiko steigt oder eine Krankheit vorliegt. Beispiele sind die Diabetesgrenze beim H b A eins c, die Zielwerte für das L D L und die neunundneunzigste Perzentile beim Troponin. Beim L D L liegt der Zielwert für viele Patienten weit unter dem, was bei Gesunden häufig ist.
+
+Auch zwischen zwei Messungen derselben Person gibt es eine Grenze. Jeder Wert schwankt etwas, im Körper und im Gerät. Eine Änderung ist erst dann echt, wenn sie größer ist als diese natürliche Schwankung. Man spricht von der kritischen Differenz. Ein Kreatinin, das von null Komma neun auf eins Komma null steigt, ist meist keine echte Verschlechterung.
+
+Viele Werte gibt es in zwei Einheitensystemen. Das eine sind die konventionellen Einheiten, meist Milligramm pro Deziliter. Das andere sind die Einheiten des internationalen Systems, meist Millimol pro Liter. In Deutschland nutzt man für Glukose, Kreatinin, Harnstoff, Harnsäure, Bilirubin und die Blutfette oft Milligramm pro Deziliter. Für die Elektrolyte nutzt man Millimol pro Liter. Für die Umrechnung braucht man das Gewicht des Moleküls. Bei der Glukose teilt man Milligramm pro Deziliter durch etwa achtzehn und erhält Millimol pro Liter. Beim Kreatinin multipliziert man mit etwa achtundachtzig und erhält Mikromol pro Liter.
+
+Verwechslungen der Einheiten sind gefährlich. Ein Glukosewert von sieben ist in Millimol pro Liter leicht erhöht. In Milligramm pro Deziliter wäre er tödlich niedrig. Auf jedem Befund muss deshalb die Einheit stehen, und du solltest immer auf sie achten.
+
+Kurz gesagt: Der Referenzbereich umfasst die mittleren fünfundneunzig Prozent der Gesunden, fünf von hundert Gesunden liegen also außerhalb. Er hängt von Alter, Geschlecht und Methode ab. Entscheidungsgrenzen beruhen auf Studien über Risiken. Achte immer auf die Einheit, denn Milligramm pro Deziliter und Millimol pro Liter geben ganz andere Zahlen.
+
+# Kritische Werte — Critical values
+
+Ein kritischer Wert ist ein Laborwert, der eine sofortige Gefahr für das Leben des Patienten zeigt. Man nennt ihn auch Alarmwert. Bei einem kritischen Wert darfst du nicht warten, bis der Befund auf normalem Weg ankommt. Du musst die verantwortliche Ärztin sofort informieren, meist am Telefon.
+
+Jedes Labor hat eine eigene Liste kritischer Werte, abgestimmt mit den Kliniken. Typische Beispiele bei Erwachsenen sind ein Kalium unter etwa zwei Komma fünf oder über etwa sechs Komma fünf Millimol pro Liter. Dazu kommt ein Natrium unter etwa hundertzwanzig oder über etwa hundertsechzig. Weitere Beispiele sind eine Glukose unter etwa vierzig oder über etwa fünfhundert Milligramm pro Deziliter. Auch ein ionisiertes Calcium unter etwa null Komma acht Millimol pro Liter gehört dazu. Ebenso gehört ein pH-Wert unter sieben Komma zwei oder über sieben Komma sechs dazu. Für Neugeborene und Kinder gibt es eigene Grenzen, zum Beispiel beim Bilirubin und beim Ammoniak.
+
+Vor dem Anruf prüfst du kurz, ob der Wert plausibel ist. Ist die Probe hämolytisch? Passt das Muster zu einer E D T A-Verunreinigung, also hohes Kalium mit sehr niedrigem Calcium? Wurde aus dem Infusionsarm abgenommen? Passt der Wert zu früheren Werten des Patienten? Diesen Vergleich mit früheren Werten nennt man Deltaprüfung. Viele Geräte und Laborprogramme machen ihn automatisch.
+
+Die Prüfung darf aber nicht lange dauern. Wenn der Wert plausibel ist oder du unsicher bist, rufst du an. Eine Wiederholung der Messung ist sinnvoll, wenn sie schnell geht. Ein echter kritischer Kaliumwert, der eine halbe Stunde liegen bleibt, kann den Patienten das Leben kosten. Im Zweifel meldest du den Wert und sagst offen, was dir an der Probe auffällt.
+
+Beim Anruf nennst du den Namen des Patienten, sein Geburtsdatum, den Wert und die Einheit. Die Ärztin wiederholt den Wert zur Kontrolle. Danach dokumentierst du, wen du wann informiert hast. Diese Dokumentation ist Pflicht. Wenn du die zuständige Ärztin nicht erreichst, gehst du die vereinbarte Kette weiter, zum Beispiel zum Oberarzt oder zur Leitung der Station.
+
+Neben den kritischen Werten gibt es dringende Befunde, die keine Laborgrenze haben. Ein Beispiel ist ein stark gestiegenes Troponin bei einem Patienten mit Brustschmerz. Ein anderes ist ein sehr hohes Ammoniak bei einem schläfrigen Säugling. Auch hier zählt dein Urteil.
+
+Kurz gesagt: Ein kritischer Wert zeigt eine sofortige Gefahr und wird sofort telefonisch gemeldet. Typische Beispiele sind sehr hohe oder sehr niedrige Werte von Kalium, Natrium, Glukose, Calcium und pH. Vorher prüfst du kurz die Plausibilität, aber du verzögerst die Meldung nicht. Jeder Anruf wird mit Name, Wert und Uhrzeit dokumentiert.
+
+# Tumormarker im Überblick — Tumour markers overview
+
+Tumormarker sind Stoffe, die Tumoren bilden oder die der Körper als Antwort auf einen Tumor bildet. Man misst sie im Blut, meist mit Immuntests. Die wichtigste Regel lautet: Tumormarker sind fast nie für die Suche nach Krebs bei Gesunden geeignet. Sie steigen auch bei harmlosen Krankheiten, und viele Tumoren bilden sie nicht. Ihre Stärke ist die Kontrolle im Verlauf. Nach einer Operation oder Chemotherapie zeigt ein fallender Marker den Erfolg, ein steigender Marker einen Rückfall.
+
+Das C E A ist das karzinoembryonale Antigen. Es ist der Marker für den Darmkrebs. Raucher haben oft leicht erhöhte Werte. Das C A neunzehn neun ist der Marker für Krebs der Bauchspeicheldrüse und der Gallenwege. Es steigt auch bei jedem Gallestau. Etwa fünf bis zehn von hundert Menschen können es wegen ihrer Blutgruppenmerkmale gar nicht bilden. Bei ihnen ist es auch bei großem Tumor normal.
+
+Das C A hundertfünfundzwanzig ist der Marker für den Eierstockkrebs. Es steigt aber auch bei der Regelblutung, in der Schwangerschaft, bei Endometriose und bei jedem Wasser im Bauch. Das C A fünfzehn drei dient der Verlaufskontrolle beim Brustkrebs.
+
+Das A F P ist das Alpha-Fetoprotein. Es ist der Marker für den Leberzellkrebs und für bestimmte Keimzelltumoren. In der Schwangerschaft ist es normal erhöht, denn das Kind bildet es. Zusammen mit dem h C G aus Teil sieben ist es der wichtigste Marker bei Hodentumoren. Das P S A kennst du ebenfalls aus Teil sieben.
+
+Einige Marker gehören zu besonderen Tumoren. Die neuronenspezifische Enolase, kurz N S E, dient beim kleinzelligen Lungenkrebs und bei einem Tumor der Nerven bei Kindern. Rote Blutkörperchen enthalten viel N S E. Schon eine leichte Hämolyse macht den Wert falsch hoch. Das Calcitonin ist der Marker für den medullären Schilddrüsenkrebs. Das Thyreoglobulin dient nach der Entfernung der Schilddrüse bei anderen Formen des Schilddrüsenkrebses. Es sollte dann nicht mehr messbar sein. Das Chromogranin A dient bei neuroendokrinen Tumoren. Magensäureblocker erhöhen es stark. Das Protein S hundert dient beim schwarzen Hautkrebs.
+
+Für das Labor gelten bei allen Tumormarkern dieselben Regeln. Verlaufskontrollen gehören ins selbe Labor mit demselben Test. Ein Wechsel der Methode kann einen Anstieg oder Abfall vortäuschen. Bei sehr hohen Werten muss man an den Hook-Effekt denken und verdünnen. Fremde Antikörper können falsch hohe Werte erzeugen. Ein unerwarteter Anstieg ohne klinische Zeichen wird deshalb erst kontrolliert, bevor man ihn ernst nimmt.
+
+Kurz gesagt: Tumormarker eignen sich fast nie für die Suche nach Krebs bei Gesunden, aber gut für die Kontrolle im Verlauf. Wichtige Marker sind C E A für den Darm und C A neunzehn neun für Pankreas und Galle. Dazu kommen C A hundertfünfundzwanzig für den Eierstock sowie A F P und h C G für Leber und Hoden. Verlaufskontrollen gehören ins selbe Labor. Hämolyse erhöht die N S E stark.
+
+# Zusammenfassung Teil neun — Part nine summary
+
+Der neunte Teil hat drei Sonderthemen vorgestellt. Der Referenzbereich umfasst die mittleren fünfundneunzig Prozent der Gesunden. Fünf von hundert Gesunden liegen also außerhalb. Entscheidungsgrenzen wie beim L D L oder beim H b A eins c beruhen dagegen auf Studien über Risiken. Die Einheit muss auf jedem Befund stehen, denn Verwechslungen können gefährlich sein.
+
+Kritische Werte zeigen eine sofortige Gefahr. Du prüfst kurz die Plausibilität und meldest sie dann sofort telefonisch. Jeder Anruf wird dokumentiert. Tumormarker dienen vor allem der Kontrolle im Verlauf. Sie gehören ins selbe Labor mit demselben Test, und viele harmlose Dinge erhöhen sie.
+
+Kurz gesagt: Ein Wert außerhalb des Referenzbereichs ist nicht automatisch krank, und ein Wert innerhalb ist nicht automatisch gut. Kritische Werte werden sofort gemeldet. Tumormarker zeigen den Verlauf, nicht die Diagnose.
+
+# Teil zehn: Schnellüberblick — Part ten: Quick reference
+
+Der zehnte Teil ist zum Wiederholen gedacht. Er ordnet das Wissen aus den Steckbriefen neu. Das erste Kapitel geht von der Frage der Ärztin aus und sagt, welche Werte zu welchem Organ gehören. Das zweite Kapitel geht von der Probe aus und sagt, welche Werte eine Störung wie Hämolyse verändert. Das dritte Kapitel stellt die häufigsten Verwechslungen nebeneinander. Am Ende steht eine Zusammenfassung des ganzen Leitfadens.
+
+# Profile für Organfragen — Panels for clinical questions
+
+Die Ärztin fordert selten einen einzelnen Wert an. Meist stellt sie eine Frage an ein Organ. Dafür gibt es feste Gruppen von Werten, die man Profile nennt. Dieses Kapitel geht die wichtigsten Profile durch.
+
+Die erste Frage lautet: Wie arbeitet die Niere? Dazu gehören das Kreatinin mit der e G F R, der Harnstoff, das Kalium und das Natrium. Bei ungewöhnlicher Muskelmasse kommt das Cystatin C dazu. Für die Frage nach einem frühen Schaden misst man den Albumin-Kreatinin-Quotienten im Urin. Bei einer fortgeschrittenen Nierenschwäche gehören auch Phosphat, Calcium und das Blutbild dazu.
+
+Die zweite Frage lautet: Ist die Leber geschädigt? Dazu gehören die A L T und die A S T für den Zellschaden und die Gamma-G T und die alkalische Phosphatase für den Gallestau. Das Bilirubin zeigt die Gelbsucht. Für die Leistung der Leber misst man das Albumin, die Gerinnung und bei Verwirrtheit das Ammoniak.
+
+Die dritte Frage lautet: Hat der Patient einen Herzinfarkt? Dazu gehört das hochsensitive Troponin, gemessen bei der Aufnahme und nach einer oder zwei Stunden. Bei Atemnot kommt die Frage nach einer Herzschwäche dazu. Dafür misst man das N T-pro B N P. Kalium und Magnesium sind wichtig, weil sie den Herzrhythmus beeinflussen.
+
+Die vierte Frage lautet: Hat der Patient eine Entzündung der Bauchspeicheldrüse? Dafür misst man die Lipase. Die Triglyzeride, das Calcium und die Leberwerte suchen nach der Ursache. Gallensteine und sehr hohe Blutfette sind häufige Auslöser.
+
+Die fünfte Frage lautet: Hat der Patient eine Infektion? Dazu gehören das C R P und das Blutbild. Bei Verdacht auf eine Blutvergiftung kommen das Procalcitonin und das Laktat dazu. Blutkulturen gehören dann ebenfalls dazu, aus der Mikrobiologie.
+
+Die sechste Frage lautet: Hat der Patient einen Diabetes, und wie gut ist er eingestellt? Dazu gehören die Nüchternglukose und das H b A eins c. Bei bekanntem Diabetes kommen die Blutfette, das Kreatinin und das Albumin im Urin dazu. Damit sucht man nach Schäden an Gefäßen und Niere.
+
+Die siebte Frage lautet: Arbeitet die Schilddrüse richtig? Hier beginnt man mit dem T S H. Ist es auffällig, folgen das freie T vier und oft das freie T drei. Bei Verdacht auf eine Entzündung durch das Immunsystem kommen die Antikörper gegen die Schilddrüse dazu.
+
+Die achte Frage lautet: Woher kommt eine Blutarmut? Bei kleinen roten Blutkörperchen misst man das Ferritin und das C R P. Bei großen roten Blutkörperchen misst man Vitamin B zwölf und Folsäure. Bei Verdacht auf Hämolyse misst man die L D H, das indirekte Bilirubin, das Haptoglobin und die jungen roten Blutkörperchen.
+
+Die neunte Frage lautet: Wie geht es den Knochen? Dazu gehören Calcium, Phosphat, alkalische Phosphatase, Vitamin D und das Parathormon.
+
+Die zehnte Frage stellt die Notaufnahme bei jedem schwer kranken Patienten. Dazu gehören die Blutgasanalyse mit pH-Wert und Laktat, Natrium, Kalium, Glukose, Kreatinin, C R P und das Blutbild. Viele dieser Werte liefert das Blutgasgerät schon in wenigen Minuten.
+
+Kurz gesagt: Für jede Organfrage gibt es ein festes Profil. Die Niere zeigen Kreatinin, Harnstoff und Kalium, die Leber A L T, A S T, Gamma-G T, alkalische Phosphatase und Bilirubin. Das Herz zeigen Troponin und N T-pro B N P, die Entzündung C R P und Procalcitonin. Die Blutarmut zeigen Ferritin, Vitamin B zwölf und Folsäure.
+
+# Hämolyse und Störungen — Haemolysis and interferences
+
+Dieses Kapitel geht nicht vom Organ aus, sondern von der Probe. Es sagt, welche Werte eine typische Störung verändert. So erkennst du ein Muster, wenn ein Befund nicht zum Patienten passt.
+
+Die häufigste Störung ist die Hämolyse. Das Serum ist dann rosa bis rot. Rote Blutkörperchen enthalten viele Stoffe in viel höherer Menge als das Plasma. Hämolyse erhöht deshalb das Kalium, die L D H, die A S T und das Magnesium. Sie erhöht auch das Phosphat, das Eisen, die Folsäure und die N S E. Am stärksten steigen die L D H und das Kalium. Die A L T steigt nur etwas. Einige Werte werden durch Hämolyse falsch niedrig. Das wichtigste Beispiel ist das hochsensitive Troponin T. Bei starker Hämolyse muss eine neue Probe her.
+
+Die zweite Störung ist die Lipämie, also viel Fett im Serum. Das Serum ist dann milchig trüb. Die Trübung stört fast alle Messungen mit Licht. In der indirekten Messung mit Elektroden täuscht sie ein zu niedriges Natrium vor. Die Lipase ist ebenfalls schwer zu messen. Das Labor klärt solche Proben mit einer sehr schnellen Zentrifuge. Die Triglyzeride misst man aus der ursprünglichen Probe.
+
+Die dritte Störung ist der Ikterus, also viel Bilirubin. Das Serum ist dann dunkelgelb. Bilirubin stört vor allem Reaktionen mit Peroxidase. Cholesterin, Triglyzeride und Harnsäure können dann falsch niedrig sein. Auch das Kreatinin nach Jaffe ist falsch niedrig.
+
+Die vierte Störung ist die Verunreinigung mit E D T A. Sie entsteht durch eine falsche Reihenfolge der Röhrchen oder durch Umfüllen aus dem Blutbildröhrchen. Das Muster ist sehr typisch. Das Kalium ist hoch, das Calcium sehr niedrig, das Magnesium und die alkalische Phosphatase sind niedrig.
+
+Die fünfte Störung ist die Infusion. Blut aus dem Arm mit der Infusion enthält die Infusionslösung. Bei Kochsalz steigen Natrium und Chlorid, bei Zuckerlösung die Glukose. Bei einer Kaliuminfusion steigt das Kalium. Alle anderen Werte sind verdünnt und damit falsch niedrig.
+
+Die sechste Störung ist die zu lange Wartezeit vor dem Zentrifugieren. Die Zellen leben weiter. Die Glukose sinkt, das Laktat und das Ammoniak steigen. Phosphat und L D H steigen ebenfalls. Das Kalium steigt besonders, wenn die Probe gekühlt wurde.
+
+Die siebte Störung trifft nur Immuntests. Biotin senkt Sandwichtests und erhöht kompetitive Tests. Das wichtigste Beispiel ist ein falsch niedriges T S H mit einem falsch hohen freien T vier. Fremde Antikörper machen meist falsch hohe Werte, zum Beispiel ein falsch positives h C G. Der Hook-Effekt macht bei extrem hohen Werten falsch niedrige Ergebnisse.
+
+Dazu kommen einzelne Fallen, die du aus den Steckbriefen kennst. Ammoniumheparin erhöht den Harnstoff und das Ammoniak. Licht zerstört Bilirubin und Folsäure. Rasburikase baut die Harnsäure im Röhrchen ab. Luftblasen verfälschen die Blutgasanalyse. Speichel erhöht die Amylase. Und Tocilizumab unterdrückt das C R P.
+
+Kurz gesagt: Hämolyse erhöht vor allem Kalium, L D H, A S T und Phosphat und senkt das Troponin T. Lipämie stört die Messung mit Licht und das Natrium. Ikterus stört Peroxidase-Reaktionen und das Jaffe-Kreatinin. E D T A macht hohes Kalium mit sehr niedrigem Calcium. Biotin und fremde Antikörper stören Immuntests.
+
+# Häufige Verwechslungen — Common mix-ups
+
+Dieses Kapitel stellt Werte und Begriffe nebeneinander, die man leicht verwechselt. Für jedes Paar nennt es das eine Merkmal, das sie trennt.
+
+Harnstoff und Harnsäure klingen ähnlich, kommen aber aus verschiedenen Quellen. Harnstoff entsteht in der Leber aus dem Ammoniak des Eiweißabbaus. Harnsäure entsteht aus den Purinen des Erbguts und macht die Gicht. Ähnlich ist es bei Kreatin, Kreatinin und Kreatinkinase. Kreatin ist der Energiespeicher im Muskel. Kreatinin ist sein Abfallstoff und zeigt die Niere. Die Kreatinkinase ist das Enzym, das den Speicher lädt, und zeigt Muskelschäden.
+
+Die A L T und die A S T zeigen beide einen Zellschaden. Die A L T ist fast nur in der Leber. Die A S T kommt auch aus Muskel, Herz und roten Blutkörperchen. Ihre alten Namen sind G P T und G O T. Steigt die A S T mit der Kreatinkinase, denk an den Muskel.
+
+Das Troponin und die Kreatinkinase zeigen beide Muskelschäden. Das Troponin ist spezifisch für den Herzmuskel und der Standard beim Infarkt. Die Kreatinkinase kommt vor allem aus dem Skelettmuskel. Das Troponin zeigt den Schaden am Herzen, das N T-pro B N P dagegen die Überlastung. Beim B N P und beim N T-pro B N P musst du an Sacubitril denken. Es erhöht nur das B N P.
+
+Das C R P und das Procalcitonin zeigen beide eine Entzündung. Das C R P steigt bei fast jeder Entzündung, auch bei Viren und nach Operationen. Das Procalcitonin steigt vor allem bei schweren bakteriellen Infektionen. Es eignet sich besser, um Antibiotika zu steuern.
+
+Ferritin und Serumeisen zeigen beide den Eisenhaushalt. Das Ferritin zeigt die Speicher und ist stabil. Das Serumeisen zeigt den Transport und schwankt stark über den Tag. Ein niedriges Ferritin beweist einen Mangel. Ein normales Ferritin schließt ihn bei einer Entzündung nicht aus.
+
+Gesamtcalcium und ionisiertes Calcium sind nicht dasselbe. Nur das ionisierte Calcium wirkt. Das Gesamtcalcium hängt vom Albumin ab. Ähnlich ist es beim T vier. Man misst das freie T vier, nicht das gesamte, weil fast alles an Eiweiß gebunden ist.
+
+Direktes und indirektes Bilirubin sind zwei Formen. Das indirekte ist das unverarbeitete Bilirubin vor der Leber und steigt bei Hämolyse. Das direkte ist das verarbeitete Bilirubin nach der Leber und steigt beim Gallestau.
+
+Glukose und H b A eins c zeigen beide den Zucker. Die Glukose zeigt den Moment, das H b A eins c die letzten acht bis zwölf Wochen. Beim H b A eins c musst du an die Lebensdauer der roten Blutkörperchen denken.
+
+Serum und Plasma unterscheiden sich in kleinen Dingen. Im Serum ist das Kalium etwas höher, weil die Blutplättchen beim Gerinnen Kalium abgeben. Im Plasma ist noch Fibrinogen, das in der Elektrophorese einen M-Gradienten vortäuscht.
+
+Einflussgrößen und Störfaktoren sind zwei Arten von Fehlerquellen. Einflussgrößen verändern den Wert im Körper, zum Beispiel Sport oder Essen. Störfaktoren verändern ihn im Röhrchen, zum Beispiel Hämolyse oder E D T A. Und schließlich sind Referenzbereich und Zielwert nicht dasselbe. Der Referenzbereich beschreibt Gesunde. Der Zielwert, etwa beim L D L, beschreibt ein gutes Ziel für einen Patienten mit Risiko.
+
+Kurz gesagt: Harnstoff kommt aus dem Eiweiß, Harnsäure aus dem Erbgut. Die A L T ist leberspezifisch, die A S T nicht. Troponin zeigt den Infarkt, Kreatinkinase den Skelettmuskel. Ferritin zeigt die Speicher, Serumeisen den Transport. Einflussgrößen wirken im Körper, Störfaktoren im Röhrchen.
+
+# Gesamtzusammenfassung — Final summary
+
+Dieser Leitfaden hat die Klinische Chemie als Landkarte der Organe vorgestellt. Jeder Laborwert gibt Auskunft über ein Organ oder einen Stoffwechsel. Jeder Wert ist entweder eine Stoffmenge, eine Enzymaktivität oder ein Ergebnis aus einem Immuntest.
+
+Der erste Teil waren die Elektrolyte und der Säure-Basen-Haushalt. Natrium zeigt den Wasserhaushalt, Kalium ist entscheidend für das Herz. Calcium wirkt nur in seiner freien Form. Die Blutgasanalyse trennt Störungen der Atmung von Störungen des Stoffwechsels. Das Laktat zeigt einen Sauerstoffmangel im Gewebe.
+
+Der zweite Teil war die Niere. Das Kreatinin und die e G F R zeigen die Filterleistung, das Cystatin C ergänzt sie. Harnstoff und Harnsäure sind Abfallstoffe aus Eiweiß und Erbgut. Das Albumin im Urin ist das Frühwarnzeichen für einen Schaden. Der dritte Teil waren die Leberwerte. A L T und A S T zeigen den Zellschaden, Gamma-G T und alkalische Phosphatase den Gallestau. Das Bilirubin macht die Gelbsucht. Das Ammoniak zeigt die Entgiftung und braucht eine Probe auf Eis.
+
+Der vierte Teil waren Herz, Muskel und Bauchspeicheldrüse. Das Troponin zeigt den Infarkt, die natriuretischen Peptide die Herzschwäche. Die Kreatinkinase zeigt den Skelettmuskel, die Lipase die Bauchspeicheldrüse. Der fünfte Teil waren Zucker und Fett. Die Glukose zeigt den Moment, das H b A eins c die letzten Monate. Das L D L ist der wichtigste Risikowert für die Gefäße.
+
+Der sechste Teil waren die Eiweiße, die Entzündung und das Eisen. Die Elektrophorese zeigt den M-Gradienten beim Myelom. Das C R P und das Procalcitonin zeigen die Entzündung. Das Ferritin zeigt die Eisenspeicher. Der siebte Teil waren Hormone und Vitamine. Bei der Schilddrüse beginnt man mit dem T S H. Das h C G zeigt die Schwangerschaft, das P S A die Prostata. Vitamin B zwölf, Folsäure und Vitamin D ergänzen das Bild.
+
+Die Teile acht und neun haben die Methoden und Regeln erklärt. Licht, Spannung und Antikörper sind die drei Prinzipien der Messung. Die Präanalytik ist die größte Fehlerquelle. Die Qualitätssicherung nach der Rilibäk prüft die Geräte jeden Tag. Kritische Werte meldest du sofort.
+
+Für deine Arbeit sind drei Gewohnheiten besonders wichtig. Erstens schaust du auf die Probe, bevor du einem Wert glaubst. Ist sie hämolytisch, trüb, gelb oder zu alt? Zweitens prüfst du, ob der Wert zum Patienten und zu seinen früheren Werten passt. Drittens achtest du immer auf die Einheit und auf den Referenzbereich deines Labors.
+
+Wenn du ein bestimmtes Thema wiederholen willst, spring direkt zu seinem Steckbrief. Für den schnellen Überblick vor einer Prüfung hörst du die Zusammenfassungen der Teile und den Schnellüberblick. Das nächste Lexikon wird ein anderes großes Fach der Laboratoriumsanalytik behandeln.
+
+Kurz gesagt: Die Klinische Chemie ordnet die Laborwerte nach Organen. Jeder Wert hat seine Probe, seine Methode, seine Werte und seine Fehlerquellen. Die meisten Fehler entstehen vor der Messung. Wer die Probe genau ansieht und die Muster kennt, erkennt einen falschen Befund, bevor er dem Patienten schadet.
