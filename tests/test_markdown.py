@@ -88,6 +88,8 @@ def test_voice_spellings_go_back_to_written_form():
             == "Das Stadium pT2 N1 M0, T1a, Grad G3, R0 und Gruppe A.")
     assert (readable("Das freie T vier, Influenza H eins N eins oder H drei N zwei, N null und M eins.")
             == "Das freie T4, Influenza H eins N eins oder H drei N zwei, N0 und M1.")
+    assert (readable("Ein S G L T-zwei-Hemmer, die Rili-B Ä K mit Teil B eins und Teil B zwei, das Protein vierzehn drei drei.")
+            == "Ein SGLT2-Hemmer, die Rili-BÄK mit Teil B1 und Teil B2, das Protein 14-3-3.")
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
@@ -111,6 +113,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     dna = text.replace("Probe und Messung:", "Das Ergebnis:")
     md = render_markdown(split_text(dna), "de", "encyclopedia_molekularbiologie_de.txt")
     assert "## 🧬 Staphylococcus aureus" in md and "#### 📈 Das Ergebnis" in md
+    fluid = text.replace("Probe und Messung:", "Entstehung:")
+    md = render_markdown(split_text(fluid), "de", "encyclopedia_urin_liquor_punktate_de.txt")
+    assert "## 💧 Staphylococcus aureus" in md and "#### 🌱 Entstehung" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 
