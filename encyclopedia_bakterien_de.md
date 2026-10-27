@@ -1235,7 +1235,7 @@ Für gesunde Menschen ist Pseudomonas meist harmlos. Bei geschwächten Patienten
 
 #### 💊 Resistenz und Therapie
 
-Pseudomonas ist von Natur aus gegen viele Antibiotika resistent. Ampicillin, Cefotaxim, Ceftriaxon, Ertapenem, Tetracycline und Cotrimoxazol wirken nicht. Wirksam sind nur einige Mittel, die man Pseudomonas-wirksam nennt. Dazu gehören Piperacillin mit Tazobactam, Ceftazidim, Cefepim, Meropenem, Imipenem, Ciprofloxacin und Aminoglykoside wie Tobramycin. Pseudomonas kann zudem während der Behandlung neue Resistenzen entwickeln. Auch Pseudomonas kann ein drei oder vier MRGN sein.
+Pseudomonas ist von Natur aus gegen viele Antibiotika resistent. Ampicillin, Cefotaxim, Ceftriaxon, Ertapenem, Tetracycline und Cotrimoxazol wirken nicht. Wirksam sind nur einige Mittel, die man Pseudomonas-wirksam nennt. Dazu gehören Piperacillin mit Tazobactam, Ceftazidim, Cefepim, Meropenem, Imipenem, Ciprofloxacin und Aminoglykoside wie Tobramycin. Pseudomonas kann zudem während der Behandlung neue Resistenzen entwickeln. Auch Pseudomonas kann ein drei oder 4MRGN sein.
 
 > [!TIP]
 > **🏥 Warum ist das im Labor wichtig?** Eine grüne, metallisch glänzende, süßlich riechende Kolonie mit positiver Oxidase ist fast sicher Pseudomonas aeruginosa. Im Antibiogramm testet man nur die Mittel, die überhaupt wirken können. Außerdem untersucht man im Krankenhaus manchmal Wasserhähne und Abflüsse, wenn sich Pseudomonas-Fälle auf einer Station häufen.
@@ -1269,13 +1269,13 @@ Acinetobacter verursacht Lungenentzündungen bei Beatmeten, Wundinfektionen, Har
 
 #### 💊 Resistenz und Therapie
 
-Acinetobacter baumannii ist von Natur aus gegen viele Mittel resistent, zum Beispiel gegen Ampicillin, Ertapenem und Fosfomycin. Dazu kommen viele erworbene Resistenzen. Weltweit ist er einer der wichtigsten vier MRGN-Erreger. Viele Stämme tragen eine Carbapenemase, oft vom Typ OXA dreiundzwanzig. Dann bleiben nur noch sehr wenige Mittel, zum Beispiel Colistin, Cefiderocol oder neue Kombinationen mit Sulbactam.
+Acinetobacter baumannii ist von Natur aus gegen viele Mittel resistent, zum Beispiel gegen Ampicillin, Ertapenem und Fosfomycin. Dazu kommen viele erworbene Resistenzen. Weltweit ist er einer der wichtigsten 4MRGN-Erreger. Viele Stämme tragen eine Carbapenemase, oft vom Typ OXA dreiundzwanzig. Dann bleiben nur noch sehr wenige Mittel, zum Beispiel Colistin, Cefiderocol oder neue Kombinationen mit Sulbactam.
 
 > [!TIP]
 > **🏥 Warum ist das im Labor wichtig?** Bei Acinetobacter muss das Labor schnell auf Carbapenemasen prüfen, weil ein einziger Patient einen Ausbruch auf einer ganzen Intensivstation auslösen kann. Der Nachweis eines carbapenemresistenten Acinetobacter ist meldepflichtig und führt zu strengen Hygienemaßnahmen. Oft werden dann auch die Mitpatienten untersucht.
 
 > [!NOTE]
-> **📌 Kurz gesagt:** Acinetobacter baumannii ist ein oxidasenegativer, unbeweglicher Kokkobazillus, der wie ein Diplokokkus aussehen kann. Er überlebt monatelang auf trockenen Flächen und trifft Intensivpatienten und Brandverletzte. Er tritt oft als vier MRGN mit Carbapenemase auf, und dieser Nachweis ist meldepflichtig.
+> **📌 Kurz gesagt:** Acinetobacter baumannii ist ein oxidasenegativer, unbeweglicher Kokkobazillus, der wie ein Diplokokkus aussehen kann. Er überlebt monatelang auf trockenen Flächen und trifft Intensivpatienten und Brandverletzte. Er tritt oft als 4MRGN mit Carbapenemase auf, und dieser Nachweis ist meldepflichtig.
 
 <p align="right"><a href="#contents">↑ Inhalt</a></p>
 
@@ -1561,7 +1561,7 @@ Bacteroides fragilis bildet fast immer eine Betalaktamase und ist gegen Penicill
 
 > Die übrigen gramnegativen Stäbchen teilt man in Nonfermenter, anspruchsvolle Stäbchen, gebogene Stäbchen und Anaerobier ein.
 >
-> Pseudomonas aeruginosa ist oxidasepositiv, bildet einen grünen Farbstoff, riecht süßlich und ist von Natur aus gegen viele Antibiotika resistent. Acinetobacter baumannii ist oxidasenegativ, überlebt lange auf trockenen Flächen und tritt oft als vier MRGN auf. Stenotrophomonas maltophilia ist von Natur aus gegen Carbapeneme resistent und wird mit Cotrimoxazol behandelt.
+> Pseudomonas aeruginosa ist oxidasepositiv, bildet einen grünen Farbstoff, riecht süßlich und ist von Natur aus gegen viele Antibiotika resistent. Acinetobacter baumannii ist oxidasenegativ, überlebt lange auf trockenen Flächen und tritt oft als 4MRGN auf. Stenotrophomonas maltophilia ist von Natur aus gegen Carbapeneme resistent und wird mit Cotrimoxazol behandelt.
 >
 > Haemophilus influenzae braucht X-Faktor und V-Faktor und wächst auf Kochblutagar. Legionellen leben in warmem Wasser und werden vor allem mit dem Urinantigentest gefunden. Bordetella pertussis verursacht Keuchhusten und wird mit PCR nachgewiesen. Pasteurella stammt aus Tierbissen, wächst nicht auf MacConkey-Agar und ist empfindlich gegen Penicillin.
 >
@@ -1917,15 +1917,15 @@ Im Labor fällt eine ESBL zuerst bei der Resistenztestung auf. Das Bakterium ist
 
 In deutschen Krankenhäusern verwendet man außerdem eine eigene Einteilung, die MRGN-Einteilung. MRGN bedeutet multiresistente gramnegative Stäbchen. Sie stammt von der Kommission für Krankenhaushygiene und Infektionsprävention am Robert Koch-Institut. Sie schaut auf vier Gruppen von Antibiotika, die bei schweren Infektionen am wichtigsten sind.
 
-Die vier Gruppen sind: erstens die Acylureidopenicilline, mit dem Leitmittel Piperacillin. Zweitens die Cephalosporine der dritten und vierten Generation, mit Cefotaxim und Ceftazidim. Drittens die Carbapeneme, mit Imipenem und Meropenem. Viertens die Fluorchinolone, mit Ciprofloxacin. Ist ein Bakterium gegen drei dieser vier Gruppen resistent, ist es ein drei MRGN. Ist es gegen alle vier resistent, ist es ein vier MRGN.
+Die vier Gruppen sind: erstens die Acylureidopenicilline, mit dem Leitmittel Piperacillin. Zweitens die Cephalosporine der dritten und vierten Generation, mit Cefotaxim und Ceftazidim. Drittens die Carbapeneme, mit Imipenem und Meropenem. Viertens die Fluorchinolone, mit Ciprofloxacin. Ist ein Bakterium gegen drei dieser vier Gruppen resistent, ist es ein 3MRGN. Ist es gegen alle vier resistent, ist es ein 4MRGN.
 
-Die Einteilung gilt für Enterobakterien, für Pseudomonas aeruginosa und für Acinetobacter baumannii. Ein typischer drei MRGN ist eine Escherichia coli mit ESBL, die zusätzlich gegen Ciprofloxacin resistent ist. Sie ist dann nur noch gegen Carbapeneme empfindlich. Bei Enterobakterien und Acinetobacter gilt außerdem: Wird eine Carbapenemase nachgewiesen, ist das Bakterium immer ein vier MRGN.
+Die Einteilung gilt für Enterobakterien, für Pseudomonas aeruginosa und für Acinetobacter baumannii. Ein typischer 3MRGN ist eine Escherichia coli mit ESBL, die zusätzlich gegen Ciprofloxacin resistent ist. Sie ist dann nur noch gegen Carbapeneme empfindlich. Bei Enterobakterien und Acinetobacter gilt außerdem: Wird eine Carbapenemase nachgewiesen, ist das Bakterium immer ein 4MRGN.
 
 > [!TIP]
-> **🏥 Warum ist das im Labor wichtig?** Die MRGN-Einteilung bestimmt die Hygienemaßnahmen. Patienten mit vier MRGN werden in allen Bereichen des Krankenhauses isoliert. Bei drei MRGN gilt das meist nur in Risikobereichen wie Intensivstationen oder Krebsstationen. Der Befund muss deshalb klar und schnell auf der Station ankommen. Viele Laborprogramme markieren ihn automatisch.
+> **🏥 Warum ist das im Labor wichtig?** Die MRGN-Einteilung bestimmt die Hygienemaßnahmen. Patienten mit 4MRGN werden in allen Bereichen des Krankenhauses isoliert. Bei 3MRGN gilt das meist nur in Risikobereichen wie Intensivstationen oder Krebsstationen. Der Befund muss deshalb klar und schnell auf der Station ankommen. Viele Laborprogramme markieren ihn automatisch.
 
 > [!NOTE]
-> **📌 Kurz gesagt:** Eine ESBL ist ein Enzym, das Penicilline und alle Cephalosporine zerstört, nicht aber Carbapeneme, und durch Clavulansäure gehemmt wird. Die deutsche MRGN-Einteilung prüft vier Antibiotikagruppen: Piperacillin, Cephalosporine, Carbapeneme und Fluorchinolone. Resistenz gegen drei ergibt drei MRGN, gegen alle vier ergibt vier MRGN.
+> **📌 Kurz gesagt:** Eine ESBL ist ein Enzym, das Penicilline und alle Cephalosporine zerstört, nicht aber Carbapeneme, und durch Clavulansäure gehemmt wird. Die deutsche MRGN-Einteilung prüft vier Antibiotikagruppen: Piperacillin, Cephalosporine, Carbapeneme und Fluorchinolone. Resistenz gegen drei ergibt 3MRGN, gegen alle vier ergibt 4MRGN.
 
 <p align="right"><a href="#contents">↑ Inhalt</a></p>
 
@@ -1986,7 +1986,7 @@ Die Sicherheitswerkbank ist dein wichtigstes Schutzgerät. Sie saugt Luft von vo
 >
 > Ein MRSA trägt das mec-A-Gen und ist gegen fast alle Betalaktame resistent. Man erkennt ihn mit dem Cefoxitin-Test, Schnelltests, PCR oder chromogenen Platten. VRE sind meist Enterococcus faecium mit den Genen van-A oder van-B. Man sucht sie im Rektalabstrich.
 >
-> Eine ESBL zerstört alle Cephalosporine und wird durch Clavulansäure gehemmt. Carbapenemasen wie OXA achtundvierzig, KPC, NDM und VIM zerstören sogar die Carbapeneme. Die MRGN-Einteilung prüft Piperacillin, Cephalosporine, Carbapeneme und Fluorchinolone. Drei Resistenzen ergeben drei MRGN, vier ergeben vier MRGN.
+> Eine ESBL zerstört alle Cephalosporine und wird durch Clavulansäure gehemmt. Carbapenemasen wie OXA achtundvierzig, KPC, NDM und VIM zerstören sogar die Carbapeneme. Die MRGN-Einteilung prüft Piperacillin, Cephalosporine, Carbapeneme und Fluorchinolone. Drei Resistenzen ergeben 3MRGN, vier ergeben 4MRGN.
 >
 > Erreger werden in Risikogruppen eingeteilt. Fast alle sind Risikogruppe zwei, die Tuberkulose und Salmonella Typhi gehören zur Risikogruppe drei. Die Sicherheitswerkbank schützt dich und deine Proben.
 >

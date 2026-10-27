@@ -37,7 +37,8 @@ SECTION_ICONS = {
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
                "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️",
-               "histologie": "🔬", "molekular": "🧬", "urin": "💧"}
+               "histologie": "🔬", "molekular": "🧬", "urin": "💧",
+               "mikrobiologie": "🧫"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
@@ -77,7 +78,8 @@ def readable(text: str) -> str:
                             ("P D L eins", "PD-L1"), ("S hundert", "S100"), ("T T F eins", "TTF-1"),
                             ("C I N eins", "CIN1"), ("C I N zwei", "CIN2"), ("C I N drei", "CIN3"),
                             ("S G L T-zwei", "SGLT2"), ("Rili-B Ä K", "Rili-BÄK"), ("Teil B eins", "Teil B1"),
-                            ("Teil B zwei", "Teil B2"), ("Protein vierzehn drei drei", "Protein 14-3-3")):
+                            ("Teil B zwei", "Teil B2"), ("Protein vierzehn drei drei", "Protein 14-3-3"),
+                            ("drei M R G N", "3MRGN"), ("vier M R G N", "4MRGN")):
         text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
     text = re.sub(r"\b(Blutgruppen?|Gruppe) null\b", r"\1 0", text)
     text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)
