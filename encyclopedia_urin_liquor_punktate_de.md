@@ -1,0 +1,1876 @@
+<div align="center">
+
+# 📚 Urin, Liquor und Punktate: Steckbriefe zu Urinstatus, Sediment, Nervenwasser, Ergüssen und Sonderproben
+
+`34 Steckbriefe` · `9 Teile` · `65 Kapitel`
+
+</div>
+
+> [!NOTE]
+> **So ist jeder Steckbrief aufgebaut:** 🧭 Einordnung → 🌱 Entstehung → 🧪 Probe und Messung → 📋 Der Befund → ⚠️ Fehlerquellen → 🏥 Warum ist das im Labor wichtig? → 📌 Kurz gesagt
+
+<a id="contents"></a>
+
+## 🗂️ Inhalt
+
+- [Hinweise zum Leitfaden](#hinweise-zum-leitfaden)
+- [Die Landkarte der Proben](#die-landkarte-der-proben)
+
+**🟣 [Teil eins: Grundlagen](#teil-eins-grundlagen)**
+
+- 📖 [Die Harnbildung](#die-harnbildung)
+- 📖 [Die Uringewinnung](#die-uringewinnung)
+- 📖 [Der Sammelurin](#der-sammelurin)
+- 📝 [Zusammenfassung Teil eins](#zusammenfassung-teil-eins)
+
+**🔵 [Teil zwei: Der Urinstatus](#teil-zwei-der-urinstatus)**
+
+- 📖 [Der Teststreifen](#der-teststreifen)
+- `01` 💧 [Spezifisches Gewicht](#spezifisches-gewicht)
+- `02` 💧 [Die Osmolalität](#die-osmolalität)
+- `03` 💧 [Der pH-Wert](#der-ph-wert)
+- `04` 💧 [Die Proteinurie](#die-proteinurie)
+- `05` 💧 [Glukose im Urin](#glukose-im-urin)
+- `06` 💧 [Ketonkörper](#ketonkörper)
+- `07` 💧 [Bilirubin, Urobilinogen](#bilirubin-urobilinogen)
+- `08` 💧 [Nitrit](#nitrit)
+- `09` 💧 [Leukozyten im Urin](#leukozyten-im-urin)
+- `10` 💧 [Blut im Urin](#blut-im-urin)
+- 📝 [Zusammenfassung Teil zwei](#zusammenfassung-teil-zwei)
+
+**🔴 [Teil drei: Das Urinsediment](#teil-drei-das-urinsediment)**
+
+- 📖 [Sediment und Automaten](#sediment-und-automaten)
+- `11` 💧 [Erythrozyten im Sediment](#erythrozyten-im-sediment)
+- `12` 💧 [Leukozyten und Epithelien](#leukozyten-und-epithelien)
+- `13` 💧 [Die Zylinder](#die-zylinder)
+- `14` 💧 [Die Kristalle](#die-kristalle)
+- `15` 💧 [Erreger im Sediment](#erreger-im-sediment)
+- 📝 [Zusammenfassung Teil drei](#zusammenfassung-teil-drei)
+
+**🟠 [Teil vier: Spezielle Urinanalytik](#teil-vier-spezielle-urinanalytik)**
+
+- `16` 💧 [Bence-Jones-Protein](#bence-jones-protein)
+- `17` 💧 [Das Drogenscreening](#das-drogenscreening)
+- `18` 💧 [Die Harnsteinanalyse](#die-harnsteinanalyse)
+- `19` 💧 [Katecholamine, Metanephrine](#katecholamine-metanephrine)
+- 📝 [Zusammenfassung Teil vier](#zusammenfassung-teil-vier)
+
+**🟡 [Teil fünf: Der Liquor](#teil-fünf-der-liquor)**
+
+- 📖 [Liquor und Punktion](#liquor-und-punktion)
+- `20` 💧 [Die Liquorzellzahl](#die-liquorzellzahl)
+- `21` 💧 [Die Liquorzytologie](#die-liquorzytologie)
+- `22` 💧 [Die Schrankenfunktion](#die-schrankenfunktion)
+- `23` 💧 [Oligoklonale Banden](#oligoklonale-banden)
+- `24` 💧 [Liquorglukose und Laktat](#liquorglukose-und-laktat)
+- `25` 💧 [Die Liquorblutung](#die-liquorblutung)
+- 📝 [Zusammenfassung Teil fünf](#zusammenfassung-teil-fünf)
+
+**⚪ [Teil sechs: Punktate](#teil-sechs-punktate)**
+
+- 📖 [Transsudat oder Exsudat](#transsudat-oder-exsudat)
+- `26` 💧 [Der Pleuraerguss](#der-pleuraerguss)
+- `27` 💧 [Der Aszites](#der-aszites)
+- `28` 💧 [Das Gelenkpunktat](#das-gelenkpunktat)
+- `29` 💧 [Die Bronchiallavage](#die-bronchiallavage)
+- 📝 [Zusammenfassung Teil sechs](#zusammenfassung-teil-sechs)
+
+**🛡️ [Teil sieben: Stuhl, Sonderproben](#teil-sieben-stuhl-sonderproben)**
+
+- `30` 💧 [Okkultes Blut](#okkultes-blut)
+- `31` 💧 [Das Calprotectin](#das-calprotectin)
+- `32` 💧 [Die Pankreaselastase](#die-pankreaselastase)
+- `33` 💧 [Das Spermiogramm](#das-spermiogramm)
+- `34` 💧 [Der Schweißtest](#der-schweißtest)
+- 📝 [Zusammenfassung Teil sieben](#zusammenfassung-teil-sieben)
+
+**🧫 [Teil acht: Qualität, Sicherheit](#teil-acht-qualität-sicherheit)**
+
+- 📖 [Die Qualitätssicherung](#die-qualitätssicherung)
+- 📖 [Hygiene beim Probenumgang](#hygiene-beim-probenumgang)
+- 📝 [Zusammenfassung Teil acht](#zusammenfassung-teil-acht)
+
+**⚡ [Teil neun: Schnellüberblick](#teil-neun-schnellüberblick)**
+
+- 📖 [Typische Befundmuster](#typische-befundmuster)
+- 📖 [Häufige Verwechslungen](#häufige-verwechslungen)
+- 📖 [Gesamtzusammenfassung](#gesamtzusammenfassung)
+
+- 🔤 [Register A–Z](#register)
+
+---
+
+<a id="hinweise-zum-leitfaden"></a>
+
+## 🗺️ Hinweise zum Leitfaden
+<sub>Using this guide</sub>
+
+Dies ist der dreizehnte Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Der Leitfaden davor hat die Molekularbiologie behandelt. Dieser Leitfaden führt dich zu den Körperflüssigkeiten außer dem Blut.
+
+Das Blut ist die häufigste Probe im Labor, aber nicht die einzige. Jeden Tag kommen Urin, Nervenwasser, Ergüsse aus Brust und Bauch, Gelenkflüssigkeit und Stuhl. Jede dieser Proben hat eigene Regeln. Sie verändert sich schnell, sie braucht eigene Röhrchen, und ihre Werte bedeuten etwas anderes als im Blut.
+
+Der größte Teil dreht sich um den Urin. Der Urinstatus mit dem Teststreifen und das Sediment unter dem Mikroskop gehören zu den häufigsten Untersuchungen überhaupt. Danach folgen das Nervenwasser, das man Liquor nennt, und die Punktate. Am Ende stehen Stuhl, Sperma und Schweiß.
+
+Jeder Steckbrief hat immer dieselben Abschnitte in derselben Reihenfolge. Der erste Abschnitt heißt Einordnung. Er sagt, wohin das Thema gehört. Der zweite heißt Entstehung. Er erklärt, woher der Stoff oder die Zelle in der Probe kommt. Der dritte heißt Probe und Messung. Der vierte heißt Der Befund. Er sagt, was ein Ergebnis bedeutet. Der fünfte heißt Fehlerquellen. Danach folgen wie gewohnt die Absätze »Warum ist das im Labor wichtig?« und »Kurz gesagt«.
+
+Der Leitfaden hat neun Teile. Teil eins sind die Grundlagen des Urins. Teil zwei ist der Urinstatus mit dem Teststreifen. Teil drei ist das Urinsediment. Teil vier ist die spezielle Urinanalytik. Teil fünf ist der Liquor. Teil sechs sind die Punktate. Teil sieben sind Stuhl und Sonderproben. Teil acht sind Qualität und Sicherheit. Teil neun ist ein Schnellüberblick zum Wiederholen.
+
+Du musst den Leitfaden nicht von vorn bis hinten hören. Jedes Kapitel ist ein eigener Eintrag. Wenn dir im Sediment ein seltsamer Kristall begegnet, spring im Player direkt zu den Kristallen. Für die Prüfung eignen sich die Zusammenfassungen am Ende jedes Teils und der Schnellüberblick am Schluss.
+
+Ein Wort zu den Zahlen. Alle Grenzwerte in diesem Leitfaden sind ungefähre Werte. Sie hängen vom Teststreifen, vom Gerät und vom Labor ab. Es gilt immer der Bereich deines Labors. Zellen zählt man heute meist pro Mikroliter, im Sediment oft auch pro Gesichtsfeld des Mikroskops.
+
+Abkürzungen werden wie bisher Buchstabe für Buchstabe gesprochen. Einige kennst du schon, etwa LDH oder EDTA. Der Leitfaden setzt die Klinische Chemie voraus, besonders Kreatinin, Albumin im Urin und das hCG. Die Urinkultur und die Erreger im Liquor findest du im Leitfaden zu den Bakterien.
+
+Wir beginnen mit einer Landkarte. Sie zeigt, welche Probe welche Frage beantwortet. Danach folgen die Steckbriefe.
+
+---
+
+<a id="die-landkarte-der-proben"></a>
+
+## 🗺️ Die Landkarte der Proben
+<sub>Map of specimens</sub>
+
+Jede Körperflüssigkeit erzählt etwas über das Organ, aus dem sie kommt. Darum ordnet die Landkarte die Proben nach ihrem Ursprung.
+
+Der Urin kommt aus der Niere. Er zeigt, ob die Niere gut filtert, ob sie Eiweiß oder Blut verliert und ob die Harnwege entzündet sind. Er zeigt aber auch Stoffe aus dem ganzen Körper, etwa Zucker, Ketonkörper, Bilirubin oder Drogen.
+
+Der Liquor umspült Gehirn und Rückenmark. Er zeigt Entzündungen wie eine Hirnhautentzündung, Blutungen unter der Hirnhaut und Krankheiten wie die Multiple Sklerose. Er ist eine kostbare Probe, denn man gewinnt ihn nur durch eine Punktion.
+
+Die Punktate kommen aus Körperhöhlen, in denen sich Flüssigkeit sammelt. Dazu gehören der Pleuraerguss im Brustkorb, der Aszites im Bauch und die Flüssigkeit im Gelenk. Die wichtigste Frage ist immer dieselbe. Ist der Erguss ein Transsudat oder ein Exsudat?
+
+Der Stuhl zeigt Blutungen und Entzündungen im Darm und die Arbeit der Bauchspeicheldrüse. Das Sperma zeigt die Fruchtbarkeit des Mannes. Der Schweiß hilft bei der Diagnose der Mukoviszidose.
+
+Merke dir für den Anfang drei Fragen. Erstens: Wie alt ist die Probe, und wie wurde sie gelagert? Zweitens: Wurde zur gleichen Zeit Blut abgenommen, mit dem man vergleichen kann? Drittens: Passt der Befund zu der Frage, die der Arzt gestellt hat? Diese drei Fragen ziehen sich durch den ganzen Leitfaden.
+
+---
+
+<a id="teil-eins-grundlagen"></a>
+
+# 🟣 Teil eins: Grundlagen
+<sub>Part one: Basics</sub>
+
+Der erste Teil erklärt, wie der Urin entsteht und wie man ihn richtig gewinnt. Fast jeder Fehler im Urinlabor beginnt vor der Messung. Ein alter, warmer oder verunreinigter Urin gibt falsche Ergebnisse, egal wie gut das Gerät ist.
+
+Der Teil hat drei Kapitel. Zuerst kommt die Harnbildung in der Niere. Dann folgt die Gewinnung des Urins. Am Ende steht der Sammelurin.
+
+<a id="die-harnbildung"></a>
+
+## 📖 Die Harnbildung
+<sub>How urine is formed</sub>
+
+Jede Niere enthält etwa eine Million kleiner Filtereinheiten. Sie heißen Nephrone. Jedes Nephron besteht aus einem Nierenkörperchen und einem langen Röhrchen, dem Tubulus. Im Nierenkörperchen liegt ein Knäuel feiner Blutgefäße, der Glomerulus.
+
+Im Glomerulus wird das Blut gefiltert. Wasser, Salze, Zucker und kleine Moleküle treten in den Tubulus über. Blutzellen und große Eiweiße bleiben im Blut. Dieses erste Filtrat heißt Primärharn. Pro Tag entstehen etwa hundertachtzig Liter davon.
+
+Im Tubulus holt der Körper fast alles zurück, was er braucht. Zucker, Aminosäuren und die meisten Salze werden wieder aufgenommen. Auch der größte Teil des Wassers kehrt ins Blut zurück. Kleine Eiweiße, die doch durch den Filter gelangt sind, nehmen die Tubuluszellen ebenfalls auf.
+
+Am Ende bleiben etwa ein bis zwei Liter Endharn pro Tag. Er enthält Wasser, Salze, Harnstoff, Kreatinin, Harnsäure und Farbstoffe. Die Farbstoffe geben ihm die gelbe Farbe. Je weniger man trinkt, desto konzentrierter und dunkler ist der Urin.
+
+Für das Labor ist eine Unterscheidung wichtig. Ein Schaden am Glomerulus lässt große Eiweiße und rote Blutkörperchen durch. Ein Schaden am Tubulus lässt kleine Eiweiße im Urin, weil sie nicht mehr zurückgeholt werden. Diese beiden Muster begegnen dir im ganzen Leitfaden wieder.
+
+Nach der Niere fließt der Harn durch den Harnleiter in die Blase und durch die Harnröhre nach außen. Auch auf diesem Weg kann etwas hinzukommen. Das sind etwa Blut aus einem Stein, Bakterien aus einer Entzündung oder Zellen aus einem Tumor der Blase.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-uringewinnung"></a>
+
+## 📖 Die Uringewinnung
+<sub>Collecting urine</sub>
+
+Die richtige Gewinnung ist der wichtigste Schritt der ganzen Urinanalytik. Der Standard ist der Mittelstrahlurin. Man reinigt zuerst die Harnröhrenmündung mit Wasser. Dann lässt man die erste Portion in die Toilette laufen und fängt die mittlere Portion im Becher auf.
+
+Die erste Portion spült Bakterien und Zellen aus der Harnröhre weg. Bei Frauen hält man dabei die Schamlippen gespreizt, bei Männern zieht man die Vorhaut zurück. So enthält der Mittelstrahl vor allem den Urin aus der Blase.
+
+Am besten eignet sich der erste Morgenurin. Er hat lange in der Blase gestanden und ist konzentriert. Bakterien hatten Zeit, Nitrit zu bilden. Für viele Fragen reicht aber auch ein zweiter Morgenurin oder ein Spontanurin.
+
+Es gibt weitere Arten der Gewinnung. Der Katheterurin wird mit einem Röhrchen aus der Blase entnommen. Der Blasenpunktionsurin wird mit einer Nadel durch die Bauchdecke gewonnen. Er ist der sauberste Urin, denn er berührt die Harnröhre gar nicht. Bei Säuglingen nutzt man oft einen Klebebeutel, der leicht verunreinigt wird.
+
+Die Zeit ist der größte Feind des Urins. Bei Raumtemperatur vermehren sich Bakterien schnell. Zellen und Zylinder zerfallen, Glukose wird abgebaut, und der pH-Wert steigt. Darum soll der Urin innerhalb von zwei Stunden untersucht werden. Wenn das nicht geht, kühlt man ihn im Kühlschrank.
+
+Auf dem Becher müssen der Name, das Datum, die Uhrzeit und die Art der Gewinnung stehen. Nur so kann das Labor einen Befund richtig deuten. Ein Katheterurin mit vielen Bakterien bedeutet etwas anderes als ein Klebebeutelurin mit vielen Bakterien.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="der-sammelurin"></a>
+
+## 📖 Der Sammelurin
+<sub>Timed urine collection</sub>
+
+Manche Stoffe scheidet die Niere nicht gleichmäßig aus. Ihre Menge schwankt über den Tag. Für sie sammelt man den Urin über vierundzwanzig Stunden. Das heißt Sammelurin. So misst man die Menge, die pro Tag ausgeschieden wird.
+
+Das Sammeln beginnt am Morgen. Den ersten Morgenurin verwirft man, denn er wurde in der Nacht davor gebildet. Man notiert die Uhrzeit. Danach sammelt man jeden Urin in einem großen Gefäß. Am nächsten Morgen zur gleichen Uhrzeit sammelt man die letzte Portion noch mit ein.
+
+Im Labor misst man zuerst das Volumen der ganzen Sammlung. Dann mischt man gut und nimmt eine Probe ab. Der Wert in der Probe wird mit dem Volumen multipliziert. So erhält man die Menge pro vierundzwanzig Stunden.
+
+Manche Stoffe brauchen einen Zusatz im Sammelgefäß. Für Katecholamine und Metanephrine legt man meist Säure vor. Sie schützt die Stoffe vor dem Abbau. Das Gefäß soll kühl und dunkel stehen. Der Patient muss genau wissen, welches Gefäß er nimmt und wie er mit der Säure umgeht.
+
+Der häufigste Fehler beim Sammelurin ist eine unvollständige Sammlung. Fehlt eine Portion, ist die Tagesmenge zu niedrig. Eine Kontrolle bietet das Kreatinin. Seine Tagesmenge ist bei einem Menschen recht konstant. Ist sie viel zu niedrig, wurde wahrscheinlich nicht vollständig gesammelt.
+
+Weil der Sammelurin mühsam ist, ersetzt man ihn heute oft durch einen Quotienten. Man misst einen Stoff und das Kreatinin im gleichen Spontanurin und teilt beide. Für das Eiweiß und das Albumin ist dieser Quotient der Standard. Für Katecholamine und Steine bleibt der Sammelurin oft nötig.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-eins"></a>
+
+### 📝 Zusammenfassung Teil eins
+<sub>Part one summary</sub>
+
+> Der Glomerulus filtert das Blut, der Tubulus holt fast alles zurück. Ein glomerulärer Schaden lässt große Eiweiße und rote Blutkörperchen durch, ein tubulärer Schaden lässt kleine Eiweiße im Urin.
+>
+> Der Standard ist der Mittelstrahlurin, am besten der erste Morgenurin. Er wird innerhalb von zwei Stunden untersucht oder gekühlt. Der Sammelurin misst die Tagesmenge. Das Kreatinin zeigt, ob vollständig gesammelt wurde.
+>
+> Im nächsten Teil lernst du den Urinstatus mit dem Teststreifen kennen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-zwei-der-urinstatus"></a>
+
+# 🔵 Teil zwei: Der Urinstatus
+<sub>Part two: Urinalysis</sub>
+
+Der zweite Teil behandelt den Urinstatus. Das ist die schnelle Untersuchung des Urins mit einem Teststreifen. Sie dauert nur eine Minute und gibt doch viele Hinweise auf Krankheiten der Niere, der Harnwege und des Stoffwechsels.
+
+Der Teil beginnt mit einem Kapitel über den Teststreifen selbst. Danach folgen zehn Steckbriefe. Zuerst kommen das spezifische Gewicht, die Osmolalität und der pH-Wert. Dann folgen Eiweiß, Glukose und Ketonkörper. Danach kommen Bilirubin und Urobilinogen, Nitrit, Leukozyten und Blut.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `01` | [**Spezifisches Gewicht**](#spezifisches-gewicht) | Das spezifische Gewicht zeigt die Konzentration des Urins. |
+| `02` | [**Die Osmolalität**](#die-osmolalität) | Die Osmolalität zählt alle gelösten Teilchen. |
+| `03` | [**Der pH-Wert**](#der-ph-wert) | Der pH-Wert des Urins liegt meist zwischen fünf und sieben. |
+| `04` | [**Die Proteinurie**](#die-proteinurie) | Normal sind weniger als etwa hundertfünfzig Milligramm Eiweiß am Tag. |
+| `05` | [**Glukose im Urin**](#glukose-im-urin) | Glukose erscheint im Urin, wenn der Blutzucker die Nierenschwelle von etwa hundertsechzig bis hundertachtzig überschreitet. |
+| `06` | [**Ketonkörper**](#ketonkörper) | Ketonkörper entstehen bei Zuckermangel in den Zellen. |
+| `07` | [**Bilirubin, Urobilinogen**](#bilirubin-urobilinogen) | Nur konjugiertes Bilirubin erscheint im Urin. |
+| `08` | [**Nitrit**](#nitrit) | Nitrit entsteht, wenn gramnegative Bakterien wie Escherichia coli Nitrat umbauen. |
+| `09` | [**Leukozyten im Urin**](#leukozyten-im-urin) | Das Leukozytenfeld erkennt die Esterase der Granulozyten, auch aus zerfallenen Zellen. |
+| `10` | [**Blut im Urin**](#blut-im-urin) | Das Blutfeld erkennt rote Blutkörperchen, Hämoglobin und Myoglobin über ihre Peroxidasewirkung. |
+
+<a id="der-teststreifen"></a>
+
+## 📖 Der Teststreifen
+<sub>The urine test strip</sub>
+
+Ein Teststreifen ist ein Plastikstreifen mit mehreren kleinen Testfeldern. Jedes Feld enthält Reagenzien, die mit einem Stoff im Urin reagieren. Dabei ändert sich die Farbe des Feldes. Die Stärke der Farbe zeigt, wie viel von dem Stoff im Urin ist.
+
+Ein typischer Streifen misst zehn Werte. Das sind das spezifische Gewicht, der pH-Wert, Eiweiß, Glukose, Ketonkörper, Bilirubin, Urobilinogen, Nitrit, Leukozyten und Blut. Manche Streifen messen zusätzlich Albumin, Kreatinin oder Ascorbinsäure.
+
+Die Arbeit ist einfach, aber sie hat feste Regeln. Der Urin muss frisch und gut gemischt sein und Raumtemperatur haben. Man taucht den Streifen kurz ein, sodass alle Felder nass werden. Dann streift man den überschüssigen Urin am Rand ab. Nach der vorgeschriebenen Zeit liest man ab.
+
+Heute liest meist ein Gerät den Streifen ab. Es misst das Licht, das von jedem Feld zurückgeworfen wird. Das heißt Reflexionsphotometrie. Das Gerät liest immer zur richtigen Zeit ab und kennt keine Täuschung durch schlechtes Licht. Es überträgt das Ergebnis direkt in die Labor-EDV.
+
+Der Befund ist halbquantitativ. Das heißt, er gibt keine genaue Zahl, sondern Stufen an. Man schreibt negativ, Spur, ein Plus, zwei Plus oder drei Plus. Manche Geräte geben ungefähre Konzentrationen an. Diese sind aber nur Schätzwerte.
+
+Die Dose der Teststreifen muss immer gut verschlossen sein. Feuchtigkeit und Licht verderben die Felder. Man berührt die Felder nicht mit den Fingern. Abgelaufene Streifen benutzt man nicht. Mit Kontrollurinen prüft man regelmäßig, ob die Streifen richtig messen.
+
+Ein wichtiger Störfaktor ist die Ascorbinsäure, also Vitamin C. Sie ist ein starkes Reduktionsmittel. Sie hemmt die Farbreaktionen von Glukose, Blut, Bilirubin und Nitrit. Wer viel Vitamin C einnimmt, kann darum falsch negative Ergebnisse haben. Manche Streifen haben ein eigenes Feld, das davor warnt.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="spezifisches-gewicht"></a>
+
+## 💧 Spezifisches Gewicht
+<sub>Specific gravity</sub>
+
+> `Steckbrief 01` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Das spezifische Gewicht zeigt, wie konzentriert der Urin ist. Es vergleicht das Gewicht des Urins mit dem Gewicht von Wasser. Es sagt, ob die Niere den Harn konzentrieren und verdünnen kann. Außerdem hilft es, andere Werte richtig zu deuten.
+
+#### 🌱 Entstehung
+
+Die Niere passt die Konzentration des Urins an die Trinkmenge an. Wer wenig trinkt, bildet wenig und konzentrierten Urin. Wer viel trinkt, bildet viel und verdünnten Urin. Gesteuert wird das vom antidiuretischen Hormon aus der Hirnanhangsdrüse. Es lässt den Tubulus mehr Wasser zurückholen.
+
+#### 🧪 Probe und Messung
+
+Auf dem Teststreifen misst man das spezifische Gewicht indirekt. Das Feld reagiert auf gelöste Salze, also auf Ionen. Ein Farbumschlag zeigt die Menge der Ionen. Genauer misst man mit einem Refraktometer. Es misst, wie stark der Urin das Licht bricht.
+
+#### 📋 Der Befund
+
+Das spezifische Gewicht liegt normal zwischen etwa eins Komma null null drei und eins Komma null drei fünf Gramm pro Milliliter. Ein hoher Wert zeigt konzentrierten Urin, etwa bei Durst oder Fieber. Ein niedriger Wert zeigt verdünnten Urin, etwa nach viel Trinken oder bei einem Diabetes insipidus. Bleibt der Wert immer bei etwa eins Komma null eins null, kann die Niere weder konzentrieren noch verdünnen. Das heißt Isosthenurie und spricht für eine schwere Nierenschwäche.
+
+#### ⚠️ Fehlerquellen
+
+Das Feld auf dem Teststreifen erfasst nur Ionen. Zucker und Eiweiß erhöhen das echte spezifische Gewicht, aber nicht den Wert auf dem Streifen. Das Refraktometer erfasst sie dagegen. Röntgenkontrastmittel erhöhen das spezifische Gewicht stark. Ein sehr saurer oder sehr basischer Urin kann den Streifen stören.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein sehr verdünnter Urin kann andere Befunde verdecken. Eiweiß, Zellen und Bakterien sind dann so verdünnt, dass sie kaum auffallen. Darum schaut man bei einem negativen Befund immer auch auf das spezifische Gewicht. Beim Drogenscreening zeigt ein sehr niedriger Wert eine mögliche Verdünnung.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das spezifische Gewicht zeigt die Konzentration des Urins. Normal liegt es etwa zwischen eins Komma null null drei und eins Komma null drei fünf. Ein fester Wert um eins Komma null eins null heißt Isosthenurie. Der Teststreifen erfasst nur Ionen, das Refraktometer auch Zucker und Eiweiß.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-osmolalität"></a>
+
+## 💧 Die Osmolalität
+<sub>Urine osmolality</sub>
+
+> `Steckbrief 02` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Die Osmolalität ist das genaueste Maß für die Konzentration des Urins. Sie zählt alle gelösten Teilchen in einem Kilogramm Wasser. Man misst sie vor allem, um die Konzentrationsfähigkeit der Niere zu prüfen und einen Diabetes insipidus zu erkennen.
+
+#### 🌱 Entstehung
+
+Jedes gelöste Teilchen zählt gleich, egal wie groß es ist. Im Urin sind das vor allem Harnstoff, Natrium, Kalium und Chlorid. Ein großes Eiweiß zählt so viel wie ein kleines Natrium-Ion. Darum hängt die Osmolalität kaum vom Eiweiß ab, anders als das spezifische Gewicht.
+
+#### 🧪 Probe und Messung
+
+Man misst die Osmolalität mit einem Osmometer. Die meisten Geräte nutzen die Gefrierpunkterniedrigung. Je mehr Teilchen gelöst sind, desto tiefer liegt der Gefrierpunkt. Man misst oft Urin und Serum zur gleichen Zeit und vergleicht beide.
+
+#### 📋 Der Befund
+
+Die Osmolalität des Urins kann von etwa fünfzig bis etwa zwölfhundert Milliosmol pro Kilogramm reichen. Das Serum liegt fast immer bei etwa zweihundertachtzig bis dreihundert. Nach einer Nacht ohne Trinken sollte der Urin deutlich konzentrierter sein als das Serum. Bleibt der Urin verdünnt, obwohl das Serum konzentriert ist, spricht das für einen Diabetes insipidus. Beim Durstversuch misst man beides mehrmals nacheinander.
+
+#### ⚠️ Fehlerquellen
+
+Eine Probe, die lange offen stand, verliert Wasser und wird konzentrierter. Bakterien bauen Harnstoff ab und verändern die Teilchenzahl. Kontrastmittel, Alkohol und Zuckerlösungen erhöhen die Osmolalität. Man muss diese Stoffe kennen, um den Wert richtig zu deuten.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Osmolalität ist der Goldstandard für die Konzentrationsfähigkeit der Niere. Sie trennt den Diabetes insipidus von einer Trinksucht. Bei Störungen des Natriums im Blut hilft sie zu klären, ob die Niere richtig reagiert.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Osmolalität zählt alle gelösten Teilchen. Man misst sie mit dem Osmometer über den Gefrierpunkt. Der Urin reicht von etwa fünfzig bis zwölfhundert, das Serum liegt bei etwa zweihundertachtzig bis dreihundert Milliosmol pro Kilogramm. Ein verdünnter Urin bei konzentriertem Serum spricht für einen Diabetes insipidus.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="der-ph-wert"></a>
+
+## 💧 Der pH-Wert
+<sub>Urine pH</sub>
+
+> `Steckbrief 03` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Der pH-Wert zeigt, wie sauer oder basisch der Urin ist. Die Niere scheidet über den Urin Säure aus und hält so den pH-Wert des Blutes stabil. Im Labor hilft der pH-Wert bei der Deutung von Kristallen, Steinen und Harnwegsinfekten.
+
+#### 🌱 Entstehung
+
+Bei normaler Ernährung bildet der Körper mehr Säure als Base. Darum ist der Urin meist leicht sauer. Viel Fleisch macht ihn saurer. Viel Gemüse und Obst machen ihn basischer. Auch die Säure-Base-Lage des Blutes und manche Medikamente verändern den pH-Wert.
+
+#### 🧪 Probe und Messung
+
+Auf dem Teststreifen enthält das Feld zwei Farbstoffe, die ihre Farbe mit dem pH-Wert ändern. Das Feld geht von Orange bei saurem Urin über Grün bis zu Blau bei basischem Urin. Genauer misst man mit einer pH-Elektrode. Für die Steindiagnostik misst man oft mehrmals am Tag.
+
+#### 📋 Der Befund
+
+Der pH-Wert des Urins liegt meist zwischen etwa fünf und sieben. Er kann von etwa vier Komma fünf bis acht reichen. Ein dauerhaft saurer Urin begünstigt Harnsäuresteine. Ein dauerhaft basischer Urin spricht für einen Infekt mit Bakterien, die Harnstoff spalten. Das tut zum Beispiel Proteus. Dabei entsteht Ammoniak, und es bilden sich Struvitsteine.
+
+#### ⚠️ Fehlerquellen
+
+Der häufigste Fehler ist alter Urin. Bakterien bauen bei Raumtemperatur Harnstoff zu Ammoniak ab. Der Urin wird dann basisch, auch wenn er frisch sauer war. Wenn Urin von einem Testfeld zum nächsten läuft, kann Säure aus dem Eiweißfeld den pH-Wert verfälschen. Darum streift man den Streifen gut ab.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Der pH-Wert verändert andere Befunde. In basischem Urin lösen sich Zylinder und rote Blutkörperchen schneller auf. Ein sehr basischer Urin kann das Eiweißfeld falsch positiv machen. Und die Art der Kristalle hängt stark vom pH-Wert ab.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Der pH-Wert des Urins liegt meist zwischen fünf und sieben. Saurer Urin begünstigt Harnsäuresteine. Basischer Urin spricht für alten Urin oder einen Infekt mit Harnstoff spaltenden Bakterien. Darum untersucht man immer frischen Urin.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-proteinurie"></a>
+
+## 💧 Die Proteinurie
+<sub>Proteinuria</sub>
+
+> `Steckbrief 04` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Eine Proteinurie ist eine erhöhte Ausscheidung von Eiweiß im Urin. Sie ist eines der wichtigsten Zeichen einer Nierenkrankheit. Das Albumin im Urin kennst du schon aus der Klinischen Chemie. Hier geht es um die Frage, welches Eiweiß im Urin ist und woher es kommt.
+
+#### 🌱 Entstehung
+
+Ein gesunder Mensch scheidet nur wenig Eiweiß aus, weniger als etwa hundertfünfzig Milligramm am Tag. Man unterscheidet vier Formen einer Proteinurie. Bei der glomerulären Form lässt der geschädigte Filter große Eiweiße wie Albumin durch. Bei der tubulären Form holt der Tubulus kleine Eiweiße nicht mehr zurück. Bei der prärenalen Form überschwemmen kleine Eiweiße aus dem Blut die Niere, etwa freie Leichtketten oder Myoglobin. Bei der postrenalen Form kommt Eiweiß aus den Harnwegen, etwa bei Blutungen.
+
+#### 🧪 Probe und Messung
+
+Das Eiweißfeld des Teststreifens nutzt den sogenannten Eiweißfehler der Indikatoren. Ein Farbstoff ändert seine Farbe, wenn sich Eiweiß an ihn bindet. Das Feld erkennt vor allem Albumin. Genau misst man das Gesamteiweiß im Labor und gibt es als Quotient zum Kreatinin an. Die Art der Proteinurie klärt man mit einer Elektrophorese des Urins oder mit Leitproteinen. Leitproteine sind das Albumin, das Immunglobulin G und das Alpha-eins-Mikroglobulin.
+
+#### 📋 Der Befund
+
+Viel Albumin spricht für einen Schaden am Glomerulus. Kommt viel Immunglobulin G hinzu, ist der Filter schwer geschädigt. Viel Alpha-eins-Mikroglobulin zeigt einen Schaden am Tubulus. Mehr als etwa drei Komma fünf Gramm Eiweiß am Tag gehören zum nephrotischen Syndrom. Dazu kommen Wasser im Gewebe, wenig Albumin im Blut und hohe Blutfette. Eine leichte Proteinurie kann auch harmlos sein, etwa nach Sport, bei Fieber oder nur im Stehen.
+
+#### ⚠️ Fehlerquellen
+
+Der Teststreifen erkennt Leichtketten kaum. Ein negativer Streifen schließt ein Myelom darum nicht aus. Ein stark basischer Urin und manche Desinfektionsmittel können das Feld falsch positiv machen. Ein sehr verdünnter Urin kann eine Proteinurie verdecken. Darum bezieht man das Eiweiß auf das Kreatinin.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Proteinurie schadet der Niere selbst und zeigt ein hohes Risiko für Herz und Gefäße. Sie ist oft das erste Zeichen einer Nierenkrankheit, lange vor einem Anstieg des Kreatinins. Die Unterscheidung von glomerulär und tubulär lenkt die weitere Diagnostik.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Normal sind weniger als etwa hundertfünfzig Milligramm Eiweiß am Tag. Man unterscheidet glomeruläre, tubuläre, prärenale und postrenale Proteinurien. Albumin zeigt den Glomerulus, Alpha-eins-Mikroglobulin den Tubulus. Der Teststreifen erkennt vor allem Albumin und kaum Leichtketten.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="glukose-im-urin"></a>
+
+## 💧 Glukose im Urin
+<sub>Urine glucose</sub>
+
+> `Steckbrief 05` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Glukose im Urin heißt Glukosurie. Normalerweise ist der Urin frei von Zucker. Eine Glukosurie ist oft das erste Zeichen eines Diabetes mellitus. Sie kann aber auch an der Niere selbst liegen.
+
+#### 🌱 Entstehung
+
+Glukose wird im Glomerulus frei gefiltert und im Tubulus vollständig zurückgeholt. Der Tubulus schafft aber nur eine bestimmte Menge. Steigt der Blutzucker über etwa hundertsechzig bis hundertachtzig Milligramm pro Deziliter, reicht seine Kraft nicht mehr. Diese Grenze heißt Nierenschwelle. Darüber erscheint Zucker im Urin.
+
+#### 🧪 Probe und Messung
+
+Das Glukosefeld des Teststreifens arbeitet mit zwei Enzymen. Die Glukoseoxidase setzt aus der Glukose Wasserstoffperoxid frei. Die Peroxidase lässt damit einen Farbstoff umschlagen. Die Reaktion ist sehr spezifisch für Glukose. Andere Zucker wie Fruchtzucker oder Milchzucker werden nicht erfasst.
+
+#### 📋 Der Befund
+
+Eine Glukosurie bei hohem Blutzucker spricht für einen Diabetes mellitus. Eine Glukosurie bei normalem Blutzucker heißt renale Glukosurie. Dann ist die Nierenschwelle zu niedrig. Das kommt in der Schwangerschaft vor und bei Schäden des Tubulus. Eine moderne Gruppe von Diabetesmedikamenten bewirkt eine Glukosurie sogar absichtlich. Sie heißen SGLT2-Hemmer und hemmen die Rückholung im Tubulus.
+
+#### ⚠️ Fehlerquellen
+
+Bei Raumtemperatur bauen Bakterien und Zellen die Glukose ab. Alter Urin hat darum falsch niedrige Werte. Viel Ascorbinsäure hemmt die Reaktion. Reste von Reinigungsmitteln mit Peroxid oder Chlor im Becher können das Feld falsch positiv machen. Für die Diagnose eines Diabetes zählt immer der Blutzucker, nie der Urin allein.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Der Urinzucker ist ein billiger Suchtest. Er fällt oft bei einer Routineuntersuchung auf. Ein positiver Befund muss im Blut geklärt werden. Wer einen SGLT2-Hemmer einnimmt, hat immer Zucker im Urin. Das muss man wissen, damit man keinen Alarm schlägt.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Glukose erscheint im Urin, wenn der Blutzucker die Nierenschwelle von etwa hundertsechzig bis hundertachtzig überschreitet. Das Feld arbeitet mit Glukoseoxidase und Peroxidase. Eine renale Glukosurie hat einen normalen Blutzucker. Alter Urin und Vitamin C geben falsch niedrige Werte.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="ketonkörper"></a>
+
+## 💧 Ketonkörper
+<sub>Ketone bodies</sub>
+
+> `Steckbrief 06` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Ketonkörper entstehen, wenn der Körper Fett statt Zucker verbrennt. Sie sind Ersatzbrennstoffe für Gehirn und Muskeln. Im Urin zeigen sie eine Ketose. Die gefährlichste Form ist die diabetische Ketoazidose.
+
+#### 🌱 Entstehung
+
+Wenn den Zellen Zucker fehlt, baut die Leber Fettsäuren ab. Dabei entstehen drei Ketonkörper. Das sind die Acetessigsäure, die Beta-Hydroxybuttersäure und das Aceton. Fehlt Insulin, können die Zellen keinen Zucker aufnehmen, obwohl viel davon im Blut ist. Dann bildet die Leber sehr viele Ketonkörper, und das Blut wird sauer.
+
+#### 🧪 Probe und Messung
+
+Das Ketonfeld enthält Nitroprussid. Es reagiert mit Acetessigsäure und schwächer mit Aceton zu einem violetten Farbstoff. Die Beta-Hydroxybuttersäure erfasst es nicht. Bei einer Ketoazidose misst man darum besser die Beta-Hydroxybuttersäure im Blut.
+
+#### 📋 Der Befund
+
+Leichte Ketonkörper im Urin sind häufig und meist harmlos. Sie entstehen beim Fasten, bei Erbrechen, bei Fieber und bei sehr kohlenhydratarmer Kost. Auch Kinder bilden schnell Ketonkörper. Viele Ketonkörper zusammen mit hohem Blutzucker sprechen für eine diabetische Ketoazidose. Das ist ein Notfall.
+
+#### ⚠️ Fehlerquellen
+
+Bei einer schweren Ketoazidose ist das Verhältnis verschoben. Es gibt dann viel Beta-Hydroxybuttersäure und wenig Acetessigsäure. Der Streifen unterschätzt die Ketose dann. Aceton verdunstet aus offenem Urin. Manche Medikamente mit Schwefelgruppen können das Feld falsch positiv machen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Patient mit Diabetes, Bauchschmerzen und tiefer Atmung kann eine Ketoazidose haben. Ein positives Ketonfeld bei hohem Zucker ist dann ein dringender Befund. Er wird sofort weitergegeben, und man ergänzt eine Blutgasanalyse.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Ketonkörper entstehen bei Zuckermangel in den Zellen. Das Nitroprussidfeld erfasst Acetessigsäure und Aceton, aber nicht die Beta-Hydroxybuttersäure. Leichte Ketonurie kommt beim Fasten vor. Viele Ketonkörper mit hohem Blutzucker sprechen für eine Ketoazidose.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="bilirubin-urobilinogen"></a>
+
+## 💧 Bilirubin, Urobilinogen
+<sub>Bilirubin and urobilinogen</sub>
+
+> `Steckbrief 07` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Bilirubin und Urobilinogen sind Abbauprodukte des roten Blutfarbstoffs. Im Urin zeigen sie Krankheiten der Leber und der Gallenwege oder einen verstärkten Abbau roter Blutkörperchen. Zusammen helfen sie, die Ursache einer Gelbsucht einzugrenzen.
+
+#### 🌱 Entstehung
+
+Beim Abbau des Hämoglobins entsteht zuerst das unkonjugierte Bilirubin. Es ist nicht wasserlöslich und wird im Blut an Albumin gebunden. Die Leber koppelt es an Glucuronsäure. Dann heißt es konjugiertes Bilirubin und ist wasserlöslich. Es gelangt mit der Galle in den Darm. Dort machen Bakterien daraus Urobilinogen. Ein Teil davon wird aufgenommen und erscheint im Urin.
+
+#### 🧪 Probe und Messung
+
+Das Bilirubinfeld nutzt eine Diazoreaktion. Bilirubin bildet mit einem Diazosalz einen farbigen Stoff. Das Urobilinogenfeld nutzt ebenfalls eine Diazoreaktion oder das Ehrlich-Reagenz. Ins Urin gelangt nur das konjugierte Bilirubin, denn das unkonjugierte ist an Albumin gebunden und wird nicht gefiltert.
+
+#### 📋 Der Befund
+
+Bilirubin im Urin zeigt einen Stau der Galle oder einen Schaden der Leberzellen. Der Urin ist dann dunkel wie Bier und schäumt gelb. Bei einem vollständigen Verschluss der Gallenwege gelangt keine Galle in den Darm. Dann fehlt das Urobilinogen, und der Stuhl ist hell. Bei einer Hämolyse ist das Urobilinogen erhöht, das Bilirubin im Urin aber negativ. Bei einem Leberzellschaden sind oft beide erhöht.
+
+#### ⚠️ Fehlerquellen
+
+Bilirubin ist sehr lichtempfindlich. Im Licht zerfällt es in wenigen Stunden. Urobilinogen wird an der Luft zu Urobilin oxidiert und dann nicht mehr erfasst. Darum braucht man frischen, dunkel gelagerten Urin. Manche Medikamente färben den Urin und stören die Felder. Viel Ascorbinsäure macht das Bilirubinfeld falsch negativ.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Bilirubin und Urobilinogen zusammen trennen drei Formen der Gelbsucht. Das sind die Hämolyse vor der Leber, der Schaden in der Leber und der Stau nach der Leber. Der Urin gibt diesen Hinweis schnell und billig, bevor die Blutwerte vorliegen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Nur konjugiertes Bilirubin erscheint im Urin. Es zeigt einen Gallenstau oder einen Leberschaden. Urobilinogen entsteht im Darm. Es ist bei Hämolyse erhöht und fehlt bei vollständigem Gallenverschluss. Beide Stoffe sind empfindlich gegen Licht und Luft.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="nitrit"></a>
+
+## 💧 Nitrit
+<sub>Nitrite</sub>
+
+> `Steckbrief 08` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Nitrit im Urin ist ein Zeichen für Bakterien in der Blase. Es gehört zu den wichtigsten Suchtests für einen Harnwegsinfekt. Zusammen mit den Leukozyten entscheidet es oft, ob eine Urinkultur angelegt wird.
+
+#### 🌱 Entstehung
+
+Mit der Nahrung nimmt man Nitrat auf, das in den Urin gelangt. Viele gramnegative Bakterien können Nitrat zu Nitrit umbauen. Dazu gehört vor allem Escherichia coli, der häufigste Erreger von Harnwegsinfekten. Für diesen Umbau brauchen die Bakterien Zeit. Der Urin sollte mindestens vier Stunden in der Blase gestanden haben.
+
+#### 🧪 Probe und Messung
+
+Das Nitritfeld nutzt die Grieß-Reaktion. Nitrit bildet mit einem aromatischen Amin eine Diazoverbindung. Diese koppelt mit einem zweiten Stoff zu einem rosa Farbstoff. Jede Rosafärbung gilt als positiv. Am besten eignet sich der erste Morgenurin.
+
+#### 📋 Der Befund
+
+Ein positives Nitrit spricht stark für einen bakteriellen Harnwegsinfekt. Ein negatives Nitrit schließt ihn aber nicht aus. Manche Erreger bilden kein Nitrit. Dazu gehören die Enterokokken, Staphylococcus saprophyticus und Pseudomonas. Auch bei häufigem Wasserlassen bleibt den Bakterien keine Zeit.
+
+#### ⚠️ Fehlerquellen
+
+Falsch negativ ist das Nitrit bei kurzer Verweilzeit in der Blase, bei viel Trinken und bei nitratarmer Kost. Viel Ascorbinsäure hemmt die Reaktion. Antibiotika können die Bakterien schon gehemmt haben. Falsch positiv ist es bei altem Urin, in dem sich Bakterien aus der Umgebung vermehrt haben. Auch rote Farbstoffe im Urin können täuschen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Nitrit ist sehr spezifisch. Ein positiver Befund ist fast immer echt, wenn der Urin frisch war. Er ist aber nicht sehr empfindlich. Darum deutet man ihn nie allein, sondern immer mit den Leukozyten, dem Sediment und den Beschwerden.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Nitrit entsteht, wenn gramnegative Bakterien wie Escherichia coli Nitrat umbauen. Das braucht etwa vier Stunden in der Blase. Die Grieß-Reaktion färbt das Feld rosa. Positiv ist sehr spezifisch, negativ schließt einen Infekt nicht aus. Enterokokken bilden kein Nitrit.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="leukozyten-im-urin"></a>
+
+## 💧 Leukozyten im Urin
+<sub>Urine leukocytes</sub>
+
+> `Steckbrief 09` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Leukozyten im Urin heißen Leukozyturie. Sie zeigen eine Entzündung in Niere oder Harnwegen. Meist steckt ein bakterieller Harnwegsinfekt dahinter. Der Teststreifen erkennt sie über ein Enzym, das Mikroskop über ihre Form.
+
+#### 🌱 Entstehung
+
+Bei einer Entzündung wandern weiße Blutkörperchen aus dem Blut in das entzündete Gewebe. Bei einem Harnwegsinfekt sind das vor allem neutrophile Granulozyten. Sie gelangen in den Urin. Bei einer Nierenbeckenentzündung können sie sich zu Leukozytenzylindern zusammenlagern.
+
+#### 🧪 Probe und Messung
+
+Das Leukozytenfeld erkennt eine Esterase. Dieses Enzym steckt in den Granula der Granulozyten. Es spaltet einen Ester im Feld, und es entsteht ein violetter Farbstoff. Das Feld erkennt auch zerfallene Zellen, die man im Mikroskop nicht mehr sieht. Die Reaktion braucht etwa zwei Minuten.
+
+#### 📋 Der Befund
+
+Viele Leukozyten zusammen mit Nitrit und Bakterien sprechen für einen Harnwegsinfekt. Viele Leukozyten ohne Bakterien in der Kultur heißen sterile Leukozyturie. Sie hat besondere Ursachen. Das sind etwa eine Tuberkulose der Niere, Chlamydien, Gonokokken, eine Entzündung des Nierengewebes durch Medikamente, Steine oder ein vorbehandelter Infekt. Lymphozyten erkennt das Feld nicht, denn sie haben keine Esterase.
+
+#### ⚠️ Fehlerquellen
+
+Falsch positiv wird das Feld durch Leukozyten aus der Scheide bei unsauberer Gewinnung. Auch Trichomonaden können es positiv machen. Falsch negativ wird es bei viel Glukose, viel Eiweiß und hohem spezifischem Gewicht. Manche Antibiotika hemmen die Reaktion. Ein sehr verdünnter Urin kann die Zellen zum Platzen bringen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Leukozyten und Nitrit zusammen sind der klassische Suchtest für Harnwegsinfekte. Sind beide negativ, ist ein Infekt unwahrscheinlich. Ist eines positiv, folgt oft eine Kultur. Eine sterile Leukozyturie ist ein Hinweis, an seltene Erreger wie die Tuberkulose zu denken.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Leukozytenfeld erkennt die Esterase der Granulozyten, auch aus zerfallenen Zellen. Leukozyten zeigen eine Entzündung, meist einen Harnwegsinfekt. Eine sterile Leukozyturie lässt an Tuberkulose, Chlamydien oder Steine denken. Verunreinigung aus der Scheide macht das Feld falsch positiv.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="blut-im-urin"></a>
+
+## 💧 Blut im Urin
+<sub>Blood in urine</sub>
+
+> `Steckbrief 10` · **🔵 Der Urinstatus**
+
+#### 🧭 Einordnung
+
+Das Blutfeld des Teststreifens erkennt rote Blutkörperchen, freies Hämoglobin und Myoglobin. Rote Blutkörperchen im Urin heißen Hämaturie. Freies Hämoglobin heißt Hämoglobinurie, freies Myoglobin Myoglobinurie. Alle drei machen das Feld positiv, haben aber ganz verschiedene Ursachen.
+
+#### 🌱 Entstehung
+
+Eine Hämaturie entsteht durch eine Blutung irgendwo zwischen Glomerulus und Harnröhre. Ursachen sind Entzündungen, Steine, Tumoren und Krankheiten des Glomerulus. Eine Hämoglobinurie entsteht, wenn rote Blutkörperchen schon im Blut zerfallen. Das ist eine Hämolyse. Eine Myoglobinurie entsteht, wenn Muskelzellen zerfallen. Das heißt Rhabdomyolyse und kommt nach Unfällen, extremem Sport oder durch Medikamente vor.
+
+#### 🧪 Probe und Messung
+
+Das Blutfeld nutzt die peroxidaseähnliche Wirkung des Hämoglobins und des Myoglobins. Sie lassen mit einem Peroxid einen Farbstoff grün umschlagen. Intakte rote Blutkörperchen geben grüne Punkte, weil jede Zelle für sich reagiert. Freies Hämoglobin und Myoglobin färben das Feld gleichmäßig. Das Feld ist sehr empfindlich und erkennt schon wenige Zellen.
+
+#### 📋 Der Befund
+
+Punkte auf dem Feld sprechen für eine Hämaturie. Dann folgt das Sediment, um die Herkunft zu klären. Eine gleichmäßige Färbung ohne rote Blutkörperchen im Sediment spricht für freies Hämoglobin oder Myoglobin. Zur Unterscheidung schaut man auf das Blut. Bei einer Hämolyse ist das Plasma rötlich, und das Haptoglobin fehlt. Bei einer Rhabdomyolyse ist das Plasma klar, und die Kreatinkinase ist stark erhöht.
+
+#### ⚠️ Fehlerquellen
+
+Falsch positiv wird das Feld durch Menstruationsblut und durch Reste von Bleich- oder Desinfektionsmitteln im Becher. Falsch negativ wird es durch viel Ascorbinsäure. In stark verdünntem oder altem Urin platzen die Zellen. Dann sieht das Feld gleichmäßig aus, obwohl eine Hämaturie vorliegt.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Myoglobinurie kann die Niere schwer schädigen. Sie ist darum ein dringender Befund. Eine Hämaturie ohne Infekt muss abgeklärt werden, besonders bei älteren Menschen. Sie kann das erste Zeichen eines Tumors der Blase oder der Niere sein.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Blutfeld erkennt rote Blutkörperchen, Hämoglobin und Myoglobin über ihre Peroxidasewirkung. Punkte zeigen intakte Zellen, eine gleichmäßige Farbe freien Farbstoff. Rötliches Plasma spricht für Hämolyse, eine hohe Kreatinkinase für Rhabdomyolyse. Bleichmittel machen das Feld falsch positiv, Vitamin C falsch negativ.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-zwei"></a>
+
+### 📝 Zusammenfassung Teil zwei
+<sub>Part two summary</sub>
+
+> Der Teststreifen gibt halbquantitative Stufen. Ascorbinsäure stört Glukose, Blut, Bilirubin und Nitrit. Das spezifische Gewicht und die Osmolalität zeigen die Konzentration. Eine Isosthenurie bei eins Komma null eins null zeigt eine schwere Nierenschwäche.
+>
+> Der pH-Wert liegt meist zwischen fünf und sieben. Basischer Urin spricht für alten Urin oder Harnstoff spaltende Bakterien. Albumin zeigt einen glomerulären, Alpha-eins-Mikroglobulin einen tubulären Schaden. Der Streifen erkennt kaum Leichtketten.
+>
+> Glukose erscheint über der Nierenschwelle. Das Ketonfeld erfasst die Beta-Hydroxybuttersäure nicht. Nur konjugiertes Bilirubin erscheint im Urin, Urobilinogen fehlt beim vollständigen Gallenverschluss. Nitrit ist spezifisch, aber nicht empfindlich. Das Leukozytenfeld erkennt die Esterase. Das Blutfeld erkennt Zellen, Hämoglobin und Myoglobin.
+>
+> Im nächsten Teil schaust du durch das Mikroskop auf das Urinsediment.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-drei-das-urinsediment"></a>
+
+# 🔴 Teil drei: Das Urinsediment
+<sub>Part three: Urine sediment</sub>
+
+Der dritte Teil führt dich an das Mikroskop. Das Urinsediment zeigt, welche festen Bestandteile im Urin schwimmen. Das sind Zellen, Zylinder, Kristalle und Erreger. Der Teststreifen gibt einen Verdacht, das Sediment zeigt die Ursache.
+
+Der Teil beginnt mit einem Kapitel über die Herstellung des Sediments und die automatische Analyse. Danach folgen fünf Steckbriefe. Zuerst kommen die roten Blutkörperchen, dann die Leukozyten und die Epithelien. Danach folgen die Zylinder, die Kristalle und die Erreger.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `11` | [**Erythrozyten im Sediment**](#erythrozyten-im-sediment) | Eumorphe rote Blutkörperchen kommen meist aus den Harnwegen, dysmorphe aus dem Glomerulus. |
+| `12` | [**Leukozyten und Epithelien**](#leukozyten-und-epithelien) | Normal sind bis etwa fünf Leukozyten pro Gesichtsfeld. |
+| `13` | [**Die Zylinder**](#die-zylinder) | Zylinder sind Ausgüsse der Tubuli aus Uromodulin und beweisen die Herkunft aus der Niere. |
+| `14` | [**Die Kristalle**](#die-kristalle) | Kristalle hängen von Konzentration, pH-Wert und Temperatur ab. |
+| `15` | [**Erreger im Sediment**](#erreger-im-sediment) | Bakterien mit Leukozyten in frischem Urin sprechen für einen Infekt. |
+
+<a id="sediment-und-automaten"></a>
+
+## 📖 Sediment und Automaten
+<sub>Preparing the sediment</sub>
+
+Für das Sediment braucht man frischen Urin, am besten den Morgenurin. Man füllt etwa zehn Milliliter gut gemischten Urin in ein spitzes Zentrifugenröhrchen. Dann zentrifugiert man etwa fünf Minuten bei niedriger Kraft. Zu viel Kraft zerstört die Zylinder.
+
+Nach dem Zentrifugieren gießt man den Überstand ab. Im Röhrchen bleibt ein kleiner Rest von etwa einem halben Milliliter. Man schüttelt den Bodensatz darin vorsichtig auf. Einen Tropfen davon gibt man auf einen Objektträger und legt ein Deckglas auf. Es dürfen keine Luftblasen entstehen.
+
+Man mustert das Präparat zuerst bei kleiner Vergrößerung. So findet man Zylinder, die oft am Rand des Deckglases liegen. Danach zählt man bei stärkerer Vergrößerung die Zellen in mehreren Gesichtsfeldern. Der Befund wird als Zahl pro Gesichtsfeld angegeben. Bei dieser Methode ist die Zahl nur ein Schätzwert.
+
+Ungefärbte Zellen sind blass und schwer zu sehen. Darum blendet man die Lampe etwas ab oder nutzt ein Phasenkontrastmikroskop. Der Phasenkontrast macht feine Unterschiede sichtbar. Für dysmorphe rote Blutkörperchen ist er fast unverzichtbar. Für Kristalle und Fett nutzt man zusätzlich polarisiertes Licht.
+
+Heute übernehmen in großen Labors Automaten einen großen Teil der Arbeit. Es gibt zwei Arten. Die einen sind Durchflusszytometer. Sie färben die Teilchen mit Fluoreszenzfarbstoffen und zählen sie im Laserstrahl. Die anderen fotografieren den Urin und erkennen die Teilchen auf den Bildern mit einer Software.
+
+Automaten zählen genau und geben die Ergebnisse pro Mikroliter an. Sie arbeiten ohne Zentrifuge und sind schnell. Sie haben aber Grenzen. Dysmorphe rote Blutkörperchen, seltene Kristalle und manche Zylinder erkennen sie schlecht. Darum legt jedes Labor Regeln fest, wann ein Mensch die Probe unter dem Mikroskop nachschaut.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="erythrozyten-im-sediment"></a>
+
+## 💧 Erythrozyten im Sediment
+<sub>Red cells in sediment</sub>
+
+> `Steckbrief 11` · **🔴 Das Urinsediment**
+
+#### 🧭 Einordnung
+
+Rote Blutkörperchen im Sediment zeigen eine Hämaturie. Ihr Aussehen verrät, woher die Blutung kommt. Gleichförmige Zellen kommen meist aus den Harnwegen. Verformte Zellen kommen meist aus dem Glomerulus. Diese Unterscheidung ist eine der wichtigsten Aufgaben im Sediment.
+
+#### 🌱 Entstehung
+
+Bei einer Blutung aus Blase, Harnleiter oder Nierenbecken gelangen die Zellen unverändert in den Urin. Sie heißen eumorph oder isomorph. Bei einer Krankheit des Glomerulus zwängen sich die Zellen durch den geschädigten Filter. Danach laufen sie durch den Tubulus mit wechselnden Salzkonzentrationen. Dabei verformen sie sich. Sie heißen dann dysmorph.
+
+#### 🧪 Probe und Messung
+
+Man beurteilt die roten Blutkörperchen im Phasenkontrast bei starker Vergrößerung. Eumorphe Zellen sind runde, glatte Scheiben. Dysmorphe Zellen haben unregelmäßige Formen, Dellen oder Ausstülpungen. Eine besondere Form sind die Akanthozyten. Sie sind Ringe mit kleinen Bläschen, die wie Mickymausohren aussehen. Man zählt, wie viel Prozent der Zellen Akanthozyten sind.
+
+#### 📋 Der Befund
+
+Normal sind nur wenige rote Blutkörperchen, meist bis etwa drei pro Gesichtsfeld. Mehr sind eine Mikrohämaturie. Ist der Urin rot, heißt es Makrohämaturie. Ab etwa fünf Prozent Akanthozyten spricht man von einer glomerulären Hämaturie. Dann denkt man an eine Glomerulonephritis. Sind die Zellen eumorph, denkt man an Steine, Infekte oder Tumoren der Harnwege. Erythrozytenzylinder beweisen die Herkunft aus dem Glomerulus.
+
+#### ⚠️ Fehlerquellen
+
+In sehr verdünntem Urin quellen die Zellen und platzen. Übrig bleiben blasse Hüllen, die man Schatten nennt. In sehr konzentriertem Urin schrumpfen sie und werden stachelig. Diese Formen sind keine echten dysmorphen Zellen. Hefen sehen roten Blutkörperchen ähnlich. Gibt man etwas Essigsäure hinzu, lösen sich die roten Blutkörperchen auf, die Hefen bleiben. Menstruationsblut verfälscht den Befund.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine glomeruläre Hämaturie führt zum Nierenarzt, eine nicht glomeruläre zum Urologen. Die richtige Beurteilung spart dem Patienten unnötige Untersuchungen. Eine schmerzlose Hämaturie mit eumorphen Zellen bei einem älteren Menschen muss an einen Blasentumor denken lassen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Eumorphe rote Blutkörperchen kommen meist aus den Harnwegen, dysmorphe aus dem Glomerulus. Ab etwa fünf Prozent Akanthozyten gilt die Hämaturie als glomerulär. Erythrozytenzylinder beweisen den Glomerulus. Man beurteilt im Phasenkontrast. Essigsäure löst rote Blutkörperchen auf, aber keine Hefen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="leukozyten-und-epithelien"></a>
+
+## 💧 Leukozyten und Epithelien
+<sub>White cells and epithelia</sub>
+
+> `Steckbrief 12` · **🔴 Das Urinsediment**
+
+#### 🧭 Einordnung
+
+Neben roten Blutkörperchen findet man im Sediment weiße Blutkörperchen und Epithelzellen. Leukozyten zeigen eine Entzündung. Epithelzellen sind Zellen aus der Auskleidung der Harnwege. Ihre Art zeigt, aus welchem Abschnitt sie stammen.
+
+#### 🌱 Entstehung
+
+Die Harnwege sind innen mit verschiedenen Epithelien ausgekleidet. Die Tubuli der Niere haben ein eigenes Epithel. Nierenbecken, Harnleiter und Blase haben das Übergangsepithel, das man auch Urothel nennt. Die vordere Harnröhre und die Scheide haben Plattenepithel. Alte Zellen schilfern ständig ab und landen im Urin.
+
+#### 🧪 Probe und Messung
+
+Leukozyten sind etwas größer als rote Blutkörperchen. Sie haben einen gelappten Kern und ein körniges Plasma. Plattenepithelien sind sehr große, flache Zellen mit einem kleinen Kern. Übergangsepithelien sind kleiner, rund oder birnenförmig und haben einen runden Kern. Nierenepithelien sind klein, etwas größer als Leukozyten, mit einem großen runden Kern.
+
+#### 📋 Der Befund
+
+Normal sind bis etwa fünf Leukozyten pro Gesichtsfeld. Mehr zeigen eine Entzündung. Leukozyten in Haufen sprechen für einen akuten Infekt. Viele Plattenepithelien zeigen eine Verunreinigung aus Harnröhre oder Scheide. Dann ist der Urin nicht sauber gewonnen. Viele Übergangsepithelien kommen nach einem Katheter vor, bei Steinen oder bei einem Tumor des Urothels. Nierenepithelien zeigen einen Schaden der Tubuli.
+
+#### ⚠️ Fehlerquellen
+
+In basischem und verdünntem Urin zerfallen die Leukozyten schnell. Dann ist das Leukozytenfeld positiv, im Sediment fehlen sie aber. Nierenepithelien und kleine Übergangsepithelien sind schwer zu unterscheiden. Auffällige Zellen gehören in die Zytologie, nicht ins einfache Sediment.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Plattenepithelien sind ein Gütezeichen der Probe. Sind viele vorhanden, sind auch die Bakterien und Leukozyten wahrscheinlich Verunreinigung. Dann bittet man um einen neuen, sauberen Mittelstrahlurin. Nierenepithelien sind dagegen ein ernster Befund, etwa bei einem akuten Nierenversagen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Normal sind bis etwa fünf Leukozyten pro Gesichtsfeld. Plattenepithelien zeigen Verunreinigung, Übergangsepithelien kommen aus Blase und Harnleiter, Nierenepithelien aus dem Tubulus. Viele Plattenepithelien bedeuten: neuen Mittelstrahlurin anfordern.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-zylinder"></a>
+
+## 💧 Die Zylinder
+<sub>Urinary casts</sub>
+
+> `Steckbrief 13` · **🔴 Das Urinsediment**
+
+#### 🧭 Einordnung
+
+Zylinder sind Ausgüsse der Nierentubuli. Sie entstehen nur in der Niere. Darum beweist jeder Zylinder, dass sein Inhalt aus der Niere stammt. Die Art des Zylinders zeigt, welche Krankheit die Niere hat.
+
+#### 🌱 Entstehung
+
+Die Zellen des Tubulus bilden ein Eiweiß, das Uromodulin. Früher hieß es Tamm-Horsfall-Protein. In saurem und konzentriertem Urin geliert es im Tubulus. So entsteht ein Abdruck des Röhrchens. Zellen und Bröckchen, die gerade im Tubulus sind, werden darin eingeschlossen. Dann wird der Zylinder ausgespült.
+
+#### 🧪 Probe und Messung
+
+Zylinder sucht man bei kleiner Vergrößerung, besonders am Rand des Deckglases. Hyaline Zylinder sind sehr blass und nur bei abgeblendetem Licht oder im Phasenkontrast gut sichtbar. Man beschreibt die Art des Zylinders und schätzt ihre Zahl. Fettzylinder zeigen im polarisierten Licht helle Kreuze, die wie Malteserkreuze aussehen.
+
+#### 📋 Der Befund
+
+Hyaline Zylinder bestehen nur aus Uromodulin. Wenige sind normal, etwa nach Sport, bei Fieber oder bei Durst. Erythrozytenzylinder zeigen eine Glomerulonephritis. Leukozytenzylinder zeigen eine Nierenbeckenentzündung oder eine Entzündung des Nierengewebes. Epithelzylinder zeigen einen Tubulusschaden. Granulierte Zylinder bestehen aus zerfallenen Zellen. Wachszylinder sind breit und glänzend und zeigen eine fortgeschrittene Nierenkrankheit. Fettzylinder gehören zum nephrotischen Syndrom.
+
+#### ⚠️ Fehlerquellen
+
+Zylinder lösen sich in basischem und verdünntem Urin auf. Auch langes Stehen zerstört sie. Starkes Zentrifugieren und kräftiges Schütteln zerbrechen sie. Schleimfäden, Fasern und Haare können wie Zylinder aussehen. Echte Zylinder haben gleichmäßig parallele Ränder und runde Enden.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein einziger Erythrozytenzylinder kann eine Glomerulonephritis beweisen. Das ist eine Krankheit, die schnell behandelt werden muss. Zylinder sind empfindlich und leicht zu übersehen. Darum braucht man frischen Urin und eine sorgfältige Durchsicht des ganzen Präparats.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Zylinder sind Ausgüsse der Tubuli aus Uromodulin und beweisen die Herkunft aus der Niere. Hyaline Zylinder können normal sein. Erythrozytenzylinder zeigen eine Glomerulonephritis, Leukozytenzylinder eine Nierenbeckenentzündung. Wachszylinder zeigen eine fortgeschrittene Nierenkrankheit. Basischer Urin löst Zylinder auf.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-kristalle"></a>
+
+## 💧 Die Kristalle
+<sub>Urinary crystals</sub>
+
+> `Steckbrief 14` · **🔴 Das Urinsediment**
+
+#### 🧭 Einordnung
+
+Kristalle bilden sich, wenn ein Stoff im Urin in zu hoher Konzentration vorliegt. Die meisten Kristalle sind harmlos und entstehen erst im Becher. Einige zeigen aber eine Stoffwechselkrankheit, eine Vergiftung oder eine Steinneigung.
+
+#### 🌱 Entstehung
+
+Ob ein Stoff ausfällt, hängt von seiner Konzentration, dem pH-Wert und der Temperatur ab. In saurem Urin fallen Harnsäure, Urate und Calciumoxalat aus. In basischem Urin fallen Phosphate aus. In der Kälte des Kühlschranks fallen viele Stoffe aus, die bei Körpertemperatur gelöst waren.
+
+#### 🧪 Probe und Messung
+
+Man erkennt Kristalle an ihrer Form, ihrer Farbe und am pH-Wert des Urins. Polarisiertes Licht hilft, denn viele Kristalle leuchten darin hell auf. Calciumoxalat bildet als Dihydrat kleine Briefkuverts mit einem Kreuz. Als Monohydrat bildet es Ovale oder Hanteln. Harnsäure bildet gelbbraune Rhomben, Wetzsteine oder Rosetten. Tripelphosphat bildet große, klare Prismen wie Sargdeckel.
+
+#### 📋 Der Befund
+
+Amorphe Urate fallen in saurem, kaltem Urin als rötlicher Staub aus. Man nennt das Ziegelmehl. Amorphe Phosphate bilden in basischem Urin einen weißen Niederschlag. Beides ist harmlos. Tripelphosphat zeigt oft einen Infekt mit Harnstoff spaltenden Bakterien. Krankhafte Kristalle sind Cystin mit sechseckigen Platten bei der Cystinurie, Leucin und Tyrosin bei schwerem Leberversagen und Cholesterin. Viele Calciumoxalat-Monohydrate können eine Vergiftung mit Frostschutzmittel zeigen. Auch Medikamente wie Sulfonamide oder Aciclovir können auskristallisieren.
+
+#### ⚠️ Fehlerquellen
+
+Der häufigste Fehler ist ein gekühlter oder alter Urin. Er bildet Kristalle, die im Körper nicht vorhanden waren. Darum untersucht man frischen, warmen Urin. Man deutet Kristalle immer zusammen mit dem pH-Wert. Einen Kristall, der nicht zum pH-Wert passt, sollte man genau prüfen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die meisten Kristalle sind harmlos, aber einige darf man nicht übersehen. Cystinkristalle beweisen eine Cystinurie, die zu Steinen führt. Viele Oxalatkristalle bei einem bewusstlosen Patienten sind ein Notfallhinweis auf Frostschutzmittel. Die Kristalle allein beweisen aber noch keinen Stein.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Kristalle hängen von Konzentration, pH-Wert und Temperatur ab. Saurer Urin zeigt Harnsäure, Urate und Oxalat, basischer Urin Phosphate. Ziegelmehl und amorphe Phosphate sind harmlos. Cystin, Leucin, Tyrosin und Medikamente sind krankhaft. Kühlung erzeugt falsche Kristalle.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="erreger-im-sediment"></a>
+
+## 💧 Erreger im Sediment
+<sub>Microbes in sediment</sub>
+
+> `Steckbrief 15` · **🔴 Das Urinsediment**
+
+#### 🧭 Einordnung
+
+Im Sediment kann man Bakterien, Hefen und Parasiten sehen. Das Sediment ersetzt keine Kultur. Es gibt aber einen schnellen Hinweis auf einen Infekt und manchmal auf einen seltenen Erreger.
+
+#### 🌱 Entstehung
+
+Bei einem Harnwegsinfekt wachsen Bakterien in der Blase. Hefen wie Candida treten vor allem bei Diabetes, unter Antibiotika und bei einem Katheter auf. Trichomonaden sind Geißeltierchen, die beim Geschlechtsverkehr übertragen werden. Die Eier des Pärchenegels Schistosoma haematobium gelangen bei einer Blasenbilharziose in den Urin. Diese Krankheit holt man sich in Afrika und im Nahen Osten im Süßwasser.
+
+#### 🧪 Probe und Messung
+
+Bakterien sieht man als kleine Stäbchen oder Kokken zwischen den Zellen. Hefen sind ovale Zellen, die oft knospen oder Fäden bilden. Trichomonaden sind etwas größer als Leukozyten und bewegen sich mit ihren Geißeln. Sie bewegen sich nur in frischem, warmem Urin. Schistosoma-Eier sind groß und haben einen spitzen Stachel am Ende. Man sucht sie im Urin der Mittagszeit nach Bewegung, denn dann werden die meisten Eier ausgeschieden.
+
+#### 📋 Der Befund
+
+Viele Bakterien zusammen mit Leukozyten in frischem Urin sprechen für einen Harnwegsinfekt. Die Kultur bestimmt dann Erreger und Resistenz. Hefen zusammen mit Leukozyten können einen Pilzinfekt zeigen. Bewegliche Trichomonaden beweisen eine Trichomoniasis. Schistosoma-Eier beweisen eine Blasenbilharziose, die oft mit einer Hämaturie auffällt.
+
+#### ⚠️ Fehlerquellen
+
+In altem Urin vermehren sich Bakterien aus der Umgebung. Dann sieht man viele Bakterien ohne Infekt. Bakterien ohne Leukozyten und mit vielen Plattenepithelien sind meist Verunreinigung. Trichomonaden sterben in kaltem Urin und sind dann schwer von Leukozyten zu unterscheiden. Kleine Hefen werden mit roten Blutkörperchen verwechselt.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das Sediment gibt schon vor der Kultur einen Hinweis. Es zeigt Erreger, die in der Routinekultur nicht wachsen, etwa Trichomonaden oder Schistosoma-Eier. Bei einem Patienten mit Hämaturie nach einer Reise nach Afrika muss man an die Bilharziose denken.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Bakterien mit Leukozyten in frischem Urin sprechen für einen Infekt. Bakterien mit Plattenepithelien sprechen für Verunreinigung. Hefen werden mit Essigsäure von roten Blutkörperchen getrennt. Trichomonaden bewegen sich nur in frischem, warmem Urin. Schistosoma-Eier haben einen Endstachel und kommen aus Afrika.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-drei"></a>
+
+### 📝 Zusammenfassung Teil drei
+<sub>Part three summary</sub>
+
+> Das Sediment entsteht aus etwa zehn Millilitern frischem Urin mit sanftem Zentrifugieren. Phasenkontrast und polarisiertes Licht helfen. Automaten zählen pro Mikroliter, brauchen aber Regeln für die Nachschau.
+>
+> Dysmorphe rote Blutkörperchen und Akanthozyten ab etwa fünf Prozent zeigen den Glomerulus. Plattenepithelien zeigen Verunreinigung, Nierenepithelien einen Tubulusschaden. Zylinder beweisen die Niere. Erythrozytenzylinder zeigen eine Glomerulonephritis, Wachszylinder eine fortgeschrittene Nierenkrankheit.
+>
+> Kristalle hängen vom pH-Wert und der Temperatur ab. Cystin und Medikamentenkristalle sind krankhaft. Bakterien deutet man nur in frischem Urin und mit Leukozyten.
+>
+> Im nächsten Teil geht es um besondere Untersuchungen des Urins.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-vier-spezielle-urinanalytik"></a>
+
+# 🟠 Teil vier: Spezielle Urinanalytik
+<sub>Part four: Special urine tests</sub>
+
+Der vierte Teil behandelt Untersuchungen, die über den Urinstatus hinausgehen. Sie beantworten gezielte Fragen. Gibt es ein Myelom? Hat jemand Drogen genommen? Woraus besteht ein Nierenstein? Gibt es einen Tumor, der Stresshormone bildet?
+
+Der Teil hat vier Steckbriefe. Zuerst kommt das Bence-Jones-Protein. Dann folgt das Drogenscreening. Danach kommen die Harnsteinanalyse und am Ende die Katecholamine und Metanephrine.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `16` | [**Bence-Jones-Protein**](#bence-jones-protein) | Das Bence-Jones-Protein sind freie monoklonale Leichtketten, Kappa oder Lambda. |
+| `17` | [**Das Drogenscreening**](#das-drogenscreening) | Das Drogenscreening sucht mit Immunoassays nach Gruppen von Drogen und ihren Abbaustoffen. |
+| `18` | [**Die Harnsteinanalyse**](#die-harnsteinanalyse) | Die Harnsteinanalyse bestimmt die Bestandteile des Steins. |
+| `19` | [**Katecholamine, Metanephrine**](#katecholamine-metanephrine) | Metanephrine sind die Abbaustoffe der Katecholamine und die besten Marker für ein Phäochromozytom. |
+
+<a id="bence-jones-protein"></a>
+
+## 💧 Bence-Jones-Protein
+<sub>Bence Jones protein</sub>
+
+> `Steckbrief 16` · **🟠 Spezielle Urinanalytik**
+
+#### 🧭 Einordnung
+
+Das Bence-Jones-Protein besteht aus freien Leichtketten im Urin. Leichtketten sind Teile von Antikörpern. Viele freie Leichtketten einer einzigen Sorte sprechen für eine Krankheit der Plasmazellen. Die wichtigste ist das Multiple Myelom.
+
+#### 🌱 Entstehung
+
+Ein Antikörper besteht aus zwei schweren und zwei leichten Ketten. Die Leichtketten gibt es in zwei Sorten, Kappa und Lambda. Plasmazellen bilden immer etwas mehr Leichtketten als nötig. Beim Myelom vermehrt sich ein einziger Klon von Plasmazellen. Er bildet sehr viele Leichtketten einer einzigen Sorte. Sie sind klein, werden im Glomerulus gefiltert und überschwemmen den Tubulus.
+
+#### 🧪 Probe und Messung
+
+Der Teststreifen erkennt Leichtketten kaum. Man braucht darum eigene Verfahren. Der Standard im Urin ist die Immunfixation. Dabei trennt man die Eiweiße in einem Gel und färbt sie mit Antikörpern gegen Kappa und Lambda an. Eine scharfe Bande einer einzigen Sorte zeigt eine monoklonale Leichtkette. Im Serum misst man heute zusätzlich die freien Leichtketten und ihr Verhältnis zueinander.
+
+#### 📋 Der Befund
+
+Eine monoklonale Leichtkette im Urin spricht für ein Myelom, eine verwandte Krankheit oder eine Vorstufe. Ein stark verschobenes Verhältnis von Kappa zu Lambda im Serum stützt den Befund. Die Diagnose stellt man aber erst zusammen mit dem Knochenmark und der Bildgebung. Viele Leichtketten können die Niere schädigen. Sie verstopfen die Tubuli und bilden Zylinder. Das heißt Myelomniere.
+
+#### ⚠️ Fehlerquellen
+
+Ein negativer Teststreifen schließt Leichtketten nicht aus. Ein verdünnter Spontanurin kann eine kleine Bande verbergen. Darum nutzt man den Morgenurin oder einen Sammelurin und konzentriert ihn vor der Untersuchung. Eine Proteinurie aus anderen Gründen kann die Banden überdecken. Bei einer Niereninsuffizienz steigen die freien Leichtketten im Serum auch ohne Myelom an.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Manche Myelome bilden nur Leichtketten und keinen ganzen Antikörper. In der Serumelektrophorese fallen sie kaum auf. Sie werden nur im Urin oder über die freien Leichtketten im Serum entdeckt. Wer bei einer unklaren Niereninsuffizienz nicht an Leichtketten denkt, übersieht das Myelom.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Bence-Jones-Protein sind freie monoklonale Leichtketten, Kappa oder Lambda. Sie sprechen für ein Myelom. Der Teststreifen erkennt sie nicht. Man sucht sie mit der Immunfixation im Urin und misst die freien Leichtketten im Serum. Sie können eine Myelomniere verursachen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-drogenscreening"></a>
+
+## 💧 Das Drogenscreening
+<sub>Urine drug screening</sub>
+
+> `Steckbrief 17` · **🟠 Spezielle Urinanalytik**
+
+#### 🧭 Einordnung
+
+Das Drogenscreening sucht im Urin nach Drogen und bestimmten Medikamenten. Man nutzt es in der Notaufnahme, in der Suchtmedizin, bei Ersatzbehandlungen und für Behörden. Der Urin eignet sich gut, denn viele Stoffe erscheinen darin über mehrere Tage.
+
+#### 🌱 Entstehung
+
+Der Körper baut Drogen in der Leber ab und scheidet die Abbauprodukte über die Niere aus. Im Urin sucht man darum oft nicht die Droge selbst, sondern ihren Abbaustoff. Bei Cannabis ist das eine Carbonsäure des THC. Bei Kokain ist es das Benzoylecgonin. Beim Methadon sucht man ebenfalls einen eigenen Abbaustoff.
+
+#### 🧪 Probe und Messung
+
+Der Suchtest ist meist ein Immunoassay. Antikörper erkennen eine Gruppe ähnlicher Stoffe. Typische Gruppen sind Amphetamine, Benzodiazepine, Cannabinoide, Kokain, Opiate und Methadon. Jeder Test hat einen Grenzwert. Erst darüber gilt er als positiv. Für Behörden oder Arbeitgeber braucht man eine Bestätigung mit Chromatographie und Massenspektrometrie.
+
+#### 📋 Der Befund
+
+Ein positiver Suchtest ist nur ein Verdacht. Erst die Bestätigung beweist, welcher Stoff vorliegt. Cannabis kann bei regelmäßigem Konsum noch Wochen nachweisbar sein. Kokain und Amphetamine sind meist nur wenige Tage nachweisbar. Der Befund sagt nicht, ob jemand zum Zeitpunkt der Probe berauscht war.
+
+#### ⚠️ Fehlerquellen
+
+Manche Medikamente geben falsch positive Ergebnisse, weil die Antikörper nicht ganz spezifisch sind. Mohn kann den Opiattest positiv machen. Häufig wird der Urin auch manipuliert. Man verdünnt ihn mit Wasser, tauscht ihn aus oder gibt Stoffe hinzu. Darum prüft man die Temperatur der frischen Probe, das Kreatinin, das spezifische Gewicht und den pH-Wert. Ein Kreatinin unter etwa zwanzig Milligramm pro Deziliter zeigt eine starke Verdünnung.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein falscher Befund kann schwere Folgen haben, etwa für den Führerschein oder den Arbeitsplatz. Darum muss die Probe unter Sicht abgegeben und lückenlos dokumentiert werden. Man nennt das Beweiskette. Kein positiver Suchtest geht ohne Bestätigung an eine Behörde.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Drogenscreening sucht mit Immunoassays nach Gruppen von Drogen und ihren Abbaustoffen. Ein positiver Suchtest ist nur ein Verdacht und braucht eine Bestätigung mit Massenspektrometrie. Mohn und Medikamente können täuschen. Temperatur, Kreatinin und spezifisches Gewicht zeigen Manipulationen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-harnsteinanalyse"></a>
+
+## 💧 Die Harnsteinanalyse
+<sub>Urinary stone analysis</sub>
+
+> `Steckbrief 18` · **🟠 Spezielle Urinanalytik**
+
+#### 🧭 Einordnung
+
+Ein Harnstein ist eine feste Ablagerung in Niere oder Harnwegen. Die Harnsteinanalyse bestimmt, woraus der Stein besteht. Das ist wichtig, denn viele Menschen bilden immer wieder Steine. Die Art des Steins bestimmt die Behandlung und die Vorbeugung.
+
+#### 🌱 Entstehung
+
+Ein Stein entsteht, wenn ein Stoff im Urin übersättigt ist und Kristalle bildet. Die Kristalle wachsen und lagern sich zusammen. Begünstigt wird das durch wenig Trinken, falsche Ernährung, Stoffwechselstörungen und Infekte. Auch der pH-Wert des Urins spielt eine große Rolle.
+
+#### 🧪 Probe und Messung
+
+Der Stein wird gewaschen und getrocknet. Der Standard ist die Infrarotspektroskopie. Jeder Stoff verschluckt Infrarotlicht bei anderen Wellenlängen. So erkennt man die Bestandteile und ihren Anteil. Ein anderes Verfahren ist die Röntgendiffraktion. Einfache chemische Farbtests reichen nicht, denn sie erkennen Mischsteine schlecht.
+
+#### 📋 Der Befund
+
+Der häufigste Stein ist der Calciumoxalatstein mit etwa drei Vierteln aller Fälle. Danach folgen Harnsäuresteine, Calciumphosphatsteine und Struvitsteine. Struvit ist Magnesiumammoniumphosphat und entsteht bei Infekten mit Harnstoff spaltenden Bakterien. Cystinsteine sind selten und zeigen eine erbliche Cystinurie. Harnsäuresteine kann man oft mit Medikamenten auflösen, die den Urin basischer machen.
+
+#### ⚠️ Fehlerquellen
+
+Ein Stein, der nicht sauber gewaschen ist, enthält Blut und Gewebe. Sehr kleine Bruchstücke nach einer Zertrümmerung geben manchmal nicht den ganzen Stein wieder. Manche Bestandteile ändern sich beim Trocknen. Ein Stein ist oft ein Mischstein aus Schichten. Dann muss man alle Anteile angeben.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Wer einmal einen Stein hatte, bekommt ihn oft wieder. Die Analyse des Steins ist der Schlüssel zur Vorbeugung. Ein Calciumoxalatstein verlangt eine andere Beratung als ein Harnsäurestein. Bei wiederholten Steinen folgt eine Stoffwechseluntersuchung mit Sammelurin.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Harnsteinanalyse bestimmt die Bestandteile des Steins. Der Standard ist die Infrarotspektroskopie. Am häufigsten ist Calciumoxalat, danach folgen Harnsäure, Calciumphosphat und Struvit. Struvit zeigt einen Infekt, Cystin eine Cystinurie. Die Art des Steins bestimmt die Vorbeugung.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="katecholamine-metanephrine"></a>
+
+## 💧 Katecholamine, Metanephrine
+<sub>Catecholamines and metanephrines</sub>
+
+> `Steckbrief 19` · **🟠 Spezielle Urinanalytik**
+
+#### 🧭 Einordnung
+
+Katecholamine sind Stresshormone wie Adrenalin und Noradrenalin. Metanephrine sind ihre Abbaustoffe. Man misst sie vor allem, um ein Phäochromozytom zu finden. Das ist ein seltener Tumor, meist im Nebennierenmark, der zu viele Katecholamine bildet.
+
+#### 🌱 Entstehung
+
+Das Nebennierenmark bildet Adrenalin und Noradrenalin und gibt sie bei Stress ins Blut. Im Gewebe und im Tumor selbst werden sie ständig zu Metanephrin und Normetanephrin abgebaut. Ein Phäochromozytom gibt Katecholamine oft nur in Schüben ab. Die Metanephrine entstehen dagegen fast gleichmäßig. Darum sind sie die besseren Marker.
+
+#### 🧪 Probe und Messung
+
+Man misst die Metanephrine im Plasma oder im Sammelurin über vierundzwanzig Stunden. Das Sammelgefäß enthält meist Säure, damit die Stoffe stabil bleiben. Für das Plasma sollte der Patient vor der Blutentnahme etwa zwanzig bis dreißig Minuten liegen. Gemessen wird heute meist mit Chromatographie und Massenspektrometrie.
+
+#### 📋 Der Befund
+
+Normale Metanephrine schließen ein Phäochromozytom fast sicher aus. Leicht erhöhte Werte sind häufig und meist harmlos, etwa durch Stress oder Medikamente. Deutlich erhöhte Werte, oft mehr als das Dreifache der Grenze, sprechen stark für einen Tumor. Dann folgt die Bildgebung. Bei Kindern sucht man mit Abbaustoffen wie der Vanillinmandelsäure und der Homovanillinsäure nach einem Neuroblastom.
+
+#### ⚠️ Fehlerquellen
+
+Stress, Schmerzen und körperliche Arbeit erhöhen die Katecholamine. Viele Medikamente stören, besonders manche Antidepressiva und Mittel gegen Parkinson. Ein unvollständig gesammelter Urin gibt zu niedrige Werte. Ohne Säure im Sammelgefäß zerfallen die Katecholamine. Die Säure ist ätzend, darum muss der Patient gut aufgeklärt werden.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Phäochromozytom ist selten, aber gefährlich. Es kann schwere Blutdruckkrisen auslösen, besonders bei einer Operation. Eine richtige Probe ist entscheidend, denn falsch hohe Werte führen zu unnötigen Untersuchungen. Darum muss man Ruhe, Medikamente und Sammlung genau beachten.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Metanephrine sind die Abbaustoffe der Katecholamine und die besten Marker für ein Phäochromozytom. Man misst sie im Plasma nach Liegen oder im angesäuerten Sammelurin. Normale Werte schließen den Tumor fast aus. Stress und Medikamente erhöhen die Werte. Bei Kindern sucht man so ein Neuroblastom.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-vier"></a>
+
+### 📝 Zusammenfassung Teil vier
+<sub>Part four summary</sub>
+
+> Das Bence-Jones-Protein sind freie monoklonale Leichtketten. Der Teststreifen erkennt sie nicht, man nutzt die Immunfixation. Das Drogenscreening ist ein Suchtest mit Immunoassays. Ein positiver Befund braucht eine Bestätigung mit Massenspektrometrie.
+>
+> Die Harnsteinanalyse nutzt die Infrarotspektroskopie. Calciumoxalat ist der häufigste Stein. Metanephrine im Plasma oder im angesäuerten Sammelurin zeigen ein Phäochromozytom.
+>
+> Im nächsten Teil geht es um das Nervenwasser, den Liquor.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-fünf-der-liquor"></a>
+
+# 🟡 Teil fünf: Der Liquor
+<sub>Part five: Cerebrospinal fluid</sub>
+
+Der fünfte Teil behandelt den Liquor, also das Nervenwasser. Er umspült Gehirn und Rückenmark und schützt sie. Seine Untersuchung zeigt Entzündungen, Blutungen und Tumoren des Nervensystems. Der Liquor ist eine Notfallprobe, die man nie warten lässt.
+
+Der Teil beginnt mit einem Kapitel über die Bildung des Liquors und die Punktion. Danach folgen sechs Steckbriefe. Zuerst kommen die Zellzahl und die Zytologie. Dann folgen die Schrankenfunktion und die oligoklonalen Banden. Am Ende stehen Glukose und Laktat und die Blutung im Liquor.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `20` | [**Die Liquorzellzahl**](#die-liquorzellzahl) | Normal sind weniger als etwa fünf Zellen pro Mikroliter. |
+| `21` | [**Die Liquorzytologie**](#die-liquorzytologie) | Die Liquorzytologie differenziert die Zellen nach Zytozentrifuge und Pappenheim-Färbung. |
+| `22` | [**Die Schrankenfunktion**](#die-schrankenfunktion) | Albumin kommt nur aus dem Blut und misst die Schranke. |
+| `23` | [**Oligoklonale Banden**](#oligoklonale-banden) | Oligoklonale Banden sind IgG-Banden aus wenigen Klonen von Plasmazellen. |
+| `24` | [**Liquorglukose und Laktat**](#liquorglukose-und-laktat) | Die Liquorglukose liegt bei etwa sechzig Prozent des Blutzuckers. |
+| `25` | [**Die Liquorblutung**](#die-liquorblutung) | Eine Punktionsblutung wird von Röhrchen zu Röhrchen klarer, eine Subarachnoidalblutung bleibt gleich. |
+
+<a id="liquor-und-punktion"></a>
+
+## 📖 Liquor und Punktion
+<sub>CSF and lumbar puncture</sub>
+
+Der Liquor wird vor allem in den Hirnkammern gebildet. Dort sitzen feine Gefäßgeflechte, die man Plexus choroideus nennt. Sie bilden etwa fünfhundert Milliliter Liquor am Tag. Im ganzen System sind beim Erwachsenen aber nur etwa hundertfünfzig Milliliter. Der Liquor wird also mehrmals am Tag ausgetauscht.
+
+Der Liquor fließt durch die Hirnkammern und umspült dann Gehirn und Rückenmark. Wieder aufgenommen wird er über kleine Ausstülpungen in die großen Venen des Gehirns. Er ist klar wie Wasser und enthält nur wenige Zellen, wenig Eiweiß und etwas Zucker.
+
+Gewonnen wird der Liquor meist durch eine Lumbalpunktion. Der Arzt sticht mit einer feinen Nadel im unteren Rücken zwischen zwei Lendenwirbel. Dort gibt es kein Rückenmark mehr, sondern nur noch Nervenfasern. Vorher schließt man einen erhöhten Hirndruck aus, etwa mit einer Bildgebung.
+
+Man fängt den Liquor in mehreren sterilen Röhrchen auf. Sie werden nummeriert. Ein Röhrchen geht in die Mikrobiologie, die anderen in die Chemie und die Zytologie. Zur gleichen Zeit nimmt man Blut ab. Ohne diese Blutprobe kann man Glukose, Albumin und Antikörper nicht richtig deuten.
+
+Der Liquor muss sofort ins Labor. Die Zellen zerfallen schnell, besonders die Granulozyten. Schon nach etwa zwei Stunden ist ein Teil verloren. Die Zellzahl sollte darum möglichst innerhalb einer Stunde gezählt werden. Für die Mikrobiologie darf der Liquor nicht in den Kühlschrank, denn manche Erreger sterben in der Kälte.
+
+Der erste Blick gilt dem Aussehen. Normaler Liquor ist klar und farblos wie Wasser. Ein trüber Liquor enthält viele Zellen oder Bakterien. Ein roter Liquor enthält Blut. Ein gelblicher Liquor heißt xanthochrom. Er enthält Abbaustoffe von Blut oder sehr viel Eiweiß. Ein Spinngewebsgerinnsel kann bei einer Tuberkulose auftreten.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-liquorzellzahl"></a>
+
+## 💧 Die Liquorzellzahl
+<sub>CSF cell count</sub>
+
+> `Steckbrief 20` · **🟡 Der Liquor**
+
+#### 🧭 Einordnung
+
+Die Liquorzellzahl ist die wichtigste Untersuchung des Liquors. Sie zeigt, ob eine Entzündung des Nervensystems vorliegt. Eine erhöhte Zellzahl heißt Pleozytose. Die Höhe und die Art der Zellen weisen auf die Ursache hin.
+
+#### 🌱 Entstehung
+
+Im gesunden Liquor sind nur sehr wenige Zellen. Das sind vor allem Lymphozyten und Monozyten. Bei einer Entzündung der Hirnhäute wandern weiße Blutkörperchen aus dem Blut ein. Bei einer bakteriellen Entzündung sind das vor allem Granulozyten. Bei Viren sind es vor allem Lymphozyten.
+
+#### 🧪 Probe und Messung
+
+Klassisch zählt man die Zellen in einer Fuchs-Rosenthal-Kammer. Man mischt den Liquor vorher mit einer Färbelösung. Sie färbt die Kerne der weißen Blutkörperchen an. Die Kammer hat ein bekanntes Volumen. Daraus berechnet man die Zellen pro Mikroliter. Früher gab man den Wert in Drittelzellen an. Das ist veraltet. Heute zählen auch Automaten den Liquor, bei sehr niedrigen Zahlen ist die Kammer aber oft genauer.
+
+#### 📋 Der Befund
+
+Normal sind beim Erwachsenen weniger als etwa fünf Zellen pro Mikroliter. Bei einer viralen Meningitis findet man meist einige zehn bis wenige hundert Zellen, vor allem Lymphozyten. Bei einer bakteriellen Meningitis sind es oft mehr als tausend Zellen, vor allem Granulozyten. Der Liquor ist dann trüb. Bei der Multiplen Sklerose ist die Zellzahl normal oder nur leicht erhöht. Eine Tuberkulose und die Borreliose geben oft eine gemischte Pleozytose.
+
+#### ⚠️ Fehlerquellen
+
+Der wichtigste Fehler ist die Zeit. Zellen zerfallen schnell, und dann ist die Zahl falsch niedrig. Blut aus der Punktion bringt zusätzliche weiße Blutkörperchen in den Liquor. Man kann sie grob abziehen, denn im Blut kommt etwa ein Leukozyt auf tausend rote Blutkörperchen. Ein schlecht gemischter Liquor gibt falsche Zahlen, denn die Zellen sinken ab.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine bakterielle Meningitis ist ein lebensbedrohlicher Notfall. Jede Stunde Verzögerung bei der Behandlung verschlechtert die Aussicht. Die Zellzahl ist der schnellste Hinweis. Ein trüber Liquor mit vielen Granulozyten wird sofort dem Arzt gemeldet.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Normal sind weniger als etwa fünf Zellen pro Mikroliter. Viele Granulozyten, oft über tausend, sprechen für eine bakterielle Meningitis. Einige zehn bis hundert Lymphozyten sprechen für Viren. Man zählt in der Fuchs-Rosenthal-Kammer, möglichst innerhalb einer Stunde.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-liquorzytologie"></a>
+
+## 💧 Die Liquorzytologie
+<sub>CSF cytology</sub>
+
+> `Steckbrief 21` · **🟡 Der Liquor**
+
+#### 🧭 Einordnung
+
+Die Liquorzytologie bestimmt, welche Zellen im Liquor sind. Sie ergänzt die Zellzahl. Sie zeigt nicht nur Granulozyten und Lymphozyten, sondern auch Plasmazellen, Fresszellen nach Blutungen und Tumorzellen.
+
+#### 🌱 Entstehung
+
+Bei jeder Krankheit wandern andere Zellen in den Liquor. Bei einer chronischen Entzündung kommen Plasmazellen hinzu. Nach einer Blutung fressen Makrophagen die roten Blutkörperchen. Tumoren können ihre Zellen in die Hirnhäute streuen. Das heißt Meningeosis. Sie kommt bei Leukämien, Lymphomen und Krebs etwa von Brust und Lunge vor.
+
+#### 🧪 Probe und Messung
+
+Der Liquor enthält zu wenige Zellen für einen normalen Ausstrich. Darum schleudert man ihn in einer Zytozentrifuge direkt auf einen Objektträger. Dort bildet sich ein kleiner Fleck mit allen Zellen. Man färbt ihn nach Pappenheim, wie einen Blutausstrich. Dann differenziert man die Zellen unter dem Mikroskop.
+
+#### 📋 Der Befund
+
+Ein normaler Liquor enthält Lymphozyten und Monozyten. Viele Granulozyten zeigen eine bakterielle Entzündung. Aktivierte Lymphozyten und Plasmazellen zeigen eine Immunreaktion im Nervensystem, etwa bei Multipler Sklerose oder Neuroborreliose. Eosinophile kommen bei Parasiten und manchmal bei einem Schlauchsystem im Kopf vor, dem Shunt. Erythrophagen und Siderophagen zeigen eine Blutung. Tumorzellen beweisen eine Meningeosis.
+
+#### ⚠️ Fehlerquellen
+
+Auch hier ist die Zeit der größte Feind. Zerfallene Zellen kann man nicht mehr bestimmen. Aktivierte Lymphozyten sehen Tumorzellen manchmal ähnlich. Bei einem Verdacht auf Lymphom hilft eine Durchflusszytometrie. Wenige Tumorzellen kann man übersehen. Darum braucht man bei Verdacht oft mehrere Punktionen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Zytologie findet Krankheiten, die die Zellzahl allein nicht zeigt. Eine Meningeosis kann bei normaler Zellzahl vorliegen. Siderophagen beweisen eine ältere Blutung, auch wenn der Liquor schon wieder klar ist. Das kann bei einer übersehenen Hirnblutung entscheidend sein.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Liquorzytologie differenziert die Zellen nach Zytozentrifuge und Pappenheim-Färbung. Granulozyten zeigen Bakterien, Plasmazellen eine chronische Immunreaktion. Erythrophagen und Siderophagen zeigen eine Blutung. Tumorzellen beweisen eine Meningeosis. Man arbeitet schnell, denn Zellen zerfallen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-schrankenfunktion"></a>
+
+## 💧 Die Schrankenfunktion
+<sub>Blood CSF barrier</sub>
+
+> `Steckbrief 22` · **🟡 Der Liquor**
+
+#### 🧭 Einordnung
+
+Zwischen Blut und Liquor liegt eine Schranke. Sie lässt nur wenige Eiweiße aus dem Blut in den Liquor. Ist sie gestört, steigt das Eiweiß im Liquor. Ihre Messung zeigt außerdem, ob das Nervensystem selbst Antikörper bildet.
+
+#### 🌱 Entstehung
+
+Albumin wird nur in der Leber gebildet. Jedes Albumin im Liquor stammt also aus dem Blut. Darum eignet es sich als Maß für die Schranke. Antikörper wie das IgG können dagegen aus dem Blut kommen oder im Nervensystem selbst entstehen. Eine Bildung im Nervensystem heißt intrathekale Synthese. Sie zeigt eine Entzündung im Gehirn.
+
+#### 🧪 Probe und Messung
+
+Man misst Albumin und die Immunglobuline in Liquor und Serum, die zur gleichen Zeit gewonnen wurden. Dann bildet man Quotienten. Der Albuminquotient ist das Albumin im Liquor geteilt durch das Albumin im Serum. Ebenso bildet man Quotienten für IgG, IgA und IgM. Man trägt sie in ein Diagramm ein. Es heißt nach seinem Erfinder Reiber-Diagramm.
+
+#### 📋 Der Befund
+
+Der Albuminquotient steigt mit dem Alter leicht an. Ein erhöhter Albuminquotient zeigt eine Schrankenstörung. Sie kommt bei bakterieller Meningitis vor, bei einem Guillain-Barre-Syndrom und bei Engstellen im Rückenmarkskanal. Beim Guillain-Barre-Syndrom ist das Eiweiß hoch, die Zellzahl aber normal. Das heißt zytoalbuminäre Dissoziation. Liegt ein Immunglobulin im Reiber-Diagramm über der Grenzlinie, wird es im Nervensystem gebildet.
+
+#### ⚠️ Fehlerquellen
+
+Blut aus der Punktion bringt Albumin und Antikörper in den Liquor. Das täuscht eine Schrankenstörung vor. Liquor und Serum müssen zur gleichen Zeit gewonnen werden. Ein Serum von einem anderen Tag macht die Quotienten wertlos. Das gesamte Eiweiß allein sagt weniger als die Quotienten.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das Reiber-Diagramm trennt zwei Fragen. Ist die Schranke gestört? Und bildet das Nervensystem selbst Antikörper? Diese Unterscheidung ist entscheidend für die Diagnose der Multiplen Sklerose und von Infektionen wie der Neuroborreliose. Darum gehört zu jeder Liquorprobe eine Serumprobe.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Albumin kommt nur aus dem Blut und misst die Schranke. Der Albuminquotient steigt bei einer Schrankenstörung. Das Reiber-Diagramm zeigt, ob IgG, IgA oder IgM im Nervensystem gebildet werden. Beim Guillain-Barre-Syndrom ist das Eiweiß hoch, die Zellzahl normal. Liquor und Serum gehören zusammen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="oligoklonale-banden"></a>
+
+## 💧 Oligoklonale Banden
+<sub>Oligoclonal bands</sub>
+
+> `Steckbrief 23` · **🟡 Der Liquor**
+
+#### 🧭 Einordnung
+
+Oligoklonale Banden sind einzelne, scharfe Banden von IgG im Liquor. Sie zeigen, dass einige wenige Klone von Plasmazellen im Nervensystem Antikörper bilden. Sie sind der empfindlichste Nachweis einer intrathekalen Synthese. Am wichtigsten sind sie für die Diagnose der Multiplen Sklerose.
+
+#### 🌱 Entstehung
+
+Bei einer chronischen Entzündung im Nervensystem wandern B-Zellen ein und werden zu Plasmazellen. Jeder Klon bildet genau einen Antikörper. Einige wenige Klone geben einige wenige Banden. Darum heißen sie oligoklonal. Diese Banden findet man dann im Liquor, aber nicht im Blut.
+
+#### 🧪 Probe und Messung
+
+Man untersucht Liquor und Serum vom gleichen Tag nebeneinander. Die Eiweiße werden mit der isoelektrischen Fokussierung getrennt. Dabei wandern sie in einem Gel mit einem pH-Gefälle, bis sie an ihrem Punkt stehen bleiben. Danach färbt man das IgG mit einem Antikörper an. So sieht man die Banden von Liquor und Serum direkt nebeneinander.
+
+#### 📋 Der Befund
+
+Man unterscheidet fünf Muster. Muster eins zeigt keine Banden und ist normal. Muster zwei zeigt Banden nur im Liquor. Das beweist eine intrathekale Synthese. Muster drei zeigt Banden nur im Liquor und dazu gleiche Banden in beiden Proben. Muster vier zeigt nur gleiche Banden in beiden Proben, wie in einem Spiegel. Das zeigt eine Entzündung im ganzen Körper. Muster fünf zeigt eine monoklonale Bande in beiden Proben, etwa bei einem Myelom. Bei der Multiplen Sklerose findet man in über neunzig Prozent die Muster zwei oder drei.
+
+#### ⚠️ Fehlerquellen
+
+Ohne Serum vom gleichen Tag kann man die Muster nicht unterscheiden. Ein blutiger Liquor bringt Banden aus dem Blut mit. Die Methode braucht viel Erfahrung beim Ablesen. Schwache Banden kann man übersehen oder überdeuten. Oligoklonale Banden kommen auch bei Infektionen des Nervensystems vor und sind darum nicht spezifisch für die Multiple Sklerose.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Bei einem ersten Schub mit Verdacht auf Multiple Sklerose können oligoklonale Banden die Diagnose vorziehen. Sie ersetzen dann einen zweiten Schub in den Kriterien. Ein Fehler im Labor kann die Diagnose und eine lange Therapie in die falsche Richtung lenken.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Oligoklonale Banden sind IgG-Banden aus wenigen Klonen von Plasmazellen. Man vergleicht Liquor und Serum mit der isoelektrischen Fokussierung. Muster zwei und drei zeigen eine intrathekale Synthese. Bei der Multiplen Sklerose sind sie in über neunzig Prozent positiv, aber nicht spezifisch.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="liquorglukose-und-laktat"></a>
+
+## 💧 Liquorglukose und Laktat
+<sub>CSF glucose and lactate</sub>
+
+> `Steckbrief 24` · **🟡 Der Liquor**
+
+#### 🧭 Einordnung
+
+Glukose und Laktat im Liquor zeigen den Stoffwechsel im Nervensystem. Sie helfen vor allem, eine bakterielle von einer viralen Meningitis zu trennen. Beide Werte liegen schnell vor und sind darum wertvoll in der Notaufnahme.
+
+#### 🌱 Entstehung
+
+Die Glukose gelangt aus dem Blut in den Liquor. Ihr Wert hängt darum vom Blutzucker ab. Bei einer bakteriellen Entzündung verbrauchen Bakterien und Granulozyten die Glukose. Zugleich ist der Transport gestört. Laktat entsteht beim Abbau von Glukose ohne Sauerstoff. Es tritt kaum aus dem Blut über und zeigt darum den Stoffwechsel im Liquor selbst.
+
+#### 🧪 Probe und Messung
+
+Die Liquorglukose deutet man immer zusammen mit dem Blutzucker von der gleichen Zeit. Man bildet den Quotienten aus Liquorglukose und Blutglukose. Die Zellen im Liquor verbrauchen auch im Röhrchen weiter Glukose. Darum misst man schnell oder nutzt ein Röhrchen mit Fluorid. Laktat misst man im gleichen Liquor mit einer enzymatischen Methode.
+
+#### 📋 Der Befund
+
+Normal liegt die Liquorglukose bei etwa sechzig Prozent der Blutglukose. Ein Quotient unter etwa null Komma fünf ist erniedrigt. Er spricht für eine bakterielle Meningitis, eine Tuberkulose, einen Pilz oder eine Meningeosis. Das Laktat liegt normal unter etwa zwei Millimol pro Liter. Über etwa drei Komma fünf Millimol pro Liter spricht es stark für eine bakterielle Meningitis. Bei Viren bleiben Glukose und Laktat meist normal.
+
+#### ⚠️ Fehlerquellen
+
+Ohne Blutzucker kann man die Liquorglukose nicht deuten. Bei hohem Blutzucker kann sie normal aussehen, obwohl der Quotient erniedrigt ist. Ein langes Stehen senkt die Glukose und erhöht das Laktat. Laktat steigt auch nach einem Krampfanfall, einem Schlaganfall oder einer Blutung. Nach einer Antibiotikagabe können beide Werte schon besser sein.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Zellzahl, Glukosequotient und Laktat zusammen geben in einer Stunde ein klares Bild. Viele Granulozyten, wenig Glukose und viel Laktat sprechen für Bakterien. Dann beginnt die Behandlung sofort, noch bevor die Kultur ein Ergebnis hat.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Liquorglukose liegt bei etwa sechzig Prozent des Blutzuckers. Ein Quotient unter etwa null Komma fünf spricht für Bakterien, Tuberkulose oder Tumor. Laktat über etwa drei Komma fünf Millimol pro Liter spricht stark für eine bakterielle Meningitis. Man braucht immer den Blutzucker von der gleichen Zeit.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-liquorblutung"></a>
+
+## 💧 Die Liquorblutung
+<sub>Blood in CSF</sub>
+
+> `Steckbrief 25` · **🟡 Der Liquor**
+
+#### 🧭 Einordnung
+
+Blut im Liquor hat zwei ganz verschiedene Ursachen. Es kann aus einer Blutung unter der Spinnwebenhaut stammen, der Subarachnoidalblutung. Oder es kommt aus einem Gefäß, das die Nadel bei der Punktion verletzt hat. Diese Unterscheidung ist eine klassische Aufgabe des Liquorlabors.
+
+#### 🌱 Entstehung
+
+Eine Subarachnoidalblutung entsteht meist, wenn eine Aussackung einer Hirnarterie platzt. Das Blut verteilt sich im ganzen Liquor. Nach einigen Stunden zerfallen die roten Blutkörperchen. Ihr Hämoglobin wird zu Bilirubin abgebaut. Makrophagen fressen die Zellen und werden zu Erythrophagen. Nach einigen Tagen bauen sie das Eisen zu Hämosiderin um und heißen dann Siderophagen.
+
+#### 🧪 Probe und Messung
+
+Man achtet auf die Röhrchen in ihrer Reihenfolge. Bei einer Punktionsblutung wird der Liquor von Röhrchen zu Röhrchen klarer. Bei einer Subarachnoidalblutung bleibt er gleich blutig. Dann zentrifugiert man den Liquor sofort. Ein gelber Überstand heißt Xanthochromie. Genauer misst man den Überstand mit einem Photometer. In der Zytologie sucht man Erythrophagen und Siderophagen. Auch das Ferritin im Liquor kann erhöht sein.
+
+#### 📋 Der Befund
+
+Eine Xanthochromie und Siderophagen sprechen für eine echte Blutung. Bilirubin im Überstand erscheint erst einige Stunden nach der Blutung. Darum punktiert man möglichst nicht früher als etwa zwölf Stunden nach dem Kopfschmerz. Siderophagen findet man nach einigen Tagen und noch Wochen danach. Ein klarer Überstand ohne Fresszellen spricht für eine Punktionsblutung.
+
+#### ⚠️ Fehlerquellen
+
+Wenn man den Liquor zu spät zentrifugiert, zerfallen die Zellen auch im Röhrchen. Dann wird der Überstand gelb, obwohl nur eine Punktionsblutung vorlag. Eine Xanthochromie gibt es auch bei sehr viel Eiweiß und bei einer starken Gelbsucht. Die Drei-Gläser-Probe ist nur ein grober Hinweis.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Subarachnoidalblutung kann tödlich sein, und eine zweite Blutung droht. Manchmal zeigt die Bildgebung sie nicht. Dann entscheidet der Liquor. Eine übersehene Blutung ist gefährlich, eine falsch erkannte führt zu unnötigen Eingriffen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Eine Punktionsblutung wird von Röhrchen zu Röhrchen klarer, eine Subarachnoidalblutung bleibt gleich. Xanthochromie, Erythrophagen und Siderophagen zeigen eine echte Blutung. Man zentrifugiert sofort. Bilirubin erscheint erst nach Stunden, darum punktiert man frühestens etwa zwölf Stunden nach dem Kopfschmerz.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-fünf"></a>
+
+### 📝 Zusammenfassung Teil fünf
+<sub>Part five summary</sub>
+
+> Der Liquor wird im Plexus gebildet und mehrmals am Tag ausgetauscht. Er muss sofort ins Labor. Zu jeder Liquorprobe gehört Blut von der gleichen Zeit.
+>
+> Normal sind weniger als fünf Zellen pro Mikroliter. Viele Granulozyten zeigen Bakterien, Lymphozyten Viren. Die Zytologie zeigt Plasmazellen, Siderophagen und Tumorzellen. Der Albuminquotient misst die Schranke, das Reiber-Diagramm die Bildung von Antikörpern im Nervensystem. Oligoklonale Banden vom Muster zwei oder drei zeigen eine intrathekale Synthese.
+>
+> Ein Glukosequotient unter null Komma fünf und ein Laktat über drei Komma fünf sprechen für Bakterien. Xanthochromie und Siderophagen zeigen eine Subarachnoidalblutung.
+>
+> Im nächsten Teil geht es um die Punktate aus Brustkorb, Bauch und Gelenk.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-sechs-punktate"></a>
+
+# ⚪ Teil sechs: Punktate
+<sub>Part six: Body fluids</sub>
+
+Der sechste Teil behandelt die Punktate. Das sind Flüssigkeiten, die man mit einer Nadel aus einer Körperhöhle gewinnt. Normalerweise enthalten diese Höhlen nur einen dünnen Film Flüssigkeit. Sammelt sich mehr, nennt man das einen Erguss.
+
+Der Teil beginnt mit einem Kapitel über die Grundfrage jedes Ergusses, Transsudat oder Exsudat. Danach folgen vier Steckbriefe. Das sind der Pleuraerguss, der Aszites, das Gelenkpunktat und die Bronchiallavage.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `26` | [**Der Pleuraerguss**](#der-pleuraerguss) | Die Light-Kriterien erkennen ein Exsudat an drei Grenzen. |
+| `27` | [**Der Aszites**](#der-aszites) | Der SAAG ist Albumin im Serum minus Albumin im Aszites. |
+| `28` | [**Das Gelenkpunktat**](#das-gelenkpunktat) | Normale Synovia hat weniger als etwa zweihundert Zellen. |
+| `29` | [**Die Bronchiallavage**](#die-bronchiallavage) | Die Bronchiallavage enthält normal vor allem Makrophagen. |
+
+<a id="transsudat-oder-exsudat"></a>
+
+## 📖 Transsudat oder Exsudat
+<sub>Transudate or exudate</sub>
+
+Jeder Erguss beginnt mit einer Frage. Ist er ein Transsudat oder ein Exsudat? Die Antwort teilt die möglichen Ursachen in zwei große Gruppen. Danach richtet sich die ganze weitere Diagnostik.
+
+Ein Transsudat entsteht, wenn Flüssigkeit durch gesunde Gefäßwände gedrückt wird. Das geschieht bei hohem Druck in den Gefäßen oder bei zu wenig Eiweiß im Blut. Typische Ursachen sind eine Herzschwäche, eine Leberzirrhose und ein nephrotisches Syndrom. Das Transsudat ist klar und enthält wenig Eiweiß und wenige Zellen.
+
+Ein Exsudat entsteht, wenn die Gefäßwände selbst durchlässig werden. Das geschieht bei Entzündungen und Tumoren. Typische Ursachen sind eine Lungenentzündung, eine Tuberkulose, ein Krebs und eine Lungenembolie. Das Exsudat ist oft trüb und enthält viel Eiweiß, viel LDH und viele Zellen.
+
+Für jedes Punktat braucht man die richtigen Röhrchen. Für Eiweiß, LDH und Glukose nimmt man ein Röhrchen ohne Zusatz oder mit Heparin. Für die Zellzahl nimmt man ein EDTA-Röhrchen. Für die Mikrobiologie nimmt man ein steriles Röhrchen und oft zusätzlich Blutkulturflaschen. Für die Zytologie braucht man eine größere Menge.
+
+Wie beim Liquor braucht man Blut von der gleichen Zeit. Viele Werte im Punktat deutet man nur im Vergleich mit dem Serum. Das gilt besonders für Eiweiß, LDH und Albumin.
+
+Das Aussehen gibt einen ersten Hinweis. Ein klarer, hellgelber Erguss ist oft ein Transsudat. Ein trüber Erguss zeigt Zellen oder Bakterien. Eiter heißt Empyem. Ein blutiger Erguss spricht für einen Tumor, eine Verletzung oder eine Lungenembolie. Ein milchiger Erguss enthält Lymphe und heißt chylös.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="der-pleuraerguss"></a>
+
+## 💧 Der Pleuraerguss
+<sub>Pleural effusion</sub>
+
+> `Steckbrief 26` · **⚪ Punktate**
+
+#### 🧭 Einordnung
+
+Ein Pleuraerguss ist Flüssigkeit zwischen Lunge und Brustwand. Er ist der häufigste Erguss im Labor. Die Untersuchung trennt zuerst Transsudat und Exsudat. Danach sucht man die genaue Ursache, etwa einen Infekt, eine Tuberkulose oder einen Tumor.
+
+#### 🌱 Entstehung
+
+Zwischen Lunge und Brustwand liegen zwei dünne Häute, die Pleurablätter. Zwischen ihnen ist normalerweise nur ein feiner Flüssigkeitsfilm. Bei einer Herzschwäche staut sich Blut in der Lunge, und Flüssigkeit tritt aus. Bei einer Lungenentzündung entzündet sich die Pleura mit. Ein Tumor kann die Pleura befallen oder den Abfluss der Lymphe stören.
+
+#### 🧪 Probe und Messung
+
+Man misst Eiweiß und LDH im Erguss und im Serum. Dazu kommen Zellzahl, Differenzierung, Glukose und pH-Wert. Den pH-Wert misst man in einer Spritze mit Heparin ohne Luft, wie bei einer Blutgasanalyse. Für Tuberkulose und Tumor schickt man Material in die Mikrobiologie und die Zytologie.
+
+#### 📋 Der Befund
+
+Die Light-Kriterien trennen Transsudat und Exsudat. Ein Exsudat liegt vor, wenn eines von drei Kriterien erfüllt ist. Erstens: Der Quotient des Eiweißes aus Erguss und Serum liegt über null Komma fünf. Zweitens: Der Quotient der LDH liegt über null Komma sechs. Drittens: Die LDH im Erguss liegt über zwei Dritteln der oberen Normgrenze im Serum. Ein pH-Wert unter etwa sieben Komma zwei und eine niedrige Glukose bei einem Infekt zeigen, dass der Erguss abgeleitet werden muss. Triglyzeride über etwa hundertzehn Milligramm pro Deziliter zeigen einen Chylothorax.
+
+#### ⚠️ Fehlerquellen
+
+Die Light-Kriterien sind sehr empfindlich für Exsudate. Bei einer Herzschwäche unter harntreibenden Mitteln kann ein Transsudat darum fälschlich als Exsudat gelten. Dann hilft das NT-proBNP im Erguss oder im Blut. Luft in der Spritze verändert den pH-Wert. Ein Erguss, der lange steht, verbraucht Glukose.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Behandlung hängt direkt vom Befund ab. Ein Transsudat behandelt man über die Grundkrankheit, etwa das Herz. Ein infizierter Erguss mit niedrigem pH-Wert braucht eine Drainage. Tumorzellen im Erguss verändern die ganze Behandlung eines Krebses.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Light-Kriterien erkennen ein Exsudat an drei Grenzen. Es reicht ein Eiweißquotient über null Komma fünf oder ein LDH-Quotient über null Komma sechs. Auch eine LDH über zwei Dritteln der Serumgrenze reicht. Ein pH-Wert unter sieben Komma zwei bei einem Infekt verlangt eine Drainage. Viele Triglyzeride zeigen einen Chylothorax.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="der-aszites"></a>
+
+## 💧 Der Aszites
+<sub>Ascites</sub>
+
+> `Steckbrief 27` · **⚪ Punktate**
+
+#### 🧭 Einordnung
+
+Aszites ist Flüssigkeit in der freien Bauchhöhle. Die häufigste Ursache ist eine Leberzirrhose. Andere Ursachen sind Tumoren, Herzschwäche, Tuberkulose und eine Entzündung der Bauchspeicheldrüse. Im Labor stellt man zwei Fragen. Liegt ein Pfortaderhochdruck vor? Und ist der Aszites infiziert?
+
+#### 🌱 Entstehung
+
+Bei einer Leberzirrhose staut sich das Blut vor der Leber in der Pfortader. Der hohe Druck drückt Flüssigkeit in die Bauchhöhle. Zusätzlich bildet die kranke Leber zu wenig Albumin. Bei einem Tumor des Bauchfells tritt eiweißreiche Flüssigkeit aus. Bei einer Zirrhose können Bakterien aus dem Darm den Aszites ohne erkennbare Ursache infizieren. Das heißt spontan bakterielle Peritonitis.
+
+#### 🧪 Probe und Messung
+
+Man misst Albumin im Aszites und im Serum zur gleichen Zeit. Aus beiden bildet man den Serum-Aszites-Albumin-Gradienten, kurz SAAG. Das ist das Albumin im Serum minus das Albumin im Aszites. Dazu bestimmt man die Zellzahl mit Differenzierung. Für die Kultur impft man am Bett Blutkulturflaschen mit Aszites an. So wachsen mehr Erreger als im einfachen Röhrchen.
+
+#### 📋 Der Befund
+
+Ein SAAG von mindestens etwa eins Komma eins Gramm pro Deziliter zeigt einen Pfortaderhochdruck. Das spricht für eine Zirrhose oder eine Herzschwäche. Ein kleinerer Gradient spricht für eine Ursache am Bauchfell, etwa einen Tumor oder eine Tuberkulose. Mindestens etwa zweihundertfünfzig Granulozyten pro Mikroliter beweisen eine spontan bakterielle Peritonitis, auch wenn die Kultur noch aussteht. Viel Amylase zeigt eine Ursache in der Bauchspeicheldrüse.
+
+#### ⚠️ Fehlerquellen
+
+Der SAAG ist nur gültig, wenn Serum und Aszites zur gleichen Zeit gewonnen wurden. Ein blutiger Aszites erhöht die Zellzahl. Dann zieht man pro zweihundertfünfzig roten Blutkörperchen etwa einen Granulozyten ab. Ein einfaches Röhrchen ohne Blutkulturflasche lässt viele Erreger nicht wachsen. Die Zellzahl muss schnell gezählt werden.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die spontan bakterielle Peritonitis ist bei Zirrhose häufig und gefährlich. Oft hat der Patient kaum Beschwerden. Die Zellzahl ist der schnellste Nachweis. Ab zweihundertfünfzig Granulozyten beginnt die Behandlung sofort. Darum wird der Befund dringend gemeldet.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Der SAAG ist Albumin im Serum minus Albumin im Aszites. Ab etwa eins Komma eins zeigt er einen Pfortaderhochdruck, darunter eine Ursache am Bauchfell. Ab etwa zweihundertfünfzig Granulozyten pro Mikroliter liegt eine spontan bakterielle Peritonitis vor. Für die Kultur impft man Blutkulturflaschen am Bett.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-gelenkpunktat"></a>
+
+## 💧 Das Gelenkpunktat
+<sub>Synovial fluid</sub>
+
+> `Steckbrief 28` · **⚪ Punktate**
+
+#### 🧭 Einordnung
+
+Das Gelenkpunktat ist die Flüssigkeit aus einem Gelenk. Man nennt sie auch Synovia. Man punktiert ein Gelenk, wenn es plötzlich schwillt und schmerzt. Die wichtigsten Fragen sind, ob das Gelenk infiziert ist und ob Kristalle die Entzündung auslösen.
+
+#### 🌱 Entstehung
+
+Die Gelenkinnenhaut bildet eine kleine Menge zäher Flüssigkeit. Sie ernährt den Knorpel und schmiert das Gelenk. Ihre Zähigkeit kommt von der Hyaluronsäure. Bei einer Entzündung bildet die Gelenkhaut viel mehr Flüssigkeit, und Zellen wandern ein. Bei der Gicht fallen Kristalle der Harnsäure im Gelenk aus. Bei der Pseudogicht sind es Kristalle aus Calciumpyrophosphat.
+
+#### 🧪 Probe und Messung
+
+Für die Zellzahl nimmt man ein Röhrchen mit EDTA oder Heparin. Röhrchen mit Pulvern wie Oxalat sind ungeeignet, denn sie bilden selbst Kristalle. Für die Kultur nimmt man ein steriles Röhrchen und Blutkulturflaschen. Die Kristalle sucht man in einem frischen Tropfen im polarisierten Licht mit einem Kompensator. Dieser Filter färbt die Kristalle je nach Lage gelb oder blau.
+
+#### 📋 Der Befund
+
+Normale Synovia ist klar, zäh und enthält weniger als etwa zweihundert Zellen pro Mikroliter. Bei einer Arthrose sind es bis etwa zweitausend Zellen. Bei einer entzündlichen Arthritis wie Gicht oder Rheuma sind es etwa zweitausend bis fünfzigtausend. Über etwa fünfzigtausend Zellen mit sehr vielen Granulozyten sprechen stark für ein infiziertes Gelenk. Uratkristalle sind feine Nadeln und stark negativ doppelbrechend. Calciumpyrophosphat bildet kurze, rechteckige Kristalle und ist schwach positiv doppelbrechend.
+
+#### ⚠️ Fehlerquellen
+
+Kristalle können sich bei langem Stehen auflösen oder neu bilden. Kortisonkristalle nach einer Spritze ins Gelenk sehen echten Kristallen ähnlich. Auch Puder von Handschuhen kann täuschen. Ein Gelenk kann gleichzeitig Kristalle und Bakterien enthalten. Kristalle schließen einen Infekt also nicht aus.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein infiziertes Gelenk ist ein Notfall. Der Knorpel kann in wenigen Tagen zerstört werden. Eine sehr hohe Zellzahl muss sofort gemeldet werden. Der Nachweis von Kristallen erspart dagegen oft eine Operation und führt zur richtigen Behandlung der Gicht.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Normale Synovia hat weniger als etwa zweihundert Zellen. Über etwa fünfzigtausend Zellen mit Granulozyten sprechen für einen Infekt. Uratkristalle der Gicht sind Nadeln und stark negativ doppelbrechend. Calciumpyrophosphat ist schwach positiv. Kristalle schließen einen Infekt nicht aus.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-bronchiallavage"></a>
+
+## 💧 Die Bronchiallavage
+<sub>Bronchoalveolar lavage</sub>
+
+> `Steckbrief 29` · **⚪ Punktate**
+
+#### 🧭 Einordnung
+
+Bei der Bronchiallavage spült man einen Abschnitt der Lunge mit Kochsalzlösung. Die zurückgewonnene Flüssigkeit enthält Zellen und Erreger aus den Lungenbläschen. Man untersucht sie bei unklaren Krankheiten des Lungengewebes, bei Infekten und bei Verdacht auf Tumor.
+
+#### 🌱 Entstehung
+
+In den Lungenbläschen leben vor allem Fresszellen, die Alveolarmakrophagen. Sie reinigen die Lunge von Staub und Keimen. Dazu kommen wenige Lymphozyten und sehr wenige Granulozyten. Bei Krankheiten der Lunge verschiebt sich diese Zusammensetzung. Jedes Muster weist auf eine andere Krankheit.
+
+#### 🧪 Probe und Messung
+
+Der Arzt führt ein Bronchoskop in die Lunge und spült mehrere Portionen Kochsalzlösung ein. Die Flüssigkeit wird wieder abgesaugt und gekühlt ins Labor gebracht. Man filtert Schleim ab, zählt die Zellen und fertigt Präparate mit der Zytozentrifuge. Die Lymphozyten untersucht man oft mit der Durchflusszytometrie. Dabei bestimmt man das Verhältnis von CD4 zu CD8.
+
+#### 📋 Der Befund
+
+Normal sind die meisten Zellen Makrophagen, meist über achtzig Prozent. Viele Lymphozyten mit einem hohen Verhältnis von CD4 zu CD8 sprechen für eine Sarkoidose. Viele Lymphozyten mit einem niedrigen Verhältnis sprechen für eine allergische Entzündung der Lungenbläschen. Viele Eosinophile zeigen eine eosinophile Lungenentzündung. Viele Granulozyten zeigen einen Infekt oder eine Lungenfibrose. Eine milchige Lavage spricht für eine Alveolarproteinose.
+
+#### ⚠️ Fehlerquellen
+
+Wenn die Spülung nur die großen Bronchien erreicht, enthält sie viele Flimmerepithelien und kaum Material aus den Lungenbläschen. Dann ist sie wenig aussagekräftig. Blut aus dem Bronchoskop verändert die Zellzahlen. Bei Rauchern sind die Makrophagen vermehrt und enthalten dunkle Teilchen. Die Probe muss schnell verarbeitet werden.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Lavage erspart oft eine Gewebeprobe aus der Lunge. Sie findet Erreger, die man anders kaum nachweist, etwa Pneumocystis bei geschwächter Abwehr. Ihr Zellmuster grenzt viele seltene Lungenkrankheiten ein, bevor ein Eingriff nötig wird.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Bronchiallavage enthält normal vor allem Makrophagen. Viele Lymphozyten mit hohem Verhältnis von CD4 zu CD8 sprechen für eine Sarkoidose, mit niedrigem Verhältnis für eine allergische Alveolitis. Eosinophile und Granulozyten zeigen andere Krankheiten. Die Probe wird schnell und gekühlt verarbeitet.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-sechs"></a>
+
+### 📝 Zusammenfassung Teil sechs
+<sub>Part six summary</sub>
+
+> Ein Transsudat entsteht durch Druck oder Eiweißmangel, ein Exsudat durch Entzündung oder Tumor. Man braucht immer Serum von der gleichen Zeit.
+>
+> Die Light-Kriterien trennen beim Pleuraerguss Transsudat und Exsudat. Ein pH-Wert unter sieben Komma zwei bei einem Infekt verlangt eine Drainage. Beim Aszites zeigt ein SAAG ab eins Komma eins einen Pfortaderhochdruck. Ab zweihundertfünfzig Granulozyten liegt eine spontan bakterielle Peritonitis vor.
+>
+> Im Gelenk sprechen über fünfzigtausend Zellen für einen Infekt. Uratnadeln sind stark negativ, Calciumpyrophosphat schwach positiv doppelbrechend. In der Bronchiallavage zeigt ein hohes Verhältnis von CD4 zu CD8 eine Sarkoidose.
+>
+> Im nächsten Teil geht es um Stuhl, Sperma und Schweiß.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-sieben-stuhl-sonderproben"></a>
+
+# 🛡️ Teil sieben: Stuhl, Sonderproben
+<sub>Part seven: Stool and special specimens</sub>
+
+Der siebte Teil behandelt Proben, die seltener ins Labor kommen, aber in der Prüfung oft gefragt werden. Drei Steckbriefe betreffen den Stuhl. Sie suchen Blut, Entzündung und eine schwache Bauchspeicheldrüse. Dazu kommen das Spermiogramm und der Schweißtest.
+
+Die Erreger im Stuhl kennst du schon aus den Leitfäden zu den Bakterien, Viren und Parasiten. Hier geht es um die chemischen und mikroskopischen Untersuchungen.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `30` | [**Okkultes Blut**](#okkultes-blut) | Der immunologische Stuhltest misst menschliches Hämoglobin mit Antikörpern gegen das Globin. |
+| `31` | [**Das Calprotectin**](#das-calprotectin) | Calprotectin stammt aus Granulozyten und zeigt eine Entzündung des Darms. |
+| `32` | [**Die Pankreaselastase**](#die-pankreaselastase) | Die Pankreaselastase im Stuhl zeigt die Arbeit der Bauchspeicheldrüse. |
+| `33` | [**Das Spermiogramm**](#das-spermiogramm) | Das Spermiogramm misst Volumen, Zahl, Beweglichkeit und Form der Spermien nach den Regeln der WHO. |
+| `34` | [**Der Schweißtest**](#der-schweißtest) | Der Schweißtest misst das Chlorid nach Anregung mit Pilocarpin. |
+
+<a id="okkultes-blut"></a>
+
+## 💧 Okkultes Blut
+<sub>Faecal occult blood</sub>
+
+> `Steckbrief 30` · **🛡️ Stuhl, Sonderproben**
+
+#### 🧭 Einordnung
+
+Okkultes Blut ist Blut im Stuhl, das man mit bloßem Auge nicht sieht. Der Test darauf ist ein Suchtest für Darmkrebs und seine Vorstufen. In Deutschland gehört er zur gesetzlichen Früherkennung. Heute nutzt man dafür den immunologischen Stuhltest.
+
+#### 🌱 Entstehung
+
+Darmkrebs und große Polypen bluten oft in kleinen Mengen. Das Blut mischt sich in den Stuhl und färbt ihn nicht sichtbar. Blut aus Magen und Dünndarm wird auf dem langen Weg verdaut. Der Eiweißteil des Hämoglobins, das Globin, wird dabei zerlegt. Blut aus dem Dickdarm bleibt dagegen weitgehend erhalten.
+
+#### 🧪 Probe und Messung
+
+Der Patient nimmt mit einem kleinen Stab etwas Stuhl auf und gibt ihn in ein Röhrchen mit Pufferlösung. Das Labor misst darin das menschliche Hämoglobin mit Antikörpern. Diese Antikörper erkennen das Globin des Menschen. Das Ergebnis ist eine Konzentration. Sie wird mit einem festen Grenzwert verglichen. Eine besondere Kost ist nicht nötig.
+
+#### 📋 Der Befund
+
+Ein Wert über dem Grenzwert ist positiv. Dann folgt eine Darmspiegelung. Ein positiver Test bedeutet nicht sicher Krebs. Häufiger sind Polypen, Hämorrhoiden oder Entzündungen. Der Test erkennt vor allem Blutungen aus dem Dickdarm, weil das Globin aus höheren Abschnitten verdaut ist. In der gesetzlichen Früherkennung bekommt man den Test ab fünfzig Jahren, zuerst jährlich und ab fünfundfünfzig alle zwei Jahre.
+
+#### ⚠️ Fehlerquellen
+
+Der alte Guajaktest erkannte die Peroxidasewirkung des Blutes. Er reagierte auch auf rotes Fleisch und manche Gemüse und brauchte eine besondere Kost. Der immunologische Test hat diese Störungen nicht. Er ist aber empfindlich gegen Wärme und lange Lagerung. Dann zerfällt das Hämoglobin, und der Test wird falsch negativ. Ein Darmkrebs blutet nicht ständig, darum schließt ein negativer Test ihn nicht aus.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Darmkrebs ist einer der häufigsten Krebse. Früh erkannt ist er oft heilbar. Der Stuhltest ist einfach und billig und findet viele Fälle, bevor Beschwerden auftreten. Eine richtige Lagerung der Probe bis zur Messung ist entscheidend.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Der immunologische Stuhltest misst menschliches Hämoglobin mit Antikörpern gegen das Globin. Er braucht keine Kost und erkennt vor allem Blutungen aus dem Dickdarm. Ein positiver Test führt zur Darmspiegelung. Wärme und lange Lagerung machen ihn falsch negativ.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-calprotectin"></a>
+
+## 💧 Das Calprotectin
+<sub>Faecal calprotectin</sub>
+
+> `Steckbrief 31` · **🛡️ Stuhl, Sonderproben**
+
+#### 🧭 Einordnung
+
+Calprotectin ist ein Eiweiß aus den neutrophilen Granulozyten. Im Stuhl zeigt es eine Entzündung der Darmschleimhaut. Man nutzt es vor allem, um eine chronisch entzündliche Darmkrankheit von einem Reizdarm zu trennen.
+
+#### 🌱 Entstehung
+
+Bei einer Entzündung wandern Granulozyten in die Darmschleimhaut und in den Darm. Sie bringen Calprotectin mit, das einen großen Teil ihres Zellplasmas ausmacht. Calprotectin ist sehr stabil und wird im Darm kaum abgebaut. Seine Menge im Stuhl spiegelt darum die Zahl der Granulozyten im Darm wider.
+
+#### 🧪 Probe und Messung
+
+Man braucht eine kleine Menge Stuhl. Sie wird mit einem Puffer aufgelöst. Gemessen wird mit einem Immunoassay, etwa einem ELISA oder einem turbidimetrischen Test. Das Ergebnis gibt man in Mikrogramm pro Gramm Stuhl an. Calprotectin bleibt mehrere Tage bei Raumtemperatur stabil.
+
+#### 📋 Der Befund
+
+Werte unter etwa fünfzig Mikrogramm pro Gramm gelten als normal. Dann ist eine aktive Entzündung unwahrscheinlich, und ein Reizdarm ist wahrscheinlicher. Werte über etwa zweihundert sprechen für eine Entzündung. Das kann ein Morbus Crohn oder eine Colitis ulcerosa sein, aber auch ein Infekt oder ein Tumor. Bei bekannter Krankheit nutzt man das Calprotectin, um die Aktivität zu verfolgen.
+
+#### ⚠️ Fehlerquellen
+
+Schmerzmittel aus der Gruppe der nichtsteroidalen Antirheumatika erhöhen das Calprotectin. Auch Mittel gegen Magensäure können es erhöhen. Kleine Kinder haben von Natur aus höhere Werte. Ein Infekt mit Durchfall erhöht es ebenfalls. Darum deutet man es immer mit den Beschwerden und der Vorgeschichte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Viele junge Menschen haben Bauchschmerzen und Durchfall. Meist steckt ein harmloser Reizdarm dahinter. Ein normales Calprotectin erspart ihnen oft eine Darmspiegelung. Ein hohes Calprotectin führt dagegen schnell zur richtigen Diagnose.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Calprotectin stammt aus Granulozyten und zeigt eine Entzündung des Darms. Unter etwa fünfzig ist es normal, über etwa zweihundert spricht es für eine Entzündung. Es trennt Reizdarm und chronisch entzündliche Darmkrankheit. Schmerzmittel, Säureblocker und Infekte erhöhen es.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-pankreaselastase"></a>
+
+## 💧 Die Pankreaselastase
+<sub>Faecal elastase</sub>
+
+> `Steckbrief 32` · **🛡️ Stuhl, Sonderproben**
+
+#### 🧭 Einordnung
+
+Die Pankreaselastase ist ein Verdauungsenzym der Bauchspeicheldrüse. Im Stuhl zeigt sie, ob die Bauchspeicheldrüse genug Verdauungssaft bildet. Ist das nicht der Fall, spricht man von einer exokrinen Pankreasinsuffizienz.
+
+#### 🌱 Entstehung
+
+Die Bauchspeicheldrüse gibt Enzyme in den Dünndarm ab, die Eiweiß, Fett und Stärke spalten. Die Elastase gehört dazu. Sie wird auf dem Weg durch den Darm kaum abgebaut. Darum kommt sie im Stuhl an und zeigt, wie viel die Drüse bildet. Krankheiten wie eine chronische Pankreatitis oder die Mukoviszidose senken ihre Menge.
+
+#### 🧪 Probe und Messung
+
+Man braucht eine kleine Stuhlprobe, am besten geformten Stuhl. Gemessen wird mit einem ELISA, das nur die menschliche Elastase erkennt. Das Ergebnis gibt man in Mikrogramm pro Gramm Stuhl an. Die Elastase ist bei Raumtemperatur mehrere Tage stabil.
+
+#### 📋 Der Befund
+
+Werte über etwa zweihundert Mikrogramm pro Gramm gelten als normal. Werte zwischen etwa hundert und zweihundert zeigen eine leichte bis mäßige Schwäche. Werte unter etwa hundert zeigen eine schwere Schwäche der Drüse. Typische Zeichen sind dann Fettstühle, Durchfall und Gewichtsverlust.
+
+#### ⚠️ Fehlerquellen
+
+Wässriger Durchfall verdünnt die Elastase. Dann ist der Wert falsch niedrig. Darum soll der Stuhl möglichst geformt sein. Ein großer Vorteil ist, dass Enzymkapseln die Messung nicht stören. Sie enthalten Enzyme vom Schwein, die der Test nicht erkennt. Leichte Schwächen der Drüse findet der Test nicht immer.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Pankreasinsuffizienz führt zu Mangelernährung und Mangel an fettlöslichen Vitaminen. Mit Enzymkapseln kann man sie gut behandeln. Die Elastase ist ein einfacher Test, der die Diagnose ohne aufwendige Funktionstests ermöglicht.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Pankreaselastase im Stuhl zeigt die Arbeit der Bauchspeicheldrüse. Über etwa zweihundert ist normal, unter etwa hundert zeigt eine schwere Schwäche. Der Test erkennt nur menschliche Elastase, darum stören Enzymkapseln nicht. Wässriger Stuhl gibt falsch niedrige Werte.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-spermiogramm"></a>
+
+## 💧 Das Spermiogramm
+<sub>Semen analysis</sub>
+
+> `Steckbrief 33` · **🛡️ Stuhl, Sonderproben**
+
+#### 🧭 Einordnung
+
+Das Spermiogramm ist die Untersuchung des Ejakulats. Es zeigt die Fruchtbarkeit des Mannes. Man macht es bei einem unerfüllten Kinderwunsch und zur Kontrolle nach einer Sterilisation. Die Methoden und Grenzwerte gibt ein Handbuch der WHO vor.
+
+#### 🌱 Entstehung
+
+Die Spermien entstehen in den Hoden. Ihre Reifung dauert etwa zweieinhalb Monate. Das Ejakulat besteht aber zum größten Teil aus den Säften der Bläschendrüsen und der Prostata. Diese Säfte ernähren die Spermien und machen das Ejakulat erst dick, dann wieder flüssig.
+
+#### 🧪 Probe und Messung
+
+Der Mann soll vorher zwei bis sieben Tage enthaltsam sein. Er gewinnt das Ejakulat durch Selbstbefriedigung in einen sauberen Becher. Die Probe muss innerhalb einer Stunde und körperwarm ins Labor. Dort wartet man, bis sie sich verflüssigt hat. Dann misst man Volumen und pH-Wert. Unter dem Mikroskop bestimmt man die Zahl, die Beweglichkeit und die Form der Spermien. Der Anteil lebender Spermien wird mit einer Färbung geprüft.
+
+#### 📋 Der Befund
+
+Nach den unteren Grenzen der WHO sollte das Volumen mindestens etwa ein Komma vier Milliliter sein. Die Konzentration sollte mindestens etwa sechzehn Millionen Spermien pro Milliliter sein. Mindestens etwa dreißig Prozent sollten sich vorwärts bewegen. Mindestens etwa vier Prozent sollten eine normale Form haben. Zu wenige Spermien heißen Oligozoospermie. Zu wenig bewegliche heißen Asthenozoospermie. Zu viele fehlgeformte heißen Teratozoospermie. Keine Spermien heißen Azoospermie.
+
+#### ⚠️ Fehlerquellen
+
+Kälte und lange Transportzeit lähmen die Spermien. Dann ist die Beweglichkeit falsch niedrig. Ein unvollständig aufgefangenes Ejakulat verringert Volumen und Zahl. Gleitmittel und manche Becher schaden den Spermien. Die Werte schwanken stark. Darum braucht man bei einem auffälligen Befund eine zweite Probe nach einigen Wochen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Bei etwa der Hälfte der Paare mit Kinderwunsch liegt eine Ursache auch beim Mann. Das Spermiogramm ist einfach und spart der Frau oft belastende Untersuchungen. Nach einer Sterilisation darf der Mann erst auf Verhütung verzichten, wenn keine Spermien mehr nachweisbar sind.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Spermiogramm misst Volumen, Zahl, Beweglichkeit und Form der Spermien nach den Regeln der WHO. Untere Grenzen sind etwa ein Komma vier Milliliter, sechzehn Millionen pro Milliliter, dreißig Prozent vorwärts beweglich und vier Prozent normal geformt. Die Probe muss innerhalb einer Stunde und körperwarm ankommen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="der-schweißtest"></a>
+
+## 💧 Der Schweißtest
+<sub>Sweat chloride test</sub>
+
+> `Steckbrief 34` · **🛡️ Stuhl, Sonderproben**
+
+#### 🧭 Einordnung
+
+Der Schweißtest misst das Chlorid im Schweiß. Er ist der wichtigste Test zur Bestätigung einer Mukoviszidose. Diese Erbkrankheit heißt auch zystische Fibrose. Sie macht die Sekrete in Lunge, Bauchspeicheldrüse und Darm zäh.
+
+#### 🌱 Entstehung
+
+Bei der Mukoviszidose ist ein Kanal für Chlorid in der Zellwand defekt. Er heißt CFTR. In der Schweißdrüse holt dieser Kanal normalerweise Chlorid aus dem Schweiß zurück. Ist er defekt, bleibt viel Chlorid und Natrium im Schweiß. Der Schweiß schmeckt darum salzig. Früher sagte man, ein Kind, das beim Küssen salzig schmeckt, sei krank.
+
+#### 🧪 Probe und Messung
+
+Man regt die Schweißdrüsen an einer kleinen Stelle der Haut an. Dazu bringt man einen Wirkstoff, das Pilocarpin, mit schwachem Strom in die Haut. Dann sammelt man etwa eine halbe Stunde lang den Schweiß in einer kleinen Spirale oder auf einem Filterpapier. Im Labor misst man das Chlorid. Es muss eine Mindestmenge an Schweiß gesammelt sein, sonst ist der Test ungültig.
+
+#### 📋 Der Befund
+
+Ein Chlorid unter etwa dreißig Millimol pro Liter ist normal. Werte zwischen etwa dreißig und neunundfünfzig sind ein Graubereich. Dann folgen eine genetische Untersuchung und weitere Tests. Ab etwa sechzig Millimol pro Liter spricht der Befund für eine Mukoviszidose. Er wird mit einem zweiten Test oder einer genetischen Untersuchung bestätigt.
+
+#### ⚠️ Fehlerquellen
+
+Bei zu wenig Schweiß ist der Test ungültig. Das kommt bei Neugeborenen in den ersten Lebenswochen oft vor. Verdunstet Schweiß beim Sammeln, steigt das Chlorid falsch an. Hautkrankheiten an der Teststelle und Fehler beim Strom verfälschen das Ergebnis. Die Leitfähigkeit des Schweißes ist nur ein Suchtest und ersetzt die Chloridmessung nicht.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** In Deutschland suchen alle Neugeborenen im Screening auch nach Mukoviszidose. Ein auffälliges Screening ist aber nur ein Verdacht. Erst der Schweißtest sichert die Diagnose. Eine frühe Diagnose verbessert Wachstum und Lunge der Kinder deutlich.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Der Schweißtest misst das Chlorid nach Anregung mit Pilocarpin. Unter etwa dreißig Millimol pro Liter ist normal, ab etwa sechzig spricht für Mukoviszidose. Dazwischen liegt ein Graubereich. Zu wenig Schweiß macht den Test ungültig. Er bestätigt ein auffälliges Neugeborenenscreening.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-sieben"></a>
+
+### 📝 Zusammenfassung Teil sieben
+<sub>Part seven summary</sub>
+
+> Der immunologische Stuhltest misst menschliches Hämoglobin und braucht keine Kost. Er findet vor allem Blutungen aus dem Dickdarm. Calprotectin unter fünfzig spricht gegen eine Entzündung des Darms. Die Pankreaselastase unter hundert zeigt eine schwere Schwäche der Bauchspeicheldrüse.
+>
+> Das Spermiogramm folgt den Grenzen der WHO, etwa sechzehn Millionen Spermien pro Milliliter. Die Probe muss warm und schnell ankommen. Im Schweißtest spricht ein Chlorid ab sechzig Millimol pro Liter für Mukoviszidose.
+>
+> Im nächsten Teil geht es um Qualität und Sicherheit.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-acht-qualität-sicherheit"></a>
+
+# 🧫 Teil acht: Qualität, Sicherheit
+<sub>Part eight: Quality and safety</sub>
+
+Der achte Teil behandelt zwei Themen, die für alle Proben dieses Leitfadens gelten. Das erste ist die Qualitätssicherung. Sie stellt sicher, dass Teststreifen, Sediment und Liquor richtig untersucht werden. Das zweite ist die Hygiene beim Umgang mit Körperflüssigkeiten.
+
+<a id="die-qualitätssicherung"></a>
+
+## 📖 Die Qualitätssicherung
+<sub>Quality assurance</sub>
+
+In Deutschland regelt die Richtlinie der Bundesärztekammer die Qualitätssicherung im medizinischen Labor. Man nennt sie kurz Rili-BÄK. Sie hat mehrere Teile. Teil B1 gilt für quantitative Messungen, also für Werte mit einer Zahl. Teil B2 gilt für qualitative Untersuchungen, also für Befunde wie positiv oder negativ.
+
+Der Teststreifen und das Sediment gehören zu den qualitativen Untersuchungen. Für den Teststreifen misst man regelmäßig Kontrollurine. Es gibt eine Kontrolle mit negativen und eine mit positiven Werten. Wie oft man misst, legen die Richtlinie und der Hersteller fest. Jede Kontrolle wird dokumentiert.
+
+Dazu kommt die externe Qualitätssicherung. Das Labor nimmt regelmäßig an Ringversuchen teil. Dabei bekommt es Proben mit unbekanntem Ergebnis und schickt seine Befunde zurück. Für das Sediment gibt es Ringversuche mit Bildern. Auch für Liquorzellzahl, Liquorproteine und oligoklonale Banden gibt es Ringversuche.
+
+Für die Mikroskopie ist die Ausbildung des Personals entscheidend. Zellen, Zylinder und Kristalle erkennt man nur mit Übung. Darum gehören regelmäßige Schulungen und gemeinsame Durchsichten von schwierigen Präparaten zum Alltag. Automaten haben Regeln für die Nachschau, die das Labor festlegt und prüft.
+
+Ein großer Teil der Qualität liegt vor dem Labor. Die meisten Fehler entstehen bei der Gewinnung, der Beschriftung und dem Transport. Das Labor gibt darum klare Anleitungen für Station und Praxis heraus. Es lehnt Proben ab, die zu alt, falsch gelagert oder falsch beschriftet sind.
+
+Auch das Spermiogramm hat eigene Regeln zur Qualität in der Richtlinie. Hier ist die Erfahrung besonders wichtig, denn Zahl, Beweglichkeit und Form schätzt man unter dem Mikroskop. Ringversuche mit Videos von beweglichen Spermien helfen, die Befunde verschiedener Labors vergleichbar zu machen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="hygiene-beim-probenumgang"></a>
+
+## 📖 Hygiene beim Probenumgang
+<sub>Safe handling of specimens</sub>
+
+Jede Körperflüssigkeit kann Erreger enthalten. Man behandelt darum jede Probe so, als wäre sie infektiös. Das gilt für Urin genauso wie für Liquor oder Punktate. In Deutschland regelt die Technische Regel für Biologische Arbeitsstoffe im Gesundheitswesen diesen Umgang.
+
+Die Grundregeln sind einfach. Man trägt Handschuhe und einen geschlossenen Kittel. Man pipettiert nie mit dem Mund. Man isst und trinkt nicht im Labor. Nach der Arbeit desinfiziert man die Hände. Spritzer auf die Arbeitsfläche wischt man sofort mit einem Desinfektionsmittel weg.
+
+Beim Zentrifugieren entstehen leicht Tröpfchen in der Luft, die man Aerosole nennt. Darum nutzt man Röhrchen mit Deckel und Zentrifugenbecher, die sich verschließen lassen. Man öffnet die Zentrifuge erst, wenn sie stillsteht. Ein zerbrochenes Röhrchen in der Zentrifuge ist ein Fall für eine besondere Reinigung.
+
+Beim Liquor gibt es eine besondere Gefahr. Bei einem Verdacht auf eine Creutzfeldt-Jakob-Krankheit kann der Liquor Prionen enthalten. Prionen sind falsch gefaltete Eiweiße. Sie überstehen die übliche Desinfektion. Solche Proben werden gekennzeichnet, getrennt bearbeitet und mit besonderen Mitteln entsorgt. Man sucht darin bestimmte Marker, etwa das Protein 14-3-3.
+
+Auch Stuhlproben und Urin mit Verdacht auf Tuberkulose verlangen Vorsicht. Tuberkulosebakterien verbreiten sich über Aerosole. Solche Proben öffnet man nur in einer Sicherheitswerkbank. Gebrauchte Becher, Röhrchen und Teststreifen gehören in den Abfall für infektiöses Material.
+
+Stich- und Schnittverletzungen sind der gefährlichste Unfall. Nach einer Verletzung lässt man die Wunde bluten, spült und desinfiziert sie. Dann meldet man den Unfall sofort dem Betriebsarzt. Er klärt, ob eine Behandlung zum Schutz vor HIV oder Hepatitis nötig ist. Jeder Mitarbeiter im Labor sollte gegen Hepatitis B geimpft sein.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-acht"></a>
+
+### 📝 Zusammenfassung Teil acht
+<sub>Part eight summary</sub>
+
+> Die Rili-BÄK regelt die Qualität. Teststreifen und Sediment sind qualitative Untersuchungen. Man misst Kontrollurine, nimmt an Ringversuchen teil und schult das Personal. Viele Fehler entstehen vor dem Labor.
+>
+> Jede Probe gilt als infektiös. Man arbeitet mit Handschuhen, ohne Mundpipette und mit geschlossenen Zentrifugenbechern. Liquor mit Verdacht auf Prionen wird besonders behandelt. Nach einer Stichverletzung meldet man sich sofort beim Betriebsarzt.
+>
+> Im letzten Teil folgt ein Schnellüberblick zum Wiederholen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-neun-schnellüberblick"></a>
+
+# ⚡ Teil neun: Schnellüberblick
+<sub>Part nine: Quick reference</sub>
+
+Der letzte Teil fasst den Leitfaden zum Wiederholen zusammen. Er hat drei Kapitel. Zuerst kommen die typischen Befundmuster. Dann folgen die häufigen Verwechslungen. Am Ende steht die Gesamtzusammenfassung.
+
+<a id="typische-befundmuster"></a>
+
+## 📖 Typische Befundmuster
+<sub>Typical patterns</sub>
+
+Hier sind die Befundmuster, die du für die Prüfung kennen solltest. Sie sind nach Proben geordnet.
+
+Ein Harnwegsinfekt zeigt Leukozyten und Nitrit auf dem Streifen und im Sediment Leukozyten und Bakterien. Eine Nierenbeckenentzündung zeigt zusätzlich Leukozytenzylinder. Eine sterile Leukozyturie lässt an Tuberkulose, Chlamydien oder Steine denken.
+
+Eine Glomerulonephritis zeigt Eiweiß, dysmorphe rote Blutkörperchen, Akanthozyten und Erythrozytenzylinder. Ein nephrotisches Syndrom zeigt mehr als drei Komma fünf Gramm Eiweiß am Tag und Fettzylinder. Ein Stein oder ein Blasentumor zeigt eumorphe rote Blutkörperchen.
+
+Eine Rhabdomyolyse zeigt ein positives Blutfeld ohne rote Blutkörperchen im Sediment und eine hohe Kreatinkinase. Eine diabetische Ketoazidose zeigt viel Glukose und viele Ketonkörper. Ein Gallenstau zeigt Bilirubin im Urin und kein Urobilinogen.
+
+Eine bakterielle Meningitis zeigt einen trüben Liquor mit über tausend Zellen, vor allem Granulozyten. Dazu kommen ein Glukosequotient unter null Komma fünf und ein Laktat über drei Komma fünf. Eine virale Meningitis zeigt einige zehn bis hundert Lymphozyten bei normaler Glukose und normalem Laktat. Eine Multiple Sklerose zeigt oligoklonale Banden vom Muster zwei oder drei. Eine Subarachnoidalblutung zeigt Xanthochromie und Siderophagen.
+
+Ein Exsudat erfüllt mindestens ein Light-Kriterium. Ein Aszites bei Zirrhose hat einen SAAG ab eins Komma eins. Eine spontan bakterielle Peritonitis hat ab zweihundertfünfzig Granulozyten pro Mikroliter. Ein septisches Gelenk hat über fünfzigtausend Zellen. Die Gicht zeigt Uratnadeln, die stark negativ doppelbrechend sind.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="häufige-verwechslungen"></a>
+
+## 📖 Häufige Verwechslungen
+<sub>Common mix-ups</sub>
+
+Hier sind die Begriffe, die in der Prüfung oft verwechselt werden.
+
+Hämaturie, Hämoglobinurie und Myoglobinurie. Bei der Hämaturie sind rote Blutkörperchen im Sediment. Bei der Hämoglobinurie und der Myoglobinurie ist das Blutfeld positiv, das Sediment aber frei von roten Blutkörperchen.
+
+Eumorph und dysmorph. Eumorphe rote Blutkörperchen kommen meist aus den Harnwegen. Dysmorphe und Akanthozyten kommen aus dem Glomerulus.
+
+Glomeruläre und tubuläre Proteinurie. Die glomeruläre Form zeigt viel Albumin. Die tubuläre Form zeigt kleine Eiweiße wie das Alpha-eins-Mikroglobulin.
+
+Spezifisches Gewicht und Osmolalität. Das spezifische Gewicht hängt vom Gewicht der Teilchen ab und steigt mit Eiweiß und Zucker. Die Osmolalität zählt nur die Zahl der Teilchen.
+
+Plattenepithel und Nierenepithel. Plattenepithelien zeigen eine Verunreinigung. Nierenepithelien zeigen einen Schaden der Tubuli.
+
+Bilirubin und Urobilinogen. Bilirubin im Urin zeigt einen Gallenstau oder einen Leberschaden. Urobilinogen ist bei Hämolyse erhöht und fehlt beim vollständigen Verschluss der Galle.
+
+Punktionsblutung und Subarachnoidalblutung. Die Punktionsblutung wird von Röhrchen zu Röhrchen klarer und hat einen klaren Überstand. Die Subarachnoidalblutung bleibt gleich blutig und zeigt Xanthochromie.
+
+Schrankenstörung und intrathekale Synthese. Die Schrankenstörung zeigt ein hohes Albumin im Liquor. Die intrathekale Synthese zeigt Antikörper, die im Nervensystem selbst gebildet werden.
+
+Transsudat und Exsudat. Das Transsudat entsteht durch Druck oder Eiweißmangel und ist eiweißarm. Das Exsudat entsteht durch Entzündung oder Tumor und ist eiweißreich.
+
+Gicht und Pseudogicht. Bei der Gicht sind es Uratnadeln, stark negativ doppelbrechend. Bei der Pseudogicht sind es Kristalle aus Calciumpyrophosphat, schwach positiv doppelbrechend.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="gesamtzusammenfassung"></a>
+
+## 📖 Gesamtzusammenfassung
+<sub>Final summary</sub>
+
+Dieser Leitfaden hat die Körperflüssigkeiten außer dem Blut behandelt. Der Urin entsteht im Glomerulus und im Tubulus. Der Standard ist der Mittelstrahlurin, frisch untersucht innerhalb von zwei Stunden. Der Teststreifen gibt einen schnellen Überblick, das Sediment zeigt Zellen, Zylinder, Kristalle und Erreger.
+
+Besondere Untersuchungen des Urins suchen Leichtketten, Drogen, die Bestandteile von Steinen und die Metanephrine. Der Liquor wird sofort untersucht. Zellzahl, Glukose und Laktat trennen Bakterien und Viren. Das Reiber-Diagramm und die oligoklonalen Banden zeigen Entzündungen im Nervensystem.
+
+Bei den Punktaten trennt man zuerst Transsudat und Exsudat. Im Pleuraerguss nutzt man die Light-Kriterien, im Aszites den SAAG und die Granulozyten. Im Gelenk sucht man Kristalle und Bakterien. Im Stuhl sucht man Blut, Calprotectin und die Elastase. Spermiogramm und Schweißtest beantworten eigene Fragen.
+
+Über allem stehen drei Regeln. Erstens: Die Probe muss frisch, richtig gewonnen und richtig gelagert sein. Zweitens: Viele Werte deutet man nur mit Blut von der gleichen Zeit. Drittens: Jede Körperflüssigkeit gilt als infektiös. Mit diesen Regeln wird aus jeder Probe ein sicherer Befund.
+
+Damit endet der dreizehnte Hörleitfaden. Viel Erfolg in der Ausbildung und in der Prüfung.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="register"></a>
+
+## 🔤 Register A–Z
+
+| Steckbrief | Gruppe | Nr. |
+|---|---|:--:|
+| [Der Aszites](#der-aszites) | Punktate | `27` |
+| [Bence-Jones-Protein](#bence-jones-protein) | Spezielle Urinanalytik | `16` |
+| [Bilirubin, Urobilinogen](#bilirubin-urobilinogen) | Der Urinstatus | `07` |
+| [Blut im Urin](#blut-im-urin) | Der Urinstatus | `10` |
+| [Die Bronchiallavage](#die-bronchiallavage) | Punktate | `29` |
+| [Das Calprotectin](#das-calprotectin) | Stuhl, Sonderproben | `31` |
+| [Das Drogenscreening](#das-drogenscreening) | Spezielle Urinanalytik | `17` |
+| [Erreger im Sediment](#erreger-im-sediment) | Das Urinsediment | `15` |
+| [Erythrozyten im Sediment](#erythrozyten-im-sediment) | Das Urinsediment | `11` |
+| [Das Gelenkpunktat](#das-gelenkpunktat) | Punktate | `28` |
+| [Glukose im Urin](#glukose-im-urin) | Der Urinstatus | `05` |
+| [Die Harnsteinanalyse](#die-harnsteinanalyse) | Spezielle Urinanalytik | `18` |
+| [Katecholamine, Metanephrine](#katecholamine-metanephrine) | Spezielle Urinanalytik | `19` |
+| [Ketonkörper](#ketonkörper) | Der Urinstatus | `06` |
+| [Die Kristalle](#die-kristalle) | Das Urinsediment | `14` |
+| [Leukozyten im Urin](#leukozyten-im-urin) | Der Urinstatus | `09` |
+| [Leukozyten und Epithelien](#leukozyten-und-epithelien) | Das Urinsediment | `12` |
+| [Die Liquorblutung](#die-liquorblutung) | Der Liquor | `25` |
+| [Liquorglukose und Laktat](#liquorglukose-und-laktat) | Der Liquor | `24` |
+| [Die Liquorzellzahl](#die-liquorzellzahl) | Der Liquor | `20` |
+| [Die Liquorzytologie](#die-liquorzytologie) | Der Liquor | `21` |
+| [Nitrit](#nitrit) | Der Urinstatus | `08` |
+| [Okkultes Blut](#okkultes-blut) | Stuhl, Sonderproben | `30` |
+| [Oligoklonale Banden](#oligoklonale-banden) | Der Liquor | `23` |
+| [Die Osmolalität](#die-osmolalität) | Der Urinstatus | `02` |
+| [Die Pankreaselastase](#die-pankreaselastase) | Stuhl, Sonderproben | `32` |
+| [Der pH-Wert](#der-ph-wert) | Der Urinstatus | `03` |
+| [Der Pleuraerguss](#der-pleuraerguss) | Punktate | `26` |
+| [Die Proteinurie](#die-proteinurie) | Der Urinstatus | `04` |
+| [Die Schrankenfunktion](#die-schrankenfunktion) | Der Liquor | `22` |
+| [Der Schweißtest](#der-schweißtest) | Stuhl, Sonderproben | `34` |
+| [Das Spermiogramm](#das-spermiogramm) | Stuhl, Sonderproben | `33` |
+| [Spezifisches Gewicht](#spezifisches-gewicht) | Der Urinstatus | `01` |
+| [Die Zylinder](#die-zylinder) | Das Urinsediment | `13` |
+
+<sub>encyclopedia_urin_liquor_punktate_de.txt</sub>
