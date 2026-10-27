@@ -32,12 +32,12 @@ SECTION_ICONS = {
     "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
     "Die Werte": "📊", "Fehlerquellen": "⚠️", "Entstehung": "🌱", "Im Ausstrich": "🔬",
     "Wirkweise": "⚙️", "Hintergrund": "💡", "Probe und Methode": "🧪", "Der Befund": "📋",
-    "Grundlage": "💡", "Praxis": "🛠️", "Im Präparat": "🔬",
+    "Grundlage": "💡", "Praxis": "🛠️", "Im Präparat": "🔬", "Das Ergebnis": "📈",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
                "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️",
-               "histologie": "🔬"}
+               "histologie": "🔬", "molekular": "🧬"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
@@ -53,7 +53,16 @@ PART_ICONS = ["🟣", "🔵", "🔴", "🟠", "🟡", "⚪", "🛡️", "🧫", 
 def readable(text: str) -> str:
     """Undo the spellings made for the voice: "M R S A" -> "MRSA", "I g M" -> "IgM", "H B s" -> "HBs"."""
     text = re.sub(r"\bI g ([MGAED])\b", r"Ig\1", text).replace("Maldi-Tof", "MALDI-TOF").replace("C T-Wert", "Ct-Wert")
-    for spoken, written in (("H b A eins c", "HbA1c"), ("h C G", "hCG"), ("e G F R", "eGFR"),
+    for spoken, written in (("B C R-A B L eins", "BCR-ABL1"), ("S A R S-CoV-zwei", "SARS-CoV-2"),
+                            ("sechzehn S r R N A", "16S rRNA"), ("m R N A", "mRNA"), ("t R N A", "tRNA"),
+                            ("r R N A", "rRNA"), ("c f D N A", "cfDNA"), ("c t D N A", "ctDNA"), ("c D N A", "cDNA"),
+                            ("q P C R", "qPCR"), ("C zweihundertzweiundachtzig Y", "C282Y"),
+                            ("G zwanzigtausendzweihundertzehn A", "G20210A"), ("V sechshundertsiebzehn F", "V617F"),
+                            ("C Y P zwei D sechs", "CYP2D6"), ("M R drei", "MR3"), ("M R vier", "MR4"),
+                            ("m e c A", "mecA"), ("v a n A", "vanA"), ("R Nasen", "RNasen"), ("R Nase", "RNase"),
+                            ("R fünfhundertsechs Q", "R506Q"), ("H dreiundsechzig D", "H63D"),
+                            ("T siebenhundertneunzig M", "T790M"), ("B siebenundfünfzig null eins", "B*57:01"),
+                            ("H b A eins c", "HbA1c"), ("h C G", "hCG"), ("e G F R", "eGFR"),
                             ("p C O zwei", "pCO2"), ("p O zwei", "pO2"), ("N T-pro B N P", "NT-proBNP"),
                             ("J A K zwei", "JAK2"), ("H b A zwei", "HbA2"), ("a P T T", "aPTT"), ("v W F", "vWF"),
                             ("Anti-X a", "Anti-Xa"), ("t P A", "tPA"), ("A D A M T S dreizehn", "ADAMTS13"),

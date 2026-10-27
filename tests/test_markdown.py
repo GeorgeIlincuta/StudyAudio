@@ -74,6 +74,14 @@ def test_voice_spellings_go_back_to_written_form():
     assert (readable("Die H E-Färbung, H E R zwei, K i siebenundsechzig, C K sieben, C K zwanzig, P D L eins und S hundert.")
             == "Die HE-Färbung, HER2, Ki-67, CK7, CK20, PD-L1 und S100.")
     assert readable("T T F eins, C I N eins bis C I N drei und C I N.") == "TTF-1, CIN1 bis CIN3 und CIN."
+    assert (readable("Die m R N A, t R N A, r R N A, c D N A, c f D N A, c t D N A und die q P C R.")
+            == "Die mRNA, tRNA, rRNA, cDNA, cfDNA, ctDNA und die qPCR.")
+    assert (readable("H F E C zweihundertzweiundachtzig Y, Prothrombin G zwanzigtausendzweihundertzehn A, J A K zwei V sechshundertsiebzehn F.")
+            == "HFE C282Y, Prothrombin G20210A, JAK2 V617F.")
+    assert (readable("B C R-A B L eins, M R drei, M R vier, C Y P zwei D sechs, m e c A, v a n A, sechzehn S r R N A und S A R S-CoV-zwei.")
+            == "BCR-ABL1, MR3, MR4, CYP2D6, mecA, vanA, 16S rRNA und SARS-CoV-2.")
+    assert (readable("R Nasen, R Nase-frei, R fünfhundertsechs Q, H dreiundsechzig D, E G F R T siebenhundertneunzig M und H L A-B siebenundfünfzig null eins.")
+            == "RNasen, RNase-frei, R506Q, H63D, EGFR T790M und HLA-B*57:01.")
     assert (readable("Pap null, Pap eins, Pap drei D eins, Pap drei D zwei, Pap vier a, Pap vier b und Pap fünf.")
             == "Pap 0, Pap I, Pap IIID1, Pap IIID2, Pap IVa, Pap IVb und Pap V.")
     assert (readable("Das Stadium p T zwei N eins M null, T eins a, Grad G drei, R null und Gruppe A.")
@@ -100,6 +108,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     tissue = text.replace("Probe und Messung:", "Im Präparat:")
     md = render_markdown(split_text(tissue), "de", "encyclopedia_histologie_zytologie_de.txt")
     assert "## 🔬 Staphylococcus aureus" in md and "#### 🔬 Im Präparat" in md
+    dna = text.replace("Probe und Messung:", "Das Ergebnis:")
+    md = render_markdown(split_text(dna), "de", "encyclopedia_molekularbiologie_de.txt")
+    assert "## 🧬 Staphylococcus aureus" in md and "#### 📈 Das Ergebnis" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 
