@@ -32,16 +32,21 @@ SECTION_ICONS = {
     "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
     "Die Werte": "📊", "Fehlerquellen": "⚠️", "Entstehung": "🌱", "Im Ausstrich": "🔬",
     "Wirkweise": "⚙️", "Hintergrund": "💡", "Probe und Methode": "🧪", "Der Befund": "📋",
+    "Grundlage": "💡", "Praxis": "🛠️", "Im Präparat": "🔬",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
-               "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️"}
+               "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️",
+               "histologie": "🔬"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
 # Spoken numbers of the clotting factors as Roman numerals, longest first so "dreizehn" is not read as "drei".
 FACTOR_NUMERALS = {"dreizehn": "XIII", "zwölf": "XII", "zehn": "X", "neun": "IX", "acht": "VIII", "sieben": "VII",
                    "fünf": "V", "drei": "III", "zwei": "II", "vier": "IV", "elf": "XI", "eins": "I"}
+# Spoken numbers of the Pap groups and of the T, N, M, G and R stages.
+PAP_NUMERALS = {"null": "0", "eins": "I", "zwei": "II", "drei": "III", "vier": "IV", "fünf": "V"}
+STAGE_NUMBERS = {"null": 0, "eins": 1, "zwei": 2, "drei": 3, "vier": 4}
 PART_ICONS = ["🟣", "🔵", "🔴", "🟠", "🟡", "⚪", "🛡️", "🧫", "⚡", "🟤", "⚫", "🟢"]
 
 
@@ -58,7 +63,10 @@ def readable(text: str) -> str:
                             ("Scl-siebzig", "Scl-70"), ("D Q zwei", "DQ2"), ("D Q acht", "DQ8"),
                             ("S m", "Sm"), ("B siebenundzwanzig", "B27"),
                             ("F y a", "Fya"), ("F y b", "Fyb"), ("J k a", "Jka"), ("J k b", "Jkb"),
-                            ("A eins", "A1"), ("A zwei", "A2")):
+                            ("A eins", "A1"), ("A zwei", "A2"), ("H E R zwei", "HER2"),
+                            ("K i siebenundsechzig", "Ki-67"), ("C K sieben", "CK7"), ("C K zwanzig", "CK20"),
+                            ("P D L eins", "PD-L1"), ("S hundert", "S100"), ("T T F eins", "TTF-1"),
+                            ("C I N eins", "CIN1"), ("C I N zwei", "CIN2"), ("C I N drei", "CIN3")):
         text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
     text = re.sub(r"\b(Blutgruppen?|Gruppe) null\b", r"\1 0", text)
     text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)
@@ -69,6 +77,19 @@ def readable(text: str) -> str:
                                    lambda n: FACTOR_NUMERALS[n.group(1)] + ("a" if n.group(2) else ""), m.group()),
                   text)
     text = re.sub(rf"\bC D ({'|'.join(CD_NUMBERS)})\b", lambda m: f"CD{CD_NUMBERS[m.group(1)]}", text)
+    text = re.sub(rf"\bPap ({'|'.join(PAP_NUMERALS)})\b(?: D (eins|zwei)\b| ([ab])\b)?",
+                  lambda m: f"Pap {PAP_NUMERALS[m.group(1)]}"
+                            + (f"D{STAGE_NUMBERS[m.group(2)]}" if m.group(2) else m.group(3) or ""), text)
+    stage = "|".join(STAGE_NUMBERS)
+    # N and M only after a T stage, so the influenza subtype "H eins N eins" stays as spoken.
+    text = re.sub(rf"\b(p )?T ({stage})\b(?: ([abc])\b)?(?: N ({stage})\b)?(?: M ({stage})\b)?",
+                  lambda m: f"{'p' if m.group(1) else ''}T{STAGE_NUMBERS[m.group(2)]}{m.group(3) or ''}"
+                            + (f" N{STAGE_NUMBERS[m.group(4)]}" if m.group(4) else "")
+                            + (f" M{STAGE_NUMBERS[m.group(5)]}" if m.group(5) else ""), text)
+    text = re.sub(rf"\b([GR]) ({stage})\b", lambda m: f"{m.group(1)}{STAGE_NUMBERS[m.group(2)]}", text)
+    text = re.sub(rf"\b([NM]) ({stage})\b",
+                  lambda m: m.group() if re.search(r"\b[A-Z] \w+ $", m.string[:m.start()])
+                  else f"{m.group(1)}{STAGE_NUMBERS[m.group(2)]}", text)
     return re.sub(r"\b[A-Z](?: [A-Z])+(?: [a-z]\b)?\b", lambda m: m.group().replace(" ", ""), text)
 
 

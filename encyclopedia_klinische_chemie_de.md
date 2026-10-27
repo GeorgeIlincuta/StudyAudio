@@ -1599,7 +1599,7 @@ Für alle Werte dieses Teils gilt eine besondere Regel. Immuntests verschiedener
 | Nr. | Steckbrief | Auf einen Blick |
 |:--:|---|---|
 | `35` | [**Das TSH**](#das-t-s-h) | Das TSH steuert die Schilddrüse und ist der erste Suchtest für alle Schilddrüsenstörungen. |
-| `36` | [**Die Schilddrüsenhormone**](#die-schilddrüsenhormone) | Das T vier ist die Vorstufe, das T drei das wirksame Hormon. |
+| `36` | [**Die Schilddrüsenhormone**](#die-schilddrüsenhormone) | Das T4 ist die Vorstufe, das T3 das wirksame Hormon. |
 | `37` | [**Das hCG**](#das-h-c-g) | Das hCG ist das Schwangerschaftshormon aus der Hülle des Embryos. |
 | `38` | [**Vitamin B zwölf, Folsäure**](#vitamin-b-zwölf-folsäure) | Vitamin B zwölf und Folsäure braucht man für die Zellteilung, ein Mangel macht eine Blutarmut mit großen Zellen. |
 | `39` | [**Vitamin D**](#vitamin-d) | Vitamin D wird in der Haut mit Sonnenlicht gebildet und holt Calcium und Phosphat aus dem Darm. |
@@ -1633,7 +1633,7 @@ Der Referenzbereich liegt bei etwa null Komma vier bis vier Milli-Einheiten pro 
 Die wichtigste Falle ist das Biotin. Es ist ein Vitamin, das manche Menschen in hohen Dosen für Haare und Nägel nehmen. Viele Immuntests nutzen Biotin als Klebstoff. Biotin im Blut stört diese Tests. Beim TSH entsteht ein falsch niedriger Wert, und der Befund sieht aus wie eine Überfunktion. Vor der Abnahme sollte man Biotin je nach Dosis mindestens einen Tag, bei hohen Dosen länger weglassen. Kortison und Dopamin senken das TSH wirklich. Bei schweren Krankheiten kann das TSH vorübergehend verändert sein, ohne dass die Schilddrüse krank ist.
 
 > [!TIP]
-> **🏥 Warum ist das im Labor wichtig?** Bei einer jungen Frau ist das TSH stark erniedrigt und das freie T vier hoch. Sie hat aber keine Beschwerden. Auf Nachfrage nimmt sie täglich eine hohe Dosis Biotin für die Haare. Ein falscher Befund könnte zu einer unnötigen Therapie führen. Eine neue Probe nach einer Pause zeigt normale Werte.
+> **🏥 Warum ist das im Labor wichtig?** Bei einer jungen Frau ist das TSH stark erniedrigt und das freie T4 hoch. Sie hat aber keine Beschwerden. Auf Nachfrage nimmt sie täglich eine hohe Dosis Biotin für die Haare. Ein falscher Befund könnte zu einer unnötigen Therapie führen. Eine neue Probe nach einer Pause zeigt normale Werte.
 
 > [!NOTE]
 > **📌 Kurz gesagt:** Das TSH steuert die Schilddrüse und ist der erste Suchtest für alle Schilddrüsenstörungen. Der Normbereich liegt bei etwa null Komma vier bis vier Milli-Einheiten pro Liter. Hoch heißt Unterfunktion, niedrig heißt Überfunktion. Biotin senkt das TSH falsch und täuscht eine Überfunktion vor.
@@ -1649,29 +1649,29 @@ Die wichtigste Falle ist das Biotin. Es ist ein Vitamin, das manche Menschen in 
 
 #### 🧭 Einordnung
 
-Die Schilddrüsenhormone heißen Thyroxin und Trijodthyronin, kurz T vier und T drei. Man misst sie als freie Hormone, also als freies T vier und freies T drei. Sie sind der zweite Schritt nach dem TSH. Mit ihnen unterscheidet man eine leichte von einer deutlichen Störung.
+Die Schilddrüsenhormone heißen Thyroxin und Trijodthyronin, kurz T4 und T3. Man misst sie als freie Hormone, also als freies T4 und freies T3. Sie sind der zweite Schritt nach dem TSH. Mit ihnen unterscheidet man eine leichte von einer deutlichen Störung.
 
 #### ⚙️ Bildung und Aufgabe
 
-Die Schilddrüse bildet die Hormone aus der Aminosäure Tyrosin und aus Jod. Das T vier hat vier Jodatome, das T drei hat drei. Die Schilddrüse gibt vor allem T vier ab. Es ist eine Vorstufe. Die Gewebe schneiden ein Jodatom ab und machen daraus das wirksame T drei. Die Hormone steuern den Grundumsatz. Sie bestimmen, wie schnell Herz, Darm und Stoffwechsel arbeiten. Im Blut sind über neunundneunzig Prozent an Transporteiweiße gebunden. Nur der freie Rest wirkt.
+Die Schilddrüse bildet die Hormone aus der Aminosäure Tyrosin und aus Jod. Das T4 hat vier Jodatome, das T3 hat drei. Die Schilddrüse gibt vor allem T4 ab. Es ist eine Vorstufe. Die Gewebe schneiden ein Jodatom ab und machen daraus das wirksame T3. Die Hormone steuern den Grundumsatz. Sie bestimmen, wie schnell Herz, Darm und Stoffwechsel arbeiten. Im Blut sind über neunundneunzig Prozent an Transporteiweiße gebunden. Nur der freie Rest wirkt.
 
 #### 🧪 Probe und Messung
 
-Man misst freies T vier und freies T drei im Serum oder im Plasma mit einem Immuntest. Weil die Hormone kleine Moleküle sind, nutzt man einen kompetitiven Test. Dabei konkurriert das Hormon des Patienten mit einem markierten Hormon um wenige Antikörper. Je mehr Hormon in der Probe ist, desto weniger Signal entsteht. Die Einheit ist meist Pikomol pro Liter oder Nanogramm pro Deziliter.
+Man misst freies T4 und freies T3 im Serum oder im Plasma mit einem Immuntest. Weil die Hormone kleine Moleküle sind, nutzt man einen kompetitiven Test. Dabei konkurriert das Hormon des Patienten mit einem markierten Hormon um wenige Antikörper. Je mehr Hormon in der Probe ist, desto weniger Signal entsteht. Die Einheit ist meist Pikomol pro Liter oder Nanogramm pro Deziliter.
 
 #### 📊 Die Werte
 
-Das freie T vier liegt bei etwa zwölf bis zweiundzwanzig Pikomol pro Liter. Das freie T drei liegt bei etwa drei bis sieben Pikomol pro Liter. Die Bereiche hängen stark vom Test ab. Wichtig sind die Muster mit dem TSH. Ist das TSH hoch und das freie T vier niedrig, liegt eine deutliche Unterfunktion vor. Ist das TSH hoch und das freie T vier normal, nennt man das eine latente Unterfunktion. Ist das TSH niedrig und die Hormone hoch, liegt eine deutliche Überfunktion vor. Manchmal steigt bei einer Überfunktion nur das freie T drei. Darum misst man es bei niedrigem TSH mit.
+Das freie T4 liegt bei etwa zwölf bis zweiundzwanzig Pikomol pro Liter. Das freie T3 liegt bei etwa drei bis sieben Pikomol pro Liter. Die Bereiche hängen stark vom Test ab. Wichtig sind die Muster mit dem TSH. Ist das TSH hoch und das freie T4 niedrig, liegt eine deutliche Unterfunktion vor. Ist das TSH hoch und das freie T4 normal, nennt man das eine latente Unterfunktion. Ist das TSH niedrig und die Hormone hoch, liegt eine deutliche Überfunktion vor. Manchmal steigt bei einer Überfunktion nur das freie T3. Darum misst man es bei niedrigem TSH mit.
 
 #### ⚠️ Fehlerquellen
 
-Biotin stört auch diese Tests, aber umgekehrt wie beim TSH. Im kompetitiven Test entsteht ein falsch hoher Wert. Zusammen mit dem falsch niedrigen TSH entsteht so das perfekte Bild einer Überfunktion. Patienten mit Schilddrüsentabletten sollten die Tablette erst nach der Abnahme nehmen. Sonst ist das freie T vier für einige Stunden erhöht. Bei schweren Krankheiten sinkt das freie T drei, ohne dass die Schilddrüse krank ist. Das Herzmittel Amiodaron enthält viel Jod und verändert alle Werte.
+Biotin stört auch diese Tests, aber umgekehrt wie beim TSH. Im kompetitiven Test entsteht ein falsch hoher Wert. Zusammen mit dem falsch niedrigen TSH entsteht so das perfekte Bild einer Überfunktion. Patienten mit Schilddrüsentabletten sollten die Tablette erst nach der Abnahme nehmen. Sonst ist das freie T4 für einige Stunden erhöht. Bei schweren Krankheiten sinkt das freie T3, ohne dass die Schilddrüse krank ist. Das Herzmittel Amiodaron enthält viel Jod und verändert alle Werte.
 
 > [!TIP]
-> **🏥 Warum ist das im Labor wichtig?** Bei einem Patienten sind das TSH und das freie T vier beide erhöht. Das passt zu keinem normalen Muster. Es kann ein seltener Tumor der Hirnanhangsdrüse sein. Es kann aber auch eine Störung des Tests sein. Du schlägst vor, die Probe mit einem Test eines anderen Herstellers zu messen.
+> **🏥 Warum ist das im Labor wichtig?** Bei einem Patienten sind das TSH und das freie T4 beide erhöht. Das passt zu keinem normalen Muster. Es kann ein seltener Tumor der Hirnanhangsdrüse sein. Es kann aber auch eine Störung des Tests sein. Du schlägst vor, die Probe mit einem Test eines anderen Herstellers zu messen.
 
 > [!NOTE]
-> **📌 Kurz gesagt:** Das T vier ist die Vorstufe, das T drei das wirksame Hormon. Man misst die freien Formen, denn nur sie wirken. Zusammen mit dem TSH unterscheiden sie latente und deutliche Störungen. Biotin erhöht das freie T vier falsch und senkt zugleich das TSH.
+> **📌 Kurz gesagt:** Das T4 ist die Vorstufe, das T3 das wirksame Hormon. Man misst die freien Formen, denn nur sie wirken. Zusammen mit dem TSH unterscheiden sie latente und deutliche Störungen. Biotin erhöht das freie T4 falsch und senkt zugleich das TSH.
 
 <p align="right"><a href="#contents">↑ Inhalt</a></p>
 
@@ -1821,7 +1821,7 @@ Viele Dinge erhöhen das PSA kurzzeitig. Dazu gehören ein Samenerguss, langes R
 
 > Der siebte Teil hat Werte vorgestellt, die man mit Immuntests misst. Hormone und Vitamine liegen in sehr kleinen Mengen im Blut. Verschiedene Tests geben oft verschiedene Zahlen, deshalb gehören Verlaufskontrollen ins selbe Labor.
 >
-> Das TSH ist der erste Suchtest für die Schilddrüse. Hoch heißt Unterfunktion, niedrig heißt Überfunktion. Die freien Hormone T vier und T drei sind der zweite Schritt. Biotin senkt das TSH falsch und erhöht das freie T vier falsch. So täuscht es eine Überfunktion vor.
+> Das TSH ist der erste Suchtest für die Schilddrüse. Hoch heißt Unterfunktion, niedrig heißt Überfunktion. Die freien Hormone T4 und T3 sind der zweite Schritt. Biotin senkt das TSH falsch und erhöht das freie T4 falsch. So täuscht es eine Überfunktion vor.
 >
 > Das hCG ist das Schwangerschaftshormon und ein Tumormarker beim Mann. In der frühen Schwangerschaft verdoppelt es sich etwa alle zwei Tage. Vitamin B zwölf und Folsäure braucht man für die Zellteilung. Nur der Mangel an Vitamin B zwölf schädigt die Nerven. Vitamin D misst man als Speicherform, und es schwankt mit den Jahreszeiten. Das PSA ist spezifisch für die Prostata, nicht für den Krebs.
 >
@@ -1919,7 +1919,7 @@ Immuntests nutzen Antikörper, um einen Stoff zu erkennen. Ein Antikörper passt
 
 Man unterscheidet zwei große Bauarten. Die erste ist der Sandwichtest. Ein erster Antikörper hält den Stoff fest. Ein zweiter Antikörper bindet an eine andere Stelle und trägt eine Markierung. Der Stoff liegt dazwischen wie der Belag in einem Brot. Je mehr Stoff da ist, desto stärker das Signal. So misst man große Moleküle wie TSH, Troponin, hCG und PSA.
 
-Die zweite Bauart ist der kompetitive Test. Kleine Moleküle haben keinen Platz für zwei Antikörper. Deshalb konkurriert der Stoff der Probe mit einer markierten Form desselben Stoffes um wenige Antikörper. Je mehr Stoff in der Probe ist, desto weniger markierter Stoff bindet. Das Signal ist dann schwächer. So misst man freies T vier, Vitamin D, Kortisol und viele Medikamente.
+Die zweite Bauart ist der kompetitive Test. Kleine Moleküle haben keinen Platz für zwei Antikörper. Deshalb konkurriert der Stoff der Probe mit einer markierten Form desselben Stoffes um wenige Antikörper. Je mehr Stoff in der Probe ist, desto weniger markierter Stoff bindet. Das Signal ist dann schwächer. So misst man freies T4, Vitamin D, Kortisol und viele Medikamente.
 
 Die Markierung macht die Bindung sichtbar. Früher nahm man radioaktive Stoffe. Heute nimmt man Enzyme, die einen Farbstoff bilden, oder Stoffe, die Licht aussenden. Man spricht dann von Chemilumineszenz. Bei der Elektrochemilumineszenz wird das Leuchten durch Strom ausgelöst. Viele Tests nutzen Biotin und Streptavidin als Klebstoff zwischen den Teilen. Diese beiden Stoffe halten extrem fest zusammen.
 
@@ -2063,7 +2063,7 @@ Das CA hundertfünfundzwanzig ist der Marker für den Eierstockkrebs. Es steigt 
 
 Das AFP ist das Alpha-Fetoprotein. Es ist der Marker für den Leberzellkrebs und für bestimmte Keimzelltumoren. In der Schwangerschaft ist es normal erhöht, denn das Kind bildet es. Zusammen mit dem hCG aus Teil sieben ist es der wichtigste Marker bei Hodentumoren. Das PSA kennst du ebenfalls aus Teil sieben.
 
-Einige Marker gehören zu besonderen Tumoren. Die neuronenspezifische Enolase, kurz NSE, dient beim kleinzelligen Lungenkrebs und bei einem Tumor der Nerven bei Kindern. Rote Blutkörperchen enthalten viel NSE. Schon eine leichte Hämolyse macht den Wert falsch hoch. Das Calcitonin ist der Marker für den medullären Schilddrüsenkrebs. Das Thyreoglobulin dient nach der Entfernung der Schilddrüse bei anderen Formen des Schilddrüsenkrebses. Es sollte dann nicht mehr messbar sein. Das Chromogranin A dient bei neuroendokrinen Tumoren. Magensäureblocker erhöhen es stark. Das Protein S hundert dient beim schwarzen Hautkrebs.
+Einige Marker gehören zu besonderen Tumoren. Die neuronenspezifische Enolase, kurz NSE, dient beim kleinzelligen Lungenkrebs und bei einem Tumor der Nerven bei Kindern. Rote Blutkörperchen enthalten viel NSE. Schon eine leichte Hämolyse macht den Wert falsch hoch. Das Calcitonin ist der Marker für den medullären Schilddrüsenkrebs. Das Thyreoglobulin dient nach der Entfernung der Schilddrüse bei anderen Formen des Schilddrüsenkrebses. Es sollte dann nicht mehr messbar sein. Das Chromogranin A dient bei neuroendokrinen Tumoren. Magensäureblocker erhöhen es stark. Das Protein S100 dient beim schwarzen Hautkrebs.
 
 Für das Labor gelten bei allen Tumormarkern dieselben Regeln. Verlaufskontrollen gehören ins selbe Labor mit demselben Test. Ein Wechsel der Methode kann einen Anstieg oder Abfall vortäuschen. Bei sehr hohen Werten muss man an den Hook-Effekt denken und verdünnen. Fremde Antikörper können falsch hohe Werte erzeugen. Ein unerwarteter Anstieg ohne klinische Zeichen wird deshalb erst kontrolliert, bevor man ihn ernst nimmt.
 
@@ -2113,7 +2113,7 @@ Die fünfte Frage lautet: Hat der Patient eine Infektion? Dazu gehören das CRP 
 
 Die sechste Frage lautet: Hat der Patient einen Diabetes, und wie gut ist er eingestellt? Dazu gehören die Nüchternglukose und das HbA1c. Bei bekanntem Diabetes kommen die Blutfette, das Kreatinin und das Albumin im Urin dazu. Damit sucht man nach Schäden an Gefäßen und Niere.
 
-Die siebte Frage lautet: Arbeitet die Schilddrüse richtig? Hier beginnt man mit dem TSH. Ist es auffällig, folgen das freie T vier und oft das freie T drei. Bei Verdacht auf eine Entzündung durch das Immunsystem kommen die Antikörper gegen die Schilddrüse dazu.
+Die siebte Frage lautet: Arbeitet die Schilddrüse richtig? Hier beginnt man mit dem TSH. Ist es auffällig, folgen das freie T4 und oft das freie T3. Bei Verdacht auf eine Entzündung durch das Immunsystem kommen die Antikörper gegen die Schilddrüse dazu.
 
 Die achte Frage lautet: Woher kommt eine Blutarmut? Bei kleinen roten Blutkörperchen misst man das Ferritin und das CRP. Bei großen roten Blutkörperchen misst man Vitamin B zwölf und Folsäure. Bei Verdacht auf Hämolyse misst man die LDH, das indirekte Bilirubin, das Haptoglobin und die jungen roten Blutkörperchen.
 
@@ -2145,7 +2145,7 @@ Die fünfte Störung ist die Infusion. Blut aus dem Arm mit der Infusion enthäl
 
 Die sechste Störung ist die zu lange Wartezeit vor dem Zentrifugieren. Die Zellen leben weiter. Die Glukose sinkt, das Laktat und das Ammoniak steigen. Phosphat und LDH steigen ebenfalls. Das Kalium steigt besonders, wenn die Probe gekühlt wurde.
 
-Die siebte Störung trifft nur Immuntests. Biotin senkt Sandwichtests und erhöht kompetitive Tests. Das wichtigste Beispiel ist ein falsch niedriges TSH mit einem falsch hohen freien T vier. Fremde Antikörper machen meist falsch hohe Werte, zum Beispiel ein falsch positives hCG. Der Hook-Effekt macht bei extrem hohen Werten falsch niedrige Ergebnisse.
+Die siebte Störung trifft nur Immuntests. Biotin senkt Sandwichtests und erhöht kompetitive Tests. Das wichtigste Beispiel ist ein falsch niedriges TSH mit einem falsch hohen freien T4. Fremde Antikörper machen meist falsch hohe Werte, zum Beispiel ein falsch positives hCG. Der Hook-Effekt macht bei extrem hohen Werten falsch niedrige Ergebnisse.
 
 Dazu kommen einzelne Fallen, die du aus den Steckbriefen kennst. Ammoniumheparin erhöht den Harnstoff und das Ammoniak. Licht zerstört Bilirubin und Folsäure. Rasburikase baut die Harnsäure im Röhrchen ab. Luftblasen verfälschen die Blutgasanalyse. Speichel erhöht die Amylase. Und Tocilizumab unterdrückt das CRP.
 
@@ -2171,7 +2171,7 @@ Das CRP und das Procalcitonin zeigen beide eine Entzündung. Das CRP steigt bei 
 
 Ferritin und Serumeisen zeigen beide den Eisenhaushalt. Das Ferritin zeigt die Speicher und ist stabil. Das Serumeisen zeigt den Transport und schwankt stark über den Tag. Ein niedriges Ferritin beweist einen Mangel. Ein normales Ferritin schließt ihn bei einer Entzündung nicht aus.
 
-Gesamtcalcium und ionisiertes Calcium sind nicht dasselbe. Nur das ionisierte Calcium wirkt. Das Gesamtcalcium hängt vom Albumin ab. Ähnlich ist es beim T vier. Man misst das freie T vier, nicht das gesamte, weil fast alles an Eiweiß gebunden ist.
+Gesamtcalcium und ionisiertes Calcium sind nicht dasselbe. Nur das ionisierte Calcium wirkt. Das Gesamtcalcium hängt vom Albumin ab. Ähnlich ist es beim T4. Man misst das freie T4, nicht das gesamte, weil fast alles an Eiweiß gebunden ist.
 
 Direktes und indirektes Bilirubin sind zwei Formen. Das indirekte ist das unverarbeitete Bilirubin vor der Leber und steigt bei Hämolyse. Das direkte ist das verarbeitete Bilirubin nach der Leber und steigt beim Gallestau.
 

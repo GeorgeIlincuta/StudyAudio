@@ -71,6 +71,15 @@ def test_voice_spellings_go_back_to_written_form():
             == "Anti-Fya, Fyb, Jka und Jkb, die Gruppen A1 und A2 und HLA-A2.")
     assert readable("Die C D vier-Zellen, I g D und Gruppe A.") == "Die CD4-Zellen, IgD und Gruppe A."
     assert readable("Der Hemmstoff heißt P A I eins, der Aktivator t P A.") == "Der Hemmstoff heißt PAI-1, der Aktivator tPA."
+    assert (readable("Die H E-Färbung, H E R zwei, K i siebenundsechzig, C K sieben, C K zwanzig, P D L eins und S hundert.")
+            == "Die HE-Färbung, HER2, Ki-67, CK7, CK20, PD-L1 und S100.")
+    assert readable("T T F eins, C I N eins bis C I N drei und C I N.") == "TTF-1, CIN1 bis CIN3 und CIN."
+    assert (readable("Pap null, Pap eins, Pap drei D eins, Pap drei D zwei, Pap vier a, Pap vier b und Pap fünf.")
+            == "Pap 0, Pap I, Pap IIID1, Pap IIID2, Pap IVa, Pap IVb und Pap V.")
+    assert (readable("Das Stadium p T zwei N eins M null, T eins a, Grad G drei, R null und Gruppe A.")
+            == "Das Stadium pT2 N1 M0, T1a, Grad G3, R0 und Gruppe A.")
+    assert (readable("Das freie T vier, Influenza H eins N eins oder H drei N zwei, N null und M eins.")
+            == "Das freie T4, Influenza H eins N eins oder H drei N zwei, N0 und M1.")
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
@@ -88,6 +97,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     immune = text.replace("Probe und Messung:", "Der Befund:")
     md = render_markdown(split_text(immune), "de", "encyclopedia_immunologie_transfusion_de.txt")
     assert "## 🛡️ Staphylococcus aureus" in md and "#### 📋 Der Befund" in md
+    tissue = text.replace("Probe und Messung:", "Im Präparat:")
+    md = render_markdown(split_text(tissue), "de", "encyclopedia_histologie_zytologie_de.txt")
+    assert "## 🔬 Staphylococcus aureus" in md and "#### 🔬 Im Präparat" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 
