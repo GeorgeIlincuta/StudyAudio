@@ -84,7 +84,8 @@ def readable(text: str) -> str:
                             ("I S O neuntausendeins", "ISO 9001"), ("D Akk S", "DAkkS"), ("Teil B drei", "Teil B3"),
                             ("Teil B vier", "Teil B4"), ("Teil B fünf", "Teil B5"), ("Eins-zwei-s", "1-2s"),
                             ("Eins-drei-s", "1-3s"), ("Zwei-zwei-s", "2-2s"), ("R-vier-s", "R-4s"),
-                            ("Vier-eins-s", "4-1s"), ("Zehn-x", "10x")):
+                            ("Vier-eins-s", "4-1s"), ("Zehn-x", "10x"), ("I G F eins", "IGF-1"),
+                            ("L C-M S-M S", "LC-MS/MS")):
         text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
     text = re.sub(r"\b(Blutgruppen?|Gruppe) null\b", r"\1 0", text)
     text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)

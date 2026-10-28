@@ -95,6 +95,8 @@ def test_voice_spellings_go_back_to_written_form():
             == "Die ISO 15189, die ISO 9001, die DAkkS und Teil B3 bis Teil B5.")
     assert (readable("Die Eins-zwei-s-Regel, die Eins-drei-s-Regel, die Zwei-zwei-s-Regel, die R-vier-s-Regel, die Vier-eins-s-Regel und die Zehn-x-Regel.")
             == "Die 1-2s-Regel, die 1-3s-Regel, die 2-2s-Regel, die R-4s-Regel, die 4-1s-Regel und die 10x-Regel.")
+    assert (readable("Das I G F eins, das A C T H, das P A P P-A, das C O-H b und die G C-M S oder L C-M S-M S.")
+            == "Das IGF-1, das ACTH, das PAPP-A, das CO-Hb und die GC-MS oder LC-MS/MS.")
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
