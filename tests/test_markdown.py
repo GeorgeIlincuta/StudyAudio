@@ -97,6 +97,9 @@ def test_voice_spellings_go_back_to_written_form():
             == "Die 1-2s-Regel, die 1-3s-Regel, die 2-2s-Regel, die R-4s-Regel, die 4-1s-Regel und die 10x-Regel.")
     assert (readable("Das I G F eins, das A C T H, das P A P P-A, das C O-H b und die G C-M S oder L C-M S-M S.")
             == "Das IGF-1, das ACTH, das PAPP-A, das CO-Hb und die GC-MS oder LC-MS/MS.")
+    assert (readable("Der R f-Wert, die H P L C, die I C P-M S und das H b A zwei.")
+            == "Der Rf-Wert, die HPLC, die ICP-MS und das HbA2.")
+    assert readable("Die Maldi-Ionisierung der Maldi-Tof.") == "Die MALDI-Ionisierung der MALDI-TOF."
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
@@ -129,6 +132,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     quality = text.replace("Probe und Messung:", "Die Vorgabe:")
     md = render_markdown(split_text(quality), "de", "encyclopedia_qualitaetsmanagement_de.txt")
     assert "## 📋 Staphylococcus aureus" in md and "#### 📏 Die Vorgabe" in md
+    devices = text.replace("Probe und Messung:", "Das Ergebnis:")
+    md = render_markdown(split_text(devices), "de", "encyclopedia_laborgeraete_analytik_de.txt")
+    assert "## ⚗️ Staphylococcus aureus" in md and "#### 📈 Das Ergebnis" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 

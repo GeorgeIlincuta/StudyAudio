@@ -38,7 +38,8 @@ SECTION_ICONS = {
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
                "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️",
                "histologie": "🔬", "molekular": "🧬", "urin": "💧",
-               "mikrobiologie": "🧫", "qualitaet": "📋"}
+               "mikrobiologie": "🧫", "qualitaet": "📋",
+               "laborgeraete": "⚗️"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
@@ -85,7 +86,8 @@ def readable(text: str) -> str:
                             ("Teil B vier", "Teil B4"), ("Teil B fünf", "Teil B5"), ("Eins-zwei-s", "1-2s"),
                             ("Eins-drei-s", "1-3s"), ("Zwei-zwei-s", "2-2s"), ("R-vier-s", "R-4s"),
                             ("Vier-eins-s", "4-1s"), ("Zehn-x", "10x"), ("I G F eins", "IGF-1"),
-                            ("L C-M S-M S", "LC-MS/MS")):
+                            ("L C-M S-M S", "LC-MS/MS"), ("R f-Wert", "Rf-Wert"),
+                            ("Maldi-Ionisierung", "MALDI-Ionisierung")):
         text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
     text = re.sub(r"\b(Blutgruppen?|Gruppe) null\b", r"\1 0", text)
     text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)
