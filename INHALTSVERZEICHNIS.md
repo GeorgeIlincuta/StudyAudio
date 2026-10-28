@@ -19,6 +19,7 @@ Alle Markdown-Bücher mit ihren Teilen, Kapiteln und Abschnitten. Jeder Link öf
 | `13` | [**Klinische Chemie zwei**](#buch-13) · [encyclopedia_klinische_chemie_ii_de.md](encyclopedia_klinische_chemie_ii_de.md) | `34 Steckbriefe` · `9 Teile` · `55 Kapitel` |
 | `14` | [**Laborgeräte und Analytik**](#buch-14) · [encyclopedia_laborgeraete_analytik_de.md](encyclopedia_laborgeraete_analytik_de.md) | `32 Steckbriefe` · `9 Teile` · `53 Kapitel` |
 | `15` | [**Krankheitsbilder**](#buch-15) · [encyclopedia_krankheitsbilder_de.md](encyclopedia_krankheitsbilder_de.md) | `37 Steckbriefe` · `10 Teile` · `60 Kapitel` |
+| `16` | [**Prüfungsfälle**](#buch-16) · [encyclopedia_pruefungsfaelle_de.md](encyclopedia_pruefungsfaelle_de.md) | `33 Steckbriefe` · `9 Teile` · `54 Kapitel` |
 
 ---
 
@@ -1895,3 +1896,119 @@ Alle Markdown-Bücher mit ihren Teilen, Kapiteln und Abschnitten. Jeder Link öf
 - [📖 Leitbefunde und ihre Krankheiten](encyclopedia_krankheitsbilder_de.md#leitbefunde-und-ihre-krankheiten)
 - [📖 Häufige Verwechslungen](encyclopedia_krankheitsbilder_de.md#häufige-verwechslungen)
 - [📖 Gesamtzusammenfassung](encyclopedia_krankheitsbilder_de.md#gesamtzusammenfassung)
+
+---
+
+<a id="buch-16"></a>
+
+## 📗 16 · [Prüfungsfälle](encyclopedia_pruefungsfaelle_de.md)
+
+*dreiunddreißig Fälle aus Notaufnahme, Niere, Stoffwechsel, Hormonen, Blutbild, Gerinnung, Blutbank, Mikrobiologie und Präanalytik, jeweils vom Befund zur Lösung*
+
+`33 Steckbriefe` · `9 Teile` · `54 Kapitel`
+
+- [🗺️ Hinweise zum Leitfaden](encyclopedia_pruefungsfaelle_de.md#hinweise-zum-leitfaden)
+
+### [🟣 Teil eins: Notaufnahme](encyclopedia_pruefungsfaelle_de.md#teil-eins-notaufnahme)
+
+- `01` [🎯 Brustschmerz am Morgen](encyclopedia_pruefungsfaelle_de.md#brustschmerz-am-morgen)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `02` [🎯 Atemnot nach Flug](encyclopedia_pruefungsfaelle_de.md#atemnot-nach-flug)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `03` [🎯 Gürtelförmiger Bauchschmerz](encyclopedia_pruefungsfaelle_de.md#gürtelförmiger-bauchschmerz)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `04` [🎯 Verwirrte Seniorin](encyclopedia_pruefungsfaelle_de.md#verwirrte-seniorin)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil eins](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-eins)
+
+### [🔵 Teil zwei: Niere, Stoffwechsel](encyclopedia_pruefungsfaelle_de.md#teil-zwei-niere-stoffwechsel)
+
+- `05` [🎯 Jugendlicher erbricht](encyclopedia_pruefungsfaelle_de.md#jugendlicher-erbricht)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `06` [🎯 Wenig Urin nach Durchfall](encyclopedia_pruefungsfaelle_de.md#wenig-urin-nach-durchfall)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `07` [🎯 Geschwollene Lider](encyclopedia_pruefungsfaelle_de.md#geschwollene-lider)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `08` [🎯 Nachts die Zehe](encyclopedia_pruefungsfaelle_de.md#nachts-die-zehe)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil zwei](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-zwei)
+
+### [🔴 Teil drei: Leber, Hormone](encyclopedia_pruefungsfaelle_de.md#teil-drei-leber-hormone)
+
+- `09` [🎯 Gelbe Augen nach Urlaub](encyclopedia_pruefungsfaelle_de.md#gelbe-augen-nach-urlaub)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `10` [🎯 Müde mit dunkler Haut](encyclopedia_pruefungsfaelle_de.md#müde-mit-dunkler-haut)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `11` [🎯 Herzrasen und Gewichtsverlust](encyclopedia_pruefungsfaelle_de.md#herzrasen-und-gewichtsverlust)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `12` [🎯 Calcium als Zufallsbefund](encyclopedia_pruefungsfaelle_de.md#calcium-als-zufallsbefund)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil drei](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-drei)
+
+### [🟠 Teil vier: Blutbild](encyclopedia_pruefungsfaelle_de.md#teil-vier-blutbild)
+
+- `13` [🎯 Blasse Studentin](encyclopedia_pruefungsfaelle_de.md#blasse-studentin)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `14` [🎯 Kribbeln bei Veganer](encyclopedia_pruefungsfaelle_de.md#kribbeln-bei-veganer)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `15` [🎯 Viele kleine Lymphozyten](encyclopedia_pruefungsfaelle_de.md#viele-kleine-lymphozyten)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `16` [🎯 Fieber und Blasten](encyclopedia_pruefungsfaelle_de.md#fieber-und-blasten)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil vier](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-vier)
+
+### [🟡 Teil fünf: Gerinnung](encyclopedia_pruefungsfaelle_de.md#teil-fünf-gerinnung)
+
+- `17` [🎯 Blutung nach Zahnarzt](encyclopedia_pruefungsfaelle_de.md#blutung-nach-zahnarzt)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `18` [🎯 Thrombozyten fallen unter Heparin](encyclopedia_pruefungsfaelle_de.md#thrombozyten-fallen-unter-heparin)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `19` [🎯 Verlängerte Gerinnungszeit ohne Blutung](encyclopedia_pruefungsfaelle_de.md#verlängerte-gerinnungszeit-ohne-blutung)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `20` [🎯 Sepsis mit Blutung](encyclopedia_pruefungsfaelle_de.md#sepsis-mit-blutung)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil fünf](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-fünf)
+
+### [⚪ Teil sechs: Blutbank, Immunologie](encyclopedia_pruefungsfaelle_de.md#teil-sechs-blutbank-immunologie)
+
+- `21` [🎯 Fieber bei Transfusion](encyclopedia_pruefungsfaelle_de.md#fieber-bei-transfusion)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `22` [🎯 Gelbes Neugeborenes](encyclopedia_pruefungsfaelle_de.md#gelbes-neugeborenes)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `23` [🎯 Gelenkschmerz und Ausschlag](encyclopedia_pruefungsfaelle_de.md#gelenkschmerz-und-ausschlag)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `24` [🎯 Unverträgliche Kreuzprobe](encyclopedia_pruefungsfaelle_de.md#unverträgliche-kreuzprobe)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil sechs](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-sechs)
+
+### [🛡️ Teil sieben: Mikrobiologie, Liquor](encyclopedia_pruefungsfaelle_de.md#teil-sieben-mikrobiologie-liquor)
+
+- `25` [🎯 Nackensteife und Fieber](encyclopedia_pruefungsfaelle_de.md#nackensteife-und-fieber)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `26` [🎯 Durchfall nach Antibiotika](encyclopedia_pruefungsfaelle_de.md#durchfall-nach-antibiotika)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `27` [🎯 Fieber nach Tropenreise](encyclopedia_pruefungsfaelle_de.md#fieber-nach-tropenreise)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `28` [🎯 Eine positive Blutkultur](encyclopedia_pruefungsfaelle_de.md#eine-positive-blutkultur)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil sieben](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-sieben)
+
+### [🧫 Teil acht: Präanalytik-Fallen](encyclopedia_pruefungsfaelle_de.md#teil-acht-präanalytik-fallen)
+
+- `29` [🎯 Kalium zu hoch](encyclopedia_pruefungsfaelle_de.md#kalium-zu-hoch)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `30` [🎯 Thrombozyten falsch niedrig](encyclopedia_pruefungsfaelle_de.md#thrombozyten-falsch-niedrig)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `31` [🎯 Glukose falsch niedrig](encyclopedia_pruefungsfaelle_de.md#glukose-falsch-niedrig)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `32` [🎯 Werte vom Infusionsarm](encyclopedia_pruefungsfaelle_de.md#werte-vom-infusionsarm)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- `33` [🎯 Die vertauschte Probe](encyclopedia_pruefungsfaelle_de.md#die-vertauschte-probe)
+  - 📝 Der Fall · 🔢 Die Befunde · ✅ Die Lösung · 💡 Die Begründung · 🪤 Die Falle
+- [📝 Zusammenfassung Teil acht](encyclopedia_pruefungsfaelle_de.md#zusammenfassung-teil-acht)
+
+### [⚡ Teil neun: Schnellüberblick](encyclopedia_pruefungsfaelle_de.md#teil-neun-schnellüberblick)
+
+- [📖 Der Weg zur Lösung](encyclopedia_pruefungsfaelle_de.md#der-weg-zur-lösung)
+- [📖 Häufige Fallen](encyclopedia_pruefungsfaelle_de.md#häufige-fallen)
+- [📖 Gesamtzusammenfassung](encyclopedia_pruefungsfaelle_de.md#gesamtzusammenfassung)
