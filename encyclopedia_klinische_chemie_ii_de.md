@@ -1,0 +1,1670 @@
+<div align="center">
+
+# 📚 Klinische Chemie zwei: Steckbriefe zu Hormonen, Medikamentenspiegeln und Vergiftungen
+
+`34 Steckbriefe` · `9 Teile` · `55 Kapitel`
+
+</div>
+
+> [!NOTE]
+> **So ist jeder Steckbrief aufgebaut:** 🧭 Einordnung → 💡 Grundlage → 🧪 Probe und Messung → 📊 Die Werte → ⚠️ Fehlerquellen → 🏥 Warum ist das im Labor wichtig? → 📌 Kurz gesagt
+
+<a id="contents"></a>
+
+## 🗂️ Inhalt
+
+- [Hinweise zum Leitfaden](#hinweise-zum-leitfaden)
+
+**🟣 [Teil eins: Grundlagen](#teil-eins-grundlagen)**
+
+- `01` 🧪 [Regelkreise und Funktionstests](#regelkreise-und-funktionstests)
+- `02` 🧪 [Die Messung von Hormonen](#die-messung-von-hormonen)
+- 📝 [Zusammenfassung Teil eins](#zusammenfassung-teil-eins)
+
+**🔵 [Teil zwei: Die Nebenniere](#teil-zwei-die-nebenniere)**
+
+- `03` 🧪 [Das Cortisol](#das-cortisol)
+- `04` 🧪 [Die Cushing-Diagnostik](#die-cushing-diagnostik)
+- `05` 🧪 [Der Aldosteron-Renin-Quotient](#der-aldosteron-renin-quotient)
+- `06` 🧪 [Die Metanephrine](#die-metanephrine)
+- 📝 [Zusammenfassung Teil zwei](#zusammenfassung-teil-zwei)
+
+**🔴 [Teil drei: Die Hypophyse](#teil-drei-die-hypophyse)**
+
+- `07` 🧪 [Das Prolaktin](#das-prolaktin)
+- `08` 🧪 [Das Wachstumshormon](#das-wachstumshormon)
+- `09` 🧪 [Antidiuretisches Hormon, Copeptin](#antidiuretisches-hormon-copeptin)
+- 📝 [Zusammenfassung Teil drei](#zusammenfassung-teil-drei)
+
+**🟠 [Teil vier: Schilddrüse, Nebenschilddrüse](#teil-vier-schilddrüse-nebenschilddrüse)**
+
+- `10` 🧪 [Die Schilddrüsenantikörper](#die-schilddrüsenantikörper)
+- `11` 🧪 [Das Thyreoglobulin](#das-thyreoglobulin)
+- `12` 🧪 [Das Calcitonin](#das-calcitonin)
+- `13` 🧪 [Das Parathormon](#das-parathormon)
+- 📝 [Zusammenfassung Teil vier](#zusammenfassung-teil-vier)
+
+**🟡 [Teil fünf: Fortpflanzung](#teil-fünf-fortpflanzung)**
+
+- `14` 🧪 [Die Gonadotropine](#die-gonadotropine)
+- `15` 🧪 [Östradiol und Progesteron](#östradiol-und-progesteron)
+- `16` 🧪 [Das Testosteron](#das-testosteron)
+- `17` 🧪 [Das AMH](#das-a-m-h)
+- `18` 🧪 [Das Ersttrimesterscreening](#das-ersttrimesterscreening)
+- 📝 [Zusammenfassung Teil fünf](#zusammenfassung-teil-fünf)
+
+**⚪ [Teil sechs: Stoffwechsel](#teil-sechs-stoffwechsel)**
+
+- `19` 🧪 [Insulin und C-Peptid](#insulin-und-c-peptid)
+- `20` 🧪 [Die Ketonkörper](#die-ketonkörper)
+- `21` 🧪 [Das Neugeborenenscreening](#das-neugeborenenscreening)
+- 📝 [Zusammenfassung Teil sechs](#zusammenfassung-teil-sechs)
+
+**🛡️ [Teil sieben: Medikamentenspiegel](#teil-sieben-medikamentenspiegel)**
+
+- `22` 🧪 [Grundlagen der Spiegelmessung](#grundlagen-der-spiegelmessung)
+- `23` 🧪 [Vancomycin und Aminoglykoside](#vancomycin-und-aminoglykoside)
+- `24` 🧪 [Das Digoxin](#das-digoxin)
+- `25` 🧪 [Das Lithium](#das-lithium)
+- `26` 🧪 [Die Antiepileptika](#die-antiepileptika)
+- `27` 🧪 [Die Immunsuppressiva](#die-immunsuppressiva)
+- 📝 [Zusammenfassung Teil sieben](#zusammenfassung-teil-sieben)
+
+**🧫 [Teil acht: Toxikologie](#teil-acht-toxikologie)**
+
+- `28` 🧪 [Das Ethanol](#das-ethanol)
+- `29` 🧪 [Das Paracetamol](#das-paracetamol)
+- `30` 🧪 [Das Kohlenmonoxid](#das-kohlenmonoxid)
+- `31` 🧪 [Die giftigen Alkohole](#die-giftigen-alkohole)
+- `32` 🧪 [Die Bestätigungsanalytik](#die-bestätigungsanalytik)
+- `33` 🧪 [Die Cholinesterase](#die-cholinesterase)
+- `34` 🧪 [Blei und Schwermetalle](#blei-und-schwermetalle)
+- 📝 [Zusammenfassung Teil acht](#zusammenfassung-teil-acht)
+
+**⚡ [Teil neun: Schnellüberblick](#teil-neun-schnellüberblick)**
+
+- 📖 [Typische Befunde](#typische-befunde)
+- 📖 [Häufige Verwechslungen](#häufige-verwechslungen)
+- 📖 [Gesamtzusammenfassung](#gesamtzusammenfassung)
+
+- 🔤 [Register A–Z](#register)
+
+---
+
+<a id="hinweise-zum-leitfaden"></a>
+
+## 🗺️ Hinweise zum Leitfaden
+<sub>Using this guide</sub>
+
+Dies ist der sechzehnte Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Der Leitfaden davor hat das Qualitätsmanagement behandelt. Dieser Leitfaden setzt den Leitfaden zur klinischen Chemie fort. Er behandelt drei Gebiete, die dort nur kurz vorkamen.
+
+Das erste Gebiet ist die Endokrinologie, also die Lehre von den Hormonen. Das TSH, die Schilddrüsenhormone, das hCG und das Vitamin D kennst du schon. Hier kommen die Nebenniere, die Hypophyse, die Nebenschilddrüse und die Geschlechtshormone dazu. Das zweite Gebiet ist die Messung von Medikamentenspiegeln. Das dritte Gebiet ist die Toxikologie, also der Nachweis von Vergiftungen.
+
+Alle drei Gebiete haben eines gemeinsam. Der Zeitpunkt der Blutentnahme entscheidet oft über den Befund. Ein Cortisol am Abend bedeutet etwas anderes als am Morgen. Ein Medikamentenspiegel ist nur mit der Uhrzeit der letzten Dosis zu deuten. Ein Paracetamolspiegel braucht die Zeit seit der Einnahme. Achte darum in jedem Steckbrief auf die Uhrzeit.
+
+Jeder Steckbrief hat immer dieselben Abschnitte in derselben Reihenfolge. Der erste Abschnitt heißt Einordnung. Er sagt, wohin der Wert gehört. Der zweite heißt Grundlage. Er erklärt, was im Körper geschieht. Der dritte heißt Probe und Messung. Er sagt, wie du die Probe behandelst und wie man misst. Der vierte heißt Die Werte. Er nennt die Bereiche und was sie bedeuten. Der fünfte heißt Fehlerquellen. Danach folgen wie gewohnt die Absätze »Warum ist das im Labor wichtig?« und »Kurz gesagt«.
+
+Der Leitfaden hat neun Teile. Teil eins sind die Grundlagen der Hormondiagnostik. Teil zwei ist die Nebenniere. Teil drei ist die Hypophyse. Teil vier sind Schilddrüse und Nebenschilddrüse. Teil fünf sind die Geschlechtshormone und die Schwangerschaft. Teil sechs ist der Stoffwechsel. Teil sieben ist die Messung von Medikamentenspiegeln. Teil acht ist die Toxikologie. Teil neun ist ein Schnellüberblick zum Wiederholen.
+
+Du musst den Leitfaden nicht von vorn bis hinten hören. Jedes Kapitel ist ein eigener Eintrag. Wenn eine Probe für einen Vancomycinspiegel kommt, spring im Player direkt dorthin. Für die Prüfung eignen sich die Zusammenfassungen am Ende jedes Teils und der Schnellüberblick am Schluss.
+
+Ein Wort zu den Zahlen. Hormone misst man in sehr kleinen Mengen, oft in Nanogramm oder Pikogramm pro Milliliter. Viele Werte hängen stark von der Methode ab. Alle Zahlen in diesem Leitfaden sind darum ungefähre Werte. Es gelten die Bereiche deines Labors. Abkürzungen werden wie bisher Buchstabe für Buchstabe gesprochen.
+
+---
+
+<a id="teil-eins-grundlagen"></a>
+
+# 🟣 Teil eins: Grundlagen
+<sub>Part one: Foundations</sub>
+
+Der erste Teil erklärt zwei Grundlagen, die für alle Hormone gelten. Ohne sie kann man keinen Hormonbefund richtig lesen.
+
+Der Teil hat zwei Steckbriefe. Zuerst kommen die Regelkreise und die Funktionstests. Dann folgt die Messung von Hormonen.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `01` | [**Regelkreise und Funktionstests**](#regelkreise-und-funktionstests) | Hypothalamus und Hypophyse steuern die Hormondrüsen über Regelkreise mit negativer Rückkopplung. |
+| `02` | [**Die Messung von Hormonen**](#die-messung-von-hormonen) | Große Hormone misst man im Sandwichtest, kleine im kompetitiven Test. |
+
+<a id="regelkreise-und-funktionstests"></a>
+
+## 🧪 Regelkreise und Funktionstests
+<sub>Feedback loops and function tests</sub>
+
+> `Steckbrief 01` · **🟣 Grundlagen**
+
+#### 🧭 Einordnung
+
+Die meisten Hormone werden über Regelkreise gesteuert. An der Spitze stehen der Hypothalamus und die Hypophyse im Gehirn. Sie steuern die Hormondrüsen im Körper. Ein einzelner Hormonwert ist darum oft nur mit dem Wert seines Steuerhormons zu deuten. Bei unklaren Werten helfen Funktionstests.
+
+#### 💡 Grundlage
+
+Der Hypothalamus bildet Freisetzungshormone. Sie regen die Hypophyse an. Die Hypophyse bildet Steuerhormone, etwa das ACTH für die Nebenniere. Die Drüse bildet dann das eigentliche Hormon, zum Beispiel das Cortisol. Steigt dieses Hormon, bremst es Hypothalamus und Hypophyse. Man nennt das negative Rückkopplung. Bei einer primären Störung ist die Drüse selbst krank. Bei einer sekundären Störung liegt das Problem in der Hypophyse.
+
+#### 🧪 Probe und Messung
+
+Bei Verdacht auf einen Mangel macht man einen Stimulationstest. Man gibt ein Steuerhormon und prüft, ob die Drüse antwortet. Bei Verdacht auf einen Überschuss macht man einen Suppressionstest. Man gibt einen Stoff, der die Bildung bremsen sollte, und prüft, ob der Wert sinkt. Die Proben werden zu genau festgelegten Zeiten abgenommen. Jedes Röhrchen trägt die Uhrzeit.
+
+#### 📊 Die Werte
+
+Bei einer primären Unterfunktion ist das Hormon der Drüse niedrig und das Steuerhormon hoch. Die Hypophyse versucht, die kranke Drüse anzutreiben. Bei einer sekundären Unterfunktion sind beide niedrig. Bei einer primären Überfunktion ist das Hormon hoch und das Steuerhormon gebremst. Im Funktionstest zeigt eine fehlende Antwort einen Mangel. Eine fehlende Bremsung zeigt einen Überschuss.
+
+#### ⚠️ Fehlerquellen
+
+Viele Hormone schwanken im Tagesverlauf oder werden in Stößen ausgeschüttet. Ein einzelner Wert kann darum zufällig hoch oder niedrig sein. Stress, Krankheit und Medikamente verändern die Regelkreise. Bei einem Funktionstest führen vertauschte Röhrchen oder falsche Zeiten zu einem falschen Ergebnis.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Funktionstests sind aufwendig und belasten den Patienten. Jede Probe ist darum wertvoll. Du achtest auf die richtige Beschriftung mit Uhrzeit und Testzeitpunkt. Wenn du den Regelkreis kennst, erkennst du auch unplausible Kombinationen von Werten.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Hypothalamus und Hypophyse steuern die Hormondrüsen über Regelkreise mit negativer Rückkopplung. Bei primären Störungen ist die Drüse krank, bei sekundären die Hypophyse. Stimulationstests prüfen einen Mangel, Suppressionstests einen Überschuss. Jede Probe braucht die genaue Uhrzeit.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-messung-von-hormonen"></a>
+
+## 🧪 Die Messung von Hormonen
+<sub>Measuring hormones</sub>
+
+> `Steckbrief 02` · **🟣 Grundlagen**
+
+#### 🧭 Einordnung
+
+Hormone liegen im Blut in sehr kleinen Mengen vor. Die meisten misst man mit Immuntests auf großen Analysegeräten. Für manche Hormone, vor allem die Steroide, nutzt man zunehmend die Massenspektrometrie. Jede Methode hat eigene Stärken und eigene Fehler.
+
+#### 💡 Grundlage
+
+Große Hormone wie das TSH misst man mit dem Sandwichtest. Zwei Antikörper binden an verschiedene Stellen des Hormons. Kleine Hormone wie das Cortisol haben dafür zu wenig Platz. Man misst sie mit dem kompetitiven Test. Dabei konkurriert das Hormon der Probe mit einem markierten Hormon um wenige Antikörper. Bei der Massenspektrometrie trennt man die Stoffe zuerst und bestimmt sie dann nach ihrer Masse.
+
+#### 🧪 Probe und Messung
+
+Die meisten Hormone misst man im Serum. Manche, etwa das ACTH, brauchen EDTA-Plasma, Kühlung und eine schnelle Verarbeitung. Die Massenspektrometrie heißt im Labor meist LC-MS/MS. Die Buchstaben stehen für Flüssigchromatographie mit zweifacher Massenspektrometrie. Sie ist genauer, aber teurer und langsamer.
+
+#### 📊 Die Werte
+
+Bei Hormonen hängen die Referenzbereiche stark von der Methode ab. Zwei Labore mit verschiedenen Tests können für dieselbe Probe deutlich verschiedene Werte messen. Darum gehören Verlaufskontrollen möglichst ins selbe Labor. Viele Hormone sind im Blut an Eiweiße gebunden. Wirksam ist nur der freie Anteil.
+
+#### ⚠️ Fehlerquellen
+
+Im kompetitiven Test können ähnliche Stoffe mitgemessen werden. Man nennt das Kreuzreaktion. Heterophile Antikörper im Blut mancher Patienten verbinden die Testantikörper und täuschen hohe Werte vor. Hohe Dosen von Biotin stören viele Tests. Sehr hohe Hormonwerte können im Sandwichtest einen Hook-Effekt auslösen.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Hormonwert, der nicht zum Patienten passt, ist oft ein Messfehler. Typische Hinweise sind Werte, die sich bei Verdünnung nicht passend ändern oder in einem anderen Test ganz anders sind. Dann misst man nach einer Verdünnung, mit einem Blocker oder mit einer anderen Methode erneut.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Große Hormone misst man im Sandwichtest, kleine im kompetitiven Test. Die LC-MS/MS ist genauer, vor allem für Steroide. Referenzbereiche hängen stark von der Methode ab. Typische Störungen sind Kreuzreaktionen, heterophile Antikörper, Biotin und der Hook-Effekt.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-eins"></a>
+
+### 📝 Zusammenfassung Teil eins
+<sub>Part one summary</sub>
+
+> Hormone werden über Regelkreise mit negativer Rückkopplung gesteuert. Bei einer primären Unterfunktion ist das Hormon niedrig und das Steuerhormon hoch. Bei einer sekundären Unterfunktion sind beide niedrig. Stimulationstests prüfen einen Mangel, Suppressionstests einen Überschuss.
+>
+> Große Hormone misst man im Sandwichtest, kleine im kompetitiven Test. Die Massenspektrometrie ist genauer. Werte verschiedener Methoden sind oft nicht vergleichbar. Kreuzreaktionen, heterophile Antikörper und Biotin können falsche Werte erzeugen.
+>
+> Im nächsten Teil geht es um die Nebenniere.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-zwei-die-nebenniere"></a>
+
+# 🔵 Teil zwei: Die Nebenniere
+<sub>Part two: The adrenal gland</sub>
+
+Der zweite Teil behandelt die Nebenniere. Sie hat zwei Teile mit ganz verschiedenen Aufgaben. Die Rinde bildet Cortisol, Aldosteron und Vorstufen der Geschlechtshormone. Das Mark bildet die Katecholamine Adrenalin und Noradrenalin.
+
+Der Teil hat vier Steckbriefe. Zuerst kommt das Cortisol. Dann folgen die Tests bei Verdacht auf ein Cushing-Syndrom mit dem ACTH. Danach kommt der Aldosteron-Renin-Quotient. Am Ende stehen die Metanephrine.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `03` | [**Das Cortisol**](#das-cortisol) | Cortisol ist das Stresshormon der Nebennierenrinde und folgt einem Tagesrhythmus mit Gipfel am Morgen. |
+| `04` | [**Die Cushing-Diagnostik**](#die-cushing-diagnostik) | Beim Cushing-Syndrom fehlt der abendliche Abfall des Cortisols, und die Bildung lässt sich nicht bremsen. |
+| `05` | [**Der Aldosteron-Renin-Quotient**](#der-aldosteron-renin-quotient) | Der Aldosteron-Renin-Quotient sucht nach einem primären Hyperaldosteronismus. |
+| `06` | [**Die Metanephrine**](#die-metanephrine) | Metanephrine sind Abbauprodukte von Adrenalin und Noradrenalin und zeigen ein Phäochromozytom. |
+
+<a id="das-cortisol"></a>
+
+## 🧪 Das Cortisol
+<sub>Cortisol</sub>
+
+> `Steckbrief 03` · **🔵 Die Nebenniere**
+
+#### 🧭 Einordnung
+
+Cortisol ist das wichtigste Stresshormon. Es wird in der Rinde der Nebenniere gebildet und vom ACTH aus der Hypophyse gesteuert. Man misst es bei Verdacht auf einen Mangel, etwa bei Morbus Addison. Man misst es auch bei Verdacht auf einen Überschuss, das Cushing-Syndrom.
+
+#### 💡 Grundlage
+
+Cortisol erhöht den Blutzucker, hemmt Entzündungen und hilft dem Körper, Belastungen zu überstehen. Es folgt einem starken Tagesrhythmus. Am frühen Morgen ist es am höchsten, um Mitternacht am niedrigsten. Im Blut ist es größtenteils an ein Transporteiweiß gebunden. Bei einem Mangel drohen Schwäche, niedriger Blutdruck und eine lebensgefährliche Krise.
+
+#### 🧪 Probe und Messung
+
+Für die Suche nach einem Mangel nimmt man Blut am Morgen zwischen etwa sieben und neun Uhr ab. Man misst im Serum mit einem kompetitiven Immuntest. Bei unklaren Werten folgt der ACTH-Test. Man spritzt ein künstliches ACTH und misst das Cortisol nach dreißig oder sechzig Minuten.
+
+#### 📊 Die Werte
+
+Ein Morgenwert unter etwa drei Mikrogramm pro Deziliter spricht stark für einen Mangel. Ein hoher Morgenwert schließt ihn meist aus. Im ACTH-Test steigt das Cortisol beim Gesunden über einen festen Grenzwert. Er liegt je nach Test bei etwa vierzehn bis achtzehn Mikrogramm pro Deziliter. Bleibt der Anstieg aus, liegt eine Unterfunktion vor.
+
+#### ⚠️ Fehlerquellen
+
+Die Antibabypille und die Schwangerschaft erhöhen das Transporteiweiß. Dann ist das gesamte Cortisol hoch, obwohl das freie normal ist. Prednisolon und andere Kortisonpräparate werden im Immuntest teilweise mitgemessen. Ein Wert am Nachmittag ist für die Suche nach einem Mangel kaum zu deuten. Starker Stress erhöht das Cortisol.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Nebenniereninsuffizienz kann sich als Krise mit Schock zeigen. Sie ist gut behandelbar, wenn man sie erkennt. Für das Labor sind die richtige Uhrzeit und die Angabe von Medikamenten entscheidend. Ohne diese Angaben ist ein Cortisolwert kaum zu deuten.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Cortisol ist das Stresshormon der Nebennierenrinde und folgt einem Tagesrhythmus mit Gipfel am Morgen. Für die Suche nach einem Mangel misst man morgens. Unter etwa drei Mikrogramm pro Deziliter spricht für einen Mangel. Der ACTH-Test sichert ihn. Pille, Schwangerschaft und Prednisolon stören.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-cushing-diagnostik"></a>
+
+## 🧪 Die Cushing-Diagnostik
+<sub>Testing for Cushing syndrome</sub>
+
+> `Steckbrief 04` · **🔵 Die Nebenniere**
+
+#### 🧭 Einordnung
+
+Das Cushing-Syndrom entsteht durch zu viel Cortisol. Die häufigste Ursache ist die Einnahme von Kortison als Medikament. Seltener bildet der Körper selbst zu viel. Die Diagnose stützt sich auf Tests, die den gestörten Tagesrhythmus und die fehlende Bremsung zeigen. Das ACTH klärt danach die Ursache.
+
+#### 💡 Grundlage
+
+Beim Gesunden sinkt das Cortisol am späten Abend stark ab. Beim Cushing-Syndrom fehlt dieser Abfall. Außerdem lässt sich die Bildung nicht mehr bremsen. Ein Tumor der Hypophyse bildet zu viel ACTH. Ein Tumor der Nebenniere bildet selbst zu viel Cortisol und bremst das ACTH. Manche Tumoren in der Lunge bilden ebenfalls ACTH.
+
+#### 🧪 Probe und Messung
+
+Der wichtigste Suchtest ist der Dexamethason-Hemmtest. Der Patient nimmt um dreiundzwanzig Uhr ein Milligramm Dexamethason ein. Am nächsten Morgen um acht Uhr misst man das Cortisol. Ein zweiter Test ist das Cortisol im Speichel um dreiundzwanzig Uhr. Ein dritter ist das freie Cortisol im Urin über vierundzwanzig Stunden. Das ACTH nimmt man in ein gekühltes EDTA-Röhrchen ab und verarbeitet es sofort.
+
+#### 📊 Die Werte
+
+Im Hemmtest sinkt das Cortisol beim Gesunden unter etwa eins Komma acht Mikrogramm pro Deziliter. Ein höherer Wert spricht für ein Cushing-Syndrom. Ein erhöhtes Speichelcortisol am Abend weist ebenfalls darauf hin. Ist das ACTH dann niedrig, liegt die Ursache in der Nebenniere. Ist es normal oder hoch, liegt sie in der Hypophyse oder einem anderen Tumor.
+
+#### ⚠️ Fehlerquellen
+
+Manche Medikamente bauen Dexamethason schneller ab. Dann wird das Cortisol nicht gebremst, obwohl der Patient gesund ist. Die Pille erhöht das gebundene Cortisol und verfälscht den Hemmtest. Ein Speichelröhrchen mit Blut aus dem Zahnfleisch ist unbrauchbar. Das ACTH wird bei Wärme schnell abgebaut und ist dann falsch niedrig.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Cushing-Diagnostik besteht aus mehreren Schritten über Tage. Jeder Fehler kostet Zeit und kann zu unnötigen Bildern und Operationen führen. Für das Labor zählen die genaue Uhrzeit, die richtige Probe und die Kühlung des ACTH.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Beim Cushing-Syndrom fehlt der abendliche Abfall des Cortisols, und die Bildung lässt sich nicht bremsen. Suchtests sind der Dexamethason-Hemmtest, das Speichelcortisol am Abend und das Urincortisol. Ein niedriges ACTH zeigt eine Ursache in der Nebenniere. Das ACTH wird gekühlt und sofort verarbeitet.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="der-aldosteron-renin-quotient"></a>
+
+## 🧪 Der Aldosteron-Renin-Quotient
+<sub>Aldosterone renin ratio</sub>
+
+> `Steckbrief 05` · **🔵 Die Nebenniere**
+
+#### 🧭 Einordnung
+
+Der Aldosteron-Renin-Quotient ist der Suchtest für den primären Hyperaldosteronismus. Dabei bildet die Nebenniere zu viel Aldosteron, ohne dass der Körper es braucht. Die Krankheit heißt auch Conn-Syndrom. Sie ist eine häufige Ursache für Bluthochdruck, der sich schwer behandeln lässt.
+
+#### 💡 Grundlage
+
+Das Renin stammt aus der Niere. Es startet eine Kette, an deren Ende das Aldosteron steht. Aldosteron hält Natrium und Wasser im Körper und scheidet Kalium aus. Dadurch steigt der Blutdruck. Beim primären Hyperaldosteronismus bildet die Nebenniere selbst zu viel Aldosteron. Das bremst das Renin. Das Verhältnis von Aldosteron zu Renin steigt stark an.
+
+#### 🧪 Probe und Messung
+
+Man nimmt das Blut am Vormittag ab, nachdem der Patient etwa zwei Stunden auf war. Vor der Abnahme sitzt er einige Minuten. Das Kalium soll vorher normal sein. Für das Renin nimmt man EDTA-Plasma und hält es bei Raumtemperatur. Man misst die Reninkonzentration oder die Reninaktivität und das Aldosteron. Daraus berechnet man den Quotienten.
+
+#### 📊 Die Werte
+
+Ein hoher Quotient bei hohem Aldosteron spricht für einen primären Hyperaldosteronismus. Die Grenze hängt stark von der Methode und den Einheiten ab. Ein auffälliger Quotient ist nur ein Suchtest. Er wird mit einem Bestätigungstest geprüft, etwa einer Infusion mit Kochsalzlösung. Beim Gesunden sinkt das Aldosteron dabei ab, beim Kranken nicht.
+
+#### ⚠️ Fehlerquellen
+
+Viele Blutdruckmittel stören. Betablocker senken das Renin und erhöhen den Quotienten falsch. Wassertabletten, ACE-Hemmer und ähnliche Mittel erhöhen das Renin und senken den Quotienten falsch. Spironolacton setzt man mehrere Wochen vorher ab. Gekühltes Plasma kann eine Vorstufe des Renins aktivieren. Dann ist das Renin falsch hoch.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Der primäre Hyperaldosteronismus ist häufig und gut behandelbar, manchmal sogar heilbar. Ohne Test wird er oft übersehen. Für das Labor zählen die richtige Vorbereitung und die Probenbehandlung. Das Renin gehört nicht auf Eis.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Der Aldosteron-Renin-Quotient sucht nach einem primären Hyperaldosteronismus. Dabei ist das Aldosteron hoch und das Renin gebremst. Man nimmt vormittags nach Aufstehen und Sitzen ab. Betablocker erhöhen den Quotienten falsch, Wassertabletten senken ihn. Renin wird nicht gekühlt.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-metanephrine"></a>
+
+## 🧪 Die Metanephrine
+<sub>Metanephrines</sub>
+
+> `Steckbrief 06` · **🔵 Die Nebenniere**
+
+#### 🧭 Einordnung
+
+Metanephrine sind Abbauprodukte der Katecholamine Adrenalin und Noradrenalin. Man misst sie bei Verdacht auf ein Phäochromozytom. Das ist ein seltener Tumor des Nebennierenmarks, der Katecholamine bildet. Er verursacht anfallsartigen Bluthochdruck, Herzrasen, Kopfschmerz und Schweißausbrüche.
+
+#### 💡 Grundlage
+
+Der Tumor schüttet Katecholamine oft nur in Schüben aus. Er baut sie aber ständig zu Metanephrinen ab. Darum sind die Metanephrine dauerhaft erhöht, auch zwischen den Anfällen. Man unterscheidet das Metanephrin aus Adrenalin und das Normetanephrin aus Noradrenalin. Bei Kindern sucht man nach einem Neuroblastom. Dort misst man im Urin die Homovanillinsäure und die Vanillinmandelsäure.
+
+#### 🧪 Probe und Messung
+
+Man misst die freien Metanephrine im Plasma oder die Metanephrine im Sammelurin über vierundzwanzig Stunden. Für das Plasma liegt der Patient vorher etwa zwanzig bis dreißig Minuten. Man nimmt EDTA-Blut ab und kühlt es. Der Sammelurin wird meist angesäuert. Die Messung erfolgt heute meist mit der LC-MS/MS.
+
+#### 📊 Die Werte
+
+Normale Metanephrine schließen ein Phäochromozytom sehr sicher aus. Leicht erhöhte Werte sind häufig und meist harmlos. Werte über etwa dem Vierfachen der oberen Grenze sprechen stark für einen Tumor. Bei leicht erhöhten Werten wiederholt man den Test unter besseren Bedingungen oder macht einen Hemmtest.
+
+#### ⚠️ Fehlerquellen
+
+Eine Blutentnahme im Sitzen erhöht das Normetanephrin. Stress, Schmerz und schwere Krankheit erhöhen die Werte. Viele Medikamente stören, vor allem bestimmte Mittel gegen Depression und gegen Parkinson. Bei älteren Methoden störten auch Kaffee und bestimmte Nahrungsmittel. Ein unvollständiger Sammelurin liefert zu niedrige Werte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein unerkanntes Phäochromozytom ist bei Operationen lebensgefährlich. Dagegen führt ein falsch positiver Wert zu Angst und unnötigen Bildern. Für das Labor zählen die richtige Abnahme im Liegen und die Liste der Medikamente. Ein normaler Wert ist ein starker Ausschluss.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Metanephrine sind Abbauprodukte von Adrenalin und Noradrenalin und zeigen ein Phäochromozytom. Man misst sie im Plasma nach Liegen oder im Sammelurin. Normale Werte schließen den Tumor sicher aus. Werte über dem Vierfachen der Grenze sind stark verdächtig. Stress und Medikamente stören.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-zwei"></a>
+
+### 📝 Zusammenfassung Teil zwei
+<sub>Part two summary</sub>
+
+> Cortisol folgt einem Tagesrhythmus mit Gipfel am Morgen. Einen Mangel sucht man morgens und sichert ihn mit dem ACTH-Test. Ein Cushing-Syndrom sucht man mit dem Dexamethason-Hemmtest, dem Speichelcortisol am Abend und dem Urincortisol. Das ACTH wird gekühlt.
+>
+> Der Aldosteron-Renin-Quotient sucht nach einem primären Hyperaldosteronismus. Betablocker erhöhen ihn falsch, Renin wird nicht gekühlt. Metanephrine zeigen ein Phäochromozytom. Man nimmt das Plasma im Liegen ab. Normale Werte schließen den Tumor aus.
+>
+> Im nächsten Teil geht es um die Hypophyse.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-drei-die-hypophyse"></a>
+
+# 🔴 Teil drei: Die Hypophyse
+<sub>Part three: The pituitary gland</sub>
+
+Der dritte Teil behandelt die Hypophyse. Sie ist die zentrale Hormondrüse an der Unterseite des Gehirns. Ihr Vorderlappen bildet Steuerhormone und eigene Hormone wie das Prolaktin und das Wachstumshormon. Ihr Hinterlappen gibt das antidiuretische Hormon ab.
+
+Der Teil hat drei Steckbriefe. Zuerst kommt das Prolaktin. Dann folgen das Wachstumshormon und das IGF-1. Am Ende stehen das antidiuretische Hormon und das Copeptin.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `07` | [**Das Prolaktin**](#das-prolaktin) | Prolaktin ist das Hormon der Milchbildung und wird durch Dopamin gebremst. |
+| `08` | [**Das Wachstumshormon**](#das-wachstumshormon) | Das Wachstumshormon wird in Stößen ausgeschüttet, ein einzelner Wert sagt wenig. |
+| `09` | [**Antidiuretisches Hormon, Copeptin**](#antidiuretisches-hormon-copeptin) | ADH spart Wasser in der Niere. |
+
+<a id="das-prolaktin"></a>
+
+## 🧪 Das Prolaktin
+<sub>Prolactin</sub>
+
+> `Steckbrief 07` · **🔴 Die Hypophyse**
+
+#### 🧭 Einordnung
+
+Prolaktin ist das Hormon für die Bildung von Muttermilch. Es wird im Vorderlappen der Hypophyse gebildet. Man misst es bei ausbleibender Regel, Milchfluss außerhalb der Stillzeit, Kinderwunsch und bei Männern mit Libidoverlust. Ein häufiger Grund für hohe Werte ist ein gutartiger Tumor der Hypophyse, das Prolaktinom.
+
+#### 💡 Grundlage
+
+Anders als andere Hormone der Hypophyse wird Prolaktin vor allem gebremst. Die Bremse ist das Dopamin aus dem Hypothalamus. Alles, was diese Bremse stört, erhöht das Prolaktin. Dazu gehören Tumoren, die den Stiel der Hypophyse drücken, und Medikamente, die Dopamin blockieren. Auch eine Unterfunktion der Schilddrüse erhöht das Prolaktin.
+
+#### 🧪 Probe und Messung
+
+Man nimmt Serum am Vormittag ab, einige Stunden nach dem Aufwachen. Der Patient sitzt vorher in Ruhe. Man misst mit einem Sandwichtest. Bei einem erhöhten Wert prüft man oft auf Makroprolaktin. Dafür fällt man große Komplexe mit Polyethylenglykol aus und misst erneut.
+
+#### 📊 Die Werte
+
+Bei Frauen liegt das Prolaktin meist unter etwa fünfundzwanzig Nanogramm pro Milliliter, bei Männern etwas niedriger. Leicht erhöhte Werte sind häufig und oft durch Stress oder Medikamente bedingt. Werte über etwa zweihundert sprechen stark für ein großes Prolaktinom. In der Schwangerschaft und Stillzeit ist das Prolaktin normal stark erhöht.
+
+#### ⚠️ Fehlerquellen
+
+Stress, Schmerz und eine schwierige Blutentnahme erhöhen das Prolaktin. Mittel gegen Psychosen und gegen Übelkeit erhöhen es ebenfalls. Makroprolaktin ist Prolaktin, das an Antikörper gebunden ist. Es wirkt kaum, wird aber mitgemessen. Bei sehr großen Tumoren kann ein Hook-Effekt einen falsch niedrigen Wert vortäuschen. Dann hilft eine Verdünnung.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein erhöhtes Prolaktin führt oft zu einem Bild der Hypophyse. Liegt nur Makroprolaktin vor, ist das unnötig. Wenn dein Labor Makroprolaktin prüft, sparst du dem Patienten Untersuchungen. Bei großen Tumoren mit unerwartet normalem Wert denkst du an den Hook-Effekt.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Prolaktin ist das Hormon der Milchbildung und wird durch Dopamin gebremst. Stress, Medikamente, Schwangerschaft und Unterfunktion der Schilddrüse erhöhen es. Sehr hohe Werte sprechen für ein Prolaktinom. Makroprolaktin täuscht hohe Werte vor. Bei großen Tumoren kann ein Hook-Effekt auftreten.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-wachstumshormon"></a>
+
+## 🧪 Das Wachstumshormon
+<sub>Growth hormone and IGF one</sub>
+
+> `Steckbrief 08` · **🔴 Die Hypophyse**
+
+#### 🧭 Einordnung
+
+Das Wachstumshormon stammt aus dem Vorderlappen der Hypophyse. Es steuert das Wachstum bei Kindern und den Stoffwechsel bei Erwachsenen. Ein Mangel bei Kindern führt zu Kleinwuchs. Ein Überschuss bei Erwachsenen führt zur Akromegalie. Dabei wachsen Hände, Füße und Gesicht, und innere Organe vergrößern sich.
+
+#### 💡 Grundlage
+
+Das Wachstumshormon wird in Stößen ausgeschüttet, vor allem nachts. Ein einzelner Wert sagt darum wenig. Das Wachstumshormon regt die Leber an, das IGF-1 zu bilden. Das IGF-1 ist ein insulinähnlicher Wachstumsfaktor. Es bleibt über den Tag stabil und spiegelt die gesamte Menge an Wachstumshormon wider.
+
+#### 🧪 Probe und Messung
+
+Als Suchtest für eine Akromegalie misst man das IGF-1 im Serum. Zur Bestätigung macht man einen Zuckerbelastungstest. Der Patient trinkt eine Zuckerlösung, und man misst das Wachstumshormon zu mehreren Zeiten. Bei Verdacht auf einen Mangel bei Kindern macht man Stimulationstests, etwa mit Arginin. Jede Probe trägt die genaue Uhrzeit.
+
+#### 📊 Die Werte
+
+Die Referenzbereiche für das IGF-1 hängen stark von Alter und Geschlecht ab. In der Pubertät ist es am höchsten, im Alter sinkt es. Ein erhöhtes IGF-1 spricht für eine Akromegalie. Im Zuckerbelastungstest sinkt das Wachstumshormon beim Gesunden auf sehr niedrige Werte. Bei einer Akromegalie sinkt es nicht ausreichend. Im Stimulationstest zeigt ein fehlender Anstieg einen Mangel.
+
+#### ⚠️ Fehlerquellen
+
+Ein zufälliger einzelner Wert für das Wachstumshormon ist kaum zu deuten. Hunger, schlecht eingestellter Diabetes, Lebererkrankungen und eine Unterfunktion der Schilddrüse senken das IGF-1. Schwangerschaft und Pubertät erhöhen es. Verschiedene Tests für das IGF-1 liefern unterschiedliche Werte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die Akromegalie entwickelt sich über Jahre und wird oft spät erkannt. Ein einfacher Wert für das IGF-1 kann den Weg zur Diagnose öffnen. Bei Kindern entscheiden die Stimulationstests über eine teure Behandlung. Darum zählen genaue Zeiten und richtige Röhrchen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Wachstumshormon wird in Stößen ausgeschüttet, ein einzelner Wert sagt wenig. Das IGF-1 ist stabil und der Suchtest für eine Akromegalie. Bestätigt wird sie mit dem Zuckerbelastungstest. Einen Mangel bei Kindern prüft man mit Stimulationstests. Das IGF-1 braucht Bereiche nach Alter.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="antidiuretisches-hormon-copeptin"></a>
+
+## 🧪 Antidiuretisches Hormon, Copeptin
+<sub>Vasopressin and copeptin</sub>
+
+> `Steckbrief 09` · **🔴 Die Hypophyse**
+
+#### 🧭 Einordnung
+
+Das antidiuretische Hormon, kurz ADH, heißt auch Vasopressin. Es wird im Hypothalamus gebildet und vom Hinterlappen der Hypophyse abgegeben. Es regelt, wie viel Wasser die Niere zurückhält. Man untersucht es bei sehr großen Urinmengen und bei einem niedrigen Natrium.
+
+#### 💡 Grundlage
+
+Steigt die Konzentration des Blutes, wird ADH ausgeschüttet. Die Niere spart dann Wasser, und der Urin wird konzentriert. Fehlt das ADH oder wirkt es nicht, scheidet der Patient große Mengen verdünnten Urins aus. Man nennt das Diabetes insipidus. Bildet der Körper zu viel ADH, hält er zu viel Wasser zurück, und das Natrium sinkt.
+
+#### 🧪 Probe und Messung
+
+ADH selbst ist im Blut sehr instabil und schwer zu messen. Darum misst man heute das Copeptin. Es entsteht aus derselben Vorstufe wie das ADH und wird in gleicher Menge ausgeschüttet. Es ist aber stabil. Dazu misst man Natrium und Osmolalität im Serum und die Osmolalität im Urin, am besten zur selben Zeit.
+
+#### 📊 Die Werte
+
+Beim Diabetes insipidus ist der Urin trotz konzentriertem Blut verdünnt. Ein Durstversuch oder eine Infusion mit konzentrierter Kochsalzlösung klärt die Ursache. Bleibt das Copeptin dabei niedrig, fehlt das ADH. Ist es schon ohne Test hoch, wirkt das ADH an der Niere nicht. Bei zu viel ADH ist das Natrium niedrig, und der Urin ist trotzdem konzentriert.
+
+#### ⚠️ Fehlerquellen
+
+Wer vor dem Test viel trinkt, verdünnt Blut und Urin. Nicht gleichzeitig abgenommene Proben von Blut und Urin lassen sich schlecht vergleichen. Wassertabletten verändern Natrium und Urin. Ein Durstversuch ohne enge Überwachung ist gefährlich, weil der Patient stark austrocknen kann.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein niedriges Natrium ist eine der häufigsten Störungen im Krankenhaus. Die Osmolalität in Blut und Urin hilft, die Ursache zu finden. Beim Diabetes insipidus erlaubt das Copeptin eine schnellere und sicherere Diagnose als früher. Für dich zählt, dass Blut und Urin gemeinsam ankommen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** ADH spart Wasser in der Niere. Ein Mangel oder eine fehlende Wirkung führt zum Diabetes insipidus mit viel verdünntem Urin. Zu viel ADH senkt das Natrium. Statt ADH misst man das stabile Copeptin. Blut und Urin werden für die Osmolalität gemeinsam abgenommen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-drei"></a>
+
+### 📝 Zusammenfassung Teil drei
+<sub>Part three summary</sub>
+
+> Prolaktin wird durch Dopamin gebremst. Stress, Medikamente und Schwangerschaft erhöhen es. Sehr hohe Werte sprechen für ein Prolaktinom. Makroprolaktin täuscht hohe Werte vor.
+>
+> Das Wachstumshormon schwankt stark. Darum ist das stabile IGF-1 der Suchtest für eine Akromegalie. Bestätigt wird sie im Zuckerbelastungstest. ADH spart Wasser in der Niere. Statt seiner misst man das stabile Copeptin. Blut und Urin werden gemeinsam auf Osmolalität untersucht.
+>
+> Im nächsten Teil geht es um Schilddrüse und Nebenschilddrüse.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-vier-schilddrüse-nebenschilddrüse"></a>
+
+# 🟠 Teil vier: Schilddrüse, Nebenschilddrüse
+<sub>Part four: Thyroid and parathyroid</sub>
+
+Der vierte Teil ergänzt den Leitfaden zur klinischen Chemie. Das TSH und die freien Schilddrüsenhormone kennst du schon. Hier geht es um die Antikörper, zwei Tumormarker der Schilddrüse und das Hormon der Nebenschilddrüse.
+
+Der Teil hat vier Steckbriefe. Zuerst kommen die Schilddrüsenantikörper. Dann folgen das Thyreoglobulin und das Calcitonin. Am Ende steht das Parathormon.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `10` | [**Die Schilddrüsenantikörper**](#die-schilddrüsenantikörper) | TPO-Antikörper zeigen eine Hashimoto-Thyreoiditis, kommen aber auch bei Gesunden vor. |
+| `11` | [**Das Thyreoglobulin**](#das-thyreoglobulin) | Thyreoglobulin wird nur in der Schilddrüse gebildet. |
+| `12` | [**Das Calcitonin**](#das-calcitonin) | Calcitonin stammt aus den C-Zellen der Schilddrüse. |
+| `13` | [**Das Parathormon**](#das-parathormon) | Das PTH hebt das Calcium und senkt das Phosphat. |
+
+<a id="die-schilddrüsenantikörper"></a>
+
+## 🧪 Die Schilddrüsenantikörper
+<sub>Thyroid antibodies</sub>
+
+> `Steckbrief 10` · **🟠 Schilddrüse, Nebenschilddrüse**
+
+#### 🧭 Einordnung
+
+Die beiden häufigsten Krankheiten der Schilddrüse entstehen durch Autoimmunität. Bei der Hashimoto-Thyreoiditis zerstört das Immunsystem langsam die Schilddrüse. Beim Morbus Basedow regt es sie zu einer Überfunktion an. Die Antikörper helfen, die beiden zu erkennen und von anderen Ursachen zu unterscheiden.
+
+#### 💡 Grundlage
+
+Man misst vor allem zwei Antikörper. Der erste richtet sich gegen die Schilddrüsenperoxidase, ein Enzym für die Bildung der Hormone. Man nennt ihn TPO-Antikörper. Der zweite richtet sich gegen den Rezeptor für das TSH. Man nennt ihn TRAK. Er besetzt den Rezeptor und regt die Schilddrüse wie das TSH an. Dazu kommen Antikörper gegen das Thyreoglobulin.
+
+#### 🧪 Probe und Messung
+
+Man misst die Antikörper im Serum mit Immuntests auf den großen Analysegeräten. Die Probe braucht keine besondere Behandlung. Man misst sie meist einmal bei der Diagnose. Den TRAK misst man im Verlauf eines Basedow und in der Schwangerschaft.
+
+#### 📊 Die Werte
+
+Die TPO-Antikörper sind bei fast allen Patienten mit Hashimoto erhöht. Sie kommen aber auch bei vielen Gesunden vor, vor allem bei älteren Frauen. Ein positiver TRAK bei einer Überfunktion spricht sehr stark für einen Morbus Basedow. Sinkt er unter der Behandlung, steigt die Chance, dass die Krankheit ausheilt.
+
+#### ⚠️ Fehlerquellen
+
+Ein positiver TPO-Antikörper allein ist keine Krankheit. Ohne Störung der Hormone braucht er keine Behandlung. Tests verschiedener Hersteller haben verschiedene Grenzwerte. Biotin stört manche TRAK-Tests stark. Werte aus verschiedenen Laboren sind darum schwer vergleichbar.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Der TRAK kann durch die Plazenta zum Kind gelangen. Bei einer Schwangeren mit Basedow kann er beim Kind eine Überfunktion auslösen. Darum misst man ihn in der Schwangerschaft. Bei einer Überfunktion entscheidet der TRAK mit über die Behandlung.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** TPO-Antikörper zeigen eine Hashimoto-Thyreoiditis, kommen aber auch bei Gesunden vor. Der TRAK regt die Schilddrüse an und zeigt einen Morbus Basedow. Er kann durch die Plazenta gehen und wird darum in der Schwangerschaft gemessen. Werte verschiedener Tests sind nicht vergleichbar.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-thyreoglobulin"></a>
+
+## 🧪 Das Thyreoglobulin
+<sub>Thyroglobulin</sub>
+
+> `Steckbrief 11` · **🟠 Schilddrüse, Nebenschilddrüse**
+
+#### 🧭 Einordnung
+
+Thyreoglobulin ist ein großes Eiweiß, das nur in der Schilddrüse gebildet wird. In ihm entstehen die Schilddrüsenhormone. Im Labor nutzt man es als Tumormarker. Es dient der Nachsorge bei differenziertem Schilddrüsenkrebs.
+
+#### 💡 Grundlage
+
+Beim differenzierten Schilddrüsenkrebs entfernt man die Schilddrüse und behandelt oft mit Radiojod. Danach sollte im Körper kein Gewebe mehr sein, das Thyreoglobulin bildet. Ein messbares oder steigendes Thyreoglobulin zeigt dann Reste oder einen Rückfall des Tumors. Vor der Operation hilft es dagegen nicht. Auch gutartige Knoten erhöhen es.
+
+#### 🧪 Probe und Messung
+
+Man misst das Thyreoglobulin im Serum mit einem hochempfindlichen Sandwichtest. Immer misst man gleichzeitig die Antikörper gegen Thyreoglobulin. Viele Labore prüfen zusätzlich, ob eine zugesetzte Menge Thyreoglobulin richtig wiedergefunden wird. Man nennt das Wiederfindung. Verlaufskontrollen gehören ins selbe Labor mit demselben Test.
+
+#### 📊 Die Werte
+
+Nach vollständiger Behandlung soll das Thyreoglobulin unter der Nachweisgrenze liegen. Ein steigender Wert im Verlauf ist ein Warnzeichen. Manchmal misst man es nach einer Anregung mit TSH. Dann zeigt sich auch wenig Gewebe deutlicher.
+
+#### ⚠️ Fehlerquellen
+
+Antikörper gegen Thyreoglobulin stören die Messung. Im Sandwichtest täuschen sie oft einen falsch niedrigen Wert vor. Dann übersieht man einen Rückfall. Darum gilt ein Thyreoglobulin ohne Antikörperbestimmung als nicht verwertbar. Bei sehr hohen Werten ist ein Hook-Effekt möglich.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das Thyreoglobulin ist einer der empfindlichsten Tumormarker überhaupt. Es kann einen Rückfall zeigen, bevor er auf einem Bild sichtbar ist. Dafür müssen Test, Labor und Antikörperbestimmung stimmen. Ein Wechsel des Tests muss dem Arzt mitgeteilt werden.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Thyreoglobulin wird nur in der Schilddrüse gebildet. Nach Entfernung der Schilddrüse wegen Krebs soll es nicht mehr messbar sein. Ein Anstieg zeigt einen Rückfall. Antikörper gegen Thyreoglobulin täuschen falsch niedrige Werte vor und werden immer mitgemessen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-calcitonin"></a>
+
+## 🧪 Das Calcitonin
+<sub>Calcitonin</sub>
+
+> `Steckbrief 12` · **🟠 Schilddrüse, Nebenschilddrüse**
+
+#### 🧭 Einordnung
+
+Calcitonin ist ein Hormon aus den C-Zellen der Schilddrüse. Im Labor ist es der Tumormarker für das medulläre Schilddrüsenkarzinom. Dieser Krebs entsteht aus den C-Zellen. Er kommt allein vor oder als Teil einer erblichen Krankheit mit mehreren Tumoren.
+
+#### 💡 Grundlage
+
+Calcitonin senkt das Calcium im Blut ein wenig. Für den Menschen ist diese Aufgabe kaum wichtig. Ein Tumor der C-Zellen bildet aber sehr viel Calcitonin. Darum steigt der Wert schon früh an. Ein Teil der Fälle ist erblich, durch eine Veränderung im Gen RET. Dann untersucht man auch die Familie.
+
+#### 🧪 Probe und Messung
+
+Man misst das Calcitonin im Serum. Die Probe soll gekühlt und rasch verarbeitet werden, weil Calcitonin nicht stabil ist. Viele Ärzte messen es bei Knoten in der Schilddrüse. Bei leicht erhöhten Werten folgt manchmal ein Test mit einer Calciumspritze. Bei einem Tumor steigt das Calcitonin danach stark an.
+
+#### 📊 Die Werte
+
+Bei Frauen liegt das Calcitonin meist unter etwa fünf, bei Männern unter etwa zehn Pikogramm pro Milliliter. Die genauen Grenzen hängen vom Test ab. Werte über etwa hundert sind sehr verdächtig auf einen Tumor. Nach einer Operation dient das Calcitonin der Nachsorge, zusammen mit dem CEA.
+
+#### ⚠️ Fehlerquellen
+
+Mittel gegen Magensäure, Rauchen und ein Nierenversagen erhöhen das Calcitonin leicht. Auch andere seltene Tumoren können es bilden. Eine ungekühlte, lange gelagerte Probe zeigt zu niedrige Werte. Bei sehr hohen Werten ist ein Hook-Effekt möglich.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das medulläre Karzinom ist selten, aber gefährlich. Früh erkannt, ist es durch eine Operation heilbar. Ein Calcitonin bei Knoten kann es früh zeigen. Für dich zählt die richtige Behandlung der Probe, damit kein Tumor durch einen falsch niedrigen Wert übersehen wird.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Calcitonin stammt aus den C-Zellen der Schilddrüse. Es ist der Tumormarker für das medulläre Schilddrüsenkarzinom, das teils erblich ist. Die Probe wird gekühlt. Werte über etwa hundert Pikogramm pro Milliliter sind sehr verdächtig. Säurehemmer, Rauchen und Nierenversagen erhöhen es leicht.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-parathormon"></a>
+
+## 🧪 Das Parathormon
+<sub>Parathyroid hormone</sub>
+
+> `Steckbrief 13` · **🟠 Schilddrüse, Nebenschilddrüse**
+
+#### 🧭 Einordnung
+
+Das Parathormon, kurz PTH, kommt aus den vier Nebenschilddrüsen. Es ist das wichtigste Hormon für das Calcium im Blut. Man misst es immer zusammen mit dem Calcium. Es klärt die Ursache eines zu hohen oder zu niedrigen Calciums.
+
+#### 💡 Grundlage
+
+Sinkt das Calcium, steigt das PTH. Es holt Calcium aus den Knochen, hält es in der Niere zurück und aktiviert das Vitamin D. Dadurch nimmt der Darm mehr Calcium auf. Gleichzeitig scheidet die Niere mehr Phosphat aus. Steigt das Calcium, sinkt das PTH. Bei einem Adenom der Nebenschilddrüse fehlt diese Bremse.
+
+#### 🧪 Probe und Messung
+
+Man misst das intakte PTH, also das ganze Hormonmolekül. Es ist im EDTA-Plasma stabiler als im Serum. Die Probe soll gekühlt und rasch verarbeitet werden. Calcium, Phosphat, Kreatinin und Vitamin D misst man dazu. Bei Operationen der Nebenschilddrüse misst man das PTH auch während der Operation.
+
+#### 📊 Die Werte
+
+Der Referenzbereich liegt bei etwa fünfzehn bis fünfundsechzig Pikogramm pro Milliliter. Beim primären Hyperparathyreoidismus sind Calcium und PTH hoch. Auch ein normales PTH bei hohem Calcium ist zu hoch. Beim sekundären Hyperparathyreoidismus ist das Calcium niedrig oder normal und das PTH hoch. Das sieht man bei Nierenversagen und Vitamin-D-Mangel. Bei einem Tumor mit hohem Calcium ist das PTH stark gebremst.
+
+#### ⚠️ Fehlerquellen
+
+Eine ungekühlte Serumprobe zeigt ein zu niedriges PTH. Ein Vitamin-D-Mangel erhöht das PTH und kann eine Krankheit verschleiern oder vortäuschen. Bei Nierenversagen sammeln sich Bruchstücke an, die manche Tests mitmessen. Die Werte verschiedener Tests unterscheiden sich darum deutlich.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein hohes Calcium ist ein häufiger Befund. Die zwei häufigsten Ursachen sind ein Adenom der Nebenschilddrüse und ein Tumor. Das PTH unterscheidet sie sofort. Während einer Operation zeigt ein schneller Abfall des PTH, dass das richtige Adenom entfernt wurde.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das PTH hebt das Calcium und senkt das Phosphat. Man misst es immer mit dem Calcium, am besten im gekühlten EDTA-Plasma. Hohes Calcium mit hohem oder normalem PTH zeigt einen primären Hyperparathyreoidismus. Hohes Calcium mit gebremstem PTH spricht für einen Tumor.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-vier"></a>
+
+### 📝 Zusammenfassung Teil vier
+<sub>Part four summary</sub>
+
+> TPO-Antikörper zeigen eine Hashimoto-Thyreoiditis. Der TRAK zeigt einen Morbus Basedow und wird in der Schwangerschaft gemessen. Thyreoglobulin dient der Nachsorge bei Schilddrüsenkrebs. Antikörper gegen Thyreoglobulin misst man immer mit, weil sie falsch niedrige Werte erzeugen.
+>
+> Calcitonin ist der Marker für das medulläre Karzinom und wird gekühlt. Das PTH misst man mit dem Calcium. Hohes Calcium mit hohem PTH zeigt einen primären Hyperparathyreoidismus, hohes Calcium mit gebremstem PTH einen Tumor.
+>
+> Im nächsten Teil geht es um die Geschlechtshormone und die Schwangerschaft.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-fünf-fortpflanzung"></a>
+
+# 🟡 Teil fünf: Fortpflanzung
+<sub>Part five: Reproduction</sub>
+
+Der fünfte Teil behandelt die Geschlechtshormone und die Schwangerschaft. Diese Werte misst man bei unerfülltem Kinderwunsch, bei Zyklusstörungen, in den Wechseljahren und bei Männern mit Hormonmangel. Das hCG kennst du schon aus dem Leitfaden zur klinischen Chemie.
+
+Der Teil hat fünf Steckbriefe. Zuerst kommen FSH und LH. Dann folgen Östradiol und Progesteron. Danach kommen das Testosteron und das AMH. Am Ende steht das Ersttrimesterscreening.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `14` | [**Die Gonadotropine**](#die-gonadotropine) | FSH und LH aus der Hypophyse steuern Eierstöcke und Hoden. |
+| `15` | [**Östradiol und Progesteron**](#östradiol-und-progesteron) | Östradiol bildet das reifende Eibläschen, Progesteron der Gelbkörper nach dem Eisprung. |
+| `16` | [**Das Testosteron**](#das-testosteron) | Testosteron ist das männliche Hormon mit Gipfel am Morgen. |
+| `17` | [**Das AMH**](#das-a-m-h) | Das AMH stammt aus kleinen Eibläschen und zeigt die Eizellreserve. |
+| `18` | [**Das Ersttrimesterscreening**](#das-ersttrimesterscreening) | Das Ersttrimesterscreening schätzt das Risiko für eine Trisomie zwischen der elften und vierzehnten Woche. |
+
+<a id="die-gonadotropine"></a>
+
+## 🧪 Die Gonadotropine
+<sub>Follicle stimulating and luteinising hormone</sub>
+
+> `Steckbrief 14` · **🟡 Fortpflanzung**
+
+#### 🧭 Einordnung
+
+Das follikelstimulierende Hormon, kurz FSH, und das luteinisierende Hormon, kurz LH, kommen aus der Hypophyse. Sie steuern die Eierstöcke und die Hoden. Man nennt sie zusammen Gonadotropine. Man misst sie bei Zyklusstörungen, Kinderwunsch, in den Wechseljahren und bei Männern mit Hormonmangel.
+
+#### 💡 Grundlage
+
+Bei der Frau lässt das FSH in der ersten Zyklushälfte die Eibläschen reifen. In der Mitte des Zyklus steigt das LH steil an. Dieser Gipfel löst den Eisprung aus. Beim Mann regt das LH die Bildung von Testosteron an. Das FSH fördert die Bildung der Spermien. Die Hormone der Keimdrüsen bremsen beide wieder.
+
+#### 🧪 Probe und Messung
+
+Man misst beide im Serum mit Sandwichtests. Bei der Frau nimmt man das Blut meist am zweiten bis fünften Zyklustag ab. Dieser Tag muss auf dem Auftrag stehen. Bei Männern nimmt man morgens ab, zusammen mit dem Testosteron. Für den Eisprung gibt es Urintests, die den LH-Gipfel anzeigen.
+
+#### 📊 Die Werte
+
+In den Wechseljahren versagen die Eierstöcke. Dann steigen FSH und LH stark an. Ein hohes FSH bei jungen Frauen zeigt ein vorzeitiges Versagen der Eierstöcke. Beim Mann zeigt ein hohes FSH einen Schaden der Hoden. Sind die Gonadotropine niedrig, obwohl die Hormone der Keimdrüsen fehlen, liegt die Störung in Hypophyse oder Hypothalamus.
+
+#### ⚠️ Fehlerquellen
+
+Ein Wert ohne Angabe des Zyklustags ist kaum zu deuten. In der Zyklusmitte ist ein hohes LH normal. Die Pille und Hormonbehandlungen bremsen beide Hormone. Auch starkes Untergewicht, Leistungssport und Stress bremsen sie. Das hCG ähnelt dem LH und wird von manchen Urintests mit erfasst.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** FSH und LH zeigen, ob eine Störung in den Keimdrüsen oder in der Hypophyse liegt. Davon hängt die ganze weitere Behandlung ab. Für dich ist der Zyklustag die wichtigste Zusatzangabe. Fehlt er, fragst du nach.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** FSH und LH aus der Hypophyse steuern Eierstöcke und Hoden. Der LH-Gipfel löst den Eisprung aus. Hohe Werte zeigen ein Versagen der Keimdrüsen, etwa in den Wechseljahren. Niedrige Werte bei fehlenden Hormonen zeigen eine Störung der Hypophyse. Der Zyklustag gehört auf den Auftrag.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="östradiol-und-progesteron"></a>
+
+## 🧪 Östradiol und Progesteron
+<sub>Oestradiol and progesterone</sub>
+
+> `Steckbrief 15` · **🟡 Fortpflanzung**
+
+#### 🧭 Einordnung
+
+Östradiol und Progesteron sind die wichtigsten weiblichen Geschlechtshormone. Östradiol bildet das reifende Eibläschen. Progesteron bildet nach dem Eisprung der Gelbkörper. Man misst sie bei Kinderwunsch, Zyklusstörungen und in der Reproduktionsmedizin.
+
+#### 💡 Grundlage
+
+In der ersten Zyklushälfte steigt das Östradiol mit dem Wachstum des Eibläschens an. Es baut die Gebärmutterschleimhaut auf. Nach dem Eisprung bildet der Gelbkörper vor allem Progesteron. Es bereitet die Schleimhaut auf eine Einnistung vor. Kommt es nicht zur Schwangerschaft, sinken beide Hormone, und die Regel setzt ein.
+
+#### 🧪 Probe und Messung
+
+Man misst beide im Serum mit Immuntests. Das Progesteron misst man in der Mitte der zweiten Zyklushälfte. Bei einem Zyklus von achtundzwanzig Tagen ist das etwa der einundzwanzigste Tag. Bei einer künstlichen Befruchtung misst man das Östradiol oft täglich. Sehr niedrige Östradiolwerte misst man besser mit der LC-MS/MS.
+
+#### 📊 Die Werte
+
+Ein Progesteron über etwa drei Nanogramm pro Milliliter in der zweiten Zyklushälfte spricht für einen Eisprung. Höhere Werte zeigen einen gut arbeitenden Gelbkörper. Das Östradiol steigt vor dem Eisprung stark an. In den Wechseljahren ist es niedrig. Bei der künstlichen Befruchtung zeigt ein sehr hohes Östradiol eine Gefahr der Überstimulation.
+
+#### ⚠️ Fehlerquellen
+
+Ohne Zyklustag sind beide Werte kaum zu deuten. Viele Immuntests messen sehr niedrige Östradiolwerte ungenau. Das betrifft Männer, Kinder, Frauen nach den Wechseljahren und Frauen unter Hemmern der Östrogenbildung. Manche Brustkrebsmedikamente werden als Östradiol mitgemessen. Die Pille bremst beide Hormone.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** In der Reproduktionsmedizin richten sich Dosis und Zeitpunkt der Behandlung nach dem Östradiol. Ein schneller und richtiger Wert ist dort sehr wichtig. Das Progesteron zeigt einfach und sicher, ob ein Eisprung stattgefunden hat. Für sehr niedrige Werte braucht man eine genaue Methode.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Östradiol bildet das reifende Eibläschen, Progesteron der Gelbkörper nach dem Eisprung. Das Progesteron misst man um den einundzwanzigsten Zyklustag. Über etwa drei Nanogramm pro Milliliter spricht für einen Eisprung. Niedrige Östradiolwerte misst man am besten mit der Massenspektrometrie.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-testosteron"></a>
+
+## 🧪 Das Testosteron
+<sub>Testosterone</sub>
+
+> `Steckbrief 16` · **🟡 Fortpflanzung**
+
+#### 🧭 Einordnung
+
+Testosteron ist das wichtigste männliche Geschlechtshormon. Beim Mann bilden es vor allem die Hoden, bei der Frau in kleinen Mengen die Eierstöcke und die Nebennieren. Man misst es bei Männern mit Verdacht auf Hormonmangel. Bei Frauen misst man es bei vermehrter Behaarung und Zyklusstörungen.
+
+#### 💡 Grundlage
+
+Testosteron folgt einem Tagesrhythmus mit Gipfel am Morgen. Im Blut ist es größtenteils an ein Transporteiweiß gebunden. Es heißt Sexualhormon-bindendes Globulin, kurz SHBG. Ein kleiner Teil ist locker an Albumin gebunden, ein sehr kleiner Teil ist frei. Wirksam sind der freie und der locker gebundene Anteil.
+
+#### 🧪 Probe und Messung
+
+Man nimmt das Blut am Morgen ab, etwa zwischen sieben und elf Uhr. Man misst im Serum. Ein niedriger Wert wird an einem anderen Tag bestätigt. Oft misst man das SHBG mit und berechnet daraus das freie Testosteron. Bei Frauen sind die Werte sehr niedrig. Dort ist die LC-MS/MS deutlich genauer als ein Immuntest.
+
+#### 📊 Die Werte
+
+Beim Mann liegt der Referenzbereich bei etwa drei bis zehn Nanogramm pro Milliliter. Liegt das Testosteron wiederholt unter etwa drei, spricht das bei passenden Beschwerden für einen Mangel. Bei Frauen ist ein leicht erhöhtes Testosteron oft Zeichen eines Syndroms der polyzystischen Eierstöcke. Ein sehr hohes Testosteron bei einer Frau weckt den Verdacht auf einen Tumor.
+
+#### ⚠️ Fehlerquellen
+
+Ein Wert am Nachmittag ist oft falsch niedrig. Übergewicht senkt das SHBG und damit das gesamte Testosteron, obwohl das freie normal sein kann. Im Alter und bei Lebererkrankungen steigt das SHBG. Immuntests messen bei Frauen und Kindern oft ungenau. Einnahme von Testosteron oder Anabolika verändert alle Werte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Testosteronmangel wird oft mit Hormonen behandelt, die lebenslang gegeben werden. Die Diagnose muss darum sicher sein. Dazu gehören die richtige Uhrzeit, eine Wiederholung und manchmal das SHBG. Bei Frauen hilft eine genaue Methode, harmlose von gefährlichen Ursachen zu trennen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Testosteron ist das männliche Hormon mit Gipfel am Morgen. Man nimmt zwischen etwa sieben und elf Uhr ab und bestätigt niedrige Werte. Das SHBG bindet den größten Teil, daraus berechnet man das freie Testosteron. Bei Frauen misst man am besten mit der Massenspektrometrie.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-a-m-h"></a>
+
+## 🧪 Das AMH
+<sub>Anti-Müllerian hormone</sub>
+
+> `Steckbrief 17` · **🟡 Fortpflanzung**
+
+#### 🧭 Einordnung
+
+Das Anti-Müller-Hormon, kurz AMH, zeigt die Eizellreserve einer Frau. Es wird von kleinen, wachsenden Eibläschen im Eierstock gebildet. Je mehr solche Bläschen vorhanden sind, desto höher ist das AMH. Man misst es vor allem in der Reproduktionsmedizin.
+
+#### 💡 Grundlage
+
+Eine Frau wird mit einem festen Vorrat an Eizellen geboren. Dieser Vorrat sinkt mit dem Alter. Mit ihm sinkt auch das AMH. In den Wechseljahren ist es kaum noch messbar. Beim männlichen Embryo sorgt das AMH dafür, dass sich keine Gebärmutter bildet. Daher stammt sein Name.
+
+#### 🧪 Probe und Messung
+
+Man misst das AMH im Serum mit einem Immuntest. Ein großer Vorteil ist, dass es kaum vom Zyklus abhängt. Man kann es also an jedem Zyklustag messen. Die Probe ist recht stabil. Verschiedene Tests liefern aber verschiedene Werte, darum gehört der Verlauf ins selbe Labor.
+
+#### 📊 Die Werte
+
+Die Referenzbereiche hängen stark vom Alter ab. Ein niedriges AMH zeigt eine verminderte Eizellreserve. Ein Wert unter etwa einem Nanogramm pro Milliliter gilt oft als niedrig. Ein sehr hohes AMH findet man beim Syndrom der polyzystischen Eierstöcke. Vor einer künstlichen Befruchtung hilft es, die Dosis der Hormone zu wählen.
+
+#### ⚠️ Fehlerquellen
+
+Ein häufiger Irrtum ist, das AMH als Test für die Fruchtbarkeit zu sehen. Es zeigt die Menge der Eizellen, nicht ihre Qualität. Auch Frauen mit niedrigem AMH können schwanger werden. Die Pille kann das AMH etwas senken. Werte verschiedener Tests sind nicht vergleichbar.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das AMH ist ein häufiger Test bei Kinderwunsch. Es hilft bei der Planung einer Behandlung und vor einer Chemotherapie. Für das Labor ist es einfach, weil der Zeitpunkt kaum eine Rolle spielt. Wichtig ist, dass der Arzt weiß, welcher Test genutzt wurde.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das AMH stammt aus kleinen Eibläschen und zeigt die Eizellreserve. Es sinkt mit dem Alter und hängt kaum vom Zyklus ab. Niedrige Werte zeigen eine verminderte Reserve, sehr hohe Werte ein Syndrom der polyzystischen Eierstöcke. Es zeigt die Menge, nicht die Qualität der Eizellen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-ersttrimesterscreening"></a>
+
+## 🧪 Das Ersttrimesterscreening
+<sub>First trimester screening</sub>
+
+> `Steckbrief 18` · **🟡 Fortpflanzung**
+
+#### 🧭 Einordnung
+
+Das Ersttrimesterscreening schätzt das Risiko für bestimmte Chromosomenstörungen beim ungeborenen Kind. Die wichtigste ist die Trisomie einundzwanzig, das Down-Syndrom. Es verbindet zwei Blutwerte der Mutter mit einer Ultraschallmessung und dem Alter der Mutter. Es ist eine Risikoschätzung, keine Diagnose.
+
+#### 💡 Grundlage
+
+Man misst zwei Eiweiße aus der Plazenta im Blut der Mutter. Das erste ist das freie Beta-hCG. Das zweite ist das PAPP-A, ein Eiweiß der Schwangerschaft. Bei einer Trisomie einundzwanzig ist das freie Beta-hCG meist erhöht und das PAPP-A erniedrigt. Im Ultraschall misst man die Dicke der Nackenfalte.
+
+#### 🧪 Probe und Messung
+
+Das Screening findet etwa zwischen der elften und der vierzehnten Schwangerschaftswoche statt. Man nimmt Serum ab. Die genaue Schwangerschaftswoche ist entscheidend. Sie wird aus der Länge des Kindes im Ultraschall bestimmt. Eine Software berechnet aus allen Angaben das Risiko. Dazu gehören auch Gewicht, Rauchen und eine Mehrlingsschwangerschaft.
+
+#### 📊 Die Werte
+
+Die Blutwerte gibt man nicht als Zahl, sondern als Vielfaches des Mittelwerts an. Ein Wert von eins entspricht einer durchschnittlichen Schwangerschaft derselben Woche. Am Ende steht ein Risiko, etwa eins zu tausend. Ein hohes Risiko führt zu weiteren Untersuchungen.
+
+#### ⚠️ Fehlerquellen
+
+Eine falsche Schwangerschaftswoche verfälscht das ganze Ergebnis. Auch falsche Angaben zu Gewicht oder Rauchen verschieben das Risiko. Eine zu lange gelagerte Probe kann ein falsch hohes freies Beta-hCG zeigen. Der Test erkennt nicht alle Kinder mit Trisomie, und viele auffällige Ergebnisse sind falsch positiv.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das Ergebnis führt manchmal zu einer Fruchtwasseruntersuchung mit einem kleinen Risiko für eine Fehlgeburt. Darum muss jeder Wert stimmen. Für das Labor zählen die richtigen Angaben auf dem Auftrag und die zeitnahe Messung. Heute ergänzt oft der Bluttest auf freie DNA des Kindes das Screening.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Ersttrimesterscreening schätzt das Risiko für eine Trisomie zwischen der elften und vierzehnten Woche. Es verbindet freies Beta-hCG, PAPP-A, Nackenfalte und Alter der Mutter. Bei Trisomie einundzwanzig ist Beta-hCG hoch und PAPP-A niedrig. Die genaue Schwangerschaftswoche ist entscheidend.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-fünf"></a>
+
+### 📝 Zusammenfassung Teil fünf
+<sub>Part five summary</sub>
+
+> FSH und LH steuern die Keimdrüsen. Hohe Werte zeigen ein Versagen der Keimdrüsen, niedrige eine Störung der Hypophyse. Der Zyklustag gehört auf den Auftrag. Progesteron über etwa drei Nanogramm pro Milliliter in der zweiten Zyklushälfte zeigt einen Eisprung.
+>
+> Testosteron misst man morgens und bestätigt niedrige Werte. Das SHBG bindet den größten Teil. Das AMH zeigt die Eizellreserve und hängt kaum vom Zyklus ab. Das Ersttrimesterscreening verbindet freies Beta-hCG, PAPP-A und Nackenfalte zu einem Risiko.
+>
+> Im nächsten Teil geht es um den Stoffwechsel.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-sechs-stoffwechsel"></a>
+
+# ⚪ Teil sechs: Stoffwechsel
+<sub>Part six: Metabolism</sub>
+
+Der sechste Teil ergänzt die Werte zum Zuckerstoffwechsel aus dem Leitfaden zur klinischen Chemie. Glukose und HbA1c kennst du schon. Hier geht es um Insulin, Ketonkörper und das Screening von Neugeborenen.
+
+Der Teil hat drei Steckbriefe. Zuerst kommen Insulin und C-Peptid. Dann folgen die Ketonkörper. Am Ende steht das Neugeborenenscreening.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `19` | [**Insulin und C-Peptid**](#insulin-und-c-peptid) | Insulin und C-Peptid entstehen in gleicher Menge. |
+| `20` | [**Die Ketonkörper**](#die-ketonkörper) | Ketonkörper entstehen beim Fettabbau, wenn Insulin fehlt oder Zucker knapp ist. |
+| `21` | [**Das Neugeborenenscreening**](#das-neugeborenenscreening) | Das Neugeborenenscreening sucht bei jedem Neugeborenen nach behandelbaren angeborenen Krankheiten. |
+
+<a id="insulin-und-c-peptid"></a>
+
+## 🧪 Insulin und C-Peptid
+<sub>Insulin and C peptide</sub>
+
+> `Steckbrief 19` · **⚪ Stoffwechsel**
+
+#### 🧭 Einordnung
+
+Insulin ist das Hormon, das den Blutzucker senkt. Es wird in den Betazellen der Bauchspeicheldrüse gebildet. Das C-Peptid entsteht dabei in gleicher Menge als Nebenprodukt. Man misst beide vor allem bei unklaren Unterzuckerungen und um die eigene Insulinbildung zu prüfen.
+
+#### 💡 Grundlage
+
+Die Betazellen bilden zuerst eine Vorstufe, das Proinsulin. Es wird in Insulin und C-Peptid gespalten. Beide gelangen gleichzeitig ins Blut. Insulin wird zum großen Teil schon in der Leber abgebaut. Das C-Peptid hält sich länger im Blut. Insulin aus der Spritze enthält kein C-Peptid. Das ist der Schlüssel zu vielen Fragen.
+
+#### 🧪 Probe und Messung
+
+Man nimmt Serum ab und trennt es schnell. Bei Verdacht auf ein Insulinom, einen Insulin bildenden Tumor, macht man einen Hungerversuch über bis zu zweiundsiebzig Stunden. Tritt eine Unterzuckerung auf, misst man Glukose, Insulin und C-Peptid aus derselben Probe. Diese Probe ist die wichtigste des ganzen Tests.
+
+#### 📊 Die Werte
+
+Beim Gesunden sind Insulin und C-Peptid bei Unterzuckerung gebremst. Beim Insulinom sind beide trotz Unterzuckerung zu hoch. Ist das Insulin hoch und das C-Peptid niedrig, wurde Insulin gespritzt. Sind beide hoch, kann auch ein Medikament wie ein Sulfonylharnstoff die Ursache sein. Beim Diabetes Typ eins ist das C-Peptid niedrig, beim Typ zwei oft lange normal.
+
+#### ⚠️ Fehlerquellen
+
+Hämolyse zerstört Insulin. Dann ist der Wert falsch niedrig. Manche künstlich veränderten Insuline, die Insulinanaloga, werden von bestimmten Tests nicht erkannt. Bei Nierenversagen steigt das C-Peptid, weil die Niere es ausscheidet. Werte ohne gleichzeitige Glukose lassen sich kaum deuten.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine unklare Unterzuckerung kann lebensgefährlich sein. Manchmal ist sie auch ein Zeichen für eine heimliche Gabe von Insulin. Das Verhältnis von Insulin zu C-Peptid klärt diese Frage. Für dich zählen die schnelle Trennung, das Fehlen von Hämolyse und die gemeinsame Glukose.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Insulin und C-Peptid entstehen in gleicher Menge. Insulin aus der Spritze enthält kein C-Peptid. Beim Insulinom sind beide trotz Unterzuckerung hoch. Hohes Insulin mit niedrigem C-Peptid zeigt gespritztes Insulin. Hämolyse senkt das Insulin, und die Glukose wird immer mitgemessen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-ketonkörper"></a>
+
+## 🧪 Die Ketonkörper
+<sub>Ketone bodies</sub>
+
+> `Steckbrief 20` · **⚪ Stoffwechsel**
+
+#### 🧭 Einordnung
+
+Ketonkörper entstehen, wenn der Körper Fett statt Zucker als Energie nutzt. Man misst sie vor allem bei Verdacht auf eine diabetische Ketoazidose. Sie kommen aber auch bei Hunger, Alkohol und Erbrechen vor. Die Ketoazidose ist ein lebensgefährlicher Notfall.
+
+#### 💡 Grundlage
+
+Fehlt Insulin, können die Zellen keinen Zucker aufnehmen. Der Körper baut dann Fett ab. Die Leber bildet daraus drei Ketonkörper: Betahydroxybutyrat, Acetoacetat und Aceton. Betahydroxybutyrat ist der größte Anteil. Die Ketonkörper sind Säuren. In großer Menge senken sie den pH-Wert des Blutes. Die Anionenlücke steigt.
+
+#### 🧪 Probe und Messung
+
+Im Urin weist man Ketonkörper mit dem Teststreifen nach. Er erfasst aber nur Acetoacetat und Aceton, nicht das Betahydroxybutyrat. Im Blut misst man das Betahydroxybutyrat direkt, im Labor oder mit einem Messgerät am Bett. Dazu gehören Blutgase, Glukose, Kalium und die Anionenlücke.
+
+#### 📊 Die Werte
+
+Beim Gesunden ist das Betahydroxybutyrat im Blut sehr niedrig. Nach langem Fasten steigt es leicht an. Werte über etwa drei Millimol pro Liter mit Azidose sprechen für eine Ketoazidose. Unter bestimmten Diabetesmitteln, den SGLT2-Hemmern, kann eine Ketoazidose bei fast normaler Glukose auftreten.
+
+#### ⚠️ Fehlerquellen
+
+Der Urinstreifen unterschätzt die Ketonkörper, besonders zu Beginn einer Ketoazidose. Unter der Behandlung wird Betahydroxybutyrat in Acetoacetat umgewandelt. Dann wird der Streifen sogar stärker positiv, obwohl es dem Patienten besser geht. Ein offener Urinbecher verliert Aceton durch Verdunstung.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Die diabetische Ketoazidose ist oft das erste Zeichen eines Typ-eins-Diabetes, gerade bei Kindern. Eine schnelle Messung rettet Leben. Das Betahydroxybutyrat im Blut ist genauer als der Urinstreifen. Eine normale Glukose schließt eine Ketoazidose nicht aus.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Ketonkörper entstehen beim Fettabbau, wenn Insulin fehlt oder Zucker knapp ist. Betahydroxybutyrat ist der größte Anteil. Der Urinstreifen erfasst es nicht. Werte über etwa drei Millimol pro Liter mit Azidose zeigen eine Ketoazidose. Unter SGLT2-Hemmern kann die Glukose fast normal sein.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-neugeborenenscreening"></a>
+
+## 🧪 Das Neugeborenenscreening
+<sub>Newborn screening</sub>
+
+> `Steckbrief 21` · **⚪ Stoffwechsel**
+
+#### 🧭 Einordnung
+
+Das Neugeborenenscreening sucht bei allen Neugeborenen nach seltenen, aber behandelbaren angeborenen Krankheiten. In Deutschland ist es für jedes Kind vorgesehen. Die Eltern müssen zustimmen. Es ist eine der erfolgreichsten Untersuchungen der Medizin.
+
+#### 💡 Grundlage
+
+Die gesuchten Krankheiten zeigen sich bei Geburt oft noch nicht. Ohne Behandlung führen sie aber zu schweren Schäden oder zum Tod. Dazu gehören Stoffwechselkrankheiten wie die Phenylketonurie und Hormonkrankheiten wie die angeborene Unterfunktion der Schilddrüse. Auch die Mukoviszidose, schwere Immundefekte und die spinale Muskelatrophie gehören heute dazu.
+
+#### 🧪 Probe und Messung
+
+Man nimmt etwa zwischen der sechsunddreißigsten und zweiundsiebzigsten Lebensstunde Blut aus der Ferse ab. Die Tropfen werden auf eine Filterpapierkarte getropft. Jeder Kreis muss von beiden Seiten vollständig durchtränkt sein. Die Karte trocknet bei Raumtemperatur und wird am selben Tag verschickt. Im Labor nutzt man vor allem die Tandem-Massenspektrometrie.
+
+#### 📊 Die Werte
+
+Für jede Krankheit gibt es eigene Grenzwerte. Die Tandem-Massenspektrometrie misst viele Aminosäuren und Acylcarnitine in einem Lauf. Eine hohe Phenylalaninkonzentration zeigt zum Beispiel eine Phenylketonurie. Ein hohes TSH zeigt eine Unterfunktion der Schilddrüse. Ein auffälliger Befund wird sofort telefonisch gemeldet und mit einer neuen Probe bestätigt.
+
+#### ⚠️ Fehlerquellen
+
+Eine zu frühe Abnahme kann Krankheiten übersehen. Dann braucht man eine zweite Karte. Auch eine Bluttransfusion vor der Abnahme verfälscht die Werte. Zu wenig Blut, mehrfach getropfte Kreise oder eine feuchte, warme Lagerung machen die Karte unbrauchbar. Bei Frühgeborenen gelten eigene Regeln.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Kind mit Phenylketonurie entwickelt sich mit früher Diät fast normal. Ohne Diät erleidet es eine schwere geistige Behinderung. Jeder Tag zählt. Darum müssen Karten schnell verschickt und auffällige Befunde sofort gemeldet werden.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das Neugeborenenscreening sucht bei jedem Neugeborenen nach behandelbaren angeborenen Krankheiten. Man nimmt zwischen der sechsunddreißigsten und zweiundsiebzigsten Lebensstunde Fersenblut auf eine Filterkarte ab. Die Tandem-Massenspektrometrie misst viele Werte zugleich. Auffällige Befunde werden sofort gemeldet.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-sechs"></a>
+
+### 📝 Zusammenfassung Teil sechs
+<sub>Part six summary</sub>
+
+> Insulin und C-Peptid entstehen in gleicher Menge, gespritztes Insulin enthält kein C-Peptid. Beim Insulinom sind beide trotz Unterzuckerung hoch. Ketonkörper entstehen beim Fettabbau. Betahydroxybutyrat im Blut ist genauer als der Urinstreifen.
+>
+> Das Neugeborenenscreening nutzt Fersenblut auf einer Filterkarte, abgenommen zwischen der sechsunddreißigsten und zweiundsiebzigsten Lebensstunde. Die Tandem-Massenspektrometrie misst viele Werte in einem Lauf. Auffällige Befunde werden sofort gemeldet.
+>
+> Im nächsten Teil geht es um die Messung von Medikamentenspiegeln.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-sieben-medikamentenspiegel"></a>
+
+# 🛡️ Teil sieben: Medikamentenspiegel
+<sub>Part seven: Therapeutic drug monitoring</sub>
+
+Der siebte Teil behandelt die Messung von Medikamentenspiegeln. Man nennt sie therapeutisches Drug Monitoring. Bei manchen Medikamenten liegen die wirksame und die giftige Menge nah beieinander. Dann misst man den Spiegel im Blut, um die Dosis richtig einzustellen.
+
+Der Teil hat sechs Steckbriefe. Zuerst kommen die Grundlagen. Dann folgen Vancomycin und die Aminoglykoside. Danach kommen Digoxin, Lithium und die Mittel gegen Epilepsie. Am Ende stehen die Mittel nach einer Transplantation.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `22` | [**Grundlagen der Spiegelmessung**](#grundlagen-der-spiegelmessung) | Das therapeutische Drug Monitoring misst Medikamente mit engem Wirkbereich im Blut. |
+| `23` | [**Vancomycin und Aminoglykoside**](#vancomycin-und-aminoglykoside) | Vancomycin richtet man nach dem Talspiegel, meist etwa zehn bis zwanzig Milligramm pro Liter. |
+| `24` | [**Das Digoxin**](#das-digoxin) | Digoxin ist ein Herzmittel mit sehr engem Wirkbereich. |
+| `25` | [**Das Lithium**](#das-lithium) | Lithium hat einen sehr engen Wirkbereich und wird über die Niere ausgeschieden. |
+| `26` | [**Die Antiepileptika**](#die-antiepileptika) | Bei Valproat, Carbamazepin und Phenytoin misst man regelmäßig den Talspiegel. |
+| `27` | [**Die Immunsuppressiva**](#die-immunsuppressiva) | Tacrolimus, Ciclosporin, Everolimus und Sirolimus schützen transplantierte Organe. |
+
+<a id="grundlagen-der-spiegelmessung"></a>
+
+## 🧪 Grundlagen der Spiegelmessung
+<sub>Principles of drug monitoring</sub>
+
+> `Steckbrief 22` · **🛡️ Medikamentenspiegel**
+
+#### 🧭 Einordnung
+
+Beim therapeutischen Drug Monitoring misst man die Konzentration eines Medikaments im Blut. Ziel ist eine Dosis, die wirkt, aber nicht schadet. Man misst nur Medikamente, bei denen sich das lohnt. Dazu gehören Mittel mit engem Wirkbereich, großen Unterschieden zwischen Patienten und einer guten Beziehung zwischen Spiegel und Wirkung.
+
+#### 💡 Grundlage
+
+Nach einer Einnahme steigt der Spiegel an, erreicht einen Gipfel und sinkt wieder. Die Halbwertszeit sagt, wie schnell er sinkt. Bei regelmäßiger Gabe stellt sich nach etwa fünf Halbwertszeiten ein Gleichgewicht ein. Man nennt es Steady State. Erst dann ist ein Spiegel sinnvoll zu deuten. Der niedrigste Wert kurz vor der nächsten Dosis heißt Talspiegel.
+
+#### 🧪 Probe und Messung
+
+Meist nimmt man den Talspiegel ab, also direkt vor der nächsten Dosis. Bei manchen Mitteln misst man auch den Spitzenspiegel. Auf dem Auftrag stehen die Uhrzeit der letzten Dosis und die Uhrzeit der Abnahme. Man nimmt nie aus dem Zugang ab, über den das Medikament läuft. Manche Medikamente haften am Trenngel. Dann nimmt man ein Röhrchen ohne Gel.
+
+#### 📊 Die Werte
+
+Für jedes Medikament gibt es einen therapeutischen Bereich. Darunter wirkt es oft nicht ausreichend, darüber steigt die Gefahr von Nebenwirkungen. Der Bereich ist aber nur eine Orientierung. Entscheidend ist, wie es dem Patienten geht. Der Befund nennt oft eine Empfehlung zur Dosis.
+
+#### ⚠️ Fehlerquellen
+
+Der häufigste Fehler ist ein falscher Zeitpunkt. Ein Talspiegel, der kurz nach der Gabe abgenommen wurde, ist in Wahrheit ein Spitzenspiegel. Er führt zu einer falschen Senkung der Dosis. Ein zweiter Fehler ist eine Abnahme vor dem Steady State. Auch eine Abnahme aus dem Infusionsschlauch liefert extrem hohe Werte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Spiegel ohne Uhrzeit ist fast wertlos. Er kann sogar schaden, weil er falsch gedeutet wird. Für dich gehört die Prüfung der Zeitangaben zur Annahme der Probe. Bei unplausibel hohen Werten fragst du nach dem Ort der Abnahme.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Das therapeutische Drug Monitoring misst Medikamente mit engem Wirkbereich im Blut. Der Steady State ist nach etwa fünf Halbwertszeiten erreicht. Meist misst man den Talspiegel direkt vor der nächsten Dosis. Uhrzeit der letzten Gabe und der Abnahme gehören auf den Auftrag. Nie aus dem Zugang abnehmen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="vancomycin-und-aminoglykoside"></a>
+
+## 🧪 Vancomycin und Aminoglykoside
+<sub>Vancomycin and aminoglycosides</sub>
+
+> `Steckbrief 23` · **🛡️ Medikamentenspiegel**
+
+#### 🧭 Einordnung
+
+Vancomycin und die Aminoglykoside sind Antibiotika gegen schwere Infektionen. Vancomycin wirkt gegen grampositive Bakterien, etwa gegen MRSA. Das wichtigste Aminoglykosid ist das Gentamicin. Es wirkt vor allem gegen gramnegative Bakterien. Beide können Niere und Gehör schädigen.
+
+#### 💡 Grundlage
+
+Vancomycin wirkt am besten, wenn sein Spiegel über lange Zeit ausreichend hoch bleibt. Man achtet darum vor allem auf den Talspiegel. Aminoglykoside wirken am besten mit einem hohen Gipfel. Man gibt sie darum meist einmal am Tag in hoher Dosis. Danach soll der Spiegel tief fallen, damit sich Niere und Ohr erholen. Beide Mittel werden über die Niere ausgeschieden.
+
+#### 🧪 Probe und Messung
+
+Den Talspiegel nimmt man direkt vor der nächsten Gabe ab. Bei Gentamicin misst man manchmal auch den Spitzenspiegel. Man nimmt ihn etwa dreißig Minuten nach dem Ende der Infusion ab. Bei Vancomycin als Dauerinfusion nimmt man zu jeder Zeit ab, aber nie aus dem Zugang der Infusion. Man misst im Serum mit Immuntests.
+
+#### 📊 Die Werte
+
+Der Talspiegel von Vancomycin liegt meist bei etwa zehn bis zwanzig Milligramm pro Liter, je nach Infektion. Bei der Dauerinfusion strebt man oft etwa zwanzig bis fünfundzwanzig an. Neuere Empfehlungen berechnen eine Fläche unter der Kurve. Beim Gentamicin soll der Talspiegel unter etwa einem Milligramm pro Liter liegen. Ein höherer Talspiegel zeigt eine Gefahr für Niere und Ohr.
+
+#### ⚠️ Fehlerquellen
+
+Ein zu früh abgenommener Talspiegel ist falsch hoch. Eine Abnahme aus dem Zugang zeigt extrem hohe Werte. Bei Nierenversagen steigen die Spiegel schnell an. Dann misst man häufiger. Bei Dialyse hängt der Spiegel stark vom Zeitpunkt der Dialyse ab.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Diese Antibiotika werden oft auf Intensivstationen bei schwer kranken Patienten eingesetzt. Ein zu niedriger Spiegel lässt die Infektion fortschreiten. Ein zu hoher Spiegel kann die Niere schädigen oder taub machen. Die Ergebnisse werden darum oft noch am selben Tag gebraucht.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Vancomycin richtet man nach dem Talspiegel, meist etwa zehn bis zwanzig Milligramm pro Liter. Gentamicin gibt man einmal täglich hoch dosiert, der Talspiegel soll unter etwa einem Milligramm pro Liter liegen. Beide schädigen Niere und Ohr. Nie aus dem Zugang der Infusion abnehmen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-digoxin"></a>
+
+## 🧪 Das Digoxin
+<sub>Digoxin</sub>
+
+> `Steckbrief 24` · **🛡️ Medikamentenspiegel**
+
+#### 🧭 Einordnung
+
+Digoxin ist ein Herzmittel aus der Gruppe der Herzglykoside. Man gibt es bei Vorhofflimmern, um das Herz zu verlangsamen, und manchmal bei Herzschwäche. Es hat einen sehr engen Wirkbereich. Vergiftungen sind darum häufig, vor allem bei älteren Menschen.
+
+#### 💡 Grundlage
+
+Digoxin wird über die Niere ausgeschieden. Bei nachlassender Nierenfunktion steigt der Spiegel. Nach der Einnahme verteilt sich Digoxin über mehrere Stunden aus dem Blut ins Gewebe. Erst danach entspricht der Spiegel im Blut der Menge am Herzen. Ein niedriges Kalium verstärkt die Wirkung und die Giftigkeit.
+
+#### 🧪 Probe und Messung
+
+Man nimmt das Blut frühestens sechs bis acht Stunden nach der letzten Einnahme ab, am besten direkt vor der nächsten. Man misst im Serum mit einem Immuntest. Kalium und Kreatinin misst man immer mit. Ein ähnliches Mittel ist das Digitoxin. Es wird über die Leber abgebaut und mit einem eigenen Test gemessen.
+
+#### 📊 Die Werte
+
+Bei Herzschwäche strebt man niedrige Spiegel an, etwa null Komma fünf bis null Komma neun Nanogramm pro Milliliter. Über etwa zwei steigt die Gefahr einer Vergiftung deutlich. Zeichen sind Übelkeit, Sehstörungen mit Gelbsehen und Herzrhythmusstörungen. Bei niedrigem Kalium kann eine Vergiftung schon bei normalen Spiegeln auftreten.
+
+#### ⚠️ Fehlerquellen
+
+Ein zu früh abgenommener Wert ist falsch hoch. Bei Neugeborenen, Schwangeren und bei Nierenversagen gibt es körpereigene Stoffe, die im Test als Digoxin mitgemessen werden. Bei einer Vergiftung gibt man Antikörperstücke gegen Digoxin. Danach messen viele Tests das Digoxin falsch. Auch manche Medikamente wie Spironolacton stören einige Tests.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Digoxinvergiftung kann tödliche Herzrhythmusstörungen auslösen. Sie wird oft übersehen, weil die Zeichen unspezifisch sind. Ein Spiegel mit Kalium und Kreatinin klärt die Lage schnell. Für dich zählt der richtige Zeitpunkt der Abnahme.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Digoxin ist ein Herzmittel mit sehr engem Wirkbereich. Man nimmt frühestens sechs bis acht Stunden nach der Einnahme ab. Über etwa zwei Nanogramm pro Milliliter droht eine Vergiftung. Niedriges Kalium und Nierenversagen erhöhen die Gefahr. Antikörperstücke gegen Digoxin stören die Messung.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-lithium"></a>
+
+## 🧪 Das Lithium
+<sub>Lithium</sub>
+
+> `Steckbrief 25` · **🛡️ Medikamentenspiegel**
+
+#### 🧭 Einordnung
+
+Lithium ist ein Medikament gegen bipolare Störungen und schwere Depressionen. Es ist ein einfaches Salz, das man im Blut wie ein Elektrolyt misst. Sein Wirkbereich ist sehr eng. Darum gehört es zu den am häufigsten gemessenen Medikamenten.
+
+#### 💡 Grundlage
+
+Lithium wird fast nur über die Niere ausgeschieden. Die Niere behandelt es ähnlich wie Natrium. Wenn der Körper Natrium spart, etwa bei Durst oder Durchfall, hält er auch Lithium zurück. Dann steigt der Spiegel. Lithium kann auf Dauer Niere und Schilddrüse schädigen. Darum misst man auch Kreatinin und TSH.
+
+#### 🧪 Probe und Messung
+
+Man nimmt das Blut zwölf Stunden nach der letzten Einnahme ab, meist morgens vor der Tablette. Man misst im Serum. Ein Röhrchen mit Lithiumheparin darf man auf keinen Fall nehmen. Es enthält selbst Lithium. Man misst mit einer ionenselektiven Elektrode oder photometrisch.
+
+#### 📊 Die Werte
+
+Zur Dauerbehandlung strebt man meist etwa null Komma sechs bis null Komma acht Millimol pro Liter an. In akuten Phasen liegen die Ziele etwas höher, bis etwa eins Komma zwei. Über etwa eins Komma fünf drohen Vergiftungszeichen. Dazu gehören Zittern, Übelkeit, Verwirrung und Krampfanfälle. Sehr hohe Werte sind ein Notfall und können eine Dialyse nötig machen.
+
+#### ⚠️ Fehlerquellen
+
+Ein Lithiumheparinröhrchen ergibt einen falsch hohen, oft extrem hohen Wert. Eine Abnahme kurz nach der Tablette ist falsch hoch. Viele Medikamente erhöhen den Spiegel. Dazu gehören Wassertabletten, Schmerzmittel wie Ibuprofen und bestimmte Blutdruckmittel. Auch Fieber, Durchfall und zu wenig Trinken erhöhen ihn.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Lithiumvergiftung kann dauerhafte Schäden am Gehirn hinterlassen. Ein falsch hoher Wert durch das falsche Röhrchen führt dagegen zu einem unnötigen Absetzen. Darum prüfst du bei jedem auffälligen Lithium das Röhrchen. Ein extremer Wert bei einem Patienten ohne Beschwerden ist verdächtig.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Lithium hat einen sehr engen Wirkbereich und wird über die Niere ausgeschieden. Man nimmt zwölf Stunden nach der letzten Einnahme Serum ab. Nie ein Lithiumheparinröhrchen nehmen. Das Ziel liegt meist bei etwa null Komma sechs bis null Komma acht, über eins Komma fünf droht eine Vergiftung.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-antiepileptika"></a>
+
+## 🧪 Die Antiepileptika
+<sub>Antiepileptic drugs</sub>
+
+> `Steckbrief 26` · **🛡️ Medikamentenspiegel**
+
+#### 🧭 Einordnung
+
+Antiepileptika sind Mittel gegen Krampfanfälle. Bei den älteren Mitteln wie Valproat, Carbamazepin und Phenytoin misst man regelmäßig den Spiegel. Bei neueren Mitteln wie Levetiracetam und Lamotrigin misst man ihn bei besonderen Fragen. Dazu gehören Schwangerschaft, neue Anfälle und Verdacht auf Nebenwirkungen.
+
+#### 💡 Grundlage
+
+Die Spiegel unterscheiden sich stark zwischen Patienten. Viele Antiepileptika beeinflussen sich gegenseitig. Carbamazepin beschleunigt zum Beispiel den Abbau vieler anderer Mittel in der Leber. Phenytoin hat eine besondere Eigenschaft. Ab einer bestimmten Dosis steigt sein Spiegel bei kleinen Erhöhungen plötzlich stark an. Phenytoin und Valproat sind stark an Albumin gebunden.
+
+#### 🧪 Probe und Messung
+
+Man nimmt den Talspiegel vor der Morgendosis ab. Man misst im Serum. Die älteren Mittel misst man mit Immuntests auf den großen Analysegeräten. Die neueren misst man oft mit der LC-MS/MS oder einer anderen Chromatographie. Bei niedrigem Albumin misst man manchmal den freien Anteil.
+
+#### 📊 Die Werte
+
+Für Valproat liegt der übliche Bereich bei etwa fünfzig bis hundert Milligramm pro Liter. Für Carbamazepin liegt er bei etwa vier bis zwölf. Für Phenytoin liegt er bei etwa zehn bis zwanzig. Für die neueren Mittel gibt es Referenzbereiche als grobe Orientierung. Viele Patienten sind auch außerhalb der Bereiche gut eingestellt.
+
+#### ⚠️ Fehlerquellen
+
+Bei niedrigem Albumin ist der freie Anteil von Phenytoin hoch. Dann kann ein normaler Gesamtspiegel schon giftig sein. In der Schwangerschaft sinken die Spiegel mancher Mittel stark ab. Ein niedriger Spiegel kann auch zeigen, dass der Patient seine Tabletten nicht nimmt. Neue Medikamente verändern die Spiegel oft.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein neuer Anfall ist gefährlich. Der Spiegel zeigt schnell, ob er durch zu wenig Medikament oder durch fehlende Einnahme entstand. Ein zu hoher Spiegel zeigt sich durch Schwindel, Gangunsicherheit und Doppelbilder. Der Spiegel hilft dann, die Dosis anzupassen.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Bei Valproat, Carbamazepin und Phenytoin misst man regelmäßig den Talspiegel. Valproat liegt bei etwa fünfzig bis hundert, Carbamazepin bei vier bis zwölf und Phenytoin bei zehn bis zwanzig Milligramm pro Liter. Phenytoin steigt plötzlich stark an. Bei niedrigem Albumin ist der freie Anteil wichtig.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-immunsuppressiva"></a>
+
+## 🧪 Die Immunsuppressiva
+<sub>Immunosuppressants</sub>
+
+> `Steckbrief 27` · **🛡️ Medikamentenspiegel**
+
+#### 🧭 Einordnung
+
+Immunsuppressiva unterdrücken das Immunsystem. Man gibt sie nach einer Organtransplantation, damit der Körper das neue Organ nicht abstößt. Die wichtigsten sind Tacrolimus und Ciclosporin. Dazu kommen Everolimus und Sirolimus. Bei allen misst man regelmäßig den Spiegel.
+
+#### 💡 Grundlage
+
+Ist der Spiegel zu niedrig, droht eine Abstoßung des Organs. Ist er zu hoch, drohen Nierenschäden, Infektionen und Tumoren. Diese Mittel werden in der Leber über ein bestimmtes Enzym abgebaut. Viele andere Medikamente und Nahrungsmittel beeinflussen dieses Enzym. Grapefruitsaft und manche Pilzmittel erhöhen die Spiegel. Rifampicin senkt sie stark.
+
+#### 🧪 Probe und Messung
+
+Diese Mittel sitzen größtenteils in den roten Blutkörperchen. Darum misst man sie im EDTA-Vollblut, nicht im Serum oder Plasma. Man nimmt den Talspiegel vor der Morgendosis ab. Die genaueste Methode ist die LC-MS/MS. Viele Labore nutzen auch Immuntests.
+
+#### 📊 Die Werte
+
+Die Zielbereiche hängen vom Organ, von der Zeit seit der Transplantation und von den anderen Medikamenten ab. Für Tacrolimus liegen sie meist bei etwa fünf bis fünfzehn Nanogramm pro Milliliter. Kurz nach der Transplantation sind die Ziele höher, später niedriger. Die Transplantationszentren legen die genauen Ziele fest.
+
+#### ⚠️ Fehlerquellen
+
+Immuntests messen Abbauprodukte teilweise mit. Ihre Werte liegen darum meist höher als die der Massenspektrometrie. Ein Wechsel der Methode muss dem Zentrum mitgeteilt werden. Eine Serumprobe ist für diese Mittel unbrauchbar. Eine Abnahme aus dem Zugang nach einer Infusion zeigt falsch hohe Werte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein transplantiertes Organ ist ein großes Geschenk. Der richtige Spiegel schützt es vor Abstoßung und den Patienten vor Nebenwirkungen. Die Ergebnisse werden oft noch am selben Tag gebraucht. Für dich zählen das richtige Röhrchen und eine Methode, die gleich bleibt.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Tacrolimus, Ciclosporin, Everolimus und Sirolimus schützen transplantierte Organe. Man misst sie im EDTA-Vollblut als Talspiegel. Die LC-MS/MS ist am genauesten, Immuntests messen meist höher. Grapefruit und Pilzmittel erhöhen die Spiegel, Rifampicin senkt sie.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-sieben"></a>
+
+### 📝 Zusammenfassung Teil sieben
+<sub>Part seven summary</sub>
+
+> Beim Drug Monitoring misst man Medikamente mit engem Wirkbereich. Der Steady State ist nach etwa fünf Halbwertszeiten erreicht. Meist misst man den Talspiegel. Uhrzeit der letzten Gabe und der Abnahme gehören auf den Auftrag. Man nimmt nie aus dem Zugang ab.
+>
+> Vancomycin richtet man nach dem Talspiegel, Gentamicin soll einen Talspiegel unter etwa einem Milligramm pro Liter haben. Digoxin nimmt man frühestens sechs bis acht Stunden nach der Einnahme ab. Lithium misst man nach zwölf Stunden, nie im Lithiumheparin. Immunsuppressiva misst man im EDTA-Vollblut.
+>
+> Im nächsten Teil geht es um die Toxikologie.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-acht-toxikologie"></a>
+
+# 🧫 Teil acht: Toxikologie
+<sub>Part eight: Toxicology</sub>
+
+Der achte Teil behandelt die Toxikologie im klinischen Labor. Hier geht es um Vergiftungen, die in der Notaufnahme schnell erkannt werden müssen. Das Drogenscreening im Urin kennst du schon aus dem Leitfaden zu Urin, Liquor und Punktaten.
+
+Der Teil hat sieben Steckbriefe. Zuerst kommt das Ethanol. Dann folgen Paracetamol und Kohlenmonoxid. Danach kommen die giftigen Alkohole mit der osmotischen Lücke und die Bestätigungsanalytik. Am Ende stehen die Cholinesterase und die Schwermetalle.
+
+| Nr. | Steckbrief | Auf einen Blick |
+|:--:|---|---|
+| `28` | [**Das Ethanol**](#das-ethanol) | Ethanol misst man klinisch im Serum enzymatisch mit der Alkoholdehydrogenase. |
+| `29` | [**Das Paracetamol**](#das-paracetamol) | Paracetamol schädigt in Überdosis die Leber, wenn das Glutathion verbraucht ist. |
+| `30` | [**Das Kohlenmonoxid**](#das-kohlenmonoxid) | Kohlenmonoxid bindet viel stärker an Hämoglobin als Sauerstoff. |
+| `31` | [**Die giftigen Alkohole**](#die-giftigen-alkohole) | Methanol und Ethylenglykol sind über ihre Abbauprodukte giftig. |
+| `32` | [**Die Bestätigungsanalytik**](#die-bestätigungsanalytik) | Suchtests sind schnell, aber vorläufig. |
+| `33` | [**Die Cholinesterase**](#die-cholinesterase) | Die Cholinesterase im Serum stammt aus der Leber. |
+| `34` | [**Blei und Schwermetalle**](#blei-und-schwermetalle) | Blei sitzt in den roten Blutkörperchen und wird im EDTA-Vollblut gemessen. |
+
+<a id="das-ethanol"></a>
+
+## 🧪 Das Ethanol
+<sub>Ethanol</sub>
+
+> `Steckbrief 28` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Ethanol ist der Trinkalkohol. Es ist die häufigste Vergiftung in der Notaufnahme. Man misst es bei Bewusstlosen, nach Unfällen und bei Verdacht auf eine Mischvergiftung. Für Gerichte gelten eigene, strengere Regeln der Rechtsmedizin.
+
+#### 💡 Grundlage
+
+Ethanol wird im Darm schnell aufgenommen und verteilt sich im Körperwasser. Die Leber baut es mit gleichmäßiger Geschwindigkeit ab, unabhängig von der Menge. Pro Stunde sinkt der Spiegel um etwa null Komma eins bis null Komma zwei Promille. Ethanol erhöht die Osmolalität des Blutes. Hohe Spiegel lähmen die Atmung und senken den Blutzucker.
+
+#### 🧪 Probe und Messung
+
+Im klinischen Labor misst man Ethanol im Serum mit einer enzymatischen Methode. Das Enzym Alkoholdehydrogenase setzt Ethanol um, und man misst die Bildung von NADH photometrisch. Die Haut desinfiziert man vor der Abnahme ohne Alkohol. Das Röhrchen bleibt bis zur Messung verschlossen. Für Gerichte misst ein rechtsmedizinisches Labor mit zwei verschiedenen Methoden, darunter die Gaschromatographie.
+
+#### 📊 Die Werte
+
+Das Labor gibt das Ethanol meist in Gramm pro Liter oder in Promille an. Werte im Serum liegen etwa um den Faktor I Komma zwei höher als im Vollblut. Die Promillegrenzen für den Straßenverkehr beziehen sich auf Vollblut. Über etwa drei Promille droht bei Ungeübten eine lebensgefährliche Vergiftung. Bei Menschen mit starker Gewöhnung sind höhere Werte möglich.
+
+#### ⚠️ Fehlerquellen
+
+Ein Hautdesinfektionsmittel mit Alkohol kann den Wert erhöhen. Ein offenes Röhrchen verliert Ethanol durch Verdunstung. Hohe Werte von Laktat und Laktatdehydrogenase können die enzymatische Methode stören und Ethanol vortäuschen. Ein klinischer Wert aus dem Serum ist für Gerichte nicht verwertbar.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein Bewusstloser mit Alkoholgeruch hat nicht immer nur eine Alkoholvergiftung. Ein niedriger Ethanolspiegel lenkt den Blick auf andere Ursachen, etwa eine Kopfverletzung oder andere Gifte. Für dich zählen die Probe ohne Alkoholtupfer und der Hinweis, dass der Wert aus dem Serum stammt.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Ethanol misst man klinisch im Serum enzymatisch mit der Alkoholdehydrogenase. Serumwerte liegen etwa ein Fünftel höher als Vollblutwerte. Man desinfiziert ohne Alkohol und hält das Röhrchen verschlossen. Der Spiegel sinkt um etwa null Komma eins bis null Komma zwei Promille pro Stunde.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-paracetamol"></a>
+
+## 🧪 Das Paracetamol
+<sub>Paracetamol</sub>
+
+> `Steckbrief 29` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Paracetamol ist ein häufiges Schmerzmittel. In großer Menge schädigt es die Leber schwer. Eine Vergiftung ist oft ein Suizidversuch, manchmal ein Versehen. Sie ist tückisch, weil der Patient in den ersten Stunden kaum Beschwerden hat. Es gibt aber ein wirksames Gegenmittel.
+
+#### 💡 Grundlage
+
+Die Leber baut Paracetamol vor allem zu harmlosen Stoffen ab. Ein kleiner Teil wird zu einem giftigen Zwischenprodukt. Normalerweise entgiftet das Glutathion der Leber dieses Produkt. Bei einer Überdosis ist das Glutathion verbraucht. Dann zerstört das Zwischenprodukt die Leberzellen. Das Gegenmittel Acetylcystein füllt das Glutathion wieder auf.
+
+#### 🧪 Probe und Messung
+
+Man misst das Paracetamol im Serum mit einem enzymatischen oder immunologischen Test. Der erste Spiegel ist frühestens vier Stunden nach der Einnahme sinnvoll. Vorher ist die Aufnahme noch nicht abgeschlossen. Die Uhrzeit der Einnahme gehört unbedingt auf den Auftrag. Dazu misst man Leberwerte, Gerinnung und Kreatinin.
+
+#### 📊 Die Werte
+
+Man trägt den Spiegel in ein Diagramm ein, gegen die Zeit seit der Einnahme. Liegt der Wert über einer Behandlungslinie, gibt man Acetylcystein. Vier Stunden nach der Einnahme liegt diese Linie je nach Land bei etwa hundert bis hundertfünfzig Milligramm pro Liter. Die Leberwerte steigen erst nach ein bis drei Tagen. Ein normales Paracetamol ohne Zeitangabe schließt nichts aus.
+
+#### ⚠️ Fehlerquellen
+
+Ein Spiegel vor vier Stunden kann eine gefährliche Vergiftung unterschätzen. Ist der Zeitpunkt der Einnahme unbekannt, ist das Diagramm nicht nutzbar. Dann behandelt man im Zweifel. Bei Einnahme über mehrere Tage gilt das Diagramm ebenfalls nicht. Hohe Werte von Bilirubin können manche Tests stören.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Das Gegenmittel wirkt am besten in den ersten acht Stunden. Ein schneller Spiegel entscheidet also über die Leber des Patienten. Ein hoher Wert ist ein kritischer Befund und wird sofort gemeldet. Für dich zählt, dass die Zeit seit der Einnahme bekannt ist.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Paracetamol schädigt in Überdosis die Leber, wenn das Glutathion verbraucht ist. Den Spiegel misst man frühestens vier Stunden nach der Einnahme. Man vergleicht ihn mit einer Behandlungslinie in einem Diagramm. Das Gegenmittel ist Acetylcystein. Die Leberwerte steigen erst nach Tagen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="das-kohlenmonoxid"></a>
+
+## 🧪 Das Kohlenmonoxid
+<sub>Carbon monoxide</sub>
+
+> `Steckbrief 30` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Kohlenmonoxid ist ein farbloses und geruchloses Gas. Es entsteht bei unvollständiger Verbrennung. Typische Quellen sind Brände, defekte Heizungen, Shisha-Bars und Grills in geschlossenen Räumen. Man misst den Anteil des Hämoglobins, an den Kohlenmonoxid gebunden ist, das CO-Hb.
+
+#### 💡 Grundlage
+
+Kohlenmonoxid bindet etwa zweihundertfünfzig Mal stärker an Hämoglobin als Sauerstoff. Das so besetzte Hämoglobin kann keinen Sauerstoff mehr tragen. Das Gewebe leidet unter Sauerstoffmangel, obwohl das Blut hellrot aussieht. Gehirn und Herz sind besonders empfindlich. Sauerstoffgabe verdrängt das Kohlenmonoxid schneller.
+
+#### 🧪 Probe und Messung
+
+Man misst das CO-Hb mit dem Blutgasanalysator. Er enthält ein Oxymeter, das Licht vieler Wellenlängen nutzt. So unterscheidet es die verschiedenen Formen des Hämoglobins. Man nutzt eine Blutgasspritze mit Heparin, venös oder arteriell. Die Spritze bleibt luftdicht verschlossen und wird schnell gemessen. Das Oxymeter misst gleichzeitig das Methämoglobin.
+
+#### 📊 Die Werte
+
+Bei Nichtrauchern liegt das CO-Hb unter etwa zwei Prozent. Bei starken Rauchern kann es bis etwa zehn Prozent erreichen. Werte über etwa fünfzehn bis zwanzig Prozent verursachen Kopfschmerz, Übelkeit und Schwindel. Bei sehr hohen Werten drohen Bewusstlosigkeit und Tod. Die Höhe des Wertes passt aber nicht immer genau zur Schwere.
+
+#### ⚠️ Fehlerquellen
+
+Das normale Pulsoxymeter am Finger erkennt CO-Hb nicht. Es zeigt eine normale Sättigung, obwohl der Patient schwer vergiftet ist. Wurde vor der Abnahme schon lange Sauerstoff gegeben, ist der Wert niedriger als bei der Vergiftung. Darum gehört die Sauerstoffgabe auf den Auftrag. Eine lange gelagerte oder offene Probe ist ungeeignet.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Eine Kohlenmonoxidvergiftung wird leicht übersehen, weil sie wie eine Grippe beginnt. Oft sind mehrere Menschen im selben Haushalt betroffen. Ein schneller Wert aus dem Blutgasgerät rettet Leben. Ein deutlich erhöhter Wert ist ein kritischer Befund.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Kohlenmonoxid bindet viel stärker an Hämoglobin als Sauerstoff. Man misst das CO-Hb mit dem Oxymeter des Blutgasanalysators. Nichtraucher liegen unter etwa zwei Prozent, Raucher bis etwa zehn. Das Pulsoxymeter am Finger erkennt die Vergiftung nicht. Sauerstoffgabe senkt den Wert schnell.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-giftigen-alkohole"></a>
+
+## 🧪 Die giftigen Alkohole
+<sub>Toxic alcohols</sub>
+
+> `Steckbrief 31` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Zu den giftigen Alkoholen gehören vor allem Methanol und Ethylenglykol. Methanol findet man in gepanschtem Schnaps und in Scheibenreinigern. Ethylenglykol ist in Frostschutzmitteln enthalten. Beide Vergiftungen sind selten, aber tödlich, wenn man sie spät erkennt.
+
+#### 💡 Grundlage
+
+Die Alkohole selbst sind wenig giftig. Gefährlich werden ihre Abbauprodukte. Methanol wird zu Ameisensäure abgebaut. Sie schädigt den Sehnerv und kann blind machen. Ethylenglykol wird unter anderem zu Oxalsäure abgebaut. Sie schädigt die Niere. Beide Vergiftungen führen zu einer schweren Azidose mit großer Anionenlücke.
+
+#### 🧪 Probe und Messung
+
+Ein wichtiger Hinweis ist die osmotische Lücke. Man misst die Osmolalität des Serums mit der Gefrierpunktsmethode. Dann berechnet man sie aus Natrium, Glukose und Harnstoff. Ist die gemessene Osmolalität deutlich höher, sind unbekannte Teilchen im Blut. Die Alkohole selbst misst man mit der Gaschromatographie in einem Speziallabor.
+
+#### 📊 Die Werte
+
+Eine osmotische Lücke über etwa zehn Milliosmol pro Kilogramm ist auffällig. Sie spricht zusammen mit einer Azidose für eine Vergiftung mit giftigen Alkoholen. Auch Ethanol erhöht die osmotische Lücke. Darum misst man das Ethanol immer mit. Im Urin findet man bei Ethylenglykol oft Kristalle aus Calciumoxalat.
+
+#### ⚠️ Fehlerquellen
+
+Eine Osmolalität, die mit dem Dampfdruckverfahren gemessen wird, erkennt flüchtige Alkohole nicht. Darum braucht man die Gefrierpunktsmethode. Spät im Verlauf ist der Alkohol schon abgebaut. Dann ist die osmotische Lücke klein, die Azidose aber schwer. Eine normale Lücke schließt eine Vergiftung also nicht aus.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Gegen beide Vergiftungen gibt es ein Gegenmittel, das den Abbau bremst. Auch die Dialyse hilft. Je früher man behandelt, desto besser. Eine osmotische Lücke aus dem Routinelabor kann den entscheidenden Hinweis geben, bevor die Spezialmessung vorliegt.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Methanol und Ethylenglykol sind über ihre Abbauprodukte giftig. Methanol macht blind, Ethylenglykol schädigt die Niere. Beide verursachen eine Azidose mit großer Anionenlücke. Eine osmotische Lücke über etwa zehn ist ein Hinweis. Man misst die Osmolalität mit der Gefrierpunktsmethode.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-bestätigungsanalytik"></a>
+
+## 🧪 Die Bestätigungsanalytik
+<sub>Confirmatory testing</sub>
+
+> `Steckbrief 32` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Viele Suchtests in der Toxikologie sind Immuntests. Sie sind schnell, aber nicht ganz sicher. Ein positives Ergebnis kann durch ähnliche Stoffe entstehen. Darum bestätigt man wichtige Ergebnisse mit einer zweiten, genaueren Methode. Man nennt das Bestätigungsanalytik.
+
+#### 💡 Grundlage
+
+Für die Bestätigung trennt man die Stoffe zuerst durch eine Chromatographie. Dann bestimmt man sie in einem Massenspektrometer nach ihrer Masse und ihren Bruchstücken. So erkennt man einen Stoff eindeutig. Die zwei wichtigsten Verfahren sind die GC-MS und die LC-MS/MS. Mit ihnen kann man auch nach unbekannten Giften suchen.
+
+#### 🧪 Probe und Messung
+
+Für den Nachweis eines Konsums eignet sich der Urin am besten. Viele Stoffe sind dort noch Tage nach der Einnahme nachweisbar. Für die aktuelle Wirkung misst man im Blut. Haare zeigen einen Konsum über Monate. Bei rechtlichen Fragen muss der Weg der Probe lückenlos dokumentiert sein, von der Abnahme bis zur Messung.
+
+#### 📊 Die Werte
+
+Ein Suchtest gibt meist nur positiv oder negativ aus, bezogen auf einen Grenzwert. Ein positiver Suchtest gilt als vorläufig. Erst die Bestätigung nennt den genauen Stoff und oft seine Menge. Im Blut kann man daraus abschätzen, ob ein Stoff noch wirkt. Ein negatives Ergebnis gilt nur für die gesuchten Stoffe.
+
+#### ⚠️ Fehlerquellen
+
+Manche Medikamente lösen falsch positive Suchtests aus. Ein Beispiel sind bestimmte Mittel gegen Depressionen bei Amphetaminen. Viele neue Drogen erkennt kein Suchtest. Ein verdünnter Urin kann ein negatives Ergebnis vortäuschen. Ohne Bestätigung darf ein positiver Suchtest keine rechtlichen Folgen haben.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Ein falsches positives Ergebnis kann einen Menschen den Arbeitsplatz oder den Führerschein kosten. Ein übersehenes Gift kann ein Leben kosten. Die Bestätigung schützt vor beidem. Für dich zählen die richtige Probe und die lückenlose Dokumentation.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Suchtests sind schnell, aber vorläufig. Die Bestätigung erfolgt mit der GC-MS oder der LC-MS/MS. Urin zeigt einen Konsum über Tage, Blut die aktuelle Wirkung, Haare Monate. Ohne Bestätigung keine rechtlichen Folgen. Bei rechtlichen Fragen wird der Weg der Probe lückenlos dokumentiert.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="die-cholinesterase"></a>
+
+## 🧪 Die Cholinesterase
+<sub>Cholinesterase</sub>
+
+> `Steckbrief 33` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Die Cholinesterase ist ein Enzym, das man im Serum misst. Genauer heißt sie Butyrylcholinesterase oder Pseudocholinesterase. Sie wird in der Leber gebildet. Man misst sie bei Vergiftungen mit Pflanzenschutzmitteln, als Maß für die Leistung der Leber und vor Narkosen.
+
+#### 💡 Grundlage
+
+Der Körper hat zwei Cholinesterasen. Die echte Acetylcholinesterase sitzt an den Nerven und auf den roten Blutkörperchen. Sie baut den Botenstoff Acetylcholin ab. Die Cholinesterase im Serum stammt aus der Leber. Organophosphate aus Pflanzenschutzmitteln und Nervenkampfstoffen hemmen beide Enzyme. Dann wirkt das Acetylcholin zu stark.
+
+#### 🧪 Probe und Messung
+
+Man misst die Cholinesterase im Serum oder Plasma photometrisch als Enzymaktivität. Die Probe ist recht stabil. Bei Vergiftungen kann ein Speziallabor auch die Acetylcholinesterase der roten Blutkörperchen messen. Vor einer Narkose prüft man bei Verdacht auch eine angeborene Variante des Enzyms.
+
+#### 📊 Die Werte
+
+Bei einer Vergiftung mit Organophosphaten sinkt die Cholinesterase stark ab. Die Patienten haben enge Pupillen, Speichelfluss, Durchfall, Muskelzucken und Atemnot. Bei Lebererkrankungen sinkt sie langsam, weil die Leber weniger Eiweiß bildet. Bei manchen Menschen ist das Enzym angeboren wenig wirksam. Dann wirkt ein bestimmtes Muskelrelaxans bei der Narkose sehr lange.
+
+#### ⚠️ Fehlerquellen
+
+Auch Schwangerschaft, Entzündungen und Mangelernährung senken die Cholinesterase. Ein einzelner niedriger Wert ist darum nicht beweisend. Man vergleicht ihn möglichst mit einem Vorwert. Verschiedene Methoden haben verschiedene Referenzbereiche. Nach einer Bluttransfusion ist die Aktivität verfälscht.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Vergiftungen mit Pflanzenschutzmitteln sind weltweit häufig. Die Cholinesterase bestätigt den Verdacht schnell. Sie hilft auch, die Behandlung zu steuern. Vor einer Narkose kann sie eine gefährlich lange Lähmung der Atmung verhindern.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Die Cholinesterase im Serum stammt aus der Leber. Organophosphate aus Pflanzenschutzmitteln hemmen sie stark. Sie sinkt auch bei Lebererkrankungen. Eine angeborene Variante verlängert die Wirkung eines Muskelrelaxans bei der Narkose. Man misst sie photometrisch als Enzymaktivität.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="blei-und-schwermetalle"></a>
+
+## 🧪 Blei und Schwermetalle
+<sub>Lead and heavy metals</sub>
+
+> `Steckbrief 34` · **🧫 Toxikologie**
+
+#### 🧭 Einordnung
+
+Schwermetalle wie Blei, Quecksilber, Cadmium und Arsen können sich im Körper anreichern. Vergiftungen entstehen meist langsam, etwa am Arbeitsplatz, durch alte Wasserleitungen oder belastete Lebensmittel. Man misst sie in der Arbeitsmedizin, bei Verdacht auf eine Vergiftung und in der Umweltmedizin.
+
+#### 💡 Grundlage
+
+Blei wird im Körper vor allem in den roten Blutkörperchen und in den Knochen gespeichert. Es hemmt Enzyme der Hämbildung. Dadurch entsteht eine Blutarmut. Im Blutausstrich sieht man eine basophile Tüpfelung der roten Blutkörperchen. Blei schädigt außerdem Nerven, Niere und bei Kindern die Entwicklung des Gehirns.
+
+#### 🧪 Probe und Messung
+
+Blei misst man im EDTA-Vollblut, weil es in den Zellen sitzt. Quecksilber, Arsen und Cadmium misst man oft im Urin. Man nutzt spezielle Röhrchen, die frei von Metallen sind. Gemessen wird mit der Atomabsorption oder mit der Massenspektrometrie mit induktiv gekoppeltem Plasma. Das ist ein sehr empfindliches Verfahren für Metalle.
+
+#### 📊 Die Werte
+
+Für Blei und andere Metalle gibt es Referenzwerte für die Bevölkerung und Grenzwerte für den Arbeitsplatz. Bei Kindern gilt schon ein niedriger Bleiwert als bedenklich. Beim Arsen im Urin muss man das harmlose Arsen aus Fisch und Meeresfrüchten vom giftigen Arsen unterscheiden. Hohe Werte führen zu einer Suche nach der Quelle.
+
+#### ⚠️ Fehlerquellen
+
+Metalle sind fast überall. Eine Verunreinigung durch Röhrchen, Nadeln oder Staub erhöht die Werte. Darum nutzt man geprüfte Materialien. Fisch in den Tagen vor der Probe erhöht Arsen und Quecksilber im Urin. Serum statt Vollblut zeigt beim Blei falsch niedrige Werte.
+
+> [!TIP]
+> **🏥 Warum ist das im Labor wichtig?** Schwermetallvergiftungen sind selten, aber oft unerkannt. Unklare Bauchschmerzen, Blutarmut und Nervenschäden können ein Hinweis sein. Ein richtig abgenommener Wert führt zur Quelle, etwa einer alten Bleileitung. Bei Kindern schützt eine frühe Erkennung die Entwicklung.
+
+> [!NOTE]
+> **📌 Kurz gesagt:** Blei sitzt in den roten Blutkörperchen und wird im EDTA-Vollblut gemessen. Es hemmt die Hämbildung und macht eine basophile Tüpfelung. Quecksilber, Arsen und Cadmium misst man oft im Urin. Man nutzt metallfreie Röhrchen. Fisch erhöht Arsen und Quecksilber im Urin.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="zusammenfassung-teil-acht"></a>
+
+### 📝 Zusammenfassung Teil acht
+<sub>Part eight summary</sub>
+
+> Ethanol misst man klinisch enzymatisch im Serum, ohne Alkoholtupfer. Serumwerte liegen etwa ein Fünftel höher als Vollblutwerte. Paracetamol misst man frühestens vier Stunden nach der Einnahme und vergleicht es mit einer Behandlungslinie. Das Gegenmittel ist Acetylcystein. CO-Hb misst das Oxymeter des Blutgasgeräts, nicht das Pulsoxymeter.
+>
+> Methanol und Ethylenglykol erhöhen die osmotische Lücke und machen eine Azidose. Suchtests sind vorläufig und werden mit GC-MS oder LC-MS/MS bestätigt. Organophosphate hemmen die Cholinesterase. Blei misst man im EDTA-Vollblut mit metallfreien Röhrchen.
+>
+> Im letzten Teil folgt ein Schnellüberblick zum Wiederholen.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="teil-neun-schnellüberblick"></a>
+
+# ⚡ Teil neun: Schnellüberblick
+<sub>Part nine: Quick reference</sub>
+
+Der letzte Teil fasst den Leitfaden zum Wiederholen zusammen. Er hat drei Kapitel. Zuerst kommen die typischen Befunde und Zahlen. Dann folgen die häufigen Verwechslungen. Am Ende steht die Gesamtzusammenfassung.
+
+<a id="typische-befunde"></a>
+
+## 📖 Typische Befunde
+<sub>Typical findings</sub>
+
+Hier sind die Befunde und Zahlen, die du für die Prüfung kennen solltest. Sie sind nach Teilen geordnet.
+
+Bei einer primären Unterfunktion ist das Hormon niedrig und das Steuerhormon hoch. Bei einer sekundären Unterfunktion sind beide niedrig. Ein Morgencortisol unter etwa drei Mikrogramm pro Deziliter spricht für einen Mangel. Im Dexamethason-Hemmtest sinkt das Cortisol beim Gesunden unter etwa eins Komma acht. Das ACTH wird gekühlt, das Renin nicht.
+
+Ein Prolaktin über etwa zweihundert Nanogramm pro Milliliter spricht für ein großes Prolaktinom. Die Akromegalie sucht man mit dem IGF-1. Statt ADH misst man das Copeptin. Hohes Calcium mit hohem PTH zeigt einen primären Hyperparathyreoidismus. Ein Calcitonin über etwa hundert Pikogramm pro Milliliter ist sehr verdächtig.
+
+Ein Progesteron über etwa drei Nanogramm pro Milliliter in der zweiten Zyklushälfte zeigt einen Eisprung. Testosteron nimmt man morgens ab. Bei Trisomie einundzwanzig ist das freie Beta-hCG hoch und das PAPP-A niedrig. Hohes Insulin mit niedrigem C-Peptid zeigt gespritztes Insulin. Das Neugeborenenscreening erfolgt zwischen der sechsunddreißigsten und zweiundsiebzigsten Lebensstunde.
+
+Der Steady State ist nach etwa fünf Halbwertszeiten erreicht. Der Gentamicin-Talspiegel soll unter etwa einem Milligramm pro Liter liegen. Digoxin nimmt man frühestens sechs bis acht Stunden nach der Einnahme ab. Lithium liegt meist bei etwa null Komma sechs bis null Komma acht Millimol pro Liter und wird nach zwölf Stunden gemessen. Immunsuppressiva misst man im EDTA-Vollblut.
+
+Paracetamol misst man frühestens nach vier Stunden. Das CO-Hb liegt bei Nichtrauchern unter etwa zwei Prozent. Eine osmotische Lücke über etwa zehn ist auffällig. Blei misst man im EDTA-Vollblut.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="häufige-verwechslungen"></a>
+
+## 📖 Häufige Verwechslungen
+<sub>Common mix-ups</sub>
+
+Hier sind die Begriffe, die in der Prüfung oft verwechselt werden.
+
+Primäre und sekundäre Störung. Bei der primären Störung ist die Hormondrüse krank, und das Steuerhormon ist bei einer Unterfunktion hoch. Bei der sekundären Störung liegt das Problem in der Hypophyse.
+
+Stimulationstest und Suppressionstest. Der Stimulationstest prüft einen Mangel. Der Suppressionstest prüft einen Überschuss.
+
+Sandwichtest und kompetitiver Test. Der Sandwichtest misst große Moleküle mit zwei Antikörpern. Der kompetitive Test misst kleine Moleküle wie Steroide und Medikamente.
+
+Wachstumshormon und IGF-1. Das Wachstumshormon schwankt stark. Das IGF-1 ist stabil und eignet sich als Suchtest.
+
+Thyreoglobulin und Antikörper gegen Thyreoglobulin. Thyreoglobulin ist der Tumormarker. Die Antikörper stören seine Messung und werden immer mitbestimmt.
+
+Talspiegel und Spitzenspiegel. Der Talspiegel ist der niedrigste Wert direkt vor der nächsten Dosis. Der Spitzenspiegel ist der höchste Wert kurz nach der Gabe.
+
+Lithium und Lithiumheparin. Lithium ist ein Medikament. Lithiumheparin ist ein Zusatz im Röhrchen und macht jede Lithiummessung falsch hoch.
+
+Serum und Vollblut beim Ethanol. Werte im Serum liegen etwa ein Fünftel höher. Die Promillegrenzen beziehen sich auf Vollblut.
+
+Pulsoxymeter und Oxymeter im Blutgasgerät. Das Pulsoxymeter am Finger erkennt Kohlenmonoxid nicht. Das Oxymeter im Blutgasgerät misst das CO-Hb.
+
+Suchtest und Bestätigung. Der Suchtest ist schnell und vorläufig. Die Bestätigung mit Massenspektrometrie ist eindeutig.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+<a id="gesamtzusammenfassung"></a>
+
+## 📖 Gesamtzusammenfassung
+<sub>Final summary</sub>
+
+Dieser Leitfaden hat Hormone, Medikamentenspiegel und Vergiftungen behandelt. Hormone werden über Regelkreise gesteuert. Ein Hormonwert ist darum oft nur mit seinem Steuerhormon zu deuten. Funktionstests prüfen Mangel und Überschuss. Die Messung hängt stark von der Methode ab.
+
+In der Nebenniere sucht man nach Mangel und Überschuss von Cortisol, nach einem primären Hyperaldosteronismus und nach einem Phäochromozytom. Prolaktin, IGF-1 und Copeptin zeigen Störungen der Hypophyse. Thyreoglobulin und Calcitonin sind Marker für Schilddrüsenkrebs. Das PTH klärt Störungen des Calciums. Geschlechtshormone braucht man bei Kinderwunsch, Zyklusstörungen und Hormonmangel.
+
+Beim Drug Monitoring zählt vor allem der Zeitpunkt der Abnahme. Die Toxikologie braucht schnelle Werte für Ethanol, Paracetamol und Kohlenmonoxid. Unklare Fälle klärt die osmotische Lücke oder die Massenspektrometrie.
+
+Über allem stehen drei Regeln. Erstens: Ohne Uhrzeit ist ein Hormon oder ein Spiegel kaum zu deuten. Zweitens: Das richtige Röhrchen und die richtige Temperatur entscheiden über den Wert. Drittens: Ein Wert, der nicht zum Patienten passt, kann ein Messfehler sein. Mit diesen Regeln wird aus jeder Messung ein Befund, der dem Patienten hilft.
+
+Damit endet der sechzehnte Hörleitfaden. Viel Erfolg in der Ausbildung und in der Prüfung.
+
+<p align="right"><a href="#contents">↑ Inhalt</a></p>
+
+---
+
+<a id="register"></a>
+
+## 🔤 Register A–Z
+
+| Steckbrief | Gruppe | Nr. |
+|---|---|:--:|
+| [Das AMH](#das-a-m-h) | Fortpflanzung | `17` |
+| [Der Aldosteron-Renin-Quotient](#der-aldosteron-renin-quotient) | Die Nebenniere | `05` |
+| [Antidiuretisches Hormon, Copeptin](#antidiuretisches-hormon-copeptin) | Die Hypophyse | `09` |
+| [Die Antiepileptika](#die-antiepileptika) | Medikamentenspiegel | `26` |
+| [Die Bestätigungsanalytik](#die-bestätigungsanalytik) | Toxikologie | `32` |
+| [Blei und Schwermetalle](#blei-und-schwermetalle) | Toxikologie | `34` |
+| [Das Calcitonin](#das-calcitonin) | Schilddrüse, Nebenschilddrüse | `12` |
+| [Die Cholinesterase](#die-cholinesterase) | Toxikologie | `33` |
+| [Das Cortisol](#das-cortisol) | Die Nebenniere | `03` |
+| [Die Cushing-Diagnostik](#die-cushing-diagnostik) | Die Nebenniere | `04` |
+| [Das Digoxin](#das-digoxin) | Medikamentenspiegel | `24` |
+| [Das Ersttrimesterscreening](#das-ersttrimesterscreening) | Fortpflanzung | `18` |
+| [Das Ethanol](#das-ethanol) | Toxikologie | `28` |
+| [Die giftigen Alkohole](#die-giftigen-alkohole) | Toxikologie | `31` |
+| [Die Gonadotropine](#die-gonadotropine) | Fortpflanzung | `14` |
+| [Grundlagen der Spiegelmessung](#grundlagen-der-spiegelmessung) | Medikamentenspiegel | `22` |
+| [Die Immunsuppressiva](#die-immunsuppressiva) | Medikamentenspiegel | `27` |
+| [Insulin und C-Peptid](#insulin-und-c-peptid) | Stoffwechsel | `19` |
+| [Die Ketonkörper](#die-ketonkörper) | Stoffwechsel | `20` |
+| [Das Kohlenmonoxid](#das-kohlenmonoxid) | Toxikologie | `30` |
+| [Das Lithium](#das-lithium) | Medikamentenspiegel | `25` |
+| [Die Messung von Hormonen](#die-messung-von-hormonen) | Grundlagen | `02` |
+| [Die Metanephrine](#die-metanephrine) | Die Nebenniere | `06` |
+| [Das Neugeborenenscreening](#das-neugeborenenscreening) | Stoffwechsel | `21` |
+| [Das Paracetamol](#das-paracetamol) | Toxikologie | `29` |
+| [Das Parathormon](#das-parathormon) | Schilddrüse, Nebenschilddrüse | `13` |
+| [Das Prolaktin](#das-prolaktin) | Die Hypophyse | `07` |
+| [Regelkreise und Funktionstests](#regelkreise-und-funktionstests) | Grundlagen | `01` |
+| [Die Schilddrüsenantikörper](#die-schilddrüsenantikörper) | Schilddrüse, Nebenschilddrüse | `10` |
+| [Das Testosteron](#das-testosteron) | Fortpflanzung | `16` |
+| [Das Thyreoglobulin](#das-thyreoglobulin) | Schilddrüse, Nebenschilddrüse | `11` |
+| [Vancomycin und Aminoglykoside](#vancomycin-und-aminoglykoside) | Medikamentenspiegel | `23` |
+| [Das Wachstumshormon](#das-wachstumshormon) | Die Hypophyse | `08` |
+| [Östradiol und Progesteron](#östradiol-und-progesteron) | Fortpflanzung | `15` |
+
+<sub>encyclopedia_klinische_chemie_ii_de.txt</sub>
