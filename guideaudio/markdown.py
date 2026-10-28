@@ -34,13 +34,14 @@ SECTION_ICONS = {
     "Wirkweise": "⚙️", "Hintergrund": "💡", "Probe und Methode": "🧪", "Der Befund": "📋",
     "Grundlage": "💡", "Praxis": "🛠️", "Im Präparat": "🔬", "Das Ergebnis": "📈", "Die Vorgabe": "📏",
     "Symptome": "🤒", "Die Laborbefunde": "🔎", "Verlauf und Therapie": "💊",
+    "Der Fall": "📝", "Die Befunde": "🔢", "Die Lösung": "✅", "Die Begründung": "💡", "Die Falle": "🪤",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
                "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️",
                "histologie": "🔬", "molekular": "🧬", "urin": "💧",
                "mikrobiologie": "🧫", "qualitaet": "📋",
-               "laborgeraete": "⚗️", "krankheitsbilder": "🩺"}
+               "laborgeraete": "⚗️", "krankheitsbilder": "🩺", "pruefungsfaelle": "🎯"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
