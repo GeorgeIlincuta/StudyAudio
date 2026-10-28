@@ -32,13 +32,13 @@ SECTION_ICONS = {
     "Nebenwirkungen": "⚠️", "Im Labor": "🧫", "Bildung und Aufgabe": "⚙️", "Probe und Messung": "🧪",
     "Die Werte": "📊", "Fehlerquellen": "⚠️", "Entstehung": "🌱", "Im Ausstrich": "🔬",
     "Wirkweise": "⚙️", "Hintergrund": "💡", "Probe und Methode": "🧪", "Der Befund": "📋",
-    "Grundlage": "💡", "Praxis": "🛠️", "Im Präparat": "🔬", "Das Ergebnis": "📈",
+    "Grundlage": "💡", "Praxis": "🛠️", "Im Präparat": "🔬", "Das Ergebnis": "📈", "Die Vorgabe": "📏",
 }
 # Entry icon by a word in the file name; other subjects get the plain bookmark.
 ENTRY_ICONS = {"bakterien": "🦠", "viren": "🦠", "pilze": "🦠", "parasiten": "🦠", "chemie": "🧪",
                "haematologie": "🩸", "haemostase": "🩹", "immunologie": "🛡️",
                "histologie": "🔬", "molekular": "🧬", "urin": "💧",
-               "mikrobiologie": "🧫"}
+               "mikrobiologie": "🧫", "qualitaet": "📋"}
 # Spoken numbers of the CD markers, longest first so "dreiunddreißig" is not read as "drei".
 CD_NUMBERS = {"achtunddreißig": 38, "dreiunddreißig": 33, "dreiundzwanzig": 23, "vierunddreißig": 34, "neunzehn": 19, "dreizehn": 13,
               "zwanzig": 20, "drei": 3, "vier": 4, "fünf": 5, "acht": 8}
@@ -79,7 +79,12 @@ def readable(text: str) -> str:
                             ("C I N eins", "CIN1"), ("C I N zwei", "CIN2"), ("C I N drei", "CIN3"),
                             ("S G L T-zwei", "SGLT2"), ("Rili-B Ä K", "Rili-BÄK"), ("Teil B eins", "Teil B1"),
                             ("Teil B zwei", "Teil B2"), ("Protein vierzehn drei drei", "Protein 14-3-3"),
-                            ("drei M R G N", "3MRGN"), ("vier M R G N", "4MRGN")):
+                            ("drei M R G N", "3MRGN"), ("vier M R G N", "4MRGN"),
+                            ("I S O fünfzehntausendeinhundertneunundachtzig", "ISO 15189"),
+                            ("I S O neuntausendeins", "ISO 9001"), ("D Akk S", "DAkkS"), ("Teil B drei", "Teil B3"),
+                            ("Teil B vier", "Teil B4"), ("Teil B fünf", "Teil B5"), ("Eins-zwei-s", "1-2s"),
+                            ("Eins-drei-s", "1-3s"), ("Zwei-zwei-s", "2-2s"), ("R-vier-s", "R-4s"),
+                            ("Vier-eins-s", "4-1s"), ("Zehn-x", "10x")):
         text = re.sub(rf"\b{re.escape(spoken)}\b", written, text)
     text = re.sub(r"\b(Blutgruppen?|Gruppe) null\b", r"\1 0", text)
     text = re.sub(r"\bH b\b(?: ([AFS])\b)?", r"Hb\1", text)

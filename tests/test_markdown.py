@@ -91,6 +91,10 @@ def test_voice_spellings_go_back_to_written_form():
     assert (readable("Ein S G L T-zwei-Hemmer, die Rili-B Ä K mit Teil B eins und Teil B zwei, das Protein vierzehn drei drei.")
             == "Ein SGLT2-Hemmer, die Rili-BÄK mit Teil B1 und Teil B2, das Protein 14-3-3.")
     assert readable("Ein drei M R G N und ein vier M R G N.") == "Ein 3MRGN und ein 4MRGN."
+    assert (readable("Die I S O fünfzehntausendeinhundertneunundachtzig, die I S O neuntausendeins, die D Akk S und Teil B drei bis Teil B fünf.")
+            == "Die ISO 15189, die ISO 9001, die DAkkS und Teil B3 bis Teil B5.")
+    assert (readable("Die Eins-zwei-s-Regel, die Eins-drei-s-Regel, die Zwei-zwei-s-Regel, die R-vier-s-Regel, die Vier-eins-s-Regel und die Zehn-x-Regel.")
+            == "Die 1-2s-Regel, die 1-3s-Regel, die 2-2s-Regel, die R-4s-Regel, die 4-1s-Regel und die 10x-Regel.")
 
 
 def test_entry_icon_follows_the_subject_of_the_file():
@@ -120,6 +124,9 @@ def test_entry_icon_follows_the_subject_of_the_file():
     microbes = text.replace("Probe und Messung:", "Praxis:")
     md = render_markdown(split_text(microbes), "de", "encyclopedia_mikrobiologie_methoden_hygiene_de.txt")
     assert "## 🧫 Staphylococcus aureus" in md and "#### 🛠️ Praxis" in md
+    quality = text.replace("Probe und Messung:", "Die Vorgabe:")
+    md = render_markdown(split_text(quality), "de", "encyclopedia_qualitaetsmanagement_de.txt")
+    assert "## 📋 Staphylococcus aureus" in md and "#### 📏 Die Vorgabe" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 
