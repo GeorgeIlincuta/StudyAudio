@@ -1766,4 +1766,3 @@ Alle Markdown-Bücher mit ihren Teilen, Kapiteln und Abschnitten. Jeder Link öf
 - [📖 Wichtige Zahlen](encyclopedia_laborgeraete_analytik_de.md#wichtige-zahlen)
 - [📖 Häufige Verwechslungen](encyclopedia_laborgeraete_analytik_de.md#häufige-verwechslungen)
 - [📖 Gesamtzusammenfassung](encyclopedia_laborgeraete_analytik_de.md#gesamtzusammenfassung)
-

@@ -97,6 +97,11 @@ go back to their written form ("M R S A" → MRSA). It works for any guide; one 
 python -m guideaudio encyclopedia_bakterien_de.txt --markdown
 ```
 
+`python -m guideaudio.contents` collects all `encyclopedia_*.md` books in the current folder into one contents file,
+`INHALTSVERZEICHNIS.md`: every book with its parts, chapters and the section labels of each entry, all linked to the
+book. The books keep the order they were written in (`BOOK_ORDER` in `guideaudio/contents.py`); a new book comes
+last until it is added there. Run it again after each new book.
+
 ## Even pace
 
 Supertonic speaks short sentences up to 60% faster than long ones ("Teil eins ist die allgemeine Chemie." came out
