@@ -135,6 +135,10 @@ def test_entry_icon_follows_the_subject_of_the_file():
     devices = text.replace("Probe und Messung:", "Das Ergebnis:")
     md = render_markdown(split_text(devices), "de", "encyclopedia_laborgeraete_analytik_de.txt")
     assert "## ⚗️ Staphylococcus aureus" in md and "#### 📈 Das Ergebnis" in md
+    diseases = text.replace("Probe und Messung: Koagulase", "Symptome: Koagulase").replace(
+        "Probe und Messung: Äskulin", "Verlauf und Therapie: Äskulin")
+    md = render_markdown(split_text(diseases), "de", "encyclopedia_krankheitsbilder_de.txt")
+    assert "## 🩺 Staphylococcus aureus" in md and "#### 🤒 Symptome" in md and "#### 💊 Verlauf und Therapie" in md
     assert "## 🔖 Staphylococcus aureus" in render_markdown(split_text(text), "de", "encyclopedia_neu_de.txt")
 
 

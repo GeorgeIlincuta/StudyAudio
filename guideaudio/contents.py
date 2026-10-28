@@ -15,7 +15,7 @@ from pathlib import Path
 BOOK_ORDER = ["bakterien", "viren", "pilze_parasiten", "klinische_chemie", "haematologie", "haemostaseologie",
               "immunologie_transfusion", "histologie_zytologie", "molekularbiologie", "urin_liquor_punktate",
               "mikrobiologie_methoden_hygiene", "qualitaetsmanagement", "klinische_chemie_ii",
-              "laborgeraete_analytik"]
+              "laborgeraete_analytik", "krankheitsbilder"]
 OUTPUT_NAME = "INHALTSVERZEICHNIS.md"
 SKIPPED_HEADINGS = ("🗂️ ", "🔤 ")  # the book's own contents and its A–Z register
 
