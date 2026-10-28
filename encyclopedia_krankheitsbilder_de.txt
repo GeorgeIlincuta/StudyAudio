@@ -1,0 +1,779 @@
+Krankheitsbilder: Steckbriefe zu häufigen Krankheiten von Herz, Niere, Leber, Darm, Stoffwechsel, Hormondrüsen, Infektionen, Autoimmunität und Tumoren aus der Sicht des Labors.
+
+# Hinweise zum Leitfaden — Using this guide
+
+Dies ist der achtzehnte Hörleitfaden für die Ausbildung zur Medizinischen Technologin oder zum Medizinischen Technologen für Laboratoriumsanalytik. Die Leitfäden davor haben die Laborwerte und Methoden nach Fächern geordnet. Dieser Leitfaden dreht den Blick um. Er geht von der Krankheit aus und fragt, welche Befunde im Labor zu ihr passen.
+
+In der Prüfung und im Alltag kommen die Werte nie allein. Ein Patient mit Herzinfarkt hat ein Troponin, aber auch ein Kalium, ein Blutbild und eine Gerinnung. Erst das Muster aller Werte ergibt ein Bild. Dieser Leitfaden zeigt dir diese Muster. So verbindest du das Wissen aus allen bisherigen Leitfäden.
+
+Ein Wort zu deiner Rolle. Als Medizinische Technologin stellst du keine Diagnosen. Das macht die Ärztin oder der Arzt. Du lieferst aber die Befunde, auf denen die Diagnose beruht. Wenn du das Krankheitsbild kennst, erkennst du unplausible Werte, kritische Befunde und vertauschte Proben viel schneller.
+
+Jeder Steckbrief hat immer dieselben Abschnitte in derselben Reihenfolge. Der erste Abschnitt heißt Einordnung. Er sagt, was für eine Krankheit es ist und wie häufig sie vorkommt. Der zweite heißt Entstehung. Er erklärt die Ursachen und was im Körper passiert. Der dritte heißt Symptome. Er sagt, womit die Patienten kommen. Der vierte heißt Die Laborbefunde. Er ist der wichtigste Abschnitt und sagt, welche Werte typisch sind. Der fünfte heißt Verlauf und Therapie. Er sagt, wie die Krankheit weitergeht und was das Labor dabei misst. Danach folgen wie gewohnt die Absätze »Warum ist das im Labor wichtig?« und »Kurz gesagt«.
+
+Der Leitfaden hat zehn Teile. Teil eins sind Herz und Kreislauf. Teil zwei ist die Niere. Teil drei sind Leber und Galle. Teil vier sind Bauchspeicheldrüse und Darm. Teil fünf ist der Stoffwechsel. Teil sechs sind die Hormondrüsen. Teil sieben sind die Infektionen. Teil acht sind die Autoimmunkrankheiten. Teil neun sind die Tumoren. Teil zehn ist ein Schnellüberblick zum Wiederholen.
+
+Die Krankheiten des Blutes und der Gerinnung fehlen hier mit Absicht. Die Anämien, die Leukämien und die Lymphome stehen im Leitfaden zur Hämatologie. Die Hämophilie, die Thrombosen und die Verbrauchskoagulopathie stehen im Leitfaden zur Hämostaseologie. Die Erreger selbst stehen in den Leitfäden zu Bakterien, Viren, Pilzen und Parasiten. Im Schnellüberblick am Ende verweise ich auf diese Steckbriefe.
+
+Du musst den Leitfaden nicht von vorn bis hinten hören. Jedes Kapitel ist ein eigener Eintrag. Wenn du eine Anforderung zur Pankreatitis bekommst, spring im Player direkt zu diesem Steckbrief. Alle Zahlen sind typische Werte und Grenzen aus Leitlinien. Es gelten die Referenzbereiche deines Labors und die Regeln deiner Klinik. Abkürzungen werden wie bisher Buchstabe für Buchstabe gesprochen.
+
+# Teil eins: Herz, Kreislauf — Part one: Heart and circulation
+
+Der erste Teil beginnt mit den Notfällen, bei denen das Labor schnell sein muss. Beim Herzinfarkt und bei der Lungenembolie zählt jede Stunde. Ein schneller und richtiger Befund rettet hier Leben.
+
+Der Teil hat vier Steckbriefe. Zuerst kommt der akute Herzinfarkt. Dann folgen die Herzinsuffizienz und die Lungenembolie. Am Ende steht die sekundäre Hypertonie, also der Bluthochdruck mit einer findbaren Ursache.
+
+# Akuter Herzinfarkt — Acute myocardial infarction
+
+Einordnung: Beim Herzinfarkt stirbt Herzmuskel ab, weil ein Herzkranzgefäß verschlossen ist. Er gehört mit dem Schlaganfall zu den häufigsten Todesursachen in Deutschland. Die Ärzte fassen ihn mit der instabilen Angina pectoris als akutes Koronarsyndrom zusammen. Man unterscheidet den Infarkt mit typischer Hebung im E K G von dem Infarkt ohne diese Hebung. Beim zweiten entscheidet vor allem das Labor.
+
+Entstehung: Meist reißt eine Plaque in der Wand eines Herzkranzgefäßes auf. Auf der Wunde bildet sich ein Blutgerinnsel und verschließt das Gefäß. Der Muskel dahinter bekommt keinen Sauerstoff mehr und stirbt nach wenigen Stunden ab. Die Risikofaktoren sind Rauchen, Bluthochdruck, Diabetes, hohe Blutfette und Bewegungsmangel. Auch eine familiäre Belastung spielt eine Rolle.
+
+Symptome: Typisch ist ein starker Druck hinter dem Brustbein, der länger als zwanzig Minuten anhält. Der Schmerz strahlt oft in den linken Arm, den Hals oder den Kiefer aus. Dazu kommen Atemnot, Schweiß, Übelkeit und Todesangst. Frauen, ältere Menschen und Diabetiker haben oft keine typischen Schmerzen. Bei ihnen stehen Übelkeit, Schwäche oder Atemnot im Vordergrund.
+
+Die Laborbefunde: Der wichtigste Marker ist das hochsensitive Troponin. Ein Infarkt liegt vor, wenn das Troponin über der neunundneunzigsten Perzentile liegt und dabei ansteigt oder abfällt. Darum misst man es zweimal, sofort und nach einer bis drei Stunden. Ein dauerhaft gleich hohes Troponin passt eher zu einer chronischen Herzkrankheit oder einer Niereninsuffizienz. Die Kreatinkinase und ihr Herzanteil C K-M B werden heute kaum noch gebraucht. Zusätzlich bestimmt man Kalium, Kreatinin, Blutbild, Gerinnung, Blutzucker und Blutfette.
+
+Verlauf und Therapie: Das verschlossene Gefäß wird so schnell wie möglich im Herzkatheter geöffnet und mit einem Stent offen gehalten. Die Patienten bekommen Heparin und zwei Hemmer der Thrombozyten. Danach folgen Statine, Betablocker und eine Behandlung der Risikofaktoren. Das Labor kontrolliert die Thrombozyten unter Heparin, das Kalium und die Nierenwerte. Spätere Ziele sind ein niedriges L D L-Cholesterin und ein guter H b A eins c.
+
+Warum ist das im Labor wichtig? Das Troponin ist eine Notfallanalyse. Die Klinik erwartet das Ergebnis innerhalb von etwa einer Stunde nach der Abnahme. Du bearbeitest diese Proben darum sofort. Hämolyse und Fibrinfäden können das Troponin verfälschen. Ein stark erhöhtes neues Troponin meldest du nach den Regeln deines Labors direkt.
+
+Kurz gesagt: Beim Herzinfarkt verschließt ein Gerinnsel ein Herzkranzgefäß. Das hochsensitive Troponin über der neunundneunzigsten Perzentile mit Anstieg oder Abfall beweist den Muskelschaden. Man misst es zweimal im Abstand von ein bis drei Stunden. Die Therapie ist der Herzkatheter mit Stent und eine Hemmung der Gerinnung.
+
+# Die Herzinsuffizienz — Heart failure
+
+Einordnung: Bei der Herzinsuffizienz pumpt das Herz nicht mehr genug Blut für den Bedarf des Körpers. Sie ist eine der häufigsten Ursachen für eine Aufnahme ins Krankenhaus. Vor allem ältere Menschen sind betroffen. Man unterscheidet eine Schwäche der linken und der rechten Herzhälfte. Außerdem unterscheidet man eine verminderte und eine erhaltene Pumpleistung.
+
+Entstehung: Die häufigsten Ursachen sind die koronare Herzkrankheit, ein alter Herzinfarkt und ein langer Bluthochdruck. Auch defekte Herzklappen, Herzrhythmusstörungen und Entzündungen des Herzmuskels führen dazu. Das geschwächte Herz wird überdehnt. Die gedehnten Muskelzellen schütten natriuretische Peptide aus. Gleichzeitig halten Hormone wie Renin und Aldosteron Salz und Wasser im Körper zurück. Dadurch staut sich Flüssigkeit.
+
+Symptome: Typisch sind Atemnot bei Belastung und später auch in Ruhe. Viele Patienten schlafen nur mit erhöhtem Oberkörper. Bei der Rechtsherzschwäche schwellen die Beine an und die Halsvenen sind gestaut. Dazu kommen Müdigkeit, nächtliches Wasserlassen und eine schnelle Gewichtszunahme durch Wasser.
+
+Die Laborbefunde: Der Leitmarker ist das B N P oder das N T-pro B N P. Ein normaler Wert schließt eine Herzinsuffizienz sehr sicher aus. Bei akuter Atemnot liegt die Grenze für das N T-pro B N P bei dreihundert Pikogramm pro Milliliter. Ohne akute Beschwerden liegt sie bei hundertfünfundzwanzig. Ein hoher Wert bestätigt den Verdacht nicht allein, denn auch Alter und Niereninsuffizienz erhöhen ihn. Häufig findet man ein niedriges Natrium, ein erhöhtes Kreatinin und einen Eisenmangel. Das T S H zeigt eine Schilddrüse als Ursache.
+
+Verlauf und Therapie: Die Herzinsuffizienz verläuft meist chronisch mit akuten Verschlechterungen. Die Therapie besteht aus mehreren Medikamenten. Dazu gehören Hemmer des Renin-Angiotensin-Systems, Betablocker, Aldosteronhemmer und S G L T-zwei-Hemmer. Wassertabletten nehmen die Ödeme. Viele dieser Mittel erhöhen das Kalium und belasten die Niere. Das Labor kontrolliert darum regelmäßig Kalium, Natrium und Kreatinin. Ein Eisenmangel wird mit Eisen in die Vene behandelt.
+
+Warum ist das im Labor wichtig? Das N T-pro B N P hilft in der Notaufnahme, Atemnot vom Herzen von Atemnot der Lunge zu trennen. Bei Patienten unter einem bestimmten neuen Herzmedikament steigt das B N P, das N T-pro B N P aber nicht. Darum ist es wichtig, welcher der beiden Marker gemessen wird. Ein hohes Kalium unter Aldosteronhemmern ist ein kritischer Befund.
+
+Kurz gesagt: Bei der Herzinsuffizienz pumpt das Herz zu wenig und Wasser staut sich. Ein normales N T-pro B N P schließt sie weitgehend aus. Alter und Nierenschwäche erhöhen den Wert. Unter der Therapie überwacht das Labor Kalium, Natrium und Kreatinin.
+
+# Die Lungenembolie — Pulmonary embolism
+
+Einordnung: Bei der Lungenembolie verschließt ein Blutgerinnsel eine Arterie der Lunge. Meist stammt das Gerinnsel aus einer tiefen Beinvenenthrombose. Ärzte fassen beides als venöse Thromboembolie zusammen. Die Lungenembolie kann vom kleinen Zufallsbefund bis zum plötzlichen Tod reichen.
+
+Entstehung: Drei Faktoren begünstigen eine Thrombose. Das Blut fließt langsam, die Gefäßwand ist geschädigt oder das Blut gerinnt leichter. Typische Auslöser sind Bettruhe, Operationen, lange Flüge, Tumoren, Schwangerschaft und die Pille. Löst sich das Gerinnsel, wandert es über das rechte Herz in die Lunge. Ein großer Embolus belastet die rechte Herzkammer stark.
+
+Symptome: Typisch sind plötzliche Atemnot, ein schneller Puls und Schmerzen beim Atmen. Manche Patienten husten Blut oder werden ohnmächtig. Oft ist ein Bein geschwollen und schmerzt. Die Beschwerden sind aber oft unspezifisch. Darum schätzt der Arzt zuerst mit einem Punktwert ein, wie wahrscheinlich die Embolie ist.
+
+Die Laborbefunde: Der wichtigste Test sind die D-Dimere. Sie sind Spaltprodukte von Fibrin. Ein normaler Wert schließt bei niedriger oder mittlerer Wahrscheinlichkeit eine Embolie sicher aus. Die übliche Grenze liegt bei null Komma fünf Milligramm pro Liter. Ab fünfzig Jahren nimmt man das Alter mal null Komma null eins. Ein hoher Wert beweist nichts, denn er steigt auch bei Entzündung, Tumor, Operation und Schwangerschaft. In der Blutgasanalyse sieht man oft wenig Sauerstoff und wenig Kohlendioxid. Troponin und N T-pro B N P zeigen eine Belastung des rechten Herzens.
+
+Verlauf und Therapie: Bei hoher Wahrscheinlichkeit oder hohen D-Dimeren folgt eine Computertomographie mit Kontrastmittel. Vorher braucht man das Kreatinin. Die Therapie ist die Hemmung der Gerinnung mit Heparin oder einem direkten oralen Antikoagulans. Bei einer großen Embolie mit Schock löst man das Gerinnsel medikamentös auf. Eine Suche nach Thromboseneigung macht man erst später und nicht in der akuten Phase.
+
+Warum ist das im Labor wichtig? Die D-Dimere sind ein reiner Ausschlusstest. Ihre Stärke ist der negative Wert. Die Probe kommt im Citratröhrchen und muss richtig gefüllt sein. Achte darauf, in welcher Einheit dein Labor die D-Dimere angibt. Es gibt zwei verschiedene Bezugsgrößen, und die Werte unterscheiden sich etwa um den Faktor zwei.
+
+Kurz gesagt: Bei der Lungenembolie verschließt ein Gerinnsel meist aus dem Bein eine Lungenarterie. Normale D-Dimere schließen sie bei niedriger Wahrscheinlichkeit aus. Hohe D-Dimere beweisen sie nicht. Troponin und N T-pro B N P zeigen, wie stark das rechte Herz belastet ist.
+
+# Sekundäre Hypertonie — Secondary hypertension
+
+Einordnung: Bluthochdruck ist die häufigste Krankheit des Kreislaufs. Bei den meisten Menschen findet man keine einzelne Ursache. Man spricht dann von primärer Hypertonie. Bei etwa fünf bis zehn von hundert Patienten gibt es aber eine klare Ursache. Das ist die sekundäre Hypertonie. Sie ist wichtig, weil man die Ursache oft heilen kann.
+
+Entstehung: Die häufigste hormonelle Ursache ist der primäre Hyperaldosteronismus, auch Conn-Syndrom genannt. Die Nebenniere bildet zu viel Aldosteron. Seltener ist das Phäochromozytom, ein Tumor, der Adrenalin und Noradrenalin bildet. Weitere Ursachen sind Nierenkrankheiten, eine Verengung der Nierenarterie, das Cushing-Syndrom und eine Schilddrüsenüberfunktion. Auch nächtliche Atemaussetzer erhöhen den Blutdruck.
+
+Symptome: Viele Patienten merken vom hohen Blutdruck nichts. Verdächtig sind ein junges Alter, ein sehr hoher Druck und ein Druck, der trotz drei Medikamenten nicht sinkt. Beim Phäochromozytom kommen anfallsweise Kopfschmerzen, Herzrasen und Schweißausbrüche dazu. Beim Conn-Syndrom können Muskelschwäche und Krämpfe durch ein niedriges Kalium auftreten.
+
+Die Laborbefunde: Für das Conn-Syndrom bestimmt man den Aldosteron-Renin-Quotienten. Das Aldosteron ist hoch und das Renin gebremst. Nur ein Teil der Patienten hat ein niedriges Kalium. Für das Phäochromozytom misst man die freien Metanephrine im Plasma oder im Urin. Für die Niere bestimmt man Kreatinin, Urinstatus und Albumin im Urin. Bei Verdacht auf Cushing folgt ein Dexamethasontest. Das T S H prüft die Schilddrüse.
+
+Verlauf und Therapie: Ein auffälliger Quotient wird mit einem Bestätigungstest geprüft. Danach sucht man mit Bildgebung und Venenblut aus der Nebenniere die Seite. Ein einseitiger Tumor wird operiert. Bei beidseitiger Überfunktion gibt man Aldosteronhemmer. Ein Phäochromozytom wird nach einer Vorbehandlung operiert. Bei einer Nierenarterienverengung kann man das Gefäß aufdehnen.
+
+Warum ist das im Labor wichtig? Der Aldosteron-Renin-Quotient ist sehr störanfällig. Betablocker senken das Renin und machen den Quotienten falsch hoch. Wassertabletten und Hemmer des Renin-Angiotensin-Systems erhöhen das Renin und machen ihn falsch niedrig. Ein niedriges Kalium muss vorher ausgeglichen sein. Darum gehören die Medikamente und die Uhrzeit auf die Anforderung.
+
+Kurz gesagt: Die sekundäre Hypertonie hat eine findbare und oft heilbare Ursache. Am häufigsten ist das Conn-Syndrom mit hohem Aldosteron-Renin-Quotienten. Freie Metanephrine suchen ein Phäochromozytom. Medikamente verfälschen den Quotienten stark.
+
+# Zusammenfassung Teil eins — Part one summary
+
+Beim Herzinfarkt beweist ein steigendes oder fallendes hochsensitives Troponin den Muskelschaden. Man misst es zweimal im Abstand von ein bis drei Stunden. Bei der Herzinsuffizienz schließt ein normales N T-pro B N P die Krankheit weitgehend aus. Unter der Therapie überwacht das Labor Kalium und Kreatinin.
+
+Bei der Lungenembolie schließen normale D-Dimere die Krankheit bei niedriger Wahrscheinlichkeit aus. Ab fünfzig Jahren gilt eine altersangepasste Grenze. Die sekundäre Hypertonie hat eine Ursache wie das Conn-Syndrom oder ein Phäochromozytom. Dafür misst man den Aldosteron-Renin-Quotienten und die freien Metanephrine.
+
+Im nächsten Teil geht es um die Niere.
+
+# Teil zwei: Die Niere — Part two: The kidney
+
+Die Niere filtert jeden Tag etwa hundertachtzig Liter Primärharn. Sie regelt Wasser, Salze, Säure und Blutdruck. Wenn sie krank ist, verändern sich viele Werte gleichzeitig. Darum gehören Nierenwerte fast zu jeder Anforderung.
+
+Der Teil hat fünf Steckbriefe. Zuerst kommen das akute Nierenversagen und die chronische Nierenkrankheit. Dann folgen das nephrotische Syndrom und die Glomerulonephritis. Am Ende steht der Harnwegsinfekt.
+
+# Akutes Nierenversagen — Acute kidney injury
+
+Einordnung: Beim akuten Nierenversagen verliert die Niere innerhalb von Stunden oder Tagen ihre Funktion. Heute spricht man meist von akuter Nierenschädigung. Sie ist auf Intensivstationen sehr häufig. Sie ist gefährlich, weil Kalium, Säure und Wasser sich schnell anstauen.
+
+Entstehung: Man unterscheidet drei Ursachen. Beim prärenalen Versagen bekommt die Niere zu wenig Blut, etwa durch Flüssigkeitsmangel, Blutung oder Schock. Beim renalen Versagen ist das Nierengewebe selbst geschädigt. Ursachen sind Medikamente, Kontrastmittel, Muskelzerfall oder eine Entzündung. Beim postrenalen Versagen ist der Abfluss des Urins blockiert, etwa durch eine große Prostata oder Steine.
+
+Symptome: Oft geht die Urinmenge zurück. Manche Patienten haben aber normale Mengen. Später kommen Wassereinlagerungen, Atemnot, Übelkeit und Verwirrtheit dazu. Ein sehr hohes Kalium kann ohne Warnung zu gefährlichen Herzrhythmusstörungen führen.
+
+Die Laborbefunde: Die Diagnose stützt sich auf das Kreatinin und die Urinmenge. Ein Anstieg um null Komma drei Milligramm pro Deziliter in zwei Tagen reicht schon aus. Ebenso zählt ein Anstieg auf das Eineinhalbfache des Ausgangswerts innerhalb einer Woche. Kalium und Harnstoff steigen, das Bicarbonat sinkt. Die fraktionelle Natriumausscheidung trennt die Ursachen. Unter einem Prozent spricht sie für ein prärenales Versagen, über zwei Prozent für einen Schaden im Gewebe. Im Sediment zeigen granulierte Zylinder einen Tubulusschaden und Erythrozytenzylinder eine Glomerulonephritis.
+
+Verlauf und Therapie: Die Behandlung richtet sich nach der Ursache. Beim prärenalen Versagen gibt man Flüssigkeit. Schädliche Medikamente werden abgesetzt oder in der Dosis angepasst. Ein Abflusshindernis wird mit einem Katheter beseitigt. Bei gefährlichem Kalium, schwerer Übersäuerung oder Wasser in der Lunge braucht der Patient eine Dialyse. Viele Patienten erholen sich, manche behalten aber eine chronische Nierenschwäche.
+
+Warum ist das im Labor wichtig? Das Kreatinin steigt erst mit einer Verzögerung von ein bis zwei Tagen. Darum ist der Verlauf wichtiger als ein einzelner Wert. Ein hohes Kalium ist oft ein kritischer Wert. Prüfe aber vorher, ob die Probe hämolytisch ist. Bei Nierenversagen werden auch die Spiegel von Vancomycin und Aminoglykosiden besonders wichtig.
+
+Kurz gesagt: Beim akuten Nierenversagen steigen Kreatinin, Harnstoff und Kalium innerhalb von Tagen. Man unterscheidet prärenale, renale und postrenale Ursachen. Die fraktionelle Natriumausscheidung und das Sediment helfen bei der Unterscheidung. Gefährliches Kalium und Übersäuerung erfordern eine Dialyse.
+
+# Chronische Nierenkrankheit — Chronic kidney disease
+
+Einordnung: Bei der chronischen Nierenkrankheit ist die Nierenfunktion über mindestens drei Monate gestört. Etwa jeder zehnte Erwachsene ist betroffen. Viele wissen nichts davon. Die Krankheit wird nach der Filtrationsrate und nach dem Albumin im Urin in Stadien eingeteilt.
+
+Entstehung: Die häufigsten Ursachen sind Diabetes und Bluthochdruck. Danach folgen Glomerulonephritiden, Zystennieren und wiederholte Entzündungen. Mit der Zeit gehen immer mehr Nierenkörperchen zugrunde. Die übrigen arbeiten mehr und werden dadurch weiter geschädigt. Wenn die Filtration unter fünfzehn Milliliter pro Minute fällt, spricht man von Nierenversagen im Endstadium.
+
+Symptome: Lange Zeit gibt es keine Beschwerden. Später kommen Müdigkeit, Juckreiz, Wassereinlagerungen und Bluthochdruck dazu. Im Endstadium leiden die Patienten unter Übelkeit, Appetitlosigkeit und Verwirrtheit. Man nennt diesen Zustand Urämie.
+
+Die Laborbefunde: Die Grundlage ist die geschätzte Filtrationsrate, die e G F R. Ein Wert unter sechzig über drei Monate zeigt eine chronische Krankheit. Ebenso zählt ein Albumin-Kreatinin-Quotient im Urin über dreißig Milligramm pro Gramm. Das Cystatin C hilft bei Menschen mit sehr wenig oder sehr viel Muskelmasse. Typisch ist eine normozytäre Anämie durch Mangel an Erythropoetin. Das Phosphat steigt, das Calcium sinkt und das Parathormon steigt. Oft findet man eine Übersäuerung und ein hohes Kalium.
+
+Verlauf und Therapie: Man versucht, das Fortschreiten zu bremsen. Dafür senkt man Blutdruck und Blutzucker. Hemmer des Renin-Angiotensin-Systems und S G L T-zwei-Hemmer schützen die Niere. Die Anämie wird mit Eisen und Erythropoetin behandelt. Phosphatbinder und Vitamin D schützen die Knochen. Im Endstadium braucht der Patient eine Dialyse oder eine neue Niere. Das Labor misst dann regelmäßig die Werte vor und nach der Dialyse.
+
+Warum ist das im Labor wichtig? Die e G F R wird bei jeder Kreatininmessung automatisch berechnet. Viele Medikamente werden nach ihr dosiert. Bei Patienten mit chronischer Nierenkrankheit ist das Troponin oft dauerhaft leicht erhöht. Darum zählt bei ihnen der Verlauf. Bei Dialysepatienten darfst du nie aus dem Arm mit dem Shunt Blut abnehmen.
+
+Kurz gesagt: Die chronische Nierenkrankheit dauert länger als drei Monate. Man erkennt sie an einer e G F R unter sechzig oder an Albumin im Urin. Typisch sind Anämie, hohes Phosphat, hohes Parathormon und Übersäuerung. Diabetes und Bluthochdruck sind die häufigsten Ursachen.
+
+# Nephrotisches Syndrom — Nephrotic syndrome
+
+Einordnung: Das nephrotische Syndrom ist kein einzelnes Leiden, sondern ein Muster. Die Niere verliert große Mengen Eiweiß in den Urin. Dazu gehören vier Zeichen: starke Proteinurie, wenig Albumin im Blut, Ödeme und hohe Blutfette. Es kommt bei Kindern und Erwachsenen vor.
+
+Entstehung: Der Filter in den Nierenkörperchen ist undicht geworden. Bei Kindern ist meist die Minimal-Change-Glomerulopathie die Ursache. Bei Erwachsenen sind es die membranöse Glomerulonephritis, die diabetische Nephropathie und die Amyloidose. Weil das Albumin fehlt, sinkt der Druck in den Gefäßen und Wasser tritt ins Gewebe. Die Leber bildet als Gegenreaktion mehr Fette und Gerinnungsfaktoren.
+
+Symptome: Auffällig sind geschwollene Lider am Morgen und geschwollene Beine. Der Urin schäumt stark. Viele Patienten nehmen durch das Wasser an Gewicht zu. Komplikationen sind Thrombosen und Infektionen, weil auch Antithrombin und Antikörper verloren gehen.
+
+Die Laborbefunde: Die Eiweißausscheidung liegt über drei Komma fünf Gramm am Tag. Im Spontanurin entspricht das einem Eiweiß-Kreatinin-Quotienten über dreitausendfünfhundert Milligramm pro Gramm. Das Albumin im Serum liegt unter dreißig Gramm pro Liter. Cholesterin und Triglyzeride sind hoch. In der Elektrophorese ist das Albumin klein und die Alpha-zwei-Fraktion hoch. Das Sediment ist meist ruhig, mit wenig Blut. Bei der membranösen Form findet man oft Antikörper gegen den Phospholipase-Rezeptor.
+
+Verlauf und Therapie: Die Diagnose sichert meist eine Nierenbiopsie. Bei Kindern mit typischem Bild gibt man direkt Cortison, ohne Biopsie. Die meisten sprechen gut an. Bei Erwachsenen richtet sich die Therapie nach der Ursache. Hemmer des Renin-Angiotensin-Systems senken die Eiweißausscheidung. Wassertabletten nehmen die Ödeme und bei hohem Thromboserisiko hemmt man die Gerinnung.
+
+Warum ist das im Labor wichtig? Ein sehr niedriges Albumin verfälscht das Gesamtcalcium. Es erscheint zu niedrig, obwohl das freie Calcium normal ist. Auch der Antithrombinmangel ist ein Laborbefund mit Folgen. Er schwächt die Wirkung von Heparin. Der Antikörper gegen den Phospholipase-Rezeptor dient als Verlaufsmarker.
+
+Kurz gesagt: Beim nephrotischen Syndrom verliert die Niere mehr als drei Komma fünf Gramm Eiweiß am Tag. Das Albumin im Blut ist niedrig, die Blutfette sind hoch und es entstehen Ödeme. Das Sediment ist meist ruhig. Verlust von Antithrombin und Antikörpern führt zu Thrombosen und Infektionen.
+
+# Die Glomerulonephritis — Glomerulonephritis
+
+Einordnung: Bei der Glomerulonephritis sind die Nierenkörperchen entzündet. Das klassische Bild nennt man nephritisches Syndrom. Dazu gehören Blut im Urin, mäßige Eiweißausscheidung, Bluthochdruck und eine sinkende Nierenfunktion. Eine besonders schnelle Form heißt rasch progrediente Glomerulonephritis. Sie ist ein Notfall.
+
+Entstehung: Die häufigste Form ist die I g A-Nephropathie. Sie zeigt sich oft ein bis zwei Tage nach einem Infekt der Atemwege. Die Poststreptokokken-Glomerulonephritis folgt erst ein bis drei Wochen nach einer Streptokokkenangina. Bei der raschen Form greifen Antikörper gegen die Basalmembran oder A N C A die Gefäße an. Auch der Lupus erythematodes befällt oft die Niere.
+
+Symptome: Der Urin ist rötlich bis colafarben. Dazu kommen Ödeme, besonders an den Lidern, und ein hoher Blutdruck. Die Urinmenge kann abnehmen. Bei der raschen Form mit Lungenbeteiligung husten die Patienten Blut.
+
+Die Laborbefunde: Der Schlüsselbefund steht im Urinsediment. Man findet dysmorphe Erythrozyten, darunter Akanthozyten mit kleinen Ausstülpungen. Ab fünf Prozent Akanthozyten spricht man von einer Blutung aus dem Nierenkörperchen. Erythrozytenzylinder sind beweisend. Die Eiweißausscheidung liegt meist unter drei Komma fünf Gramm am Tag. Das Kreatinin steigt. Bei der Poststreptokokkenform ist der Antistreptolysintiter hoch und das Komplement C drei niedrig. Bei der raschen Form sucht man A N C A und Antikörper gegen die Basalmembran.
+
+Verlauf und Therapie: Die genaue Form zeigt die Nierenbiopsie. Die Poststreptokokkenform heilt bei Kindern meist von allein. Die I g A-Nephropathie verläuft sehr unterschiedlich. Die rasche Form braucht sofort Cortison und weitere Immunsuppressiva. Bei Antikörpern gegen die Basalmembran wäscht man sie mit einem Plasmaaustausch aus. Ohne schnelle Therapie droht innerhalb von Wochen die Dialyse.
+
+Warum ist das im Labor wichtig? Das Urinsediment ist hier eine der wichtigsten Untersuchungen. Es muss frisch sein, denn Zylinder und Erythrozyten zerfallen in wenigen Stunden. Wenn du Akanthozyten oder Erythrozytenzylinder findest, ist das ein wichtiger Hinweis für den Arzt. Positive A N C A mit steigendem Kreatinin sind ein dringender Befund.
+
+Kurz gesagt: Die Glomerulonephritis ist eine Entzündung der Nierenkörperchen. Typisch sind dysmorphe Erythrozyten, Akanthozyten und Erythrozytenzylinder im Sediment. Die häufigste Form ist die I g A-Nephropathie. Die rasche Form mit A N C A oder Antikörpern gegen die Basalmembran ist ein Notfall.
+
+# Der Harnwegsinfekt — Urinary tract infection
+
+Einordnung: Der Harnwegsinfekt gehört zu den häufigsten Infektionen überhaupt. Frauen sind wegen der kurzen Harnröhre viel häufiger betroffen. Man unterscheidet die Blasenentzündung, also die Zystitis, und die Nierenbeckenentzündung, die Pyelonephritis. Außerdem unterscheidet man einfache und komplizierte Infekte.
+
+Entstehung: Die Erreger steigen meist aus dem Darm über die Harnröhre auf. Der häufigste Erreger ist Escherichia coli. Danach folgen Klebsiellen, Proteus, Enterokokken und Staphylococcus saprophyticus bei jungen Frauen. Kompliziert ist ein Infekt bei Männern, Schwangeren, Kathetern, Steinen oder Fehlbildungen. Im Krankenhaus kommen resistente Erreger dazu.
+
+Symptome: Die Zystitis macht Brennen beim Wasserlassen, häufigen Harndrang und Schmerzen über der Blase. Fieber fehlt meist. Bei der Pyelonephritis kommen Fieber, Schüttelfrost und Schmerzen in der Flanke dazu. Ältere Menschen werden manchmal nur verwirrt. Eine schwere Pyelonephritis kann in eine Urosepsis übergehen.
+
+Die Laborbefunde: Der Teststreifen zeigt Leukozyten und oft Nitrit. Nitrit bilden nur Bakterien, die Nitrat umwandeln, und nur wenn der Urin einige Stunden in der Blase war. Ein negatives Nitrit schließt einen Infekt darum nicht aus. Im Sediment sieht man Leukozyten und Bakterien. In der Kultur aus Mittelstrahlurin gilt eine Keimzahl ab hunderttausend koloniebildenden Einheiten pro Milliliter als sicher. Bei der Pyelonephritis sind C R P und Leukozyten im Blut hoch.
+
+Verlauf und Therapie: Eine einfache Zystitis heilt oft schnell. Man behandelt sie kurz mit Fosfomycin, Nitrofurantoin oder Pivmecillinam. Die Pyelonephritis braucht ein stärkeres Antibiotikum über mehrere Tage. Bei komplizierten Infekten richtet sich die Therapie nach dem Antibiogramm. Eine Bakteriurie ohne Beschwerden behandelt man nur in der Schwangerschaft und vor Eingriffen an den Harnwegen.
+
+Warum ist das im Labor wichtig? Urin ist ein guter Nährboden. Bei Raumtemperatur vermehren sich die Bakterien schnell und täuschen hohe Keimzahlen vor. Darum muss der Urin innerhalb von zwei Stunden verarbeitet oder gekühlt werden. Viele Plattenepithelien und eine Mischflora sprechen für eine Verunreinigung. Bei Fieber gehören zusätzlich Blutkulturen dazu.
+
+Kurz gesagt: Der Harnwegsinfekt wird meist durch Escherichia coli verursacht und betrifft vor allem Frauen. Teststreifen mit Leukozyten und Nitrit geben den ersten Hinweis. In der Kultur gelten hunderttausend Keime pro Milliliter als sicher. Der Urin muss schnell ins Labor oder in den Kühlschrank.
+
+# Zusammenfassung Teil zwei — Part two summary
+
+Beim akuten Nierenversagen steigen Kreatinin, Harnstoff und Kalium in Tagen. Die Ursache ist prärenal, renal oder postrenal. Bei der chronischen Nierenkrankheit liegt die e G F R über drei Monate unter sechzig oder Albumin ist im Urin. Typisch sind Anämie, hohes Phosphat und hohes Parathormon.
+
+Das nephrotische Syndrom zeigt mehr als drei Komma fünf Gramm Eiweiß am Tag, wenig Albumin, Ödeme und hohe Blutfette. Die Glomerulonephritis zeigt dysmorphe Erythrozyten und Erythrozytenzylinder. Der Harnwegsinfekt zeigt Leukozyten und Nitrit im Teststreifen und eine hohe Keimzahl in der Kultur.
+
+Im nächsten Teil geht es um Leber und Galle.
+
+# Teil drei: Leber, Galle — Part three: Liver and bile
+
+Die Leber ist das große Stoffwechselorgan. Sie bildet Eiweiße und Gerinnungsfaktoren, baut Gifte ab und bildet die Galle. Ihre Krankheiten zeigen sich im Labor in typischen Mustern. Man unterscheidet einen Schaden der Leberzellen, einen Stau der Galle und einen Verlust der Bildungsleistung.
+
+Der Teil hat fünf Steckbriefe. Zuerst kommen die akute Hepatitis und die Fettleber. Dann folgt die Leberzirrhose. Danach kommen die Gallensteine mit dem Gallestau. Am Ende steht die Hämochromatose, die Eisenspeicherkrankheit.
+
+# Akute Hepatitis — Acute hepatitis
+
+Einordnung: Die akute Hepatitis ist eine Entzündung der Leber, die weniger als sechs Monate dauert. Sie ist meist harmlos und heilt aus. Selten führt sie zu einem akuten Leberversagen. Manche Formen gehen in eine chronische Hepatitis über.
+
+Entstehung: Die häufigsten Ursachen sind Viren. Hepatitis A und E werden über Nahrung und Wasser übertragen. Hepatitis B, C und D werden über Blut und Sexualkontakte übertragen. Weitere Ursachen sind Alkohol, Medikamente wie Paracetamol, eine Autoimmunhepatitis und eine Minderdurchblutung bei Schock. Bei allen Formen gehen Leberzellen zugrunde und geben ihre Enzyme ins Blut ab.
+
+Symptome: Viele Infektionen verlaufen ohne Beschwerden. Typisch sind Müdigkeit, Appetitlosigkeit, Übelkeit und ein Druck im rechten Oberbauch. Später kann eine Gelbsucht auftreten. Der Urin wird dunkel und der Stuhl hell. Beim Leberversagen kommen Blutungsneigung und Verwirrtheit dazu.
+
+Die Laborbefunde: Die Transaminasen steigen stark, oft auf über tausend Einheiten pro Liter. Bei Viren ist die A L T meist höher als die A S T. Das Bilirubin steigt mit der Gelbsucht. Die Serologie klärt die Ursache. Bei Hepatitis A findet man Anti-H A V vom Typ I g M. Bei frischer Hepatitis B sind das H B s-Antigen und Anti-H B c vom Typ I g M positiv. Bei Hepatitis C weist man die H C V-R N A nach. Bei der Autoimmunhepatitis sind das I g G und Autoantikörper wie A N A erhöht.
+
+Verlauf und Therapie: Hepatitis A und E heilen fast immer aus. Hepatitis B wird bei Erwachsenen selten chronisch, bei Neugeborenen aber fast immer. Hepatitis C wird oft chronisch, ist heute aber mit Tabletten heilbar. Bei Paracetamol gibt man ein Gegenmittel. Die Autoimmunhepatitis behandelt man mit Cortison. Beim Leberversagen hilft nur die Intensivtherapie und manchmal eine Transplantation.
+
+Warum ist das im Labor wichtig? Der Quick-Wert ist der wichtigste Marker für die Schwere. Fällt er schnell, droht ein Leberversagen. Sehr hohe Transaminasen sagen dagegen wenig über die Prognose. Bei Hepatitis B und C arbeitest du mit infektiösem Blut. Hepatitis A und E sind meldepflichtig, ebenso B und C.
+
+Kurz gesagt: Bei der akuten Hepatitis steigen die Transaminasen oft über tausend Einheiten pro Liter. Die Serologie zeigt, welches Virus die Ursache ist. Der Quick-Wert zeigt die Schwere. Hepatitis A und E heilen meist aus, Hepatitis B und C können chronisch werden.
+
+# Die Fettleber — Fatty liver disease
+
+Einordnung: Bei der Fettleber ist mehr als jede zwanzigste Leberzelle mit Fett gefüllt. Sie ist die häufigste Leberkrankheit in Europa. Etwa jeder vierte Erwachsene ist betroffen. Man unterscheidet die Fettleber durch Stoffwechselstörung, abgekürzt M A S L D, und die Fettleber durch Alkohol.
+
+Entstehung: Die Stoffwechselform hängt mit Übergewicht, Typ-zwei-Diabetes und hohen Blutfetten zusammen. Die Leber speichert überschüssige Energie als Fett. Bei Alkohol baut die Leber den Alkohol bevorzugt ab und lagert Fett ein. Ein Teil der Patienten entwickelt eine Entzündung der Fettleber. Daraus kann eine Fibrose und später eine Zirrhose werden.
+
+Symptome: Die meisten Patienten haben keine Beschwerden. Manche spüren einen Druck im Oberbauch oder sind müde. Oft fällt die Fettleber zufällig im Ultraschall oder durch leicht erhöhte Leberwerte auf.
+
+Die Laborbefunde: Die A L T und die Gamma-G T sind oft leicht erhöht. Normale Werte schließen eine Fettleber aber nicht aus. Bei der Stoffwechselform ist die A L T meist höher als die A S T. Bei Alkohol ist die A S T oft doppelt so hoch wie die A L T. Für Alkohol sprechen außerdem ein hohes M C V, eine hohe Gamma-G T und das C D T. Das Ethylglucuronid im Urin zeigt Alkohol der letzten Tage. Ein Fibrosewert aus Alter, A S T, A L T und Thrombozyten schätzt das Risiko für eine Vernarbung.
+
+Verlauf und Therapie: Die Fettleber ist anfangs vollständig umkehrbar. Bei der Stoffwechselform hilft eine Gewichtsabnahme von einigen Kilogramm. Dazu kommen Bewegung und eine gute Einstellung von Diabetes und Blutfetten. Bei der alkoholischen Form ist der Verzicht auf Alkohol entscheidend. Bei hohem Fibroserisiko folgt eine Elastographie mit Ultraschall.
+
+Warum ist das im Labor wichtig? Leicht erhöhte Leberwerte sind ein sehr häufiger Befund. Meist steckt eine Fettleber dahinter. Die Ärzte schließen aber vorher Hepatitis B und C, Eisenüberladung und Medikamente aus. Das C D T ist ein Marker für längeren Alkoholkonsum. Es wird auch bei der Fahreignung und vor Transplantationen genutzt.
+
+Kurz gesagt: Die Fettleber ist die häufigste Leberkrankheit und meist ohne Beschwerden. Die A L T und die Gamma-G T sind oft leicht erhöht. Eine A S T doppelt so hoch wie die A L T spricht für Alkohol. Gewichtsabnahme und Alkoholverzicht machen die Fettleber rückgängig.
+
+# Die Leberzirrhose — Liver cirrhosis
+
+Einordnung: Die Leberzirrhose ist das Endstadium vieler Leberkrankheiten. Das Lebergewebe ist durch Narben und Knoten umgebaut. Die Leber kann ihre Aufgaben nicht mehr erfüllen. Außerdem staut sich das Blut vor der Leber. Die Zirrhose ist nicht mehr umkehrbar.
+
+Entstehung: In Deutschland sind Alkohol und die Fettleber die häufigsten Ursachen. Dazu kommen die chronische Hepatitis B und C, die Autoimmunhepatitis und die Hämochromatose. Seltener sind die Kupferspeicherkrankheit Morbus Wilson und Erkrankungen der Gallenwege. Durch die Narben steigt der Druck in der Pfortader. Es bilden sich Umgehungskreisläufe, etwa Krampfadern in der Speiseröhre.
+
+Symptome: Lange Zeit merken die Patienten wenig. Später treten Gelbsucht, ein dicker Bauch durch Bauchwasser und Blutungsneigung auf. Auf der Haut sieht man Gefäßsternchen. Blutungen aus Krampfadern der Speiseröhre sind lebensgefährlich. Eine Vergiftung des Gehirns durch Ammoniak macht die Patienten verwirrt und schläfrig.
+
+Die Laborbefunde: Die Bildungsleistung sinkt. Albumin, Cholinesterase und Quick-Wert sind niedrig. Vitamin K korrigiert den Quick-Wert hier nicht. Das Bilirubin steigt. Die Thrombozyten sind niedrig, weil die gestaute Milz sie abfängt. Oft ist das Natrium niedrig und das Ammoniak hoch. In der Elektrophorese ist das Albumin klein und die Gammafraktion breit erhöht. Im Bauchwasser zeigt ein hoher Albumingradient den Druck in der Pfortader.
+
+Verlauf und Therapie: Die Schwere schätzt man mit Punktwerten aus Bilirubin, Albumin, Quick-Wert, Kreatinin und den Beschwerden. Die Ursache wird behandelt, soweit das geht. Wassertabletten und Punktionen nehmen das Bauchwasser. Gegen Ammoniak gibt man Lactulose. Krampfadern werden in der Spiegelung abgebunden. Alle sechs Monate sucht man mit Ultraschall und manchmal dem A F P nach Leberkrebs. Die einzige Heilung ist eine Transplantation.
+
+Warum ist das im Labor wichtig? Ammoniak ist ein heikler Wert. Die Probe muss auf Eis sofort ins Labor und schnell gemessen werden. Sonst steigt der Wert in der Probe künstlich an. Im Bauchwasser bedeuten mehr als zweihundertfünfzig Granulozyten pro Mikroliter eine bakterielle Bauchfellentzündung. Das ist ein dringender Befund.
+
+Kurz gesagt: Die Leberzirrhose ist ein narbiger Umbau der Leber und nicht umkehrbar. Albumin, Cholinesterase und Quick-Wert sinken, Bilirubin und Ammoniak steigen. Die Thrombozyten sind niedrig. Bauchwasser, Blutungen aus Krampfadern und Leberkrebs sind die gefürchteten Folgen.
+
+# Gallensteine und Cholestase — Gallstones and cholestasis
+
+Einordnung: Eine Cholestase ist ein Stau der Galle. Er kann in der Leber selbst oder in den großen Gallenwegen entstehen. Die häufigste Ursache außerhalb der Leber sind Gallensteine. Etwa jeder sechste Erwachsene hat Gallensteine, die meisten ohne Beschwerden.
+
+Entstehung: Die meisten Gallensteine bestehen aus Cholesterin. Risikofaktoren sind weibliches Geschlecht, Übergewicht, Alter und Schwangerschaften. Rutscht ein Stein in den Hauptgallengang, staut sich die Galle. Besiedeln Bakterien die gestaute Galle, entsteht eine Gallenwegsentzündung, die Cholangitis. Ein Stein vor der Bauchspeicheldrüse kann eine Pankreatitis auslösen. Innerhalb der Leber stauen Medikamente, die primär biliäre Cholangitis und die primär sklerosierende Cholangitis die Galle.
+
+Symptome: Eine Gallenkolik macht starke, wellenförmige Schmerzen im rechten Oberbauch. Sie strahlen oft in die rechte Schulter aus. Beim Stau werden Haut und Augen gelb, der Urin dunkel und der Stuhl hell. Der Juckreiz kann quälend sein. Bei der Cholangitis kommen hohes Fieber und Schüttelfrost dazu.
+
+Die Laborbefunde: Typisch sind eine hohe alkalische Phosphatase und eine hohe Gamma-G T. Das direkte, also konjugierte Bilirubin steigt. Im Urin findet man Bilirubin, aber kaum Urobilinogen. Ein frischer Stein lässt die Transaminasen kurz stark steigen. Bei der Cholangitis sind C R P und Leukozyten hoch. Eine hohe Lipase zeigt eine Pankreatitis durch den Stein. Bei der primär biliären Cholangitis findet man die antimitochondrialen Antikörper, kurz A M A.
+
+Verlauf und Therapie: Ein Stein im Gallengang wird in einer Spiegelung entfernt. Bei wiederholten Koliken entfernt man die Gallenblase. Die Cholangitis braucht schnell Antibiotika und eine Entlastung der Gallenwege. Vorher nimmt man Blutkulturen ab. Die primär biliäre Cholangitis behandelt man mit Ursodeoxycholsäure. Ein langer Stau führt zu einem Mangel an Vitamin K und damit zu einem niedrigen Quick-Wert.
+
+Warum ist das im Labor wichtig? Das Muster der Werte zeigt den Ort des Problems. Hohe Transaminasen sprechen für einen Zellschaden. Hohe alkalische Phosphatase und Gamma-G T sprechen für einen Stau. Eine hohe alkalische Phosphatase mit normaler Gamma-G T stammt eher aus dem Knochen. Bei hohem Bilirubin ist das Serum dunkelgelb und kann Messungen stören.
+
+Kurz gesagt: Bei der Cholestase staut sich die Galle, oft durch einen Gallenstein. Alkalische Phosphatase, Gamma-G T und direktes Bilirubin steigen. Fieber mit Gallestau bedeutet Cholangitis und braucht Blutkulturen. Bei der primär biliären Cholangitis findet man A M A.
+
+# Die Hämochromatose — Haemochromatosis
+
+Einordnung: Die Hämochromatose ist eine angeborene Eisenspeicherkrankheit. Der Körper nimmt zu viel Eisen aus der Nahrung auf. Es ist eine der häufigsten Erbkrankheiten in Nordeuropa. Etwa einer von dreihundert Menschen trägt die Veranlagung doppelt. Längst nicht alle werden krank.
+
+Entstehung: Meist liegt eine Mutation im H F E-Gen vor. Der Erbgang ist autosomal rezessiv. Die häufigste Mutation heißt C zweihundertzweiundachtzig Y. Durch sie bildet die Leber zu wenig Hepcidin. Das ist das Hormon, das die Eisenaufnahme bremst. Das überschüssige Eisen lagert sich in Leber, Herz, Bauchspeicheldrüse, Gelenken und Haut ab. Frauen erkranken später, weil sie durch Menstruation und Schwangerschaft Eisen verlieren.
+
+Symptome: Die ersten Zeichen sind Müdigkeit und Gelenkschmerzen, oft an den Fingern. Später wird die Haut dunkler. Die Leber vergrößert sich und kann zirrhotisch werden. Schäden an der Bauchspeicheldrüse führen zu Diabetes. Man sprach früher vom Bronzediabetes. Auch das Herz kann schwach werden.
+
+Die Laborbefunde: Der früheste Befund ist eine hohe Transferrinsättigung über fünfundvierzig Prozent. Danach steigt das Ferritin. Bei Frauen gilt ein Ferritin über zweihundert, bei Männern über dreihundert Mikrogramm pro Liter als erhöht. Über tausend steigt das Risiko für eine Zirrhose. Die Diagnose sichert der Gentest auf die H F E-Mutation. Oft sind die Leberwerte erhöht und der Blutzucker steigt.
+
+Verlauf und Therapie: Die Behandlung ist der Aderlass. Man entnimmt anfangs jede Woche etwa einen halben Liter Blut. Das geht so weiter, bis das Ferritin bei etwa fünfzig Mikrogramm pro Liter liegt. Danach folgen Aderlässe in größeren Abständen. Wer früh behandelt wird, hat eine normale Lebenserwartung. Die Geschwister sollten ebenfalls getestet werden.
+
+Warum ist das im Labor wichtig? Ein hohes Ferritin allein beweist keine Eisenüberladung. Ferritin steigt auch bei Entzündung, Fettleber und Alkohol. Darum misst man immer die Transferrinsättigung dazu. Ist sie normal, ist eine Hämochromatose unwahrscheinlich. Vor jedem Aderlass prüft man das Hämoglobin.
+
+Kurz gesagt: Die Hämochromatose ist eine Erbkrankheit mit zu viel Eisen im Körper. Meist liegt die H F E-Mutation C zweihundertzweiundachtzig Y doppelt vor. Erstes Zeichen ist eine Transferrinsättigung über fünfundvierzig Prozent, danach steigt das Ferritin. Die Therapie ist der regelmäßige Aderlass.
+
+# Zusammenfassung Teil drei — Part three summary
+
+Bei der akuten Hepatitis steigen die Transaminasen stark. Die Serologie zeigt das Virus und der Quick-Wert die Schwere. Die Fettleber zeigt oft leicht erhöhte A L T und Gamma-G T. Eine A S T doppelt so hoch wie die A L T spricht für Alkohol.
+
+Bei der Leberzirrhose sinken Albumin, Cholinesterase, Quick-Wert und Thrombozyten. Bei der Cholestase steigen alkalische Phosphatase, Gamma-G T und direktes Bilirubin. Die Hämochromatose zeigt zuerst eine hohe Transferrinsättigung und dann ein hohes Ferritin.
+
+Im nächsten Teil geht es um Bauchspeicheldrüse und Darm.
+
+# Teil vier: Pankreas, Darm — Part four: Pancreas and bowel
+
+Die Bauchspeicheldrüse bildet Verdauungsenzyme und Hormone wie Insulin. Der Darm nimmt die Nährstoffe auf. Krankheiten dieser Organe zeigen sich im Blut, aber auch im Stuhl und im Schweiß. Das Labor hilft hier, Entzündung, Verdauungsschwäche und Infektion zu trennen.
+
+Der Teil hat vier Steckbriefe. Zuerst kommen die akute und die chronische Pankreatitis. Dann folgen die chronisch entzündlichen Darmerkrankungen. Am Ende steht die Mukoviszidose.
+
+# Akute Pankreatitis — Acute pancreatitis
+
+Einordnung: Bei der akuten Pankreatitis entzündet sich die Bauchspeicheldrüse plötzlich. Sie ist ein häufiger Grund für eine Aufnahme ins Krankenhaus. Die meisten Verläufe sind leicht. Etwa jeder fünfte Patient hat aber eine schwere Form mit abgestorbenem Gewebe und Organversagen.
+
+Entstehung: Die beiden häufigsten Ursachen sind Gallensteine und Alkohol. Seltener sind sehr hohe Triglyzeride, ein hohes Calcium, Medikamente und Eingriffe an den Gallenwegen. Die Verdauungsenzyme werden schon in der Drüse aktiviert. Die Drüse beginnt, sich selbst zu verdauen. Dabei entsteht eine starke Entzündung, die den ganzen Körper erfassen kann.
+
+Symptome: Typisch sind starke Schmerzen im Oberbauch, die gürtelförmig in den Rücken ziehen. Dazu kommen Übelkeit, Erbrechen und ein geblähter Bauch. Bei schweren Formen fallen Blutdruck und Urinmenge ab. Manchmal sieht man bläuliche Flecken an der Flanke oder am Nabel.
+
+Die Laborbefunde: Die Diagnose stellt man, wenn zwei von drei Kriterien erfüllt sind. Das sind typische Schmerzen, eine Lipase über dem Dreifachen der oberen Grenze und ein passendes Bild. Die Lipase ist spezifischer als die Amylase. Ihre Höhe sagt aber nichts über die Schwere. Für die Schwere sind ein steigender Hämatokrit, ein steigender Harnstoff und ein C R P über hundertfünfzig Milligramm pro Liter nach zwei Tagen wichtig. Ein niedriges Calcium und ein hoher Blutzucker sind ungünstig. Hohe Transaminasen und Bilirubin sprechen für Gallensteine als Ursache.
+
+Verlauf und Therapie: Die wichtigste Behandlung ist viel Flüssigkeit in die Vene. Dazu kommen Schmerzmittel und eine frühe Ernährung, wenn möglich über den Darm. Bei Gallensteinen mit Gallestau oder Cholangitis entfernt man den Stein in einer Spiegelung. Abgestorbenes Gewebe kann sich infizieren. Dann braucht der Patient Antibiotika und manchmal eine Drainage. Nach der Heilung sucht man die Ursache, damit sie sich nicht wiederholt.
+
+Warum ist das im Labor wichtig? Die Lipase ist meist ein schneller Notfallwert. Bei einer sehr trüben, milchigen Probe denkst du an hohe Triglyzeride als Ursache. Die Trübung kann aber auch andere Messungen stören. Weise auf eine starke Lipämie hin. Ein steigender Hämatokrit in den ersten Tagen ist ein Warnzeichen.
+
+Kurz gesagt: Die akute Pankreatitis entsteht meist durch Gallensteine oder Alkohol. Die Lipase über dem Dreifachen der Norm sichert die Diagnose zusammen mit dem Schmerz. Die Höhe der Lipase zeigt nicht die Schwere. Hämatokrit, Harnstoff und C R P zeigen den gefährlichen Verlauf.
+
+# Chronische Pankreatitis — Chronic pancreatitis
+
+Einordnung: Bei der chronischen Pankreatitis ist die Bauchspeicheldrüse dauerhaft entzündet und vernarbt. Sie verliert nach und nach ihre Funktion. Man unterscheidet den Verlust der Verdauungsenzyme, die exokrine Insuffizienz, und den Verlust des Insulins, die endokrine Insuffizienz. Betroffen sind meist Männer im mittleren Alter.
+
+Entstehung: Die häufigste Ursache ist langer Alkoholkonsum, oft zusammen mit Rauchen. Seltener sind erbliche Formen, eine Autoimmunpankreatitis und eine Mukoviszidose. Wiederholte Entzündungen zerstören das Drüsengewebe. Es wird durch Bindegewebe und Kalk ersetzt. Die Gänge werden eng und es bilden sich Steine.
+
+Symptome: Die Patienten haben immer wiederkehrende Schmerzen im Oberbauch, oft nach dem Essen. Später lassen die Schmerzen manchmal nach, weil die Drüse ausgebrannt ist. Dann kommen Fettstühle dazu. Die Stühle sind voluminös, glänzend und riechen stark. Die Patienten verlieren Gewicht. Viele bekommen einen Diabetes.
+
+Die Laborbefunde: Lipase und Amylase sind oft normal, weil kaum noch Gewebe da ist. Der wichtigste Test ist die Elastase im Stuhl. Ein Wert über zweihundert Mikrogramm pro Gramm ist normal. Unter hundert spricht er für eine schwere Insuffizienz. Ein wässriger Stuhl verdünnt die Probe und täuscht einen niedrigen Wert vor. Blutzucker und H b A eins c zeigen den Diabetes. Oft fehlen die fettlöslichen Vitamine, besonders Vitamin D.
+
+Verlauf und Therapie: Der Verzicht auf Alkohol und Rauchen ist der wichtigste Schritt. Gegen die Fettstühle gibt man Pankreasenzyme zu jeder Mahlzeit. Fettlösliche Vitamine werden ersetzt. Der Diabetes wird meist mit Insulin behandelt. Steine und Engen behandelt man in der Spiegelung oder operativ. Die chronische Pankreatitis erhöht das Risiko für Bauchspeicheldrüsenkrebs.
+
+Warum ist das im Labor wichtig? Eine normale Lipase schließt die chronische Pankreatitis nicht aus. Für die Elastase braucht man eine geformte Stuhlprobe. Die Enzymtabletten stören den Test nicht, weil er menschliche Elastase misst. Der Diabetes bei chronischer Pankreatitis neigt zu Unterzuckerungen, weil auch das Gegenhormon Glukagon fehlt.
+
+Kurz gesagt: Bei der chronischen Pankreatitis vernarbt die Bauchspeicheldrüse, meist durch Alkohol. Die Lipase ist oft normal. Eine Stuhlelastase unter hundert Mikrogramm pro Gramm zeigt eine schwere Verdauungsschwäche. Fettstühle, Gewichtsverlust und Diabetes sind die Folgen.
+
+# Chronisch entzündliche Darmerkrankungen — Inflammatory bowel disease
+
+Einordnung: Die beiden wichtigsten chronisch entzündlichen Darmerkrankungen sind der Morbus Crohn und die Colitis ulcerosa. Sie beginnen meist zwischen fünfzehn und fünfunddreißig Jahren. Sie verlaufen in Schüben. In Deutschland sind mehrere hunderttausend Menschen betroffen.
+
+Entstehung: Die genaue Ursache ist unbekannt. Eine erbliche Veranlagung, die Darmflora und eine fehlgeleitete Immunantwort wirken zusammen. Der Morbus Crohn kann den ganzen Verdauungstrakt befallen, am häufigsten das Ende des Dünndarms. Er befällt alle Wandschichten und springt zwischen gesunden Abschnitten. Die Colitis ulcerosa befällt nur den Dickdarm. Sie beginnt am Enddarm und breitet sich durchgehend nach oben aus.
+
+Symptome: Typisch sind lang anhaltende Durchfälle und Bauchschmerzen. Bei der Colitis ulcerosa ist der Stuhl oft blutig mit Schleim. Beim Morbus Crohn entstehen Fisteln und Engen. Dazu kommen Gewichtsverlust, Fieber und Müdigkeit. Auch Gelenke, Haut und Augen können sich entzünden.
+
+Die Laborbefunde: Der wichtigste Stuhltest ist das Calprotectin. Unter fünfzig Mikrogramm pro Gramm spricht es gegen eine Entzündung. Über zweihundert zeigt es eine aktive Entzündung. So trennt man die entzündliche Darmerkrankung vom harmlosen Reizdarm. Im Blut sind C R P und Thrombozyten oft hoch. Häufig liegt eine Anämie aus Eisenmangel und Entzündung vor. Beim Befall des Dünndarmendes fehlt oft Vitamin B zwölf. Bei der Colitis ulcerosa findet man oft p-A N C A, beim Morbus Crohn A S C A.
+
+Verlauf und Therapie: Die Diagnose sichert die Darmspiegelung mit Gewebeproben. Vorher schließt man eine Darminfektion aus, auch Clostridioides difficile. Bei der Colitis ulcerosa gibt man Mesalazin. In Schüben hilft Cortison. Für schwere Verläufe gibt es Immunsuppressiva und Antikörper gegen Entzündungsstoffe. Vor diesen Mitteln testet man auf Tuberkulose und Hepatitis B. Die Colitis ulcerosa erhöht das Risiko für Darmkrebs.
+
+Warum ist das im Labor wichtig? Das Calprotectin dient auch zur Verlaufskontrolle. Es zeigt einen Schub oft vor den Beschwerden. Vor einer Therapie mit Azathioprin testet man die Aktivität des Enzyms T P M T. Bei einem Mangel drohen schwere Schäden am Knochenmark. Von manchen Antikörpermedikamenten misst man die Spiegel und Antikörper gegen das Medikament.
+
+Kurz gesagt: Morbus Crohn und Colitis ulcerosa sind chronische Darmentzündungen in Schüben. Ein Calprotectin über zweihundert zeigt eine aktive Entzündung und trennt sie vom Reizdarm. Anämie, hohes C R P und Mangel an Vitamin B zwölf sind typisch. Vor der Therapie schließt man Infektionen aus.
+
+# Die Mukoviszidose — Cystic fibrosis
+
+Einordnung: Die Mukoviszidose heißt auch zystische Fibrose. Sie ist eine der häufigsten tödlichen Erbkrankheiten bei Menschen mit heller Haut. In Deutschland kommt etwa eines von viertausend Neugeborenen damit zur Welt. Der Erbgang ist autosomal rezessiv. Etwa jeder Fünfundzwanzigste trägt die Veranlagung einfach.
+
+Entstehung: Ursache sind Mutationen im C F T R-Gen. Es bildet einen Kanal für Chlorid in der Zellmembran. Fehlt der Kanal, wird der Schleim in vielen Organen zäh. Er verstopft die Bronchien, die Gänge der Bauchspeicheldrüse und die Gallenwege. Im Schweiß bleibt dagegen zu viel Salz. Bei Männern ist der Samenleiter meist verschlossen.
+
+Symptome: Neugeborene haben manchmal einen Darmverschluss durch zähes Kindspech. Später kommen hartnäckiger Husten, wiederholte Lungenentzündungen und Fettstühle dazu. Die Kinder gedeihen schlecht. Die Haut schmeckt salzig. Erwachsene entwickeln oft einen Diabetes und eine Leberkrankheit.
+
+Die Laborbefunde: In Deutschland wird jedes Neugeborene im Neugeborenenscreening getestet. Man misst das immunreaktive Trypsin, kurz I R T, und weitere Marker im Trockenblut. Bei einem auffälligen Screening folgt der Schweißtest. Ein Chlorid ab sechzig Millimol pro Liter beweist die Krankheit. Der Gentest zeigt die Mutation. Die Stuhlelastase zeigt die Verdauungsschwäche. Im Sputum wachsen typische Erreger wie Staphylococcus aureus und Pseudomonas aeruginosa.
+
+Verlauf und Therapie: Die Lebenserwartung ist in den letzten Jahrzehnten stark gestiegen. Heute erreichen viele Patienten das fünfzigste Lebensjahr. Die Grundlage sind tägliche Atemtherapie, Inhalationen, Pankreasenzyme und eine kalorienreiche Ernährung. Moderne Medikamente reparieren den defekten Kanal bei vielen Mutationen teilweise. Infektionen werden gezielt mit Antibiotika behandelt.
+
+Warum ist das im Labor wichtig? Die Sputumproben von Mukoviszidosepatienten brauchen besondere Nährböden. Pseudomonas wächst hier oft in schleimigen Kolonien und wird mit der Zeit resistenter. Auch seltene Erreger wie Burkholderia cepacia sind wichtig, weil sie zwischen Patienten übertragen werden. Der Schweißtest braucht genug Schweiß und eine erfahrene Durchführung.
+
+Kurz gesagt: Die Mukoviszidose ist eine Erbkrankheit des C F T R-Gens mit zähem Schleim in vielen Organen. Das Neugeborenenscreening misst das I R T. Ein Schweißchlorid ab sechzig Millimol pro Liter beweist die Krankheit. Lunge, Bauchspeicheldrüse und typische Erreger wie Pseudomonas bestimmen den Verlauf.
+
+# Zusammenfassung Teil vier — Part four summary
+
+Die akute Pankreatitis zeigt Schmerz und eine Lipase über dem Dreifachen der Norm. Hämatokrit, Harnstoff und C R P zeigen die Schwere. Bei der chronischen Pankreatitis ist die Lipase oft normal. Die Stuhlelastase zeigt die Verdauungsschwäche.
+
+Bei Morbus Crohn und Colitis ulcerosa zeigt ein hohes Calprotectin die Entzündung im Darm. Bei der Mukoviszidose misst das Neugeborenenscreening das I R T, und der Schweißtest sichert die Diagnose.
+
+Im nächsten Teil geht es um den Stoffwechsel.
+
+# Teil fünf: Stoffwechsel — Part five: Metabolism
+
+Stoffwechselkrankheiten sind sehr häufig und dauern meist ein Leben lang. Das Labor stellt hier nicht nur die Diagnose. Es begleitet die Patienten über viele Jahre mit Kontrollwerten. Viele dieser Werte sind gleichzeitig Risikofaktoren für Herz und Gefäße.
+
+Der Teil hat vier Steckbriefe. Zuerst kommen der Typ-eins-Diabetes und der Typ-zwei-Diabetes. Dann folgt die Gicht. Am Ende stehen die Fettstoffwechselstörungen.
+
+# Der Typ-eins-Diabetes — Type one diabetes
+
+Einordnung: Beim Typ-eins-Diabetes bildet der Körper kein Insulin mehr. Er beginnt meist im Kindes- oder Jugendalter, kann aber in jedem Alter auftreten. Etwa einer von zehn Diabetikern hat diese Form. Ohne Insulin ist die Krankheit tödlich.
+
+Entstehung: Es ist eine Autoimmunkrankheit. Abwehrzellen zerstören die Betazellen in der Bauchspeicheldrüse, die Insulin bilden. Der Prozess beginnt Jahre vor den ersten Beschwerden. Die Symptome treten auf, wenn die meisten Betazellen verloren sind. Ohne Insulin kann der Zucker nicht in die Zellen. Der Körper baut stattdessen Fett ab und bildet Ketonkörper.
+
+Symptome: Typisch sind großer Durst, häufiges Wasserlassen und ein schneller Gewichtsverlust. Dazu kommen Müdigkeit und Sehstörungen. Bei vielen Kindern wird die Krankheit erst bei einer Ketoazidose erkannt. Dann kommen Übelkeit, Bauchschmerzen, eine tiefe Atmung und ein Geruch nach Aceton dazu.
+
+Die Laborbefunde: Für jeden Diabetes gelten dieselben Grenzen. Ein Nüchternzucker ab hundertsechsundzwanzig Milligramm pro Deziliter ist diagnostisch. Ebenso zählen ein Gelegenheitszucker ab zweihundert mit Beschwerden und ein H b A eins c ab sechs Komma fünf Prozent. Beim Typ eins findet man Antikörper gegen die Inselzellen, etwa die G A D-Antikörper. Das C-Peptid ist niedrig. Bei der Ketoazidose ist der pH unter sieben Komma drei, das Bicarbonat niedrig und das Beta-Hydroxybutyrat hoch.
+
+Verlauf und Therapie: Die Patienten brauchen ihr Leben lang Insulin. Sie spritzen es oder tragen eine Pumpe. Viele messen den Zucker mit einem Sensor im Unterhautgewebe. Das Ziel ist ein H b A eins c um sieben Prozent ohne häufige Unterzuckerungen. Die Ketoazidose behandelt man mit Flüssigkeit, Insulin und Kalium. Später drohen Schäden an Augen, Nieren, Nerven und Gefäßen.
+
+Warum ist das im Labor wichtig? Bei der Ketoazidose ist das Kalium im Blut oft normal oder hoch, obwohl dem Körper Kalium fehlt. Unter Insulin wandert es in die Zellen und fällt gefährlich ab. Darum wird es eng kontrolliert. Der Blutzucker muss im Röhrchen mit Glykolysehemmer abgenommen werden. Sonst sinkt er in der Probe um etwa fünf bis zehn Prozent pro Stunde.
+
+Kurz gesagt: Beim Typ-eins-Diabetes zerstört das Immunsystem die Betazellen. Inselantikörper sind positiv und das C-Peptid ist niedrig. Die Ketoazidose zeigt einen niedrigen pH und hohe Ketonkörper. Die Patienten brauchen lebenslang Insulin.
+
+# Der Typ-zwei-Diabetes — Type two diabetes
+
+Einordnung: Der Typ-zwei-Diabetes ist die häufigste Form der Zuckerkrankheit. In Deutschland sind fast zehn Millionen Menschen betroffen. Er beginnt meist im Erwachsenenalter, heute aber auch schon bei Jugendlichen. Viele Menschen wissen jahrelang nichts davon.
+
+Entstehung: Die Zellen sprechen schlecht auf Insulin an. Man nennt das Insulinresistenz. Anfangs bildet die Bauchspeicheldrüse mehr Insulin und gleicht das aus. Mit der Zeit erschöpft sie sich. Die Risikofaktoren sind Übergewicht, Bewegungsmangel, Alter und eine familiäre Belastung. Oft gehört der Diabetes zum metabolischen Syndrom mit Bluthochdruck und hohen Blutfetten.
+
+Symptome: Lange Zeit fehlen Beschwerden. Manche Patienten haben Durst, sind müde oder bekommen häufig Infekte. Oft fällt der Diabetes erst durch seine Folgen auf. Dazu gehören Herzinfarkt, Schlaganfall, Sehstörungen, Nierenschäden und Wunden am Fuß, die schlecht heilen.
+
+Die Laborbefunde: Die Grenzen sind dieselben wie beim Typ eins. Ein Nüchternzucker von hundert bis hundertfünfundzwanzig zeigt eine Vorstufe. Der Zuckerbelastungstest misst den Zucker zwei Stunden nach fünfundsiebzig Gramm Glukose. Ein Wert ab zweihundert ist diagnostisch. Inselantikörper fehlen und das C-Peptid ist normal oder hoch. Der Albumin-Kreatinin-Quotient im Urin zeigt früh einen Nierenschaden. Oft sind Triglyzeride hoch und das H D L-Cholesterin niedrig.
+
+Verlauf und Therapie: Die Grundlage sind Gewichtsabnahme und Bewegung. Das erste Medikament ist meist Metformin. Dazu kommen S G L T-zwei-Hemmer und Mittel, die wie Darmhormone wirken. Sie schützen zusätzlich Herz und Niere. Später brauchen viele Patienten Insulin. Eine gefährliche Komplikation ist das hyperosmolare Koma mit sehr hohem Zucker und starker Austrocknung.
+
+Warum ist das im Labor wichtig? Metformin wird nach der e G F R dosiert und bei schwerer Nierenschwäche abgesetzt. Unter S G L T-zwei-Hemmern ist Zucker im Urin normal und kein Zeichen für schlechte Einstellung. Diese Mittel können eine Ketoazidose mit fast normalem Blutzucker auslösen. Das H b A eins c ist falsch niedrig bei Hämolyse und nach Blutverlust.
+
+Kurz gesagt: Der Typ-zwei-Diabetes entsteht durch Insulinresistenz und ist die häufigste Form. Die Diagnose stützt sich auf Nüchternzucker, Belastungstest und H b A eins c. Der Albumin-Kreatinin-Quotient zeigt früh den Nierenschaden. Unter S G L T-zwei-Hemmern ist Zucker im Urin normal.
+
+# Die Gicht — Gout
+
+Einordnung: Die Gicht ist eine Entzündung der Gelenke durch Kristalle aus Harnsäure. Sie ist die häufigste entzündliche Gelenkkrankheit bei Männern. Frauen erkranken meist erst nach den Wechseljahren. Die Krankheit kommt in Anfällen und kann chronisch werden.
+
+Entstehung: Grundlage ist eine Hyperurikämie, also zu viel Harnsäure im Blut. Ab etwa sechs Komma acht Milligramm pro Deziliter kann die Harnsäure Kristalle bilden. Meist scheidet die Niere zu wenig Harnsäure aus. Auslöser eines Anfalls sind üppiges Essen, Alkohol, Fruchtzucker und Wassertabletten. Bei Chemotherapie zerfallen viele Zellen und setzen große Mengen Harnsäure frei.
+
+Symptome: Der Anfall beginnt oft nachts plötzlich. Meist ist das Grundgelenk der großen Zehe betroffen. Das Gelenk ist rot, heiß, geschwollen und sehr schmerzhaft. Schon eine Bettdecke tut weh. Bei der chronischen Gicht bilden sich Knoten aus Harnsäure an Ohren und Gelenken. In der Niere können Steine entstehen.
+
+Die Laborbefunde: Die Harnsäure im Serum ist meist erhöht. Im akuten Anfall kann sie aber normal sein. Die Diagnose sichert das Gelenkpunktat. Unter dem Polarisationsmikroskop sieht man nadelförmige Kristalle. Sie leuchten negativ doppelbrechend. Die Kristalle der Pseudogicht aus Calciumpyrophosphat sind dagegen kurz und schwach positiv doppelbrechend. Im Anfall sind C R P und Leukozyten erhöht. Die Kultur des Punktats schließt eine bakterielle Gelenkentzündung aus.
+
+Verlauf und Therapie: Den Anfall behandelt man mit entzündungshemmenden Schmerzmitteln, Colchicin oder Cortison. Bei wiederholten Anfällen senkt man die Harnsäure dauerhaft mit Allopurinol oder Febuxostat. Das Ziel ist ein Wert unter sechs Milligramm pro Deziliter. Weniger Fleisch, weniger Alkohol und weniger süße Getränke helfen ebenfalls. Vor einer Chemotherapie schützt man die Niere mit diesen Mitteln.
+
+Warum ist das im Labor wichtig? Bei Patienten unter Rasburicase baut das Medikament die Harnsäure auch noch im Röhrchen ab. Die Probe muss darum gekühlt und schnell gemessen werden. Sonst ist der Wert falsch niedrig. Im Gelenkpunktat musst du Gicht, Pseudogicht und Infektion unterscheiden. Eine Infektion zeigt sehr viele Granulozyten und Bakterien.
+
+Kurz gesagt: Die Gicht ist eine Gelenkentzündung durch Harnsäurekristalle, oft an der großen Zehe. Im Anfall kann die Harnsäure normal sein. Beweisend sind nadelförmige, negativ doppelbrechende Kristalle im Punktat. Das Ziel der Dauertherapie ist eine Harnsäure unter sechs Milligramm pro Deziliter.
+
+# Fettstoffwechselstörungen — Lipid disorders
+
+Einordnung: Bei den Fettstoffwechselstörungen sind die Blutfette erhöht oder falsch verteilt. Sie sind einer der wichtigsten Risikofaktoren für Herzinfarkt und Schlaganfall. Man unterscheidet erbliche Formen von Formen durch andere Krankheiten. Wichtig sind vor allem das L D L-Cholesterin und die Triglyzeride.
+
+Entstehung: Die häufigste erbliche Form ist die familiäre Hypercholesterinämie. Der Rezeptor für das L D L in der Leber ist defekt. Etwa einer von dreihundert Menschen ist betroffen. Andere Formen entstehen durch Ernährung, Übergewicht, Diabetes, Alkohol, Schilddrüsenunterfunktion und das nephrotische Syndrom. Auch das Lipoprotein klein a ist ein erblicher Risikofaktor.
+
+Symptome: Hohe Blutfette machen selbst keine Beschwerden. Bei der familiären Form sieht man manchmal gelbliche Knoten an Sehnen und Lidern. Die Folgen sind eine frühe Arteriosklerose mit Herzinfarkten schon vor dem fünfzigsten Lebensjahr. Sehr hohe Triglyzeride können eine akute Pankreatitis auslösen.
+
+Die Laborbefunde: Man bestimmt Gesamtcholesterin, L D L, H D L und Triglyzeride. Ein L D L über hundertneunzig Milligramm pro Deziliter weckt den Verdacht auf eine familiäre Form. Über tausend Milligramm Triglyzeride pro Deziliter droht eine Pankreatitis. Bei sehr hohen Triglyzeriden ist das Serum milchig. Nach einer Nacht im Kühlschrank zeigt eine rahmige Schicht oben Chylomikronen. Zum Ausschluss anderer Ursachen misst man T S H, Blutzucker, Kreatinin und Leberwerte.
+
+Verlauf und Therapie: Das Ziel für das L D L richtet sich nach dem Risiko des Patienten. Bei sehr hohem Risiko soll es unter fünfundfünfzig Milligramm pro Deziliter liegen. Die Grundlage sind Ernährung, Bewegung und Rauchverzicht. Das wichtigste Medikament ist ein Statin. Dazu kommen Ezetimib und Antikörper gegen ein Eiweiß, das den L D L-Rezeptor abbaut. Bei Muskelschmerzen unter Statinen misst man die Kreatinkinase.
+
+Warum ist das im Labor wichtig? Das L D L wird oft aus den anderen Werten berechnet. Bei Triglyzeriden über vierhundert Milligramm pro Deziliter stimmt diese Rechnung nicht mehr. Dann muss das L D L direkt gemessen werden. Eine Blutabnahme ohne Nüchternheit ist heute meist erlaubt. Eine starke Lipämie stört viele andere Messungen.
+
+Kurz gesagt: Fettstoffwechselstörungen sind ein großer Risikofaktor für Herz und Gefäße. Ein L D L über hundertneunzig spricht für eine familiäre Hypercholesterinämie. Triglyzeride über tausend können eine Pankreatitis auslösen. Statine sind das wichtigste Medikament.
+
+# Zusammenfassung Teil fünf — Part five summary
+
+Diabetes zeigt sich an einem Nüchternzucker ab hundertsechsundzwanzig, einem Belastungswert ab zweihundert oder einem H b A eins c ab sechs Komma fünf Prozent. Beim Typ eins sind Inselantikörper positiv und das C-Peptid niedrig. Beim Typ zwei liegt eine Insulinresistenz vor.
+
+Die Gicht zeigt nadelförmige, negativ doppelbrechende Kristalle im Punktat. Bei den Fettstoffwechselstörungen ist das L D L das wichtigste Ziel der Therapie. Sehr hohe Triglyzeride machen das Serum milchig und können eine Pankreatitis auslösen.
+
+Im nächsten Teil geht es um die Hormondrüsen.
+
+# Teil sechs: Hormondrüsen — Part six: Endocrine glands
+
+Die Hormone und ihre Funktionstests stehen im zweiten Leitfaden zur klinischen Chemie. Hier geht es um die Krankheiten, die dahinter stehen. Bei allen gilt dieselbe Regel. Man liest das Hormon der Drüse immer zusammen mit seinem Steuerhormon.
+
+Der Teil hat vier Steckbriefe. Zuerst kommen die Unterfunktion und die Überfunktion der Schilddrüse. Dann folgt der Morbus Addison. Am Ende steht der Hyperparathyreoidismus.
+
+# Die Schilddrüsenunterfunktion — Hypothyroidism
+
+Einordnung: Bei der Schilddrüsenunterfunktion bildet die Schilddrüse zu wenig Hormone. Sie heißt auch Hypothyreose. Sie ist sehr häufig, besonders bei Frauen und im Alter. Man unterscheidet eine latente Form mit normalen Hormonen und eine manifeste Form mit niedrigen Hormonen.
+
+Entstehung: Die häufigste Ursache ist die Hashimoto-Thyreoiditis. Dabei zerstört das Immunsystem langsam die Schilddrüse. Weitere Ursachen sind eine Operation, eine Radiojodtherapie und Medikamente wie Amiodaron oder Lithium. Selten ist die Hypophyse die Ursache. Neugeborene können ohne funktionierende Schilddrüse zur Welt kommen.
+
+Symptome: Die Beschwerden beginnen schleichend. Typisch sind Müdigkeit, Frieren, Gewichtszunahme, Verstopfung und trockene Haut. Der Puls ist langsam und die Stimmung gedrückt. Die Haut kann teigig geschwollen sein. Bei Neugeborenen führt eine unbehandelte Unterfunktion zu einer schweren Entwicklungsstörung.
+
+Die Laborbefunde: Der wichtigste Suchtest ist das T S H. Bei der primären Unterfunktion ist es hoch. Ist das freie T vier normal, spricht man von latenter Unterfunktion. Ist es niedrig, liegt eine manifeste Unterfunktion vor. Bei Hashimoto findet man meist Antikörper gegen die T P O. Oft sind Cholesterin und Kreatinkinase erhöht. Manchmal sind das Natrium niedrig und eine leichte Anämie vorhanden. Bei der seltenen Ursache in der Hypophyse sind T S H und freies T vier beide niedrig.
+
+Verlauf und Therapie: Die Behandlung ist einfach. Man ersetzt das fehlende Hormon mit Levothyroxin als Tablette. Die Dosis wird langsam gesteigert, besonders bei älteren Menschen und Herzkranken. Etwa sechs bis acht Wochen nach jeder Änderung kontrolliert man das T S H. Die meisten Patienten brauchen die Tablette ein Leben lang. In der Schwangerschaft steigt der Bedarf.
+
+Warum ist das im Labor wichtig? Die Blutabnahme zur Kontrolle sollte vor der Tablette am Morgen erfolgen. Biotin in hoher Dosis stört viele Schilddrüsentests und kann falsche Werte erzeugen. Das Neugeborenenscreening misst das T S H im Trockenblut. Ein auffälliger Wert ist eilig, weil die Therapie in den ersten Lebenswochen beginnen muss.
+
+Kurz gesagt: Die Schilddrüsenunterfunktion ist meist eine Hashimoto-Thyreoiditis mit Antikörpern gegen die T P O. Das T S H ist hoch und das freie T vier normal oder niedrig. Die Therapie ist Levothyroxin. Kontrollen folgen sechs bis acht Wochen nach jeder Dosisänderung.
+
+# Die Schilddrüsenüberfunktion — Hyperthyroidism
+
+Einordnung: Bei der Schilddrüsenüberfunktion bildet die Schilddrüse zu viele Hormone. Sie heißt auch Hyperthyreose. Die beiden häufigsten Ursachen sind der Morbus Basedow und die Autonomie. Eine schwere Entgleisung heißt thyreotoxische Krise und ist lebensgefährlich.
+
+Entstehung: Beim Morbus Basedow bildet das Immunsystem Antikörper gegen den T S H-Rezeptor. Sie wirken wie T S H und treiben die Drüse an. Bei der Autonomie arbeiten Knoten der Schilddrüse unabhängig von der Steuerung. Sie sind in Gebieten mit früherem Jodmangel häufig. Viel Jod, etwa aus Kontrastmittel, kann eine Überfunktion auslösen. Auch eine Entzündung der Schilddrüse setzt kurzzeitig Hormone frei.
+
+Symptome: Typisch sind Herzrasen, Zittern, Schwitzen und Gewichtsverlust trotz Hunger. Die Patienten sind unruhig und schlafen schlecht. Sie vertragen keine Wärme und haben oft Durchfall. Beim Morbus Basedow treten oft die Augen hervor. Bei älteren Menschen zeigt sich die Überfunktion oft nur durch Vorhofflimmern.
+
+Die Laborbefunde: Das T S H ist stark erniedrigt, meist unter null Komma eins Milli-Einheiten pro Liter. Das freie T vier und das freie T drei sind hoch. Manchmal ist nur das T drei erhöht. Beim Morbus Basedow sind die Antikörper gegen den T S H-Rezeptor positiv, kurz T R A K. Bei der Autonomie sind sie negativ. Dann zeigt die Szintigraphie die heißen Knoten. Bei einem niedrigen T S H mit normalen Hormonen spricht man von latenter Überfunktion.
+
+Verlauf und Therapie: Man bremst die Hormonbildung mit Thyreostatika wie Thiamazol. Beim Morbus Basedow gibt man sie etwa ein bis eineinhalb Jahre. Danach heilt etwa die Hälfte der Patienten. Sonst folgen eine Radiojodtherapie oder eine Operation. Die Autonomie wird meist mit Radiojod behandelt. Nach einer Operation kontrolliert man Calcium und Parathormon, weil die Nebenschilddrüsen verletzt sein können.
+
+Warum ist das im Labor wichtig? Thiamazol kann selten die Granulozyten fast vollständig zerstören. Bei Fieber und Halsschmerzen unter dieser Therapie braucht der Patient sofort ein Blutbild. In der frühen Schwangerschaft senkt das h C G das T S H. Das ist normal und keine Überfunktion. Ein T R A K der Mutter kann über die Plazenta das Kind betreffen.
+
+Kurz gesagt: Die Schilddrüsenüberfunktion zeigt ein stark erniedrigtes T S H und hohe freie Hormone. Beim Morbus Basedow ist der T R A K positiv, bei der Autonomie negativ. Die Therapie sind Thyreostatika, Radiojod oder eine Operation. Fieber unter Thiamazol erfordert sofort ein Blutbild.
+
+# Der Morbus Addison — Addison disease
+
+Einordnung: Der Morbus Addison ist eine primäre Unterfunktion der Nebennierenrinde. Es fehlen Cortisol und Aldosteron. Die Krankheit ist selten, aber gefährlich. Ohne Behandlung führt sie zur lebensbedrohlichen Addison-Krise. Von ihm trennt man die sekundäre Unterfunktion durch einen Mangel an A C T H.
+
+Entstehung: In Europa ist die häufigste Ursache eine Autoimmunentzündung der Nebennierenrinde. Seltener sind Tuberkulose, Metastasen, Blutungen und Medikamente. Erst wenn der größte Teil der Rinde zerstört ist, treten Beschwerden auf. Weil das Cortisol fehlt, bildet die Hypophyse sehr viel A C T H. Mit dem A C T H entsteht auch ein Hormon, das die Haut dunkler färbt.
+
+Symptome: Die Patienten sind schwach, müde und verlieren Gewicht. Der Blutdruck ist niedrig und ihnen wird beim Aufstehen schwindelig. Viele haben Übelkeit und Bauchschmerzen. Typisch ist eine dunkle Haut, auch an Handlinien, Narben und Mundschleimhaut. Viele Patienten haben Heißhunger auf Salz. Bei Stress, Infekten oder Operationen droht eine Krise mit Schock.
+
+Die Laborbefunde: Typisch sind ein niedriges Natrium und ein hohes Kalium. Der Blutzucker kann niedrig sein. Im Blutbild sieht man oft mehr Eosinophile. Das Cortisol am Morgen ist niedrig und das A C T H hoch. Das Renin ist hoch und das Aldosteron niedrig. Die Diagnose sichert der A C T H-Test, bei dem das Cortisol nicht ausreichend ansteigt. Bei der Autoimmunform findet man Antikörper gegen ein Enzym der Nebenniere.
+
+Verlauf und Therapie: Man ersetzt das Cortisol mit Hydrocortison und das Aldosteron mit Fludrocortison. Bei Fieber, Infekten und Operationen muss die Dosis erhöht werden. Die Patienten tragen einen Notfallausweis. Bei einer Addison-Krise gibt man sofort Hydrocortison und Kochsalz in die Vene. Mit der richtigen Behandlung haben die Patienten ein fast normales Leben.
+
+Warum ist das im Labor wichtig? Bei Verdacht auf eine Addison-Krise nimmt man Blut für Cortisol und A C T H ab. Die Therapie darf aber nicht auf das Ergebnis warten. Das A C T H ist empfindlich und gehört gekühlt ins Labor. Bei der sekundären Form fehlen die dunkle Haut und das hohe Kalium, weil das Aldosteron erhalten bleibt.
+
+Kurz gesagt: Beim Morbus Addison fehlen Cortisol und Aldosteron, meist durch eine Autoimmunentzündung. Typisch sind niedriges Natrium, hohes Kalium, niedriges Cortisol und hohes A C T H. Der A C T H-Test sichert die Diagnose. In der Krise gibt man sofort Hydrocortison, ohne auf das Labor zu warten.
+
+# Der Hyperparathyreoidismus — Hyperparathyroidism
+
+Einordnung: Beim Hyperparathyreoidismus bilden die Nebenschilddrüsen zu viel Parathormon. Man unterscheidet drei Formen. Bei der primären Form ist die Drüse selbst krank. Bei der sekundären Form reagiert sie auf ein niedriges Calcium. Bei der tertiären Form hat sie sich nach langer Überreizung selbstständig gemacht.
+
+Entstehung: Die primäre Form entsteht meist durch ein gutartiges Adenom einer einzelnen Nebenschilddrüse. Sie ist die häufigste Ursache eines hohen Calciums bei sonst gesunden Menschen. Die sekundäre Form entsteht bei chronischer Nierenkrankheit oder bei Vitamin-D-Mangel. Das Parathormon löst Calcium aus dem Knochen und hält es in der Niere zurück. Gleichzeitig scheidet die Niere mehr Phosphat aus.
+
+Symptome: Heute fallen viele Patienten nur durch ein hohes Calcium in einer Routinemessung auf. Die klassischen Folgen merkt man sich mit dem Satz Stein, Bein, Magenpein. Gemeint sind Nierensteine, Knochenschmerzen und Beschwerden im Magen. Dazu kommen Müdigkeit, Durst, Verstopfung und gedrückte Stimmung.
+
+Die Laborbefunde: Bei der primären Form sind Calcium und Parathormon beide hoch. Auch ein normales Parathormon bei hohem Calcium ist auffällig, weil es eigentlich gebremst sein müsste. Das Phosphat ist niedrig. Bei der sekundären Form durch die Niere ist das Calcium niedrig oder normal, das Phosphat hoch und das Parathormon hoch. Beim Vitamin-D-Mangel ist das Vitamin D niedrig. Ein hohes Calcium mit gebremstem Parathormon spricht für einen Tumor.
+
+Verlauf und Therapie: Die primäre Form wird meist operiert. Während der Operation misst man das Parathormon im Schnelltest. Sinkt es zehn Minuten nach der Entfernung um mehr als die Hälfte, war es das richtige Adenom. Nach der Operation kann das Calcium stark abfallen. Die sekundäre Form behandelt man mit Vitamin D, Phosphatbindern und Medikamenten, die die Drüse bremsen.
+
+Warum ist das im Labor wichtig? Das Gesamtcalcium hängt vom Albumin ab. Bei niedrigem Albumin misst man besser das ionisierte Calcium. Ein langer Stau am Arm erhöht das Calcium künstlich. Vor einer Operation schließt man eine erbliche Form mit sehr niedrigem Calcium im Urin aus. Die Schnellmessung im Operationssaal muss sehr zügig gehen.
+
+Kurz gesagt: Beim primären Hyperparathyreoidismus sind Calcium und Parathormon hoch und das Phosphat niedrig. Meist steckt ein Adenom dahinter, das operiert wird. Bei der sekundären Form durch die Niere ist das Calcium niedrig und das Phosphat hoch. Ein hohes Calcium mit gebremstem Parathormon spricht für einen Tumor.
+
+# Zusammenfassung Teil sechs — Part six summary
+
+Die Schilddrüsenunterfunktion zeigt ein hohes T S H und meist Antikörper gegen die T P O. Die Überfunktion zeigt ein sehr niedriges T S H und hohe freie Hormone. Ein positiver T R A K spricht für einen Morbus Basedow.
+
+Beim Morbus Addison sind Natrium und Cortisol niedrig, Kalium und A C T H hoch. Beim primären Hyperparathyreoidismus sind Calcium und Parathormon hoch und das Phosphat niedrig. Bei der sekundären Form durch die Niere ist das Phosphat hoch.
+
+Im nächsten Teil geht es um die Infektionen.
+
+# Teil sieben: Infektionen — Part seven: Infections
+
+Die Erreger selbst stehen in den Leitfäden zu Bakterien, Viren, Pilzen und Parasiten. Hier geht es um die großen Krankheitsbilder, die in der Klinik häufig sind. Bei allen gilt eine Regel. Die richtigen Proben müssen vor dem ersten Antibiotikum abgenommen werden.
+
+Der Teil hat vier Steckbriefe. Zuerst kommt die Sepsis. Dann folgen die Pneumonie und die Meningitis. Am Ende steht die Endokarditis.
+
+# Die Sepsis — Sepsis
+
+Einordnung: Die Sepsis ist eine lebensbedrohliche Funktionsstörung von Organen durch eine Infektion. Sie entsteht, wenn der Körper auf die Infektion entgleist reagiert. In Deutschland erkranken jedes Jahr weit über zweihunderttausend Menschen. Viele davon sterben. Der septische Schock ist die schwerste Form.
+
+Entstehung: Der Ausgangspunkt ist meist eine Lungenentzündung, ein Harnwegsinfekt oder eine Infektion im Bauch. Auch Katheter und Wunden können der Ursprung sein. Die Abwehr schüttet große Mengen an Botenstoffen aus. Die Gefäße werden weit und undicht. Der Blutdruck fällt und die Organe bekommen zu wenig Sauerstoff. Dazu wird die Gerinnung aktiviert.
+
+Symptome: Typisch sind Fieber oder Untertemperatur, schneller Puls und schnelle Atmung. Die Patienten sind oft verwirrt. Der Blutdruck fällt und die Urinmenge geht zurück. Die Haut ist fleckig marmoriert. Bei alten Menschen ist Verwirrtheit manchmal das einzige Zeichen.
+
+Die Laborbefunde: Vor der ersten Antibiotikagabe nimmt man mindestens zwei Blutkultursets ab. Jedes Set besteht aus einer aeroben und einer anaeroben Flasche. Das Laktat zeigt den Sauerstoffmangel im Gewebe. Ein Wert über zwei Millimol pro Liter ist ein Warnzeichen. Das Procalcitonin steigt bei bakteriellen Infektionen stark. Die Leukozyten sind hoch oder sehr niedrig. Thrombozyten, Bilirubin und Kreatinin zeigen das Versagen der Organe. Die Gerinnung kann in eine Verbrauchskoagulopathie entgleisen.
+
+Verlauf und Therapie: Die Sepsis ist ein Notfall. Antibiotika sollen innerhalb einer Stunde laufen. Dazu kommen viel Flüssigkeit und Medikamente, die den Blutdruck stützen. Die Ursache wird gesucht und beseitigt, zum Beispiel ein Abszess oder ein infizierter Katheter. Sobald der Erreger bekannt ist, wird die Therapie gezielt angepasst. Das Procalcitonin hilft zu entscheiden, wann man die Antibiotika beenden kann.
+
+Warum ist das im Labor wichtig? Blutkulturen gehören sofort in den Brutschrank, nie in den Kühlschrank. Jede Flasche braucht genug Blut, bei Erwachsenen etwa acht bis zehn Milliliter. Zu wenig Blut senkt die Trefferquote stark. Eine positive Blutkultur meldest du sofort mit dem Gramfärbebefund. Ein Laktat über vier Millimol pro Liter ist ein kritischer Wert.
+
+Kurz gesagt: Die Sepsis ist ein Organversagen durch eine entgleiste Reaktion auf eine Infektion. Vor dem Antibiotikum nimmt man mindestens zwei Blutkultursets ab. Laktat, Procalcitonin und Organwerte zeigen die Schwere. Das Antibiotikum soll innerhalb einer Stunde laufen.
+
+# Die Pneumonie — Pneumonia
+
+Einordnung: Die Pneumonie ist eine Entzündung des Lungengewebes. Sie ist die häufigste Infektion, an der Menschen in Deutschland sterben. Man unterscheidet die Pneumonie, die man außerhalb des Krankenhauses bekommt, von der im Krankenhaus erworbenen. Die Erreger und die Therapie unterscheiden sich deutlich.
+
+Entstehung: Außerhalb des Krankenhauses ist der häufigste Erreger Streptococcus pneumoniae. Dazu kommen Haemophilus influenzae und atypische Erreger wie Mykoplasmen und Legionellen. Auch Viren wie Influenza und S A R S-CoV-zwei verursachen Pneumonien. Im Krankenhaus kommen Pseudomonas, Klebsiellen und resistente Staphylokokken dazu. Ältere Menschen, Raucher und Menschen mit Schluckstörungen sind besonders gefährdet.
+
+Symptome: Typisch sind Fieber, Husten mit Auswurf, Atemnot und Schmerzen beim Atmen. Die atypische Pneumonie beginnt langsamer, oft mit trockenem Husten und Kopfschmerzen. Bei älteren Menschen fehlt das Fieber manchmal. Sie sind dann nur verwirrt oder schwach. Im Röntgenbild sieht man eine Verschattung.
+
+Die Laborbefunde: C R P, Leukozyten und Procalcitonin sind bei bakteriellen Pneumonien meist hoch. Die Blutgasanalyse zeigt, wie viel Sauerstoff fehlt. Bei Patienten im Krankenhaus nimmt man Blutkulturen ab. Im Urin sucht man Antigene von Pneumokokken und Legionellen. Ein gutes Sputum hat viele Leukozyten und wenige Plattenepithelien. Die P C R aus dem Rachenabstrich weist Viren und atypische Erreger nach. Bei Legionellen ist das Natrium oft niedrig.
+
+Verlauf und Therapie: Die Schwere schätzt man mit einem einfachen Punktwert aus Verwirrtheit, Atemfrequenz, Blutdruck und Alter. Leichte Fälle werden zu Hause behandelt, meist mit Amoxicillin. Schwere Fälle kommen ins Krankenhaus. Bei Verdacht auf atypische Erreger ergänzt man ein Makrolid. Gegen Influenza und Pneumokokken gibt es Impfungen.
+
+Warum ist das im Labor wichtig? Ein Sputum mit vielen Plattenepithelien ist Speichel und nicht aus der Lunge. Es ist für die Kultur wertlos. Der Legionellen-Antigentest im Urin erfasst nur die häufigste Untergruppe. Ein negativer Test schließt Legionellen darum nicht aus. Legionellen und Pneumokokken in bestimmten Proben sind meldepflichtig.
+
+Kurz gesagt: Die Pneumonie ist eine Entzündung des Lungengewebes und eine häufige Todesursache. Der häufigste Erreger außerhalb des Krankenhauses ist Streptococcus pneumoniae. C R P, Procalcitonin, Blutkulturen und Urinantigene helfen bei der Diagnose. Ein gutes Sputum hat viele Leukozyten und wenig Epithelien.
+
+# Die Meningitis — Meningitis
+
+Einordnung: Die Meningitis ist eine Entzündung der Hirnhäute. Die bakterielle Meningitis ist ein Notfall und endet ohne Therapie oft tödlich. Die virale Meningitis ist meist harmlos. Eine Entzündung des Gehirns selbst heißt Enzephalitis.
+
+Entstehung: Bei Kindern und jungen Erwachsenen sind Neisseria meningitidis und Streptococcus pneumoniae die häufigsten Bakterien. Bei Neugeborenen sind es Streptococcus agalactiae und Escherichia coli. Bei Neugeborenen, Älteren und Abwehrgeschwächten kommt Listeria monocytogenes dazu. Viren sind vor allem Enteroviren. Das Herpes-simplex-Virus verursacht eine gefährliche Enzephalitis.
+
+Symptome: Typisch sind starke Kopfschmerzen, Fieber und ein steifer Nacken. Dazu kommen Licht- und Lärmempfindlichkeit, Erbrechen und Verwirrtheit. Bei Meningokokken treten oft kleine punktförmige Blutungen auf der Haut auf. Bei Säuglingen fehlt die Nackensteife oft. Sie trinken schlecht und sind schläfrig oder reizbar.
+
+Die Laborbefunde: Der Schlüssel ist der Liquor. Bei der bakteriellen Meningitis ist er trüb. Man findet oft über tausend Zellen pro Mikroliter, vor allem Granulozyten. Das Eiweiß ist hoch, das Laktat über drei Komma fünf Millimol pro Liter. Der Quotient aus Liquorzucker und Blutzucker ist niedrig. Bei der viralen Meningitis ist der Liquor klar mit weniger Zellen, vor allem Lymphozyten. Zucker und Laktat sind dabei normal. Gramfärbung, Kultur und P C R zeigen den Erreger.
+
+Verlauf und Therapie: Bei Verdacht auf eine bakterielle Meningitis nimmt man sofort Blutkulturen ab. Das Antibiotikum darf nicht auf die Bildgebung oder die Punktion warten. Zusätzlich gibt man Dexamethason. Bei Verdacht auf Herpes gibt man Aciclovir. Bei Meningokokken bekommen enge Kontaktpersonen ein Antibiotikum zur Vorbeugung. Die Krankheit ist meldepflichtig.
+
+Warum ist das im Labor wichtig? Liquor ist eine Notfallprobe und kommt sofort ins Labor. Er wird nie gekühlt, weil Meningokokken in der Kälte absterben. Die Zellzahl muss schnell gezählt werden, weil die Zellen zerfallen. Für den Blutzucker braucht man eine gleichzeitige Blutprobe. Arbeite mit Meningokokken immer in der Sicherheitswerkbank.
+
+Kurz gesagt: Die bakterielle Meningitis ist ein Notfall. Der Liquor ist trüb mit vielen Granulozyten, hohem Laktat und niedrigem Zucker. Bei der viralen Form ist er klar mit Lymphozyten und normalem Zucker. Liquor kommt sofort und ungekühlt ins Labor.
+
+# Die Endokarditis — Infective endocarditis
+
+Einordnung: Bei der Endokarditis ist die Innenhaut des Herzens entzündet, meist an den Herzklappen. Die infektiöse Endokarditis ist selten, aber sehr gefährlich. Ohne Therapie ist sie fast immer tödlich. Auch mit Therapie stirbt ein großer Teil der Patienten.
+
+Entstehung: Bakterien gelangen ins Blut und setzen sich auf vorgeschädigten oder künstlichen Herzklappen fest. Sie bilden dort Auflagerungen aus Bakterien, Fibrin und Thrombozyten. Der häufigste Erreger ist heute Staphylococcus aureus. Dazu kommen vergrünende Streptokokken aus dem Mund und Enterokokken. Risikogruppen sind Menschen mit Klappenprothesen und Menschen, die Drogen spritzen. Teile der Auflagerungen können abreißen und Gefäße verschließen.
+
+Symptome: Typisch ist Fieber, das oft wochenlang anhält. Die Patienten sind müde, verlieren Gewicht und schwitzen nachts. Am Herzen hört man ein neues Geräusch. Kleine Blutungen unter den Nägeln und an den Augen können auftreten. Verschleppte Gerinnsel verursachen Schlaganfälle oder Infarkte in Niere und Milz.
+
+Die Laborbefunde: Der wichtigste Laborbefund sind positive Blutkulturen. Man nimmt mindestens drei Sets aus getrennten Punktionen ab, vor dem ersten Antibiotikum. Typische Erreger in mehreren Sets sind ein Hauptkriterium der Diagnose. C R P und Blutsenkung sind hoch. Oft besteht eine Anämie bei Entzündung. Im Urin findet man Erythrozyten durch Gerinnsel in der Niere. Bleiben die Kulturen negativ, sucht man mit Serologie oder P C R nach seltenen Erregern.
+
+Verlauf und Therapie: Die Diagnose stützt sich auf Blutkulturen und den Ultraschall des Herzens. Die Therapie sind hoch dosierte Antibiotika in die Vene über vier bis sechs Wochen. Bei zerstörten Klappen, großen Auflagerungen oder unkontrollierter Infektion wird operiert. Bei bestimmten Eingriffen bekommen Risikopatienten vorher ein Antibiotikum.
+
+Warum ist das im Labor wichtig? Das Labor muss die Blutkulturen besonders lange beobachten und genau identifizieren. Bei Streptokokken und Enterokokken bestimmt man die Empfindlichkeit sehr genau. Unter Vancomycin und Gentamicin misst man die Spiegel. So bleiben die Mittel wirksam, ohne Niere und Gehör zu schädigen. Ein Staphylococcus aureus in der Blutkultur ist nie eine Verunreinigung.
+
+Kurz gesagt: Die Endokarditis ist eine Infektion der Herzklappen, meist durch Staphylococcus aureus oder Streptokokken. Man nimmt mindestens drei Blutkultursets aus getrennten Punktionen ab. Die Therapie dauert vier bis sechs Wochen. Unter Vancomycin und Gentamicin misst das Labor die Spiegel.
+
+# Zusammenfassung Teil sieben — Part seven summary
+
+Die Sepsis ist ein Organversagen durch eine Infektion. Vor dem Antibiotikum nimmt man mindestens zwei Blutkultursets ab und misst das Laktat. Bei der Pneumonie helfen C R P, Procalcitonin, Urinantigene und ein gutes Sputum.
+
+Bei der bakteriellen Meningitis ist der Liquor trüb mit vielen Granulozyten und niedrigem Zucker. Liquor kommt sofort und ungekühlt ins Labor. Bei der Endokarditis sind mindestens drei Blutkultursets aus getrennten Punktionen der wichtigste Befund.
+
+Im nächsten Teil geht es um die Autoimmunkrankheiten.
+
+# Teil acht: Autoimmunität — Part eight: Autoimmune diseases
+
+Bei Autoimmunkrankheiten greift das Immunsystem den eigenen Körper an. Die Methoden zum Nachweis der Autoantikörper stehen im Leitfaden zur Immunologie. Hier geht es um die drei großen Krankheitsbilder aus der Rheumatologie. Bei allen gilt, dass ein Antikörper allein noch keine Krankheit ist.
+
+Der Teil hat drei Steckbriefe. Zuerst kommt die rheumatoide Arthritis. Dann folgt der systemische Lupus erythematodes. Am Ende stehen die Vaskulitiden.
+
+# Rheumatoide Arthritis — Rheumatoid arthritis
+
+Einordnung: Die rheumatoide Arthritis ist die häufigste entzündliche Gelenkkrankheit. Etwa einer von hundert Erwachsenen ist betroffen. Frauen erkranken etwa dreimal so oft wie Männer. Die Krankheit beginnt meist zwischen dreißig und fünfzig Jahren.
+
+Entstehung: Das Immunsystem greift die Innenhaut der Gelenke an. Die Gelenkhaut wuchert und zerstört Knorpel und Knochen. Die Ursache ist eine Mischung aus Veranlagung und äußeren Faktoren. Rauchen ist der wichtigste äußere Risikofaktor. Schon Jahre vor den Beschwerden bilden sich typische Antikörper.
+
+Symptome: Typisch sind geschwollene, schmerzhafte Gelenke an Fingern und Zehen. Beide Seiten sind meist gleich betroffen. Die Gelenke sind am Morgen länger als eine Stunde steif. Dazu kommen Müdigkeit und manchmal leichtes Fieber. Unbehandelt verformen sich die Gelenke mit der Zeit.
+
+Die Laborbefunde: Der spezifischste Marker sind die Antikörper gegen citrullinierte Peptide, kurz A C P A oder Anti-C C P. Sie sind bei etwa zwei Dritteln der Patienten positiv. Ein positiver Test spricht sehr stark für die Krankheit. Der Rheumafaktor ist häufiger positiv, aber weniger spezifisch. Er findet sich auch bei Gesunden im Alter, bei Hepatitis C und bei anderen Autoimmunkrankheiten. C R P und Blutsenkung zeigen die Aktivität. Oft besteht eine Anämie bei Entzündung.
+
+Verlauf und Therapie: Je früher die Behandlung beginnt, desto besser bleiben die Gelenke erhalten. Das wichtigste Basismedikament ist Methotrexat. Bei unzureichender Wirkung kommen Antikörper gegen Entzündungsstoffe und andere moderne Mittel dazu. In Schüben hilft Cortison. Das Ziel ist eine Remission ohne aktive Entzündung.
+
+Warum ist das im Labor wichtig? Unter Methotrexat kontrolliert man regelmäßig Blutbild, Leberwerte und Kreatinin. Es kann das Knochenmark und die Leber schädigen. Vor einer Therapie mit Antikörpermedikamenten testet man auf Tuberkulose und Hepatitis B. Ein positiver Rheumafaktor ohne Gelenkbeschwerden ist keine rheumatoide Arthritis.
+
+Kurz gesagt: Die rheumatoide Arthritis ist eine Entzündung vieler kleiner Gelenke auf beiden Seiten. Anti-C C P ist der spezifischste Marker. Der Rheumafaktor ist häufiger, aber unspezifisch. Unter Methotrexat kontrolliert das Labor Blutbild, Leber und Niere.
+
+# Systemischer Lupus erythematodes — Systemic lupus erythematosus
+
+Einordnung: Der systemische Lupus erythematodes ist eine Autoimmunkrankheit, die fast jedes Organ befallen kann. Man nennt ihn kurz Lupus. Er betrifft vor allem junge Frauen. Frauen erkranken etwa neunmal so oft wie Männer. Der Verlauf ist in Schüben.
+
+Entstehung: Das Immunsystem bildet Antikörper gegen Bestandteile des Zellkerns. Diese Antikörper bilden mit ihren Zielen Immunkomplexe. Sie lagern sich in Gefäßen, Nieren, Haut und Gelenken ab. Dort aktivieren sie das Komplement und lösen eine Entzündung aus. Sonnenlicht, Infekte und Hormone können einen Schub auslösen. Manche Medikamente können einen ähnlichen Lupus hervorrufen.
+
+Symptome: Typisch ist eine schmetterlingsförmige Rötung im Gesicht. Die Haut reagiert empfindlich auf Sonne. Viele Patienten haben Gelenkschmerzen, Fieber und große Müdigkeit. Dazu kommen Entzündungen von Rippenfell und Herzbeutel. Ein Befall der Niere heißt Lupusnephritis und ist besonders gefährlich.
+
+Die Laborbefunde: Der Suchtest sind die antinukleären Antikörper, kurz A N A. Sie sind bei fast allen Patienten positiv. Ein negativer Test macht einen Lupus darum sehr unwahrscheinlich. Spezifisch sind die Antikörper gegen doppelsträngige D N A, kurz Anti-d s D N A, und Anti-S m. In aktiven Phasen sind die Komplementfaktoren C drei und C vier niedrig. Im Blutbild sieht man oft wenige Leukozyten, Lymphozyten und Thrombozyten. Eine Proteinurie und ein aktives Sediment zeigen die Lupusnephritis.
+
+Verlauf und Therapie: Die Grundlage der Therapie ist Hydroxychloroquin. In Schüben gibt man Cortison. Bei schweren Verläufen und bei Nierenbefall kommen Immunsuppressiva und Antikörpermedikamente dazu. Sonnenschutz gehört zur Behandlung. Die Patienten haben ein erhöhtes Risiko für Herzinfarkte und Infektionen.
+
+Warum ist das im Labor wichtig? Beim Lupus ist das C R P oft normal, obwohl die Blutsenkung hoch ist. Ein hohes C R P spricht dann eher für eine Infektion. Viele Patienten haben auch Antiphospholipid-Antikörper und ein Lupusantikoagulans. Das verlängert die a P T T, erhöht aber das Thromboserisiko. Ein positiver Coombs-Test kann eine hämolytische Anämie anzeigen.
+
+Kurz gesagt: Der Lupus ist eine Autoimmunkrankheit vieler Organe, vor allem bei jungen Frauen. Die A N A sind fast immer positiv. Anti-d s D N A und Anti-S m sind spezifisch. Niedriges C drei und C vier zeigen einen aktiven Schub.
+
+# Die Vaskulitiden — Vasculitides
+
+Einordnung: Vaskulitiden sind Entzündungen der Blutgefäße. Man teilt sie nach der Größe der befallenen Gefäße ein. Bei großen Gefäßen ist die Riesenzellarteriitis die häufigste Form. Bei kleinen Gefäßen sind es die A N C A-assoziierten Vaskulitiden und bei Kindern die I g A-Vaskulitis.
+
+Entstehung: Bei der Riesenzellarteriitis entzünden sich die großen Arterien am Kopf, oft die Schläfenarterie. Sie betrifft fast nur Menschen über fünfzig. Bei den A N C A-assoziierten Formen greifen Antikörper die Granulozyten an. Diese schädigen dann die Wand kleiner Gefäße, vor allem in Lunge und Niere. Die I g A-Vaskulitis folgt bei Kindern oft auf einen Infekt.
+
+Symptome: Die Riesenzellarteriitis macht neue Kopfschmerzen an der Schläfe und Schmerzen beim Kauen. Gefürchtet ist eine plötzliche Erblindung. Bei den A N C A-Vaskulitiden treten blutiger Schnupfen, Husten mit Blut und Nierenversagen auf. Die I g A-Vaskulitis zeigt tastbare kleine Blutungen an den Beinen, Gelenkschmerzen und Bauchschmerzen.
+
+Die Laborbefunde: Bei der Riesenzellarteriitis sind Blutsenkung und C R P stark erhöht. Bei den kleinen Gefäßen sucht man A N C A in der Immunfluoreszenz. Das c-A N C A-Muster mit Antikörpern gegen P R drei passt zur Granulomatose mit Polyangiitis. Das p-A N C A-Muster mit Antikörpern gegen M P O passt zur mikroskopischen Polyangiitis. Bei einer Form mit Asthma sind die Eosinophilen stark erhöht. Im Urin zeigen Akanthozyten und Erythrozytenzylinder den Befall der Niere.
+
+Verlauf und Therapie: Bei Verdacht auf Riesenzellarteriitis gibt man sofort Cortison. Man wartet nicht auf die Biopsie, weil sonst die Erblindung droht. Die A N C A-Vaskulitiden behandelt man mit Cortison und Rituximab oder Cyclophosphamid. Bei schwerem Lungen- oder Nierenbefall kommt ein Plasmaaustausch dazu. Die I g A-Vaskulitis heilt bei Kindern meist von allein.
+
+Warum ist das im Labor wichtig? A N C A werden erst in der Immunfluoreszenz gesucht und dann im Immunassay gegen P R drei und M P O bestätigt. Ein p-A N C A-Muster ohne Antikörper gegen M P O hat eine geringe Aussagekraft. Bei positiven A N C A und schnell steigendem Kreatinin ist der Befund eilig. Ein frisches Urinsediment ist hier besonders wertvoll.
+
+Kurz gesagt: Vaskulitiden sind Entzündungen der Gefäße, eingeteilt nach der Gefäßgröße. Die Riesenzellarteriitis zeigt eine sehr hohe Blutsenkung und braucht sofort Cortison. Das c-A N C A mit P R drei und das p-A N C A mit M P O zeigen Vaskulitiden kleiner Gefäße. Akanthozyten im Urin zeigen den Befall der Niere.
+
+# Zusammenfassung Teil acht — Part eight summary
+
+Bei der rheumatoiden Arthritis ist Anti-C C P der spezifischste Marker, der Rheumafaktor ist unspezifisch. Unter Methotrexat kontrolliert man Blutbild, Leber und Niere. Beim Lupus sind die A N A fast immer positiv. Anti-d s D N A und niedriges Komplement zeigen die Aktivität.
+
+Die Riesenzellarteriitis zeigt eine sehr hohe Blutsenkung. Bei den Vaskulitiden kleiner Gefäße sucht man A N C A gegen P R drei und M P O. Akanthozyten im Urin zeigen den Befall der Niere.
+
+Im nächsten Teil geht es um die Tumoren.
+
+# Teil neun: Tumoren — Part nine: Cancer
+
+Die Tumormarker und die Gewebediagnostik stehen in den Leitfäden zur klinischen Chemie und zur Histologie. Hier geht es um die vier häufigsten Krebsarten in Deutschland. Bei allen gilt dieselbe Regel. Die Diagnose stellt das Gewebe, nicht der Tumormarker im Blut.
+
+Der Teil hat vier Steckbriefe. Zuerst kommt das Prostatakarzinom. Dann folgen das kolorektale Karzinom und das Mammakarzinom. Am Ende steht das Bronchialkarzinom.
+
+# Das Prostatakarzinom — Prostate cancer
+
+Einordnung: Das Prostatakarzinom ist die häufigste Krebsart bei Männern in Deutschland. Es tritt vor allem im höheren Alter auf. Viele Tumoren wachsen sehr langsam und machen nie Beschwerden. Andere sind aggressiv und streuen früh in die Knochen.
+
+Entstehung: Der Tumor geht meist von den Drüsen am Rand der Prostata aus. Das Wachstum hängt vom männlichen Hormon Testosteron ab. Risikofaktoren sind das Alter und eine familiäre Belastung. Auch Veränderungen in den B R C A-Genen erhöhen das Risiko.
+
+Symptome: Im frühen Stadium gibt es meist keine Beschwerden. Spätere Zeichen sind Probleme beim Wasserlassen und Blut im Urin oder Samen. Knochenschmerzen im Rücken können das erste Zeichen von Metastasen sein. Oft wird der Tumor bei einer Vorsorge entdeckt.
+
+Die Laborbefunde: Der wichtigste Marker ist das P S A, das prostataspezifische Antigen. Es ist spezifisch für die Prostata, aber nicht für Krebs. Auch eine gutartige Vergrößerung und eine Entzündung erhöhen es. Werte über vier Nanogramm pro Milliliter gelten als auffällig. Ein niedriger Anteil an freiem P S A spricht eher für Krebs. Die Diagnose sichert die Gewebeprobe. Der Pathologe bewertet die Aggressivität mit dem Gleason-Wert.
+
+Verlauf und Therapie: Kleine, wenig aggressive Tumoren beobachtet man oft nur aktiv. Größere Tumoren werden operiert oder bestrahlt. Bei Metastasen entzieht man dem Tumor das Testosteron mit Medikamenten. Nach einer kompletten Entfernung der Prostata soll das P S A nicht mehr messbar sein. Ein erneuter Anstieg zeigt einen Rückfall.
+
+Warum ist das im Labor wichtig? Das P S A steigt auch nach einer Tastuntersuchung, nach Radfahren, nach einem Samenerguss und nach einem Katheter. Darum sollte die Blutabnahme vorher erfolgen oder einige Tage warten. Medikamente gegen die gutartige Vergrößerung halbieren das P S A etwa. Für die Verlaufskontrolle sollte immer dieselbe Methode im selben Labor messen.
+
+Kurz gesagt: Das Prostatakarzinom ist der häufigste Krebs bei Männern. Das P S A ist prostataspezifisch, aber nicht krebsspezifisch. Werte über vier Nanogramm pro Milliliter sind auffällig. Nach der Operation soll das P S A nicht mehr messbar sein.
+
+# Das kolorektale Karzinom — Colorectal cancer
+
+Einordnung: Das kolorektale Karzinom ist der Krebs des Dickdarms und des Enddarms. Es gehört bei Männern und Frauen zu den drei häufigsten Krebsarten. Die meisten Patienten sind über fünfzig Jahre alt. Durch die Vorsorge ist die Zahl der Fälle gesunken.
+
+Entstehung: Die meisten Karzinome entstehen über viele Jahre aus gutartigen Polypen, den Adenomen. Man nennt das die Adenom-Karzinom-Folge. Risikofaktoren sind Alter, rotes Fleisch, Übergewicht, Rauchen und Alkohol. Auch chronisch entzündliche Darmerkrankungen erhöhen das Risiko. Erbliche Formen wie das Lynch-Syndrom betreffen schon junge Menschen.
+
+Symptome: Frühe Tumoren machen meist keine Beschwerden. Spätere Zeichen sind Blut im Stuhl, eine Änderung der Stuhlgewohnheiten und ungewollter Gewichtsverlust. Tumoren im rechten Dickdarm bluten oft unbemerkt. Sie fallen dann nur durch eine Eisenmangelanämie auf.
+
+Die Laborbefunde: Für die Vorsorge gibt es den immunologischen Stuhltest auf verstecktes Blut. Ein positiver Test führt zur Darmspiegelung. Eine Eisenmangelanämie bei einem älteren Mann oder einer Frau nach den Wechseljahren muss immer abgeklärt werden. Das C E A ist kein Suchtest. Man misst es vor der Operation und dann zur Nachsorge. Am Gewebe bestimmt man Mutationen wie K R A S und B R A F und eine Mikrosatelliteninstabilität, kurz M S I.
+
+Verlauf und Therapie: Die wichtigste Behandlung ist die Operation mit den Lymphknoten. Beim Enddarmkrebs kommt oft eine Bestrahlung dazu. Bei befallenen Lymphknoten folgt eine Chemotherapie. Bei Metastasen hängt die Therapie von den Mutationen ab. Antikörper gegen einen Wachstumsrezeptor wirken nur ohne R A S-Mutation. Die Vorsorge-Darmspiegelung entfernt Polypen, bevor sie zum Krebs werden.
+
+Warum ist das im Labor wichtig? Ein steigendes C E A in der Nachsorge kann einen Rückfall zeigen. Auch Rauchen erhöht das C E A leicht. Die M S I-Testung findet Patienten mit Lynch-Syndrom und deren Familien. Für die Mutationsanalyse wird das Gewebe aus dem Paraffinblock genutzt. Eine gute Fixierung ist darum wichtig.
+
+Kurz gesagt: Das kolorektale Karzinom entsteht meist aus Adenomen über viele Jahre. Der immunologische Stuhltest und die Darmspiegelung dienen der Vorsorge. Eine Eisenmangelanämie im Alter muss immer abgeklärt werden. Das C E A dient der Nachsorge, nicht der Suche.
+
+# Das Mammakarzinom — Breast cancer
+
+Einordnung: Das Mammakarzinom ist der Brustkrebs. Es ist die häufigste Krebsart bei Frauen. Etwa jede achte Frau erkrankt im Laufe ihres Lebens. Auch Männer können sehr selten betroffen sein.
+
+Entstehung: Die meisten Tumoren gehen von den Milchgängen aus. Viele wachsen unter dem Einfluss von Östrogen. Risikofaktoren sind Alter, eine frühe erste Regel, späte Wechseljahre, Übergewicht und Alkohol. Etwa fünf bis zehn von hundert Fällen sind erblich. Dabei sind meist die B R C A-Gene verändert.
+
+Symptome: Ein schmerzloser Knoten in der Brust ist das häufigste Zeichen. Dazu kommen eingezogene Haut, eine eingezogene Brustwarze oder Flüssigkeit aus der Brustwarze. Später können Lymphknoten in der Achsel tastbar sein. Viele Tumoren findet man bei der Mammographie im Screening.
+
+Die Laborbefunde: Die Diagnose sichert eine Stanzbiopsie. Am Gewebe bestimmt man den Rezeptorstatus. Dazu gehören die Östrogen- und Progesteronrezeptoren sowie der Wachstumsrezeptor H E R zwei. Ab einem Prozent gefärbter Zellen gilt ein Hormonrezeptor als positiv. Ein unklarer H E R zwei-Befund wird mit der In-situ-Hybridisierung geklärt. Ein Wachstumsmarker zeigt, wie schnell sich die Zellen teilen. Daraus ergeben sich die Untergruppen des Brustkrebses. Tumormarker im Blut wie C A fünfzehn drei dienen nur der Verlaufskontrolle bei Metastasen.
+
+Verlauf und Therapie: Die Behandlung ist meist eine brusterhaltende Operation mit Bestrahlung. Bei positiven Hormonrezeptoren folgt eine Hormontherapie über mehrere Jahre. Bei positivem H E R zwei gibt man Antikörper gegen diesen Rezeptor. Bei aggressiven Tumoren kommt eine Chemotherapie dazu. Ohne alle drei Rezeptoren spricht man vom dreifach negativen Brustkrebs.
+
+Warum ist das im Labor wichtig? Der Rezeptorstatus entscheidet direkt über die Therapie. Darum muss das Gewebe schnell und lange genug fixiert werden. Unter Chemotherapie kontrolliert man das Blutbild vor jedem Zyklus. Zu wenige Granulozyten verschieben die Therapie. Knochenmetastasen können ein hohes Calcium verursachen.
+
+Kurz gesagt: Brustkrebs ist der häufigste Krebs bei Frauen. Die Diagnose stellt die Stanzbiopsie. Hormonrezeptoren und H E R zwei bestimmen die Therapie. Tumormarker im Blut dienen nur dem Verlauf bei Metastasen.
+
+# Das Bronchialkarzinom — Lung cancer
+
+Einordnung: Das Bronchialkarzinom ist der Lungenkrebs. Es ist die häufigste Krebstodesursache in Deutschland. Man unterscheidet zwei große Gruppen. Das nicht kleinzellige Karzinom ist häufiger. Das kleinzellige Karzinom ist seltener, wächst aber schnell und streut früh.
+
+Entstehung: Die wichtigste Ursache ist das Rauchen. Etwa neun von zehn Patienten haben geraucht. Weitere Ursachen sind Passivrauchen, Asbest und das radioaktive Gas Radon. Beim nicht kleinzelligen Karzinom ist das Adenokarzinom die häufigste Form. Es kommt auch bei Nichtrauchern vor und trägt oft bestimmte Treibermutationen.
+
+Symptome: Frühe Tumoren machen kaum Beschwerden. Spätere Zeichen sind ein lange anhaltender Husten, Blut im Auswurf, Atemnot und Gewichtsverlust. Bei Rauchern wird ein veränderter Husten oft übersehen. Manche Tumoren bilden Hormone und machen dadurch Beschwerden fern der Lunge.
+
+Die Laborbefunde: Die Diagnose stellt die Gewebeprobe aus der Bronchoskopie oder eine Zytologie aus dem Erguss. Beim nicht kleinzelligen Karzinom sucht man am Gewebe nach Treibermutationen, etwa im E G F R-Gen oder im A L K-Gen. Auch ein Immunmarker auf den Tumorzellen wird bestimmt. Als Tumormarker im Blut dienen die N S E und das pro-G R P für das kleinzellige Karzinom. Beim Plattenepithelkarzinom nutzt man den Marker C Y F R A. Das kleinzellige Karzinom kann durch zu viel antidiuretisches Hormon ein sehr niedriges Natrium verursachen.
+
+Verlauf und Therapie: Frühe Tumoren werden operiert. In späteren Stadien gibt man Bestrahlung, Chemotherapie und Immuntherapie. Bei einer Treibermutation helfen gezielte Tabletten oft sehr gut. Das kleinzellige Karzinom spricht zunächst gut auf Chemotherapie an, kommt aber oft zurück. Der Rauchstopp verbessert in jedem Stadium die Prognose.
+
+Warum ist das im Labor wichtig? Eine Flüssigbiopsie sucht Tumor-D N A im Blut. Sie hilft, wenn nicht genug Gewebe da ist. Die Probe braucht dafür spezielle Röhrchen und einen schnellen Transport. Ein sehr niedriges Natrium bei einem Raucher kann der erste Hinweis auf ein kleinzelliges Karzinom sein. Auch ein hohes Calcium kommt bei Lungenkrebs vor.
+
+Kurz gesagt: Das Bronchialkarzinom ist die häufigste Krebstodesursache und hängt vor allem mit dem Rauchen zusammen. Am Gewebe sucht man Treibermutationen für gezielte Therapien. Die N S E und das pro-G R P sind Marker für das kleinzellige Karzinom. Ein sehr niedriges Natrium kann ein Hinweis sein.
+
+# Zusammenfassung Teil neun — Part nine summary
+
+Beim Prostatakarzinom ist das P S A prostataspezifisch, aber nicht krebsspezifisch. Beim kolorektalen Karzinom dienen Stuhltest und Darmspiegelung der Vorsorge und das C E A der Nachsorge. Eine Eisenmangelanämie im Alter muss immer abgeklärt werden.
+
+Beim Brustkrebs bestimmen Hormonrezeptoren und H E R zwei die Therapie. Beim Lungenkrebs sucht man Treibermutationen am Gewebe. Bei allen Tumoren stellt das Gewebe die Diagnose, nicht der Marker im Blut.
+
+Im letzten Teil folgt ein Schnellüberblick zum Wiederholen.
+
+# Teil zehn: Schnellüberblick — Part ten: Quick reference
+
+Der letzte Teil fasst die Krankheiten noch einmal zusammen. Er geht dabei den umgekehrten Weg. Er beginnt beim auffälligen Befund und fragt, welche Krankheiten dahinter stecken können. Danach folgen typische Verwechslungen und die Gesamtzusammenfassung.
+
+# Leitbefunde und ihre Krankheiten — From finding to disease
+
+Ein erhöhtes Troponin passt zum Herzinfarkt, wenn es steigt oder fällt. Ein gleichbleibend erhöhtes Troponin findet man bei chronischer Nierenkrankheit und Herzinsuffizienz. Auch Lungenembolie, Sepsis und Herzmuskelentzündung erhöhen das Troponin.
+
+Ein niedriges Natrium findet man bei Herzinsuffizienz, Leberzirrhose, Morbus Addison und unter Wassertabletten. Auch das kleinzellige Bronchialkarzinom und die Legionellen-Pneumonie senken das Natrium. Ein hohes Kalium findet man bei Nierenversagen, Morbus Addison und unter manchen Herzmedikamenten. Vorher schließt du immer eine Hämolyse aus.
+
+Ein hohes Calcium findet man beim primären Hyperparathyreoidismus mit hohem Parathormon. Bei Tumoren ist das Parathormon dagegen gebremst. Viele Eosinophile findet man bei Allergien, Parasiten, Morbus Addison und einer Vaskulitis mit Asthma.
+
+Stark erhöhte Transaminasen zeigen einen Zellschaden der Leber, etwa bei Hepatitis oder Schock. Hohe alkalische Phosphatase und Gamma-G T zeigen einen Gallestau. Eine Lipase über dem Dreifachen der Norm zeigt eine akute Pankreatitis.
+
+Viel Eiweiß im Urin mit ruhigem Sediment passt zum nephrotischen Syndrom. Blut im Urin mit Akanthozyten passt zur Glomerulonephritis. Nitrit und Leukozyten passen zum Harnwegsinfekt.
+
+Eine Anämie, ein auffälliges Blutbild oder eine Gerinnungsstörung führen dich zu den Leitfäden zur Hämatologie und zur Hämostaseologie. Dort stehen die Anämien, die Leukämien und die Blutungsneigungen. Eine Eisenmangelanämie im Alter führt dich aber auch zum Darmkrebs.
+
+# Häufige Verwechslungen — Common mix-ups
+
+Nephrotisch und nephritisch klingen ähnlich, sind aber verschieden. Beim nephrotischen Syndrom stehen viel Eiweiß und Ödeme im Vordergrund. Beim nephritischen Syndrom stehen Blut im Urin, Bluthochdruck und eine sinkende Nierenfunktion im Vordergrund.
+
+Typ eins und Typ zwei unterscheiden sich am C-Peptid und an den Inselantikörpern. Beim Typ eins sind die Antikörper positiv und das C-Peptid niedrig. Beim Typ zwei fehlen die Antikörper und das C-Peptid ist normal oder hoch.
+
+Beim primären Hyperparathyreoidismus ist das Calcium hoch und das Phosphat niedrig. Beim sekundären Hyperparathyreoidismus durch die Niere ist das Calcium niedrig und das Phosphat hoch. In beiden Fällen ist das Parathormon hoch.
+
+Gicht und Pseudogicht unterscheidest du am Kristall. Gichtkristalle sind nadelförmig und negativ doppelbrechend. Pseudogichtkristalle sind kurz und schwach positiv doppelbrechend.
+
+Das c-A N C A gehört zu P R drei, das p-A N C A zu M P O. Das Ferritin steigt bei Eisenüberladung, aber auch bei jeder Entzündung. Erst die Transferrinsättigung zeigt die echte Überladung.
+
+Ein hohes P S A ist kein Beweis für Krebs. Ein hoher Tumormarker allein ist nie eine Diagnose. Bakterieller und viraler Liquor unterscheiden sich an Zellart, Laktat und Zucker.
+
+# Gesamtzusammenfassung — Final summary
+
+Dieser Leitfaden hat die häufigen Krankheiten aus der Sicht des Labors gezeigt. Bei Herz und Kreislauf stehen das Troponin, das N T-pro B N P und die D-Dimere im Mittelpunkt. Bei der Niere sind es Kreatinin, Kalium, Eiweiß im Urin und das Sediment.
+
+Bei Leber und Galle trennen die Muster der Enzyme einen Zellschaden von einem Gallestau. Albumin, Quick-Wert und Cholinesterase zeigen die Bildungsleistung. Bei der Bauchspeicheldrüse sind die Lipase und die Stuhlelastase wichtig. Beim Darm ist es das Calprotectin.
+
+Beim Diabetes gelten der Nüchternzucker, der Belastungstest und das H b A eins c. Bei den Hormondrüsen liest du das Hormon immer zusammen mit seinem Steuerhormon. Bei Infektionen müssen Blutkulturen und Liquor vor dem ersten Antibiotikum abgenommen werden.
+
+Bei Autoimmunkrankheiten ist ein Antikörper allein keine Krankheit. Erst zusammen mit den Beschwerden ergibt er eine Diagnose. Bei Tumoren stellt das Gewebe die Diagnose, und die Marker im Blut dienen dem Verlauf.
+
+Am Ende gilt für alle Krankheiten dasselbe. Ein einzelner Wert sagt wenig. Erst das Muster aller Werte und der Verlauf ergeben ein Bild. Wenn du das Krankheitsbild kennst, erkennst du schneller, wann ein Befund nicht passt. Viel Erfolg bei der Prüfung.

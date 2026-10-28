@@ -18,6 +18,7 @@ Alle Markdown-Bücher mit ihren Teilen, Kapiteln und Abschnitten. Jeder Link öf
 | `12` | [**Qualitätsmanagement im Labor**](#buch-12) · [encyclopedia_qualitaetsmanagement_de.md](encyclopedia_qualitaetsmanagement_de.md) | `37 Steckbriefe` · `9 Teile` · `59 Kapitel` |
 | `13` | [**Klinische Chemie zwei**](#buch-13) · [encyclopedia_klinische_chemie_ii_de.md](encyclopedia_klinische_chemie_ii_de.md) | `34 Steckbriefe` · `9 Teile` · `55 Kapitel` |
 | `14` | [**Laborgeräte und Analytik**](#buch-14) · [encyclopedia_laborgeraete_analytik_de.md](encyclopedia_laborgeraete_analytik_de.md) | `32 Steckbriefe` · `9 Teile` · `53 Kapitel` |
+| `15` | [**Krankheitsbilder**](#buch-15) · [encyclopedia_krankheitsbilder_de.md](encyclopedia_krankheitsbilder_de.md) | `37 Steckbriefe` · `10 Teile` · `60 Kapitel` |
 
 ---
 
@@ -1766,3 +1767,131 @@ Alle Markdown-Bücher mit ihren Teilen, Kapiteln und Abschnitten. Jeder Link öf
 - [📖 Wichtige Zahlen](encyclopedia_laborgeraete_analytik_de.md#wichtige-zahlen)
 - [📖 Häufige Verwechslungen](encyclopedia_laborgeraete_analytik_de.md#häufige-verwechslungen)
 - [📖 Gesamtzusammenfassung](encyclopedia_laborgeraete_analytik_de.md#gesamtzusammenfassung)
+
+---
+
+<a id="buch-15"></a>
+
+## 📗 15 · [Krankheitsbilder](encyclopedia_krankheitsbilder_de.md)
+
+*Steckbriefe zu häufigen Krankheiten von Herz, Niere, Leber, Darm, Stoffwechsel, Hormondrüsen, Infektionen, Autoimmunität und Tumoren aus der Sicht des Labors*
+
+`37 Steckbriefe` · `10 Teile` · `60 Kapitel`
+
+- [🗺️ Hinweise zum Leitfaden](encyclopedia_krankheitsbilder_de.md#hinweise-zum-leitfaden)
+
+### [🟣 Teil eins: Herz, Kreislauf](encyclopedia_krankheitsbilder_de.md#teil-eins-herz-kreislauf)
+
+- `01` [🩺 Akuter Herzinfarkt](encyclopedia_krankheitsbilder_de.md#akuter-herzinfarkt)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `02` [🩺 Die Herzinsuffizienz](encyclopedia_krankheitsbilder_de.md#die-herzinsuffizienz)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `03` [🩺 Die Lungenembolie](encyclopedia_krankheitsbilder_de.md#die-lungenembolie)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `04` [🩺 Sekundäre Hypertonie](encyclopedia_krankheitsbilder_de.md#sekundäre-hypertonie)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil eins](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-eins)
+
+### [🔵 Teil zwei: Die Niere](encyclopedia_krankheitsbilder_de.md#teil-zwei-die-niere)
+
+- `05` [🩺 Akutes Nierenversagen](encyclopedia_krankheitsbilder_de.md#akutes-nierenversagen)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `06` [🩺 Chronische Nierenkrankheit](encyclopedia_krankheitsbilder_de.md#chronische-nierenkrankheit)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `07` [🩺 Nephrotisches Syndrom](encyclopedia_krankheitsbilder_de.md#nephrotisches-syndrom)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `08` [🩺 Die Glomerulonephritis](encyclopedia_krankheitsbilder_de.md#die-glomerulonephritis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `09` [🩺 Der Harnwegsinfekt](encyclopedia_krankheitsbilder_de.md#der-harnwegsinfekt)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil zwei](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-zwei)
+
+### [🔴 Teil drei: Leber, Galle](encyclopedia_krankheitsbilder_de.md#teil-drei-leber-galle)
+
+- `10` [🩺 Akute Hepatitis](encyclopedia_krankheitsbilder_de.md#akute-hepatitis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `11` [🩺 Die Fettleber](encyclopedia_krankheitsbilder_de.md#die-fettleber)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `12` [🩺 Die Leberzirrhose](encyclopedia_krankheitsbilder_de.md#die-leberzirrhose)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `13` [🩺 Gallensteine und Cholestase](encyclopedia_krankheitsbilder_de.md#gallensteine-und-cholestase)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `14` [🩺 Die Hämochromatose](encyclopedia_krankheitsbilder_de.md#die-hämochromatose)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil drei](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-drei)
+
+### [🟠 Teil vier: Pankreas, Darm](encyclopedia_krankheitsbilder_de.md#teil-vier-pankreas-darm)
+
+- `15` [🩺 Akute Pankreatitis](encyclopedia_krankheitsbilder_de.md#akute-pankreatitis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `16` [🩺 Chronische Pankreatitis](encyclopedia_krankheitsbilder_de.md#chronische-pankreatitis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `17` [🩺 Chronisch entzündliche Darmerkrankungen](encyclopedia_krankheitsbilder_de.md#chronisch-entzündliche-darmerkrankungen)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `18` [🩺 Die Mukoviszidose](encyclopedia_krankheitsbilder_de.md#die-mukoviszidose)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil vier](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-vier)
+
+### [🟡 Teil fünf: Stoffwechsel](encyclopedia_krankheitsbilder_de.md#teil-fünf-stoffwechsel)
+
+- `19` [🩺 Der Typ-eins-Diabetes](encyclopedia_krankheitsbilder_de.md#der-typ-eins-diabetes)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `20` [🩺 Der Typ-zwei-Diabetes](encyclopedia_krankheitsbilder_de.md#der-typ-zwei-diabetes)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `21` [🩺 Die Gicht](encyclopedia_krankheitsbilder_de.md#die-gicht)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `22` [🩺 Fettstoffwechselstörungen](encyclopedia_krankheitsbilder_de.md#fettstoffwechselstörungen)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil fünf](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-fünf)
+
+### [⚪ Teil sechs: Hormondrüsen](encyclopedia_krankheitsbilder_de.md#teil-sechs-hormondrüsen)
+
+- `23` [🩺 Die Schilddrüsenunterfunktion](encyclopedia_krankheitsbilder_de.md#die-schilddrüsenunterfunktion)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `24` [🩺 Die Schilddrüsenüberfunktion](encyclopedia_krankheitsbilder_de.md#die-schilddrüsenüberfunktion)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `25` [🩺 Der Morbus Addison](encyclopedia_krankheitsbilder_de.md#der-morbus-addison)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `26` [🩺 Der Hyperparathyreoidismus](encyclopedia_krankheitsbilder_de.md#der-hyperparathyreoidismus)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil sechs](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-sechs)
+
+### [🛡️ Teil sieben: Infektionen](encyclopedia_krankheitsbilder_de.md#teil-sieben-infektionen)
+
+- `27` [🩺 Die Sepsis](encyclopedia_krankheitsbilder_de.md#die-sepsis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `28` [🩺 Die Pneumonie](encyclopedia_krankheitsbilder_de.md#die-pneumonie)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `29` [🩺 Die Meningitis](encyclopedia_krankheitsbilder_de.md#die-meningitis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `30` [🩺 Die Endokarditis](encyclopedia_krankheitsbilder_de.md#die-endokarditis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil sieben](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-sieben)
+
+### [🧫 Teil acht: Autoimmunität](encyclopedia_krankheitsbilder_de.md#teil-acht-autoimmunität)
+
+- `31` [🩺 Rheumatoide Arthritis](encyclopedia_krankheitsbilder_de.md#rheumatoide-arthritis)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `32` [🩺 Systemischer Lupus erythematodes](encyclopedia_krankheitsbilder_de.md#systemischer-lupus-erythematodes)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `33` [🩺 Die Vaskulitiden](encyclopedia_krankheitsbilder_de.md#die-vaskulitiden)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil acht](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-acht)
+
+### [⚡ Teil neun: Tumoren](encyclopedia_krankheitsbilder_de.md#teil-neun-tumoren)
+
+- `34` [🩺 Das Prostatakarzinom](encyclopedia_krankheitsbilder_de.md#das-prostatakarzinom)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `35` [🩺 Das kolorektale Karzinom](encyclopedia_krankheitsbilder_de.md#das-kolorektale-karzinom)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `36` [🩺 Das Mammakarzinom](encyclopedia_krankheitsbilder_de.md#das-mammakarzinom)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- `37` [🩺 Das Bronchialkarzinom](encyclopedia_krankheitsbilder_de.md#das-bronchialkarzinom)
+  - 🧭 Einordnung · 🌱 Entstehung · 🤒 Symptome · 🔎 Die Laborbefunde · 💊 Verlauf und Therapie
+- [📝 Zusammenfassung Teil neun](encyclopedia_krankheitsbilder_de.md#zusammenfassung-teil-neun)
+
+### [🟤 Teil zehn: Schnellüberblick](encyclopedia_krankheitsbilder_de.md#teil-zehn-schnellüberblick)
+
+- [📖 Leitbefunde und ihre Krankheiten](encyclopedia_krankheitsbilder_de.md#leitbefunde-und-ihre-krankheiten)
+- [📖 Häufige Verwechslungen](encyclopedia_krankheitsbilder_de.md#häufige-verwechslungen)
+- [📖 Gesamtzusammenfassung](encyclopedia_krankheitsbilder_de.md#gesamtzusammenfassung)
