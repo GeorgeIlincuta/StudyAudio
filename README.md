@@ -63,6 +63,32 @@ matches the audio):
 python -m guideaudio phase1_guide_de.txt --retag
 ```
 
+## Titles — numbered per category
+
+Every track's player title is `NN · Short title` (two digits, middle dot), numbered in build order within its
+phone folder; a new track gets the next number. Pass it with `--title` on every build and `--retag` (the default,
+the first line, has no number and keeps the subtitle):
+
+```
+python -m guideaudio encyclopedia_viren_de.txt --retag --title "02 · Viren nach Gruppen"
+```
+
+- **Leitfaden** (`MTL/Leitfaden/`): 01 · Grundlagen für das medizinische Labor (`phase1_guide_de`) · 02 · Foundations
+  for the medical laboratory (`phase1_guide_en`) · 03 · Aufbauwissen für das medizinische Labor (`phase2_guide_de`) ·
+  04 · Building on the foundations (`phase2_guide_en`) · 05 · Das diagnostische Labor (`phase3_guide_de`) ·
+  06 · The diagnostic laboratory (`phase3_guide_en`). Next: 07.
+- **Enzyklopädie** (`MTL/Enzyklopädie/`, inputs `encyclopedia_<slug>_de.txt`): 01 · Bakterien nach Gruppen (`bakterien`) ·
+  02 · Viren nach Gruppen (`viren`) · 03 · Pilze und Parasiten (`pilze_parasiten`) · 04 · Klinische Chemie nach Organen
+  (`klinische_chemie`) · 05 · Hämatologie (`haematologie`) · 06 · Hämostaseologie (`haemostaseologie`) ·
+  07 · Immunologie und Transfusionsmedizin (`immunologie_transfusion`) · 08 · Histologie und Zytologie
+  (`histologie_zytologie`) · 09 · Molekularbiologie (`molekularbiologie`) · 10 · Urin, Liquor und Punktate
+  (`urin_liquor_punktate`) · 11 · Mikrobiologie-Methoden und Hygiene (`mikrobiologie_methoden_hygiene`) ·
+  12 · Qualitätsmanagement im Labor (`qualitaetsmanagement`) · 13 · Klinische Chemie zwei (`klinische_chemie_ii`) ·
+  14 · Laborgeräte und Analytik (`laborgeraete_analytik`) · 15 · Krankheitsbilder (`krankheitsbilder`) ·
+  16 · Prüfungsfälle (`pruefungsfaelle`). Next: 17.
+- **Geschichten** (`MTL/Geschichten/`, shared with GermanAudio): 04 · Andrei lernt die Grundlagen für das Labor
+  (`story_grundlagen_phase1_de`); the numbering lives in GermanAudio's CLAUDE.md.
+
 ## Guide format
 
 - Plain UTF-8 text. The first line is the title, ending with a period.
