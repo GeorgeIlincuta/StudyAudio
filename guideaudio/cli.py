@@ -4,6 +4,7 @@
     python -m guideaudio phase1_guide_de.txt --limit 20 -o out/preview_de.mp3
     python -m guideaudio phase1_guide_de.txt
     python -m guideaudio encyclopedia_bakterien_de.txt --markdown
+    python -m guideaudio encyclopedia_viren_de.txt --title "Viren nach Gruppen" --publish
 """
 
 import argparse
@@ -11,6 +12,7 @@ import sys
 import wave
 from pathlib import Path
 
+from guideaudio import library
 from guideaudio.assemble import encode_mp3, render
 from guideaudio.chapters import Chapter, item_starts, line_positions, write_tags
 from guideaudio.check import CheckReport, check_text
@@ -79,7 +81,17 @@ def _parse_args(argv: list[str] | None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--title", default=None,
-        help="title shown in the player (default: the guide's first line)",
+        help="title shown in the player, without its number (default: the guide's first line); the category "
+             "number from the library is added in front: \"02 · Viren nach Gruppen\"",
+    )
+    parser.add_argument(
+        "--library", type=Path, default=None,
+        help="the Hörplayer library folder that numbers the titles and receives --publish "
+             f"(default: {library.LIBRARY_ROOT})",
+    )
+    parser.add_argument(
+        "--publish", action="store_true",
+        help="after building or retagging, copy the track into the library folder and onto the phone (if connected)",
     )
     parser.add_argument(
         "--retag", action="store_true",
@@ -209,6 +221,13 @@ def main(argv: list[str] | None = None) -> int:
     # A preview gets its own default name, so it never replaces the full track.
     default_name = f"{args.input.stem}_preview.mp3" if args.limit is not None else f"{args.input.stem}.mp3"
     output = args.output or OUT_DIR / default_name
+    if args.publish and args.limit is not None:
+        print("--publish needs a full track: drop --limit", file=sys.stderr)
+        return 2
+    library_root = args.library or library.LIBRARY_ROOT
+    # a --limit preview isn't a library track, so it gets no number
+    if args.limit is None:
+        title = library.numbered_title(title, genre, output.name, library_root)
     # Checked now, not after an hour of synthesis: a bad output path should
     # fail in a second, before synthesis even starts.
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -226,7 +245,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"retag failed: {error} — nothing changed", file=sys.stderr)
             return 1
         print(f"retagged {output}: title {title!r}, genre {genre}, {chapters_written} chapters, {lines_written} text lines")
-        return 0
+        return _publish(args, output, genre, title, library_root)
 
     engine = build_engine()
 
@@ -284,7 +303,16 @@ def main(argv: list[str] | None = None) -> int:
 
     size_mb = output.stat().st_size / 1_000_000
     print(f"done: {output} ({size_mb:.1f} MB)")
-    return 0
+    return _publish(args, output, genre, title, library_root)
+
+
+def _publish(args: argparse.Namespace, output: Path, genre: str, title: str, library_root: Path) -> int:
+    if not args.publish:
+        return 0
+    ok, report = library.publish(output, genre, title, library_root, adb_path=library.ADB)
+    for line in report:
+        print(f"  {line}")
+    return 0 if ok else 1
 
 
 if __name__ == "__main__":

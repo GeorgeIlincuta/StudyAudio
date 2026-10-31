@@ -66,12 +66,20 @@ python -m guideaudio phase1_guide_de.txt --retag
 ## Titles — numbered per category
 
 Every track's player title is `NN · Short title` (two digits, middle dot), numbered in build order within its
-phone folder; a new track gets the next number. Pass it with `--title` on every build and `--retag` (the default,
-the first line, has no number and keeps the subtitle):
+phone folder. The number is added automatically (`guideaudio/library.py`, the same file as in GermanAudio): the record
+is the desktop Hörplayer's library folder `C:\LOCAL FILES\Study\MTL` (same layout as the phone's `MTL`) — a file
+already in its category folder keeps its number, a new one gets the highest + 1. Pass the short title (the default,
+the first line, keeps its subtitle) and publish right after building:
 
 ```
-python -m guideaudio encyclopedia_viren_de.txt --retag --title "02 · Viren nach Gruppen"
+python -m guideaudio encyclopedia_neu_de.txt --title "Neues Thema" --publish
+python -m guideaudio encyclopedia_viren_de.txt --retag --title "Viren nach Gruppen" --publish
 ```
+
+`--publish` copies the finished track to `C:\LOCAL FILES\Study\MTL\<Kategorie>\` and pushes it to the phone
+(`/storage/3838-6430/MTL/<Kategorie>/`, adb serial `21fcf6986b0c7ece`) when it's connected, checking both sizes. A title
+already starting with `NN · ` is kept; `--limit` previews get no number and can't be published; `--library DIR`
+points elsewhere.
 
 - **Leitfaden** (`MTL/Leitfaden/`): 01 · Grundlagen für das medizinische Labor (`phase1_guide_de`) · 02 · Foundations
   for the medical laboratory (`phase1_guide_en`) · 03 · Aufbauwissen für das medizinische Labor (`phase2_guide_de`) ·

@@ -190,3 +190,54 @@ def test_check_of_an_encyclopedia_lists_its_sections(tmp_path, capsys):
     assert run(write(tmp_path, "encyclopedia_bakterien_de.txt", ENCYCLOPEDIA_DE), tmp_path, "--check") == 0
 
     assert "1 entries, each with the sections: Einordnung → Kurz gesagt" in capsys.readouterr().out
+
+
+def _library(tmp_path):
+    from mutagen.id3 import TIT2
+
+    root = tmp_path / "MTL"
+    track = root / "Enzyklopädie" / "encyclopedia_bakterien_de.mp3"
+    track.parent.mkdir(parents=True)
+    track.write_bytes(bytes(10))
+    tag = ID3()
+    tag.add(TIT2(encoding=3, text=["01 · Bakterien nach Gruppen"]))
+    tag.save(track)
+    return root
+
+
+def test_build_numbers_the_title_from_the_library(tmp_path):
+    path = write(tmp_path, "encyclopedia_viren_de.txt", GUIDE_DE)
+    out = tmp_path / "encyclopedia_viren_de.mp3"
+    root = _library(tmp_path)
+
+    assert run(path, tmp_path, "-o", str(out), "--title", "Viren nach Gruppen", "--library", str(root)) == 0
+
+    assert ID3(out)["TIT2"].text == ["02 · Viren nach Gruppen"]
+
+
+def test_a_preview_build_is_not_numbered(tmp_path):
+    path = write(tmp_path, "encyclopedia_viren_de.txt", GUIDE_DE)
+    out = tmp_path / "v.mp3"
+    root = _library(tmp_path)
+
+    assert run(path, tmp_path, "-o", str(out), "--title", "Viren", "--library", str(root), "--limit", "1") == 0
+
+    assert ID3(out)["TIT2"].text == ["Viren"]
+
+
+def test_publish_copies_the_built_track_into_the_library(tmp_path, capsys):
+    path = write(tmp_path, "encyclopedia_viren_de.txt", GUIDE_DE)
+    out = tmp_path / "encyclopedia_viren_de.mp3"
+    root = _library(tmp_path)
+
+    assert run(path, tmp_path, "-o", str(out), "--library", str(root), "--publish") == 0
+
+    assert (root / "Enzyklopädie" / "encyclopedia_viren_de.mp3").read_bytes() == out.read_bytes()
+    assert "phone: not connected" in capsys.readouterr().out
+
+
+def test_publish_is_refused_for_a_preview(tmp_path):
+    path = write(tmp_path, "encyclopedia_viren_de.txt", GUIDE_DE)
+    root = _library(tmp_path)
+
+    assert run(path, tmp_path, "-o", str(tmp_path / "v.mp3"), "--library", str(root), "--limit", "1", "--publish") == 2
